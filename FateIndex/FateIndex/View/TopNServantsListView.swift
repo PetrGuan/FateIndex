@@ -1,5 +1,5 @@
 //
-//  TopNServantsView.swift
+//  TopNServantsListView.swift
 //  FateIndex
 //
 //  Created by Peter-Guan on 2020/6/5.
@@ -41,46 +41,30 @@ class TopServantsData: ObservableObject {
     }
 }
 
-struct TopNServantsView: View {
+struct TopNServantsListView: View {
     @ObservedObject var topServantData = TopServantsData()
 
     var body: some View {
         VStack(alignment: .leading) {
             Text("Top 10 Servants".uppercased())
                 .foregroundColor(Color(hex: 0x717171))
-                //.font(.custom("Nunito", size: 12))
                 .padding(EdgeInsets(top: 12, leading: 20, bottom: 0, trailing: 0))
 
             ScrollView(.horizontal, showsIndicators: false) {
-                //Spacer()
                 HStack(alignment: .top) {
                     ForEach(topServantData.topNServants, id: \.self) { servant in
                         ServantBoxView(topNServant: servant)
                     }
                 }
                 .frame(minHeight: 174)
-                //Spacer()
+                .padding(EdgeInsets(top: 0, leading: 20, bottom: 0, trailing: 20))
             }
-
-//            ScrollView(.horizontal, showsIndicators: false) {
-//                HStack(alignment: .top, spacing: 14) {
-//                    ForEach(topServants, id: \.id) { topServant in
-//                        Group {
-//                            NavigationLink(destination: ServantDetailView(servant: topServant)) {
-//                                ContentView()
-//                            }
-//                        }
-//                    }
-//                }
-//                .frame(minHeight: 174)
-//                .padding(EdgeInsets(top: 0, leading: 20, bottom: 0, trailing: 20))
-//            }
         }
     }
 }
 
 struct TopNServantsView_Previews: PreviewProvider {
     static var previews: some View {
-        TopNServantsView()
+        TopNServantsListView()
     }
 }

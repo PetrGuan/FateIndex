@@ -18,9 +18,9 @@ struct ServantsView: View {
                 ZStack(alignment: .top) {
                     ScrollView(showsIndicators: false) {
                         VStack(alignment: .leading) {
-                            TopNServantsView()
-                            ContentView()
-                            ContentView()
+                            TopNServantsListView()
+                            ServantClassListView()
+                            CampaignServantListView()
                             ContentView()
                             ContentView()
                             Spacer()

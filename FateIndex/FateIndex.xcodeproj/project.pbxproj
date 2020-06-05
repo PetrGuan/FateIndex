@@ -20,10 +20,16 @@
 		6E2FA5B7248A144100822AA0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B6248A144100822AA0 /* SettingsView.swift */; };
 		6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B8248A199400822AA0 /* ServantsView.swift */; };
 		6E2FA5BB248A1BF900822AA0 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */; };
-		6ED0723F248A22EC00C2C7D9 /* TopNServantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsView.swift */; };
+		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
 		6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */; };
 		6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */; };
+		6ED07247248A4E7B00C2C7D9 /* ServantClassListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */; };
+		6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */; };
+		6ED0724B248A50C300C2C7D9 /* ServantClassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */; };
+		6ED0724D248A661400C2C7D9 /* CampaignServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724C248A661400C2C7D9 /* CampaignServantListView.swift */; };
+		6ED0724F248A672300C2C7D9 /* CampaignServantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724E248A672300C2C7D9 /* CampaignServantView.swift */; };
+		6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07250248A887200C2C7D9 /* CampaignServant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,10 +60,16 @@
 		6E2FA5B6248A144100822AA0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		6E2FA5B8248A199400822AA0 /* ServantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantsView.swift; sourceTree = "<group>"; };
 		6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
-		6ED0723E248A22EC00C2C7D9 /* TopNServantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsView.swift; sourceTree = "<group>"; };
+		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
 		6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
 		6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBoxView.swift; sourceTree = "<group>"; };
+		6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantClassListView.swift; sourceTree = "<group>"; };
+		6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantClassView.swift; sourceTree = "<group>"; };
+		6ED0724C248A661400C2C7D9 /* CampaignServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServantListView.swift; sourceTree = "<group>"; };
+		6ED0724E248A672300C2C7D9 /* CampaignServantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServantView.swift; sourceTree = "<group>"; };
+		6ED07250248A887200C2C7D9 /* CampaignServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,9 +149,13 @@
 				6E2FA5AA248A077C00822AA0 /* AppView.swift */,
 				6E2FA5B8248A199400822AA0 /* ServantsView.swift */,
 				6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */,
-				6ED0723E248A22EC00C2C7D9 /* TopNServantsView.swift */,
+				6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */,
 				6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */,
 				6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */,
+				6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */,
+				6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */,
+				6ED0724C248A661400C2C7D9 /* CampaignServantListView.swift */,
+				6ED0724E248A672300C2C7D9 /* CampaignServantView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -149,6 +165,7 @@
 			children = (
 				6E2FA5AD248A094400822AA0 /* AppState.swift */,
 				6ED07240248A241500C2C7D9 /* TopNServant.swift */,
+				6ED07250248A887200C2C7D9 /* CampaignServant.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -157,6 +174,7 @@
 			isa = PBXGroup;
 			children = (
 				6E2FA5B2248A0AA000822AA0 /* UIColor+Extension.swift */,
+				6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -263,9 +281,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E2FA5B7248A144100822AA0 /* SettingsView.swift in Sources */,
-				6ED0723F248A22EC00C2C7D9 /* TopNServantsView.swift in Sources */,
+				6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */,
 				6E2FA5BB248A1BF900822AA0 /* SearchBar.swift in Sources */,
+				6ED07247248A4E7B00C2C7D9 /* ServantClassListView.swift in Sources */,
+				6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */,
+				6ED0724B248A50C300C2C7D9 /* ServantClassView.swift in Sources */,
+				6ED0724F248A672300C2C7D9 /* CampaignServantView.swift in Sources */,
 				6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */,
+				6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */,
 				6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
 				6E2FA5AB248A077C00822AA0 /* AppView.swift in Sources */,
@@ -275,6 +298,7 @@
 				6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */,
 				6E2FA58C248A063F00822AA0 /* ContentView.swift in Sources */,
 				6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */,
+				6ED0724D248A661400C2C7D9 /* CampaignServantListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
