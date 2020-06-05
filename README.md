@@ -1,2 +1,2 @@
 # FateIndex
-A SwiftUI based project for fate grand order app
+A SwiftUI based project for fate grand order simple servants app
