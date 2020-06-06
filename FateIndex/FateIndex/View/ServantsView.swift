@@ -15,13 +15,18 @@ struct ServantsView: View {
         NavigationView {
             VStack {
                 SearchBar(text: $searchText, placeholder: "Search servants")
+                Divider()
                 ZStack(alignment: .top) {
                     ScrollView(showsIndicators: false) {
                         VStack(alignment: .leading) {
                             TopNServantsListView()
+                            Divider()
                             ServantClassListView()
+                            Divider()
                             CampaignServantListView()
-                            ContentView()
+                            Divider()
+                            DavinciStoreCraftEssenceListView()
+                            Divider()
                             ContentView()
                             Spacer()
                                 .frame(height: 26)

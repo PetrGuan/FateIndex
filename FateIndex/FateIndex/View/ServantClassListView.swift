@@ -15,8 +15,7 @@ struct ServantClassListView: View {
     var body: some View {
         VStack(alignment: .leading) {
             Text("Browse by class".uppercased())
-                .foregroundColor(Color(hex: 0x717171))
-                //.font(.custom("Nunito", size: 12))
+                .font(.headline)
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
 
             ScrollView(.horizontal, showsIndicators: false) {

@@ -20,6 +20,23 @@
 		6E2FA5B7248A144100822AA0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B6248A144100822AA0 /* SettingsView.swift */; };
 		6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B8248A199400822AA0 /* ServantsView.swift */; };
 		6E2FA5BB248A1BF900822AA0 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */; };
+		6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */; };
+		6E4C9D8E248B880F00B96630 /* DavinciStoreCraftEssenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */; };
+		6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D90248B8BC000B96630 /* CraftEssences.swift */; };
+		6E4C9D95248B8F4C00B96630 /* craftEssence_80.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9D94248B8F4C00B96630 /* craftEssence_80.json */; };
+		6E4C9D97248B947C00B96630 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D96248B947C00B96630 /* Data.swift */; };
+		6E4C9D9A248B96A500B96630 /* CraftEssenceStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D99248B96A500B96630 /* CraftEssenceStore.swift */; };
+		6E4C9D9C248B9A7E00B96630 /* CraftEssenceStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D9B248B9A7E00B96630 /* CraftEssenceStoreTests.swift */; };
+		6E4C9D9E248B9DC600B96630 /* craftEssence_178.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9D9D248B9DC600B96630 /* craftEssence_178.json */; };
+		6E4C9DA0248BA1CB00B96630 /* craftEssence_242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9D9F248BA1CB00B96630 /* craftEssence_242.json */; };
+		6E4C9DA2248BAC2300B96630 /* craftEssence_330.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DA1248BAC2300B96630 /* craftEssence_330.json */; };
+		6E4C9DA4248BAD0700B96630 /* craftEssence_861.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DA3248BAD0700B96630 /* craftEssence_861.json */; };
+		6E4C9DA6248BADDE00B96630 /* craftEssence_910.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DA5248BADDE00B96630 /* craftEssence_910.json */; };
+		6E4C9DA8248BAE6E00B96630 /* craftEssence_988.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DA7248BAE6E00B96630 /* craftEssence_988.json */; };
+		6E4C9DAA248BAF0C00B96630 /* craftEssence_1012.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DA9248BAF0C00B96630 /* craftEssence_1012.json */; };
+		6E4C9DAC248BAF8400B96630 /* craftEssence_1080.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAB248BAF8400B96630 /* craftEssence_1080.json */; };
+		6E4C9DAE248BB00F00B96630 /* craftEssence_1121.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */; };
+		6E4C9DB0248BB08D00B96630 /* craftEssence_1149.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */; };
 		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
 		6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */; };
@@ -60,6 +77,23 @@
 		6E2FA5B6248A144100822AA0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		6E2FA5B8248A199400822AA0 /* ServantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantsView.swift; sourceTree = "<group>"; };
 		6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DavinciStoreCraftEssenceListView.swift; sourceTree = "<group>"; };
+		6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DavinciStoreCraftEssenceView.swift; sourceTree = "<group>"; };
+		6E4C9D90248B8BC000B96630 /* CraftEssences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftEssences.swift; sourceTree = "<group>"; };
+		6E4C9D94248B8F4C00B96630 /* craftEssence_80.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_80.json; sourceTree = "<group>"; };
+		6E4C9D96248B947C00B96630 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		6E4C9D99248B96A500B96630 /* CraftEssenceStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftEssenceStore.swift; sourceTree = "<group>"; };
+		6E4C9D9B248B9A7E00B96630 /* CraftEssenceStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftEssenceStoreTests.swift; sourceTree = "<group>"; };
+		6E4C9D9D248B9DC600B96630 /* craftEssence_178.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_178.json; sourceTree = "<group>"; };
+		6E4C9D9F248BA1CB00B96630 /* craftEssence_242.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_242.json; sourceTree = "<group>"; };
+		6E4C9DA1248BAC2300B96630 /* craftEssence_330.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_330.json; sourceTree = "<group>"; };
+		6E4C9DA3248BAD0700B96630 /* craftEssence_861.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_861.json; sourceTree = "<group>"; };
+		6E4C9DA5248BADDE00B96630 /* craftEssence_910.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_910.json; sourceTree = "<group>"; };
+		6E4C9DA7248BAE6E00B96630 /* craftEssence_988.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_988.json; sourceTree = "<group>"; };
+		6E4C9DA9248BAF0C00B96630 /* craftEssence_1012.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1012.json; sourceTree = "<group>"; };
+		6E4C9DAB248BAF8400B96630 /* craftEssence_1080.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1080.json; sourceTree = "<group>"; };
+		6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1121.json; sourceTree = "<group>"; };
+		6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1149.json; sourceTree = "<group>"; };
 		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
 		6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
@@ -111,13 +145,15 @@
 		6E2FA586248A063F00822AA0 /* FateIndex */ = {
 			isa = PBXGroup;
 			children = (
+				6E4C9D98248B969600B96630 /* Stores */,
+				6E4C9D92248B8ECF00B96630 /* Resource */,
+				6E4C9D8F248B8B4300B96630 /* Models */,
 				6E2FA5B1248A0A8F00822AA0 /* Helpers */,
 				6E2FA5AC248A093400822AA0 /* Components */,
 				6E2FA5A9248A076B00822AA0 /* View */,
 				6E2FA587248A063F00822AA0 /* AppDelegate.swift */,
 				6E2FA589248A063F00822AA0 /* SceneDelegate.swift */,
 				6E2FA58B248A063F00822AA0 /* ContentView.swift */,
-				6E2FA58D248A064000822AA0 /* Assets.xcassets */,
 				6E2FA592248A064000822AA0 /* LaunchScreen.storyboard */,
 				6E2FA595248A064000822AA0 /* Info.plist */,
 				6E2FA58F248A064000822AA0 /* Preview Content */,
@@ -138,6 +174,7 @@
 			children = (
 				6E2FA59E248A064100822AA0 /* FateIndexTests.swift */,
 				6E2FA5A0248A064100822AA0 /* Info.plist */,
+				6E4C9D9B248B9A7E00B96630 /* CraftEssenceStoreTests.swift */,
 			);
 			path = FateIndexTests;
 			sourceTree = "<group>";
@@ -156,6 +193,8 @@
 				6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */,
 				6ED0724C248A661400C2C7D9 /* CampaignServantListView.swift */,
 				6ED0724E248A672300C2C7D9 /* CampaignServantView.swift */,
+				6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */,
+				6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -164,8 +203,6 @@
 			isa = PBXGroup;
 			children = (
 				6E2FA5AD248A094400822AA0 /* AppState.swift */,
-				6ED07240248A241500C2C7D9 /* TopNServant.swift */,
-				6ED07250248A887200C2C7D9 /* CampaignServant.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -175,8 +212,54 @@
 			children = (
 				6E2FA5B2248A0AA000822AA0 /* UIColor+Extension.swift */,
 				6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */,
+				6E4C9D96248B947C00B96630 /* Data.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		6E4C9D8F248B8B4300B96630 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				6ED07240248A241500C2C7D9 /* TopNServant.swift */,
+				6ED07250248A887200C2C7D9 /* CampaignServant.swift */,
+				6E4C9D90248B8BC000B96630 /* CraftEssences.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		6E4C9D92248B8ECF00B96630 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				6E4C9D93248B8F0D00B96630 /* CraftEssences */,
+				6E2FA58D248A064000822AA0 /* Assets.xcassets */,
+			);
+			path = Resource;
+			sourceTree = "<group>";
+		};
+		6E4C9D93248B8F0D00B96630 /* CraftEssences */ = {
+			isa = PBXGroup;
+			children = (
+				6E4C9D94248B8F4C00B96630 /* craftEssence_80.json */,
+				6E4C9D9D248B9DC600B96630 /* craftEssence_178.json */,
+				6E4C9D9F248BA1CB00B96630 /* craftEssence_242.json */,
+				6E4C9DA1248BAC2300B96630 /* craftEssence_330.json */,
+				6E4C9DA3248BAD0700B96630 /* craftEssence_861.json */,
+				6E4C9DA5248BADDE00B96630 /* craftEssence_910.json */,
+				6E4C9DA7248BAE6E00B96630 /* craftEssence_988.json */,
+				6E4C9DA9248BAF0C00B96630 /* craftEssence_1012.json */,
+				6E4C9DAB248BAF8400B96630 /* craftEssence_1080.json */,
+				6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */,
+				6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */,
+			);
+			path = CraftEssences;
+			sourceTree = "<group>";
+		};
+		6E4C9D98248B969600B96630 /* Stores */ = {
+			isa = PBXGroup;
+			children = (
+				6E4C9D99248B96A500B96630 /* CraftEssenceStore.swift */,
+			);
+			path = Stores;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,8 +344,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E2FA594248A064000822AA0 /* LaunchScreen.storyboard in Resources */,
+				6E4C9DA8248BAE6E00B96630 /* craftEssence_988.json in Resources */,
+				6E4C9DA4248BAD0700B96630 /* craftEssence_861.json in Resources */,
+				6E4C9D95248B8F4C00B96630 /* craftEssence_80.json in Resources */,
+				6E4C9DAC248BAF8400B96630 /* craftEssence_1080.json in Resources */,
+				6E4C9DA0248BA1CB00B96630 /* craftEssence_242.json in Resources */,
+				6E4C9DB0248BB08D00B96630 /* craftEssence_1149.json in Resources */,
+				6E4C9DA6248BADDE00B96630 /* craftEssence_910.json in Resources */,
+				6E4C9DAE248BB00F00B96630 /* craftEssence_1121.json in Resources */,
 				6E2FA591248A064000822AA0 /* Preview Assets.xcassets in Resources */,
 				6E2FA58E248A064000822AA0 /* Assets.xcassets in Resources */,
+				6E4C9DAA248BAF0C00B96630 /* craftEssence_1012.json in Resources */,
+				6E4C9D9E248B9DC600B96630 /* craftEssence_178.json in Resources */,
+				6E4C9DA2248BAC2300B96630 /* craftEssence_330.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -289,12 +383,17 @@
 				6ED0724F248A672300C2C7D9 /* CampaignServantView.swift in Sources */,
 				6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */,
 				6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */,
+				6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */,
 				6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
 				6E2FA5AB248A077C00822AA0 /* AppView.swift in Sources */,
+				6E4C9D9A248B96A500B96630 /* CraftEssenceStore.swift in Sources */,
+				6E4C9D97248B947C00B96630 /* Data.swift in Sources */,
+				6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */,
 				6E2FA5AE248A094400822AA0 /* AppState.swift in Sources */,
 				6E2FA588248A063F00822AA0 /* AppDelegate.swift in Sources */,
 				6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */,
+				6E4C9D8E248B880F00B96630 /* DavinciStoreCraftEssenceView.swift in Sources */,
 				6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */,
 				6E2FA58C248A063F00822AA0 /* ContentView.swift in Sources */,
 				6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */,
@@ -307,6 +406,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E2FA59F248A064100822AA0 /* FateIndexTests.swift in Sources */,
+				6E4C9D9C248B9A7E00B96630 /* CraftEssenceStoreTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

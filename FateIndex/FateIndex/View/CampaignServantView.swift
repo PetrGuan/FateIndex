@@ -25,7 +25,7 @@ struct CampaignServantView: View {
                         .foregroundColor(Color.white)
                         .padding(12)
                 }
-                .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 138, idealHeight: 138, maxHeight: 138, alignment: .topLeading)
+                .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
                 .background(
                     ZStack(alignment: .topLeading) {
 
@@ -33,17 +33,16 @@ struct CampaignServantView: View {
                             .renderingMode(.original)
                             .resizable()
                             .aspectRatio(contentMode: .fit)
-                            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 138, idealHeight: 138, maxHeight: 138, alignment: .topLeading)
+                            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
 
                         LinearGradient(gradient: Gradient(colors: [.black, .clear]), startPoint: .bottom, endPoint: .top)
                             .opacity(0.8)
-                            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 138, idealHeight: 138, maxHeight: 138, alignment: .topLeading)
+                            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
                 })
                     .padding(0)
                     .cornerRadius(20)
         })
-//            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 138, idealHeight: 138, maxHeight: 138, alignment: .topLeading)
-        .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 138, idealHeight: 138, maxHeight: 138, alignment: .topLeading)
+        .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
     }
 }
 

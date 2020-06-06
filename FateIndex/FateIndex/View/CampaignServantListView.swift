@@ -16,15 +16,17 @@ class CampaignServantData: ObservableObject {
     }
 
     func loadData() {
-        let cs1 = CampaignServant(id: "0", campaignName: "淑女·莱妮丝事件簿", campaignImg: "campaign_0")
-        let cs2 = CampaignServant(id: "1", campaignName: "圣诞节2019 Holy·Samba·Night ～降雪遗迹与少女骑士～", campaignImg: "campaign_1")
-        let cs3 = CampaignServant(id: "2", campaignName: "复刻：冥界的圣诞快乐 轻量版", campaignImg: "campaign_2")
-        let cs4 = CampaignServant(id: "3", campaignName: "神秘之国的ONILAND!! ～鬼王与神威的黄金～", campaignImg: "campaign_3")
+        let cs1 = CampaignServant(id: "243", campaignName: "格蕾", campaignImg: "campaign_servant_243")
+        let cs2 = CampaignServant(id: "233", campaignName: "魁札尔·科亚特尔〔桑巴／圣诞〕", campaignImg: "campaign_servant_233")
+        let cs3 = CampaignServant(id: "225", campaignName: "酒呑童子", campaignImg: "campaign_servant_225")
+        let cs4 = CampaignServant(id: "219", campaignName: "贞德〔Alter〕", campaignImg: "campaign_servant_219")
+        let cs5 = CampaignServant(id: "197", campaignName: "阿蒂拉·the·San〔ta〕", campaignImg: "campaign_servant_197")
 
         campaignServants.append(cs1)
         campaignServants.append(cs2)
         campaignServants.append(cs3)
         campaignServants.append(cs4)
+        campaignServants.append(cs5)
     }
 }
 
@@ -34,9 +36,21 @@ struct CampaignServantListView: View {
 
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Recent Campign Given Servants".uppercased())
-                .foregroundColor(Color(hex: 0x717171))
-                .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
+            HStack(alignment: .bottom) {
+                Text("Given Servants".uppercased())
+                    .font(.headline)
+                    .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
+
+                Spacer()
+
+                Button(action: {
+                    print("")
+                }) {
+                    Text("See All")
+                        .foregroundColor(Color(hex: 0xfe365e))
+                }
+                .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
+            }
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 14) {
@@ -44,7 +58,7 @@ struct CampaignServantListView: View {
                         CampaignServantView(campaignServant: campaignServant)
                     }
                 }
-                .frame(minHeight: 138)
+                .frame(minHeight: 282)
                 .padding(EdgeInsets(top: 0, leading: 20, bottom: 0, trailing: 20))
             }
         }
