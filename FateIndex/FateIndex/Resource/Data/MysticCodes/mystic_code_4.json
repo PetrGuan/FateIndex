@@ -1,0 +1,29 @@
+{
+    "id": "4",
+    "name": "魔术礼装·阿特拉斯院制服",
+    "desc": "阿特拉斯院以「创造最强存在」为目的而制作的试验型魔术礼装",
+    "skills": [
+        {
+            "skillName": "欧西里斯之尘",
+            "avatar": "无敌",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["(500%概率)付与己方单体无敌状态(1回合)"]
+        },
+        {
+            "skillName": "伊西斯之雨",
+            "avatar": "弱化解除",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["(500%概率)解除己方单体的弱化状态"]
+        },
+        {
+            "skillName": "梅杰德之眼",
+            "avatar": "减冷却",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["己方单体的技能冷却减少2回合"]
+        }
+    ],
+    "access": ["通关迦勒底之门中的专属关卡「魔术礼装任务·阿特拉斯院制服」。"]
+}

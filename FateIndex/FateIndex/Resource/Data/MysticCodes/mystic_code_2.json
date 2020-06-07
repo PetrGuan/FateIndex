@@ -1,0 +1,43 @@
+{
+    "id": "2",
+    "name": "魔术礼装·迦勒底战斗服",
+    "desc": "人理续存保障机构·迦勒底的技术部为了使御主能承受更为激烈的战斗而开发的魔术礼装",
+    "skills": [
+        {
+            "skillName": "全体强化",
+            "avatar": "加攻",
+            "countDown": "12 → 11 → 10",
+            "lvEffects":  [ {
+                "effectDesc": "(500%概率)己方全体的攻击力提升(1回合)",
+                "effects": [
+                    "20%",
+                    "21%",
+                    "22%",
+                    "23%",
+                    "24%",
+                    "25%",
+                    "26%",
+                    "27%",
+                    "28%",
+                    "30%"
+                ]
+            } ],
+            "stableEffects": []
+        },
+        {
+            "skillName": "Gandr",
+            "avatar": "眩晕",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["(500%概率)付与敌方单体眩晕状态(1回合)"]
+        },
+        {
+            "skillName": "Order Change",
+            "avatar": "换人",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["战斗中的成员与替补成员交换"]
+        }
+    ],
+    "access": ["通关迦勒底之门中的专属关卡「魔术礼装任务·迦勒底战斗服」。"]
+}

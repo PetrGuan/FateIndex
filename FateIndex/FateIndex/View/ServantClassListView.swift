@@ -14,7 +14,7 @@ struct ServantClassListView: View {
 
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Browse by class".uppercased())
+            Text("职阶分类".uppercased())
                 .font(.headline)
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
 
@@ -27,7 +27,6 @@ struct ServantClassListView: View {
 //                        }
                     }
                 }
-                .frame(minHeight: 98)
                 .padding(EdgeInsets(top: 0, leading: 20, bottom: 0, trailing: 20))
             }
         }

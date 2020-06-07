@@ -24,7 +24,7 @@ class CraftEssenceStoreTests: XCTestCase {
         self.measure {
             // Put the code you want to measure the time of here.
             let craftEssences = CraftEssenceStore.shared.loadCraftEssences()
-            XCTAssertEqual(craftEssences.count, 11)
+            XCTAssertEqual(craftEssences.count, 12)
         }
     }
 

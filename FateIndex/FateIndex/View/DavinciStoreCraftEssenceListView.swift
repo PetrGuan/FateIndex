@@ -14,7 +14,7 @@ struct DavinciStoreCraftEssenceListView: View {
 
     var body: some View {
         VStack(alignment: .leading) {
-            Text("Da Vinci Store Craft Essence".uppercased())
+            Text("达芬奇商店兑换".uppercased())
                 .font(.headline)
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
 

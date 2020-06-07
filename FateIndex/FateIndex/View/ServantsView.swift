@@ -14,27 +14,19 @@ struct ServantsView: View {
     var body: some View {
         NavigationView {
             VStack {
-                SearchBar(text: $searchText, placeholder: "Search servants")
-                Divider()
-                ZStack(alignment: .top) {
-                    ScrollView(showsIndicators: false) {
-                        VStack(alignment: .leading) {
-                            TopNServantsListView()
-                            Divider()
-                            ServantClassListView()
-                            Divider()
-                            CampaignServantListView()
-                            Divider()
-                            DavinciStoreCraftEssenceListView()
-                            Divider()
-                            ContentView()
-                            Spacer()
-                                .frame(height: 26)
-                        }
-                    }
+                ScrollView(.vertical) {
+                    SearchBar(text: $searchText, placeholder: "搜索从者")
+                    Divider()
+                    TopNServantsListView()
+                    Divider()
+                    ServantClassListView()
+                    Divider()
+                    GivenServantListView()
+                    NoblePhantasmListView()
+                    RecentAddServantListView()
                 }
-                .navigationBarTitle(Text("FateIndex"))
             }
+            .navigationBarTitle("从者")
         }
     }
 }

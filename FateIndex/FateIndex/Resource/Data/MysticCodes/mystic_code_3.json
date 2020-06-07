@@ -1,0 +1,43 @@
+{
+    "id": "3",
+    "name": "魔术礼装·魔术协会制服",
+    "desc": "魔术协会时钟塔认定的优秀学生才可获赠的魔术礼装",
+    "skills": [
+        {
+            "skillName": "全体回复",
+            "avatar": "回血",
+            "countDown": "12 → 11 → 10",
+            "lvEffects":  [ {
+                "effectDesc": "己方全体的HP 回复",
+                "effects": [
+                    "800",
+                    "1000",
+                    "1200",
+                    "1400",
+                    "1600",
+                    "1800",
+                    "2000",
+                    "2200",
+                    "2400",
+                    "2800"
+                ]
+            } ],
+            "stableEffects": []
+        },
+        {
+            "skillName": "灵子转让",
+            "avatar": "充能",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["己方单体的NP 增加20%"]
+        },
+        {
+            "skillName": "洗牌",
+            "avatar": "洗牌",
+            "countDown": "15 → 14 → 13",
+            "lvEffects":  [],
+            "stableEffects": ["指令卡重新抽取"]
+        }
+    ],
+    "access": ["通关迦勒底之门中的专属关卡「魔术礼装任务·魔术协会制服」。"]
+}

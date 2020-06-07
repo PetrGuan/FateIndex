@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "command_code_64_whole.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

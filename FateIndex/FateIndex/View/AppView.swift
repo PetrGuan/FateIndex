@@ -14,25 +14,25 @@ struct AppView: View {
             ServantsView()
                 .tabItem {
                     Image(systemName: "person.2.fill")
-                    Text("Servants")
+                    Text("从者")
                 }
 
-            ContentView()
+            MasterView()
             .tabItem {
-                Image(systemName: "heart.fill")
-                Text("Favorites")
+                Image(systemName: "person.crop.circle.fill")
+                Text("御主")
             }
 
             ContentView()
             .tabItem {
                 Image(systemName: "cube.box.fill")
-                Text("Materials")
+                Text("材料")
             }
 
             ContentView()
                 .tabItem {
                     Image(systemName: "gear")
-                    Text("Setttings")
+                    Text("设置")
                 }
         }
     }
