@@ -23,7 +23,7 @@ struct AppView: View {
                 Text("御主")
             }
 
-            ContentView()
+            MysticCodeDetailView()
             .tabItem {
                 Image(systemName: "cube.box.fill")
                 Text("材料")

@@ -22,7 +22,7 @@ struct ServantsView: View {
                     ServantClassListView()
                     Divider()
                     GivenServantListView()
-                    NoblePhantasmListView()
+                    FightCharacterFilterListView()
                     RecentAddServantListView()
                 }
             }

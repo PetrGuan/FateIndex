@@ -99,8 +99,7 @@
 		6E1AC32A248CCA1B004C006A /* MysticCodeStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC329248CCA1B004C006A /* MysticCodeStoreTests.swift */; };
 		6E1AC32C248CCD4F004C006A /* MysticCodeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC32B248CCD4F004C006A /* MysticCodeListView.swift */; };
 		6E1AC32E248CCEFC004C006A /* MysticCodeBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */; };
-		6E1AC331248D144F004C006A /* NoblePhantasmListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC330248D144F004C006A /* NoblePhantasmListView.swift */; };
-		6E1AC339248D2B37004C006A /* NoblePhantasmBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC338248D2B37004C006A /* NoblePhantasmBoxView.swift */; };
+		6E1AC331248D144F004C006A /* FightCharacterFilterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */; };
 		6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */; };
 		6E2FA588248A063F00822AA0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA587248A063F00822AA0 /* AppDelegate.swift */; };
 		6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA589248A063F00822AA0 /* SceneDelegate.swift */; };
@@ -131,6 +130,8 @@
 		6E4C9DAC248BAF8400B96630 /* craftEssence_1080.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAB248BAF8400B96630 /* craftEssence_1080.json */; };
 		6E4C9DAE248BB00F00B96630 /* craftEssence_1121.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */; };
 		6E4C9DB0248BB08D00B96630 /* craftEssence_1149.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */; };
+		6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */; };
+		6E7EA31C248FD2E5006C0321 /* CommonCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */; };
 		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
 		6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */; };
@@ -246,8 +247,7 @@
 		6E1AC329248CCA1B004C006A /* MysticCodeStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeStoreTests.swift; sourceTree = "<group>"; };
 		6E1AC32B248CCD4F004C006A /* MysticCodeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeListView.swift; sourceTree = "<group>"; };
 		6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeBoxView.swift; sourceTree = "<group>"; };
-		6E1AC330248D144F004C006A /* NoblePhantasmListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoblePhantasmListView.swift; sourceTree = "<group>"; };
-		6E1AC338248D2B37004C006A /* NoblePhantasmBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoblePhantasmBoxView.swift; sourceTree = "<group>"; };
+		6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FightCharacterFilterListView.swift; sourceTree = "<group>"; };
 		6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentAddServantListView.swift; sourceTree = "<group>"; };
 		6E2FA584248A063F00822AA0 /* FateIndex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FateIndex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E2FA587248A063F00822AA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -282,6 +282,8 @@
 		6E4C9DAB248BAF8400B96630 /* craftEssence_1080.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1080.json; sourceTree = "<group>"; };
 		6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1121.json; sourceTree = "<group>"; };
 		6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1149.json; sourceTree = "<group>"; };
+		6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeDetailView.swift; sourceTree = "<group>"; };
+		6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonCellView.swift; sourceTree = "<group>"; };
 		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
 		6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
@@ -392,6 +394,7 @@
 				6E1AC303248C9C54004C006A /* CommandCodeBoxView.swift */,
 				6E1AC32B248CCD4F004C006A /* MysticCodeListView.swift */,
 				6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */,
+				6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */,
 			);
 			path = MasterTab;
 			sourceTree = "<group>";
@@ -431,8 +434,7 @@
 		6E1AC32F248D1403004C006A /* ServantTab */ = {
 			isa = PBXGroup;
 			children = (
-				6E1AC330248D144F004C006A /* NoblePhantasmListView.swift */,
-				6E1AC338248D2B37004C006A /* NoblePhantasmBoxView.swift */,
+				6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */,
 				6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */,
 			);
 			path = ServantTab;
@@ -513,6 +515,7 @@
 				6ED0724E248A672300C2C7D9 /* GivenServantView.swift */,
 				6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */,
 				6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */,
+				6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -790,8 +793,8 @@
 				6E1AC326248CC799004C006A /* MysticCode.swift in Sources */,
 				6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */,
 				6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */,
-				6E1AC339248D2B37004C006A /* NoblePhantasmBoxView.swift in Sources */,
 				6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */,
+				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,
 				6E1AC2FB248C9634004C006A /* CommandCodeStore.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
 				6E1AC304248C9C54004C006A /* CommandCodeBoxView.swift in Sources */,
@@ -809,8 +812,9 @@
 				6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */,
 				6E2FA58C248A063F00822AA0 /* ContentView.swift in Sources */,
 				6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */,
+				6E7EA31C248FD2E5006C0321 /* CommonCellView.swift in Sources */,
 				6E1AC1FC248C7F77004C006A /* MasterView.swift in Sources */,
-				6E1AC331248D144F004C006A /* NoblePhantasmListView.swift in Sources */,
+				6E1AC331248D144F004C006A /* FightCharacterFilterListView.swift in Sources */,
 				6ED0724D248A661400C2C7D9 /* GivenServantListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

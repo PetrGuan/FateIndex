@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "三色魔放.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

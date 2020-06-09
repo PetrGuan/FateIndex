@@ -1,5 +1,5 @@
 //
-//  NoblePhantasmListView.swift
+//  FightCharacterFilterListView.swift
 //  FateIndex
 //
 //  Created by Peter-Guan on 2020/6/7.
@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct NoblePhantasmListView: View {
+struct FightCharacterFilterListView: View {
     var body: some View {
         List {
             Text("战斗特性筛选")
@@ -33,8 +33,8 @@ struct NoblePhantasmListView: View {
     }
 }
 
-struct NoblePhantasmListView_Previews: PreviewProvider {
+struct FightCharacterFilterListView_Previews: PreviewProvider {
     static var previews: some View {
-        NoblePhantasmListView()
+        FightCharacterFilterListView()
     }
 }

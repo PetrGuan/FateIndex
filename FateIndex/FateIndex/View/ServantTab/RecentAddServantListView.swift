@@ -9,11 +9,13 @@
 import SwiftUI
 
 struct RecentAddServantListView: View {
+    @Environment(\.colorScheme) var colorScheme
+
     var body: some View {
         VStack {
             HStack {
                 Text("新添加从者")
-                .font(.headline)
+                    .font(.headline)
 
                 Spacer()
             }
@@ -21,23 +23,41 @@ struct RecentAddServantListView: View {
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
-                    Image("servant_283_status_1")
-                        .resizable()
-                        .clipped()
-                        .frame(width: 100, height: 100)
-                        .padding(EdgeInsets(top: 0, leading: 10, bottom: 0, trailing: 10))
+                    VStack(alignment: .center) {
+                        Image("servant_283_status_1")
+                            .resizable()
+                            .clipped()
+                            .frame(width: 100, height: 100)
+                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
 
-                    Image("servant_282_status_1")
-                        .resizable()
-                    .clipped()
-                    .frame(width: 100, height: 100)
-                    .padding(EdgeInsets(top: 0, leading: 10, bottom: 0, trailing: 10))
+                        Text("宇津见艾莉瑟")
+                    }
+                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                    .cornerRadius(12)
 
-                    Image("servant_281_status_1")
-                        .resizable()
-                    .clipped()
-                    .frame(width: 100, height: 100)
-                    .padding(EdgeInsets(top: 0, leading: 10, bottom: 0, trailing: 10))
+                    VStack(alignment: .center) {
+                        Image("servant_282_status_1")
+                            .resizable()
+                            .clipped()
+                            .frame(width: 100, height: 100)
+                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
+
+                        Text("鬼女红叶")
+                    }
+                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                    .cornerRadius(12)
+
+                    VStack(alignment: .center) {
+                        Image("servant_281_status_1")
+                            .resizable()
+                            .clipped()
+                            .frame(width: 100, height: 100)
+                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
+
+                        Text("旅行者")
+                    }
+                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                    .cornerRadius(12)
                 }
                 .frame(minHeight: 70)
                 .padding(EdgeInsets(top: 0, leading: 16, bottom: 0, trailing: 16))

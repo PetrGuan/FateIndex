@@ -23,10 +23,6 @@ struct MasterView: View {
                             DavinciStoreCraftEssenceListView()
                             Divider()
                             MysticCodeListView()
-                            Divider()
-                            ContentView()
-                            Divider()
-                            ContentView()
                             Spacer()
                                 .frame(height: 26)
                         }
