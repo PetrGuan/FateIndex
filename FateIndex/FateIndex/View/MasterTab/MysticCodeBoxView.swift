@@ -29,16 +29,16 @@ struct MysticCodeBoxView: View {
 
             Text("\(mysticCode.name)")
             .font(.subheadline)
-            .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+            .padding(EdgeInsets(top: 5, leading: 10, bottom: 10, trailing: 10))
+                .foregroundColor(.primary)
         }
         .clipped()
         .cornerRadius(12)
-        //.background(Color(hex: colorScheme == .dark ? 0xFFFFFF : 0xEDEDEE))
     }
 }
 
 struct MysticCodeBoxView_Previews: PreviewProvider {
     static var previews: some View {
-        MysticCodeBoxView(mysticCode: MysticCode(id: "1", name: "魔术礼装·迦勒底", desc: "支援人理继续保障机关·迦勒底 master 的魔术礼装", access: [""]))
+        MysticCodeBoxView(mysticCode: MysticCode(id: "1", name: "魔术礼装·迦勒底", desc: "支援人理继续保障机关·迦勒底 master 的魔术礼装", access: [""], skills: []))
     }
 }

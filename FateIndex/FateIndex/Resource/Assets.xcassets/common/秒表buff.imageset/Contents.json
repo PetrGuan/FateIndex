@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "秒表buff.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -21,11 +21,9 @@ struct MysticCodeListView: View {
 
                 Spacer()
 
-                Button(action: {
-                    print("")
-                }) {
+                NavigationLink(destination: MysticCodeTableListView()) {
                     Text("查看全部")
-                        .foregroundColor(Color(hex: 0xfe365e))
+                    .foregroundColor(Color(hex: 0xfe365e))
                 }
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
             }
@@ -33,7 +31,9 @@ struct MysticCodeListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.mysticCodes.prefix(upTo: 5), id: \.id) { mysticCode in
-                        MysticCodeBoxView(mysticCode: mysticCode)
+                        NavigationLink(destination: MysticCodeDetailView(mysticCode: mysticCode)) {
+                            MysticCodeBoxView(mysticCode: mysticCode)
+                        }
                     }
                 }
                 .frame(minHeight: 70)

@@ -23,7 +23,7 @@ class MysticCodeStoreTests: XCTestCase {
         // This is an example of a performance test case.
         self.measure {
             // Put the code you want to measure the time of here.
-            let commandCodes = MysticCodeStore.shared.loadMysticCode()
+            let commandCodes = MysticCodeStore.shared.loadMysticCodes()
             XCTAssertEqual(commandCodes.count, 15)
         }
     }

@@ -23,7 +23,7 @@ struct AppView: View {
                 Text("御主")
             }
 
-            MysticCodeDetailView()
+            MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "迦勒底夏日", desc: "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", access: ["迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。"], skills: []))
             .tabItem {
                 Image(systemName: "cube.box.fill")
                 Text("材料")

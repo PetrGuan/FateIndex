@@ -9,53 +9,57 @@
 import SwiftUI
 
 struct MysticCodeDetailView: View {
+    var mysticCode: MysticCode
+
     var body: some View {
-        NavigationView {
-            VStack {
-                Image("mystic_code_1_avatar")
+        VStack {
+                ScrollView(.vertical) {
+                    Text(mysticCode.name)
+                        .font(.headline)
+
+                    Image("mystic_code_\(mysticCode.id)_avatar")
                     .resizable()
-                    .padding(EdgeInsets(top: 0, leading: 0, bottom: 0, trailing: 0))
+                    .clipped()
+                    .frame(width: 215, height: 200)
+                    .cornerRadius(12)
+                }
 
                 List {
                     Text("解说")
                         .font(.headline)
-                    Text("达·芬奇工房特制，对热带地区用的装备, 虽说就是泳装，但却是具备了战斗功能的魔术礼装")
+                    Text(mysticCode.desc)
                         .font(.callout)
 
                     Text("技能")
                     .font(.headline)
 
                     NavigationLink(destination: ContentView()) {
-                        CommonCellView()
+                        CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
                     }
 
                     NavigationLink(destination: ContentView()) {
-                        CommonCellView()
+                        CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
                     }
 
                     NavigationLink(destination: ContentView()) {
-                        CommonCellView()
+                        CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
                     }
 
                     Text("获得方法")
                     .font(.headline)
-                    
-                    Text("迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。")
-                    .font(.callout)
 
-                    Text("复刻：迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。")
-                    .font(.callout)
+                    ForEach(self.mysticCode.access, id: \.self) { access in
+                        Text(access)
+                            .font(.callout)
+                    }
                 }
             }
-            .edgesIgnoringSafeArea(.top)
-
-            .navigationBarTitle("明亮夏日")
-        }
+        .navigationBarTitle("礼装详情")
     }
 }
 
 struct MysticCodeDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        MysticCodeDetailView()
+        MysticCodeDetailView(mysticCode: MysticCode(id: "", name: "", desc: "", access: [""], skills: []))
     }
 }

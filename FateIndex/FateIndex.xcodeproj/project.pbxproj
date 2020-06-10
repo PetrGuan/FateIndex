@@ -142,6 +142,7 @@
 		6ED0724D248A661400C2C7D9 /* GivenServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724C248A661400C2C7D9 /* GivenServantListView.swift */; };
 		6ED0724F248A672300C2C7D9 /* GivenServantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724E248A672300C2C7D9 /* GivenServantView.swift */; };
 		6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07250248A887200C2C7D9 /* CampaignServant.swift */; };
+		6ED211E12491110F005E98D2 /* MysticCodeTableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -294,6 +295,7 @@
 		6ED0724C248A661400C2C7D9 /* GivenServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantListView.swift; sourceTree = "<group>"; };
 		6ED0724E248A672300C2C7D9 /* GivenServantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantView.swift; sourceTree = "<group>"; };
 		6ED07250248A887200C2C7D9 /* CampaignServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServant.swift; sourceTree = "<group>"; };
+		6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeTableListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -395,6 +397,7 @@
 				6E1AC32B248CCD4F004C006A /* MysticCodeListView.swift */,
 				6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */,
 				6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */,
+				6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */,
 			);
 			path = MasterTab;
 			sourceTree = "<group>";
@@ -802,6 +805,7 @@
 				6E2FA5AB248A077C00822AA0 /* AppView.swift in Sources */,
 				6E4C9D9A248B96A500B96630 /* CraftEssenceStore.swift in Sources */,
 				6E4C9D97248B947C00B96630 /* Data.swift in Sources */,
+				6ED211E12491110F005E98D2 /* MysticCodeTableListView.swift in Sources */,
 				6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */,
 				6E2FA588248A063F00822AA0 /* AppDelegate.swift in Sources */,
 				6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */,

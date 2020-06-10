@@ -9,7 +9,7 @@
 import Foundation
 
 /// 御主装备
-struct MysticCode: Codable {
+struct MysticCode: Codable, Hashable, Identifiable {
     let id: String
     /// 名字
     let name: String
@@ -17,9 +17,11 @@ struct MysticCode: Codable {
     let desc: String
     /// 入手方法
     let access: [String]
+
+    let skills: [MysticCodeSkill]
 }
 
-struct MysticCodeSkill: Codable {
+struct MysticCodeSkill: Codable, Hashable {
     /// 技能名称
     let skillName: String
     /// 技能图片
@@ -30,7 +32,7 @@ struct MysticCodeSkill: Codable {
     let stableEffects: [String]
 }
 
-struct MysticCodeSkillLevelEffect: Codable {
+struct MysticCodeSkillLevelEffect: Codable, Hashable {
     let effectDesc: String
     let effects: [String]
 }

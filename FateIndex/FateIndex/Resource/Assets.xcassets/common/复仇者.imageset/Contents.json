@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "复仇者.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
