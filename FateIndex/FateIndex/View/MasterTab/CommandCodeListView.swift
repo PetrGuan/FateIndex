@@ -10,7 +10,7 @@ import SwiftUI
 
 struct CommandCodeListView: View {
 
-    @State private var commandCodes = CommandCodeStore.shared.commandCodes
+    @State private var commandCodes = CommandCodeStore.shared.topFivecommandCodes
 
     var body: some View {
         VStack(alignment: .leading) {
@@ -21,11 +21,9 @@ struct CommandCodeListView: View {
 
                 Spacer()
 
-                Button(action: {
-                    print("")
-                }) {
+                NavigationLink(destination: SeeAllCommandCodeListView()) {
                     Text("查看全部")
-                        .foregroundColor(Color(hex: 0xfe365e))
+                    .foregroundColor(Color(hex: 0xfe365e))
                 }
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
             }

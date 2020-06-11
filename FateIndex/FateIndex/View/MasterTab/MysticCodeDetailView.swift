@@ -13,47 +13,47 @@ struct MysticCodeDetailView: View {
 
     var body: some View {
         VStack {
-                ScrollView(.vertical) {
-                    Text(mysticCode.name)
-                        .font(.headline)
+            ScrollView(.vertical) {
+                Text(mysticCode.name)
+                    .font(.headline)
 
-                    Image("mystic_code_\(mysticCode.id)_avatar")
+                Image("mystic_code_\(mysticCode.id)_avatar")
                     .resizable()
                     .clipped()
                     .frame(width: 215, height: 200)
                     .cornerRadius(12)
+            }
+
+            List {
+                Text("解说")
+                    .font(.headline)
+                Text(mysticCode.desc)
+                    .font(.callout)
+
+                Text("技能")
+                    .font(.headline)
+
+                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[0])) {
+                    CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
                 }
 
-                List {
-                    Text("解说")
-                        .font(.headline)
-                    Text(mysticCode.desc)
+                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[1])) {
+                    CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
+                }
+
+                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[2])) {
+                    CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
+                }
+
+                Text("获得方法")
+                    .font(.headline)
+
+                ForEach(self.mysticCode.access, id: \.self) { access in
+                    Text(access)
                         .font(.callout)
-
-                    Text("技能")
-                    .font(.headline)
-
-                    NavigationLink(destination: ContentView()) {
-                        CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
-                    }
-
-                    NavigationLink(destination: ContentView()) {
-                        CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
-                    }
-
-                    NavigationLink(destination: ContentView()) {
-                        CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
-                    }
-
-                    Text("获得方法")
-                    .font(.headline)
-
-                    ForEach(self.mysticCode.access, id: \.self) { access in
-                        Text(access)
-                            .font(.callout)
-                    }
                 }
             }
+        }
         .navigationBarTitle("礼装详情")
     }
 }

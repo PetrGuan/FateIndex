@@ -24,7 +24,7 @@ class CommandCodeStoreTests: XCTestCase {
         self.measure {
             // Put the code you want to measure the time of here.
             let commandCodes = CommandCodeStore.shared.loadCommandCodes()
-            XCTAssertEqual(commandCodes.count, 5)
+            XCTAssertEqual(commandCodes.count, 64)
         }
     }
 

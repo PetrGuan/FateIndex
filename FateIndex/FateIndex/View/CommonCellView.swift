@@ -11,6 +11,8 @@ import SwiftUI
 struct CommonCellView: View {
     var avatar: String
     var text: String
+    var textFont: Font = .headline
+    var imageSize: CGSize = CGSize(width: 55.0, height: 55.0)
 
     var body: some View {
         HStack(alignment: .center) {
@@ -18,11 +20,11 @@ struct CommonCellView: View {
             .resizable()
             .clipped()
             .cornerRadius(10)
-            .frame(width: 55, height: 55)
+            .frame(width: imageSize.width, height: imageSize.height)
 
             VStack(alignment: .leading) {
                 Text(text)
-                    .font(.headline)
+                    .font(textFont)
             }
         .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
         }
