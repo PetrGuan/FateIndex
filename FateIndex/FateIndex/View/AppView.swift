@@ -10,31 +10,43 @@ import SwiftUI
 
 struct AppView: View {
     var body: some View {
-        TabView {
-            ServantsView()
-                .tabItem {
-                    Image(systemName: "person.2.fill")
-                    Text("从者")
-                }
+        UIKitTabView {
+            ServantsView().tab(title: "从者", image: "person.2.fill")
 
-            MasterView()
-            .tabItem {
-                Image(systemName: "person.crop.circle.fill")
-                Text("御主")
-            }
+            MasterView().tab(title: "御主", image: "person.crop.circle.fill")
 
             MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "迦勒底夏日", desc: "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", access: ["迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。"], skills: []))
-            .tabItem {
-                Image(systemName: "cube.box.fill")
-                Text("材料")
-            }
+                .tab(title: "材料", image: "cube.box.fill")
 
             ContentView()
-                .tabItem {
-                    Image(systemName: "gear")
-                    Text("设置")
-                }
+                .tab(title: "设置", image: "gear")
         }
+
+//        TabView {
+//            ServantsView()
+//                .tabItem {
+//                    Image(systemName: "person.2.fill")
+//                    Text("从者")
+//                }
+//
+//            MasterView()
+//            .tabItem {
+//                Image(systemName: "person.crop.circle.fill")
+//                Text("御主")
+//            }
+//
+//            MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "迦勒底夏日", desc: "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", access: ["迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。"], skills: []))
+//            .tabItem {
+//                Image(systemName: "cube.box.fill")
+//                Text("材料")
+//            }
+//
+//            ContentView()
+//                .tabItem {
+//                    Image(systemName: "gear")
+//                    Text("设置")
+//                }
+//        }
     }
 }
 

@@ -13,25 +13,20 @@ struct MysticCodeDetailView: View {
 
     var body: some View {
         VStack {
-            ScrollView(.vertical) {
-                Text(mysticCode.name)
-                    .font(.headline)
-
-                Image("mystic_code_\(mysticCode.id)_avatar")
-                    .resizable()
-                    .clipped()
-                    .frame(width: 215, height: 200)
-                    .cornerRadius(12)
-            }
-
             List {
-                Text("解说")
-                    .font(.headline)
+                VStack(alignment: .center) {
+                    Text(mysticCode.name)
+                        .font(.headline)
+
+                    Image("mystic_code_\(mysticCode.id)_avatar")
+                        .resizable()
+                        .clipped()
+                        .frame(width: 215, height: 200)
+                        .cornerRadius(12)
+                }
+
                 Text(mysticCode.desc)
                     .font(.callout)
-
-                Text("技能")
-                    .font(.headline)
 
                 NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[0])) {
                     CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)

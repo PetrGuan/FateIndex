@@ -19,7 +19,7 @@ struct CommonCellView: View {
             Image(avatar)
             .resizable()
             .clipped()
-            .cornerRadius(10)
+            .cornerRadius(6)
             .frame(width: imageSize.width, height: imageSize.height)
 
             VStack(alignment: .leading) {
