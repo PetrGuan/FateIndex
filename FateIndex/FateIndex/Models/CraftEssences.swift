@@ -8,6 +8,7 @@
 
 import Foundation
 
+/// 礼装
 struct CraftEssences: Codable {
     let id: String
     // 名字

@@ -4,7 +4,7 @@
     "wayToGet": "友情池常驻",
     "rarity": 1,
     "illustrator": "秋田犬",
-    "effect": "赋予刻印指令卡对[人类]特攻效果",
-    "effectValue": "5%",
+    "effect": "赋予刻印指令卡对[人类]5%特攻效果",
+    "avatar": "特攻",
     "lore": "为亲手解开扭结，自触及之处走向崩坏。"
 }

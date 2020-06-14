@@ -8,6 +8,7 @@
 
 import Foundation
 
+/// 指令纹章
 struct CommandCode: Codable {
     let id: String
     // 名字
@@ -20,8 +21,17 @@ struct CommandCode: Codable {
     let illustrator: String
     // 效果
     let effect: String
-    // 效果数值
-    let effectValue: String
+    // 技能图标
+    let avatar: String
     // 民间传说
     let lore: String
+
+    func rarityStars() -> String {
+        var stars = ""
+        for _ in 1...rarity {
+            stars.append("⭐️")
+        }
+        
+        return stars
+    }
 }

@@ -36,8 +36,9 @@ struct SeeAllCommandCodeListView: View {
             .padding(EdgeInsets(top: 16, leading: 0, bottom: 16, trailing: 0))
 
             ForEach(allCommandCodes, id: \.id) { commandCode in
-                CommonCellView(avatar: "command_code_avatar_\(commandCode.id)", text: commandCode.name, imageSize: CGSize(width: 60, height: 66))
-
+                NavigationLink(destination: CommandCodeDetailView(commandCode: commandCode)) {
+                    CommonCellView(avatar: "command_code_avatar_\(commandCode.id)", text: commandCode.name, imageSize: CGSize(width: 60, height: 66))
+                }
             }
         }
     .navigationBarTitle("指令纹章图鉴")

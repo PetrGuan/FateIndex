@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "暴击威力下降.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

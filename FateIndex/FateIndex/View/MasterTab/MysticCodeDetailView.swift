@@ -40,9 +40,6 @@ struct MysticCodeDetailView: View {
                     CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
                 }
 
-                Text("获得方法")
-                    .font(.headline)
-
                 ForEach(self.mysticCode.access, id: \.self) { access in
                     Text(access)
                         .font(.callout)

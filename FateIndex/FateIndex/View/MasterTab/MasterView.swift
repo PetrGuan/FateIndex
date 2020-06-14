@@ -14,22 +14,18 @@ struct MasterView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Divider()
-                ZStack(alignment: .top) {
-                    ScrollView(showsIndicators: false) {
-                        VStack(alignment: .leading) {
-                            CommandCodeListView()
-                            Divider()
-                            DavinciStoreCraftEssenceListView()
-                            Divider()
-                            MysticCodeListView()
-                            Spacer()
-                                .frame(height: 26)
-                        }
+                ScrollView(showsIndicators: false) {
+                    VStack(alignment: .leading) {
+                        CommandCodeListView()
+                        Divider()
+                        DavinciStoreCraftEssenceListView()
+                        Divider()
+                        MysticCodeListView()
+                        Spacer()
+                            .frame(height: 26)
                     }
                 }
-                .navigationBarTitle(Text("御主"))
-            }
+            }.navigationBarTitle(Text("御主"))
         }
     }
 }

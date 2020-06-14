@@ -31,7 +31,9 @@ struct CommandCodeListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.commandCodes, id: \.id) { commandCode in
-                        CommandCodeAlbumnFrameView(commandCode: commandCode)
+                        NavigationLink(destination: CommandCodeDetailView(commandCode: commandCode)) {
+                            CommandCodeAlbumnFrameView(commandCode: commandCode)
+                        }
                     }
                 }
                 .frame(minHeight: 174)
