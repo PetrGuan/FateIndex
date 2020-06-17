@@ -31,7 +31,11 @@ struct MysticCodeListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.mysticCodes.prefix(upTo: 5), id: \.id) { mysticCode in
-                        NavigationLink(destination: MysticCodeDetailView(mysticCode: mysticCode)) {
+//                        NavigationLink(destination: MysticCodeDetailView(mysticCode: mysticCode)) {
+//                            MysticCodeBoxView(mysticCode: mysticCode)
+//                        }
+
+                        NavigationLink(destination: RoundedListDetailView(mysticCode: mysticCode, selectedSkill: mysticCode.skills[0])) {
                             MysticCodeBoxView(mysticCode: mysticCode)
                         }
                     }

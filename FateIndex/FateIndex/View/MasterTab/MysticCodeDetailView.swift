@@ -28,23 +28,25 @@ struct MysticCodeDetailView: View {
                 Text(mysticCode.desc)
                     .font(.callout)
 
-                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[0])) {
-                    CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
-                }
-
-                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[1])) {
-                    CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
-                }
-
-                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[2])) {
-                    CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
-                }
+                //RoundedListDetailView(mysticCode: mysticCode)
+//                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[0])) {
+//                    CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
+//                }
+//
+//                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[1])) {
+//                    CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
+//                }
+//
+//                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[2])) {
+//                    CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
+//                }
 
                 ForEach(self.mysticCode.access, id: \.self) { access in
                     Text(access)
                         .font(.callout)
                 }
             }
+            .buttonStyle(BorderlessButtonStyle())
         }
         .navigationBarTitle("礼装详情")
     }
@@ -52,6 +54,6 @@ struct MysticCodeDetailView: View {
 
 struct MysticCodeDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        MysticCodeDetailView(mysticCode: MysticCode(id: "", name: "", desc: "", access: [""], skills: []))
+        MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "魔术礼装·迦勒底", desc: "支援人理继续保障机关·迦勒底 master 的魔术礼装", access: ["初始装备"], skills: []))
     }
 }
