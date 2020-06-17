@@ -24,12 +24,18 @@ struct RoundedListDetailView: View {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[0].avatar, action: {
                         self.selectedIndex = 0
                         self.selectedSkill = self.mysticCode.skills[0]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[0].avatar, action: {
                         self.selectedIndex = 0
                         self.selectedSkill = self.mysticCode.skills[0]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
 
@@ -37,12 +43,18 @@ struct RoundedListDetailView: View {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[1].avatar, action: {
                         self.selectedIndex = 1
                         self.selectedSkill = self.mysticCode.skills[1]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[1].avatar, action: {
                         self.selectedIndex = 1
                         self.selectedSkill = self.mysticCode.skills[1]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
 
@@ -50,12 +62,18 @@ struct RoundedListDetailView: View {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[2].avatar, action: {
                         self.selectedIndex = 2
                         self.selectedSkill = self.mysticCode.skills[2]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[2].avatar, action: {
                         self.selectedIndex = 2
                         self.selectedSkill = self.mysticCode.skills[2]
+
+                        let selectionFeedback = UISelectionFeedbackGenerator()
+                        selectionFeedback.selectionChanged()
                     })
                 }
             }
@@ -68,6 +86,9 @@ struct RoundedListDetailView: View {
 
                 ForEach(selectedSkill.stableEffects) { text in
                     Text(text)
+                    .lineSpacing(6)
+                    .lineLimit(nil)
+                    .fixedSize(horizontal: false, vertical: true)
                 }
 
                 if !selectedSkill.stableEffects.isEmpty {
@@ -78,6 +99,9 @@ struct RoundedListDetailView: View {
                     VStack(alignment: .center) {
                         if i < self.selectedSkill.lvEffects.count {
                             Text(self.selectedSkill.lvEffects[i].effectDesc)
+                            .lineSpacing(6)
+                            .lineLimit(nil)
+                            .fixedSize(horizontal: false, vertical: true)
                             .multilineTextAlignment(.center)
                             .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                         }
@@ -89,7 +113,7 @@ struct RoundedListDetailView: View {
                                     ForEach(self.selectedSkill.lvEffects[i].effects.prefix(5)) { effectValue in
                                         Spacer()
                                         Text(effectValue)
-                                            .font(.subheadline)
+                                            .font(.caption)
                                         Spacer()
                                     }
                                     Spacer()
@@ -103,7 +127,7 @@ struct RoundedListDetailView: View {
                                     ForEach(self.selectedSkill.lvEffects[i].effects.reversed().prefix(5).reversed()) { effectValue in
                                         Spacer()
                                         Text(effectValue)
-                                            .font(.subheadline)
+                                            .font(.caption)
                                         Spacer()
                                     }
                                     Spacer()
