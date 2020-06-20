@@ -21,7 +21,9 @@ struct DavinciStoreCraftEssenceListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.craftEssences, id: \.id) { craftEssence in
-                        DavinciStoreCraftEssenceView(craftEssence: craftEssence)
+                        NavigationLink(destination: CraftEssenceDetailView(craftEssence: craftEssence)) {
+                            DavinciStoreCraftEssenceView(craftEssence: craftEssence)
+                        }
                     }
                 }
                 .frame(minHeight: 174)

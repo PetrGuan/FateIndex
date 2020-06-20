@@ -28,6 +28,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[0].avatar, action: {
@@ -37,6 +38,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
 
                 if selectedIndex == 1 {
@@ -47,6 +49,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[1].avatar, action: {
@@ -56,6 +59,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
 
                 if selectedIndex == 2 {
@@ -66,6 +70,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[2].avatar, action: {
@@ -75,6 +80,7 @@ struct RoundedListDetailView: View {
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
             }
 

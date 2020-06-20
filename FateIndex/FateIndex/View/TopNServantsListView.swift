@@ -53,7 +53,10 @@ struct TopNServantsListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(topServantData.topNServants, id: \.self) { servant in
-                        ServantBoxView(topNServant: servant)
+                        NavigationLink(destination: ServantDetailView()) {
+                            ServantBoxView(topNServant: servant)
+                        }
+                        .buttonStyle(PlainButtonStyle())
                     }
                 }
                 .frame(minHeight: 174)

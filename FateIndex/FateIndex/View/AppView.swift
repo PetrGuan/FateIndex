@@ -15,7 +15,7 @@ struct AppView: View {
 
             MasterView().tab(title: "御主", image: "person.crop.circle.fill")
 
-            MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "迦勒底夏日", desc: "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", access: ["迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。", "迦勒底夏日回忆活动期间，通关活动地图中随着活动主线剧情推进出现的「魔术礼装关卡·耀眼夏日」关卡。"], skills: []))
+            ContentView()
                 .tab(title: "材料", image: "cube.box.fill")
 
             ContentView()

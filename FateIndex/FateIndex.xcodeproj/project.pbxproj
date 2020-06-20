@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E0D7393249C9869000DE0DB /* CraftEssenceDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7392249C9869000DE0DB /* CraftEssenceDetailView.swift */; };
+		6E0D7395249CAF52000DE0DB /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7394249CAF52000DE0DB /* PageViewController.swift */; };
+		6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7396249CAF95000DE0DB /* PageView.swift */; };
+		6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7398249CB1DE000DE0DB /* PageControl.swift */; };
+		6E0D739B249CB51C000DE0DB /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */; };
 		6E1AC1FC248C7F77004C006A /* MasterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FB248C7F77004C006A /* MasterView.swift */; };
 		6E1AC1FE248C83D6004C006A /* craftEssence_1214.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FD248C83D6004C006A /* craftEssence_1214.json */; };
 		6E1AC200248C8942004C006A /* CommandCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FF248C8942004C006A /* CommandCode.swift */; };
@@ -139,7 +144,6 @@
 		6E7EA31C248FD2E5006C0321 /* CommonCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */; };
 		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
-		6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */; };
 		6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */; };
 		6ED07247248A4E7B00C2C7D9 /* ServantClassListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */; };
 		6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */; };
@@ -148,6 +152,8 @@
 		6ED0724F248A672300C2C7D9 /* GivenServantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724E248A672300C2C7D9 /* GivenServantView.swift */; };
 		6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07250248A887200C2C7D9 /* CampaignServant.swift */; };
 		6ED211E12491110F005E98D2 /* MysticCodeTableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */; };
+		6EE266A6249E4543000B4277 /* TwoColumnSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE266A5249E4543000B4277 /* TwoColumnSheetView.swift */; };
+		6EE266A8249E59A0000B4277 /* ServantAbilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */; };
 		6EEC277F249A36D3008809E7 /* RoundedListDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEC277E249A36D3008809E7 /* RoundedListDetailView.swift */; };
 		6EEC2783249A5A75008809E7 /* RoundedShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEC2782249A5A75008809E7 /* RoundedShadowButton.swift */; };
 		6EEC2785249A5D00008809E7 /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEC2784249A5D00008809E7 /* RoundedButton.swift */; };
@@ -164,6 +170,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E0D7392249C9869000DE0DB /* CraftEssenceDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftEssenceDetailView.swift; sourceTree = "<group>"; };
+		6E0D7394249CAF52000DE0DB /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		6E0D7396249CAF95000DE0DB /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
+		6E0D7398249CB1DE000DE0DB /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
+		6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
 		6E1AC1FB248C7F77004C006A /* MasterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterView.swift; sourceTree = "<group>"; };
 		6E1AC1FD248C83D6004C006A /* craftEssence_1214.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1214.json; sourceTree = "<group>"; };
 		6E1AC1FF248C8942004C006A /* CommandCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandCode.swift; sourceTree = "<group>"; };
@@ -300,7 +311,6 @@
 		6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonCellView.swift; sourceTree = "<group>"; };
 		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
-		6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
 		6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBoxView.swift; sourceTree = "<group>"; };
 		6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantClassListView.swift; sourceTree = "<group>"; };
 		6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
@@ -309,6 +319,8 @@
 		6ED0724E248A672300C2C7D9 /* GivenServantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantView.swift; sourceTree = "<group>"; };
 		6ED07250248A887200C2C7D9 /* CampaignServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServant.swift; sourceTree = "<group>"; };
 		6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeTableListView.swift; sourceTree = "<group>"; };
+		6EE266A5249E4543000B4277 /* TwoColumnSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoColumnSheetView.swift; sourceTree = "<group>"; };
+		6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantAbilityView.swift; sourceTree = "<group>"; };
 		6EEC277E249A36D3008809E7 /* RoundedListDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedListDetailView.swift; sourceTree = "<group>"; };
 		6EEC2782249A5A75008809E7 /* RoundedShadowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowButton.swift; sourceTree = "<group>"; };
 		6EEC2784249A5D00008809E7 /* RoundedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
@@ -332,6 +344,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6E0D7391249C97B0000DE0DB /* CraftEssence */ = {
+			isa = PBXGroup;
+			children = (
+				6E0D7392249C9869000DE0DB /* CraftEssenceDetailView.swift */,
+			);
+			path = CraftEssence;
+			sourceTree = "<group>";
+		};
 		6E1AC201248C8FF3004C006A /* CommandCodes */ = {
 			isa = PBXGroup;
 			children = (
@@ -457,6 +477,8 @@
 			children = (
 				6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */,
 				6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */,
+				6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */,
+				6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */,
 			);
 			path = ServantTab;
 			sourceTree = "<group>";
@@ -521,6 +543,7 @@
 		6E2FA5A9248A076B00822AA0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				6E0D7391249C97B0000DE0DB /* CraftEssence */,
 				6EEC277D249A36B1008809E7 /* Shared */,
 				6E1AC32F248D1403004C006A /* ServantTab */,
 				6E1AC2FE248C97CC004C006A /* MasterTab */,
@@ -529,7 +552,6 @@
 				6E2FA5B8248A199400822AA0 /* ServantsView.swift */,
 				6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */,
 				6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */,
-				6ED07242248A2A7400C2C7D9 /* ServantDetailView.swift */,
 				6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */,
 				6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */,
 				6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */,
@@ -618,6 +640,10 @@
 				6EEC277E249A36D3008809E7 /* RoundedListDetailView.swift */,
 				6EEC2782249A5A75008809E7 /* RoundedShadowButton.swift */,
 				6EEC2784249A5D00008809E7 /* RoundedButton.swift */,
+				6E0D7394249CAF52000DE0DB /* PageViewController.swift */,
+				6E0D7396249CAF95000DE0DB /* PageView.swift */,
+				6E0D7398249CB1DE000DE0DB /* PageControl.swift */,
+				6EE266A5249E4543000B4277 /* TwoColumnSheetView.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -820,19 +846,24 @@
 				6E2FA5BB248A1BF900822AA0 /* SearchBar.swift in Sources */,
 				6ED07247248A4E7B00C2C7D9 /* ServantClassListView.swift in Sources */,
 				6EEC2785249A5D00008809E7 /* RoundedButton.swift in Sources */,
+				6E0D7393249C9869000DE0DB /* CraftEssenceDetailView.swift in Sources */,
 				6E1AC302248C9B43004C006A /* CommandCodeAlbumnFrameView.swift in Sources */,
 				6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */,
+				6E0D739B249CB51C000DE0DB /* ServantDetailView.swift in Sources */,
 				6ED0724B248A50C300C2C7D9 /* ServantClassView.swift in Sources */,
 				6E69D18124924BAA009A7F00 /* String+Extension.swift in Sources */,
 				6ED0724F248A672300C2C7D9 /* GivenServantView.swift in Sources */,
 				6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */,
 				6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */,
 				6E1AC300248C98D4004C006A /* CommandCodeListView.swift in Sources */,
+				6E0D7395249CAF52000DE0DB /* PageViewController.swift in Sources */,
 				6E1AC326248CC799004C006A /* MysticCode.swift in Sources */,
 				6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */,
 				6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */,
-				6ED07243248A2A7400C2C7D9 /* ServantDetailView.swift in Sources */,
+				6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */,
+				6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */,
 				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,
+				6EE266A8249E59A0000B4277 /* ServantAbilityView.swift in Sources */,
 				6E1AC2FB248C9634004C006A /* CommandCodeStore.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
 				6E1AC304248C9C54004C006A /* CommandCodeBoxView.swift in Sources */,
@@ -859,6 +890,7 @@
 				6EEC2783249A5A75008809E7 /* RoundedShadowButton.swift in Sources */,
 				6E1AC1FC248C7F77004C006A /* MasterView.swift in Sources */,
 				6E1AC331248D144F004C006A /* FightCharacterFilterListView.swift in Sources */,
+				6EE266A6249E4543000B4277 /* TwoColumnSheetView.swift in Sources */,
 				6ED0724D248A661400C2C7D9 /* GivenServantListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

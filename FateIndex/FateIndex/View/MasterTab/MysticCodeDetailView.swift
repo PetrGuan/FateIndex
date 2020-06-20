@@ -14,15 +14,14 @@ struct MysticCodeDetailView: View {
     var body: some View {
         VStack {
             List {
-                VStack(alignment: .center) {
-                    Text(mysticCode.name)
-                        .font(.headline)
-
+                HStack {
+                    Spacer()
                     Image("mystic_code_\(mysticCode.id)_avatar")
-                        .resizable()
-                        .clipped()
-                        .frame(width: 215, height: 200)
-                        .cornerRadius(12)
+                    .resizable()
+                    .clipped()
+                    .frame(width: 215, height: 200)
+                    .cornerRadius(12)
+                    Spacer()
                 }
 
                 Text(mysticCode.desc)
@@ -48,12 +47,12 @@ struct MysticCodeDetailView: View {
             }
             .buttonStyle(BorderlessButtonStyle())
         }
-        .navigationBarTitle("礼装详情")
+        .navigationBarTitle(mysticCode.name)
     }
 }
 
 struct MysticCodeDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        MysticCodeDetailView(mysticCode: MysticCode(id: "1", name: "魔术礼装·迦勒底", desc: "支援人理继续保障机关·迦勒底 master 的魔术礼装", access: ["初始装备"], skills: []))
+        MysticCodeDetailView(mysticCode: MysticCodeStore.shared.mysticCodes[0])
     }
 }

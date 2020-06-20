@@ -15,7 +15,7 @@ struct GivenServantView: View {
     var body: some View {
         Button(
             action: {
-                print("hello")
+                print("Hello World")
         },
             label: {
                 VStack {

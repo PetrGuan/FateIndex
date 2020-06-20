@@ -85,7 +85,7 @@ struct CommandCodeDetailView: View {
 
             }
         }
-
+        .navigationBarTitle(commandCode.name)
     }
 }
 

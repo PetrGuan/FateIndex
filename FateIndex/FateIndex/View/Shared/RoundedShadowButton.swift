@@ -19,10 +19,11 @@ struct RoundedShadowButton: View {
             Image(avatar)
                 .resizable()
                 .renderingMode(.original)
-                .clipShape(Circle())
-                .overlay(Circle().stroke(Color.white, lineWidth: 4))
+                .cornerRadius(12)
+                //.clipShape(Rectangle().cornerRadius(10))
+                .overlay(RoundedRectangle(cornerRadius: 12).stroke(Color.white, lineWidth: 4))
                 .shadow(radius: 10)
-                .frame(width: 100, height: 100)
+                .frame(width: 65, height: 65)
         }
     }
 }

@@ -18,8 +18,8 @@ struct RoundedButton: View {
             Image(avatar)
                 .resizable()
                 .renderingMode(.original)
-                .clipShape(Circle())
-                .frame(width: 80, height: 80)
+                .cornerRadius(12)
+                .frame(width: 65, height: 65)
         }
     }
 }
