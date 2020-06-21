@@ -13,18 +13,20 @@ struct ServantDetailView: View {
 
     private let segments = ["基础信息", "能力", "技能"]
 
+    private let servantId: String = "1"
+
     var body: some View {
         VStack {
-            Picker("Numbers", selection: $selectedSegment.onChange(segmentChange)) {
-                ForEach(0..<segments.count) { index in
-                    Text(self.segments[index])
-                        .tag(index)
+            ScrollView {
+                Picker("Numbers", selection: $selectedSegment.onChange(segmentChange)) {
+                    ForEach(0..<segments.count) { index in
+                        Text(self.segments[index])
+                            .tag(index)
+                    }
                 }
-            }
-            .pickerStyle(SegmentedPickerStyle())
+                .pickerStyle(SegmentedPickerStyle())
 
-            if selectedSegment == 0 {
-                ScrollView {
+                if selectedSegment == 0 {
                     VStack {
                         Divider()
                         Image("69px-5星")
@@ -33,19 +35,19 @@ struct ServantDetailView: View {
                         Divider()
 
                         PageView([
-                            Image("旅行者初始")
+                            Image("servant-\(servantId)-1")
                             .resizable()
                             .clipped()
                             .cornerRadius(12),
-                            Image("旅行者一破")
+                            Image("servant-\(servantId)-2")
                             .resizable()
                             .clipped()
                             .cornerRadius(12),
-                            Image("旅行者三破")
+                            Image("servant-\(servantId)-3")
                             .resizable()
                             .clipped()
                             .cornerRadius(12),
-                            Image("旅行者满破")
+                            Image("servant-\(servantId)-4")
                             .resizable()
                             .clipped()
                             .cornerRadius(12),
@@ -209,10 +211,11 @@ struct ServantDetailView: View {
                         }
                     }
                 }
+                else {
+                    ContentView()
+                }
             }
-            else {
-                ContentView()
-            }
+
         }
         .navigationBarTitle("旅行者")
     }
