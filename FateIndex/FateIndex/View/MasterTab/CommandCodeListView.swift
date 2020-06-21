@@ -34,6 +34,7 @@ struct CommandCodeListView: View {
                         NavigationLink(destination: CommandCodeDetailView(commandCode: commandCode)) {
                             CommandCodeAlbumnFrameView(commandCode: commandCode)
                         }
+                        .buttonStyle(PlainButtonStyle())
                     }
                 }
                 .frame(minHeight: 174)

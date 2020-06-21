@@ -24,6 +24,7 @@ struct DavinciStoreCraftEssenceListView: View {
                         NavigationLink(destination: CraftEssenceDetailView(craftEssence: craftEssence)) {
                             DavinciStoreCraftEssenceView(craftEssence: craftEssence)
                         }
+                        .buttonStyle(PlainButtonStyle())
                     }
                 }
                 .frame(minHeight: 174)
