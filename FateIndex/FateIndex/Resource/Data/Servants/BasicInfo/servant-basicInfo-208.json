@@ -1,0 +1,31 @@
+{
+    "id": "208",
+    "name": "齐格",
+    "attribute": "中立·善",
+    "illustrator": "近衛乙嗣",
+    "castVoice": "花江夏树",
+    "access": "限时活动免费获取 活动结束后无法获得",
+    "weight": "53kg",
+    "source": "Fate\/Apocrypha",
+    "nickNames": [
+        "齐格君",
+        "齐傲天",
+        "奥特飞"
+    ],
+    "height": "165cm",
+    "region": "罗马尼亚",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "龙",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "173",
+    "name": "夏洛克・福尔摩斯",
+    "attribute": "中立·善",
+    "illustrator": "山中虎鉄",
+    "castVoice": "水岛大宙",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "65kg",
+    "source": "夏洛克·福尔摩斯系列",
+    "nickNames": [
+        "老福"
+    ],
+    "height": "183cm",
+    "region": "英国、全世界",
+    "camp": "星",
+    "tokusei": [
+        "人型"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

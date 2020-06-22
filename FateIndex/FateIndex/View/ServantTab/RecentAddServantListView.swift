@@ -23,41 +23,50 @@ struct RecentAddServantListView: View {
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
-                    VStack(alignment: .center) {
-                        Image("servant_283_status_1")
-                            .resizable()
-                            .clipped()
-                            .frame(width: 100, height: 100)
-                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
+                    NavigationLink(destination: ServantDetailView(servantId: "283")) {
+                        VStack(alignment: .center) {
+                            Image("servant_283_status_1")
+                                .resizable()
+                                .clipped()
+                                .frame(width: 100, height: 100)
+                                .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
 
-                        Text("宇津见艾莉瑟")
+                            Text("宇津见艾莉瑟")
+                        }
+                        .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                        .cornerRadius(12)
                     }
-                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
-                    .cornerRadius(12)
+                    .buttonStyle(PlainButtonStyle())
 
-                    VStack(alignment: .center) {
-                        Image("servant_282_status_1")
-                            .resizable()
-                            .clipped()
-                            .frame(width: 100, height: 100)
-                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
+                    NavigationLink(destination: ServantDetailView(servantId: "282")) {
+                        VStack(alignment: .center) {
+                            Image("servant_282_status_1")
+                                .resizable()
+                                .clipped()
+                                .frame(width: 100, height: 100)
+                                .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
 
-                        Text("鬼女红叶")
+                            Text("鬼女红叶")
+                        }
+                        .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                        .cornerRadius(12)
                     }
-                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
-                    .cornerRadius(12)
+                    .buttonStyle(PlainButtonStyle())
 
-                    VStack(alignment: .center) {
-                        Image("servant_281_status_1")
-                            .resizable()
-                            .clipped()
-                            .frame(width: 100, height: 100)
-                            .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
+                    NavigationLink(destination: ServantDetailView(servantId: "281")) {
+                        VStack(alignment: .center) {
+                            Image("servant_281_status_1")
+                                .resizable()
+                                .clipped()
+                                .frame(width: 100, height: 100)
+                                .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
 
-                        Text("旅行者")
+                            Text("旅行者")
+                        }
+                        .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
+                        .cornerRadius(12)
                     }
-                    .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
-                    .cornerRadius(12)
+                    .buttonStyle(PlainButtonStyle())
                 }
                 .frame(minHeight: 70)
                 .padding(EdgeInsets(top: 0, leading: 16, bottom: 0, trailing: 16))

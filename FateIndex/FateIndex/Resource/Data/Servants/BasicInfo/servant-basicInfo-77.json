@@ -1,0 +1,30 @@
+{
+    "id": "77",
+    "name": "尼古拉・特斯拉",
+    "attribute": "混沌·善",
+    "illustrator": "なまにくATK(ニトロプラス）",
+    "castVoice": "稻田彻",
+    "access": "圣晶石召唤（Story卡池） 剧情第1部第四章通关后加入卡池",
+    "weight": "80kg",
+    "source": "史实",
+    "nickNames": [
+        "祖师爷",
+        "磁暴步兵",
+        "特总"
+    ],
+    "height": "190cm",
+    "region": "欧洲",
+    "camp": "星",
+    "tokusei": [
+        "人型",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

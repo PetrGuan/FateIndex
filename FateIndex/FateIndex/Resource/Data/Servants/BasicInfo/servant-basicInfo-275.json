@@ -1,0 +1,30 @@
+{
+    "id": "275",
+    "name": "杨贵妃",
+    "attribute": "混沌·善",
+    "illustrator": "黒星紅白",
+    "castVoice": "佳村遥",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "45kg",
+    "source": "史实",
+    "nickNames": [
+        "杨玉环"
+    ],
+    "height": "155cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "神性",
+        "从者(天地乖离特攻)",
+        "人类威胁"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

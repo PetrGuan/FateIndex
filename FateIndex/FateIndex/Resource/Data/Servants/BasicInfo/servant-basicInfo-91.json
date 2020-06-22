@@ -1,0 +1,28 @@
+{
+    "id": "91",
+    "name": "两仪式",
+    "attribute": "中立·中庸",
+    "illustrator": "武内崇",
+    "castVoice": "坂本真绫",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "47kg",
+    "source": "空之境界",
+    "nickNames": [
+        "215",
+        "剑式"
+    ],
+    "height": "160cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

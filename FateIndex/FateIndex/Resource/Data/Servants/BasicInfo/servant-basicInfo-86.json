@@ -1,0 +1,33 @@
+{
+    "id": "86",
+    "name": "谜之女主角X",
+    "attribute": "混沌·善",
+    "illustrator": "BUNBUN",
+    "castVoice": "川澄绫子",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "42kg",
+    "source": "2013年的愚人节",
+    "nickNames": [
+        "X毛",
+        "星战呆毛"
+    ],
+    "height": "154cm",
+    "region": "Servant界",
+    "camp": "星",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "龙",
+        "阿尔托莉雅脸",
+        "亚瑟",
+        "王"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

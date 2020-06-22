@@ -1,0 +1,29 @@
+{
+    "id": "36",
+    "name": "沃尔夫冈・阿马德乌斯・莫扎特",
+    "attribute": "中立·善",
+    "illustrator": "PFALZ",
+    "castVoice": "关智一",
+    "access": "友情点召唤",
+    "weight": "65kg",
+    "source": "史实",
+    "nickNames": [
+        "妖精假面",
+        "莫渣特"
+    ],
+    "height": "180cm",
+    "region": "欧州",
+    "camp": "星",
+    "tokusei": [
+        "人型",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

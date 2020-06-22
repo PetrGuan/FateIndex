@@ -1,0 +1,30 @@
+{
+    "id": "10",
+    "name":"骑士迪昂",
+    "attribute": "中立·中庸",
+    "illustrator": "森山大輔",
+    "castVoice": "斋藤千和",
+    "access": "圣晶石召唤",
+    "weight": "45kg",
+    "source": "史实",
+    "nickNames": [
+        "伪娘",
+        "百合剑"
+    ],
+    "height": "157cm",
+    "region": "法国",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "？",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

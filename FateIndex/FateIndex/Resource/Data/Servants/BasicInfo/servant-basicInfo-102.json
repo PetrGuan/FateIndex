@@ -1,0 +1,29 @@
+{
+    "id": "102",
+    "name": "李书文",
+    "attribute": "中立·恶",
+    "illustrator": "ワダアルコ",
+    "castVoice": "安井邦彦",
+    "access": "圣晶石召唤（Story卡池） 剧情第1部第五章通关后加入卡池",
+    "weight": "60kg",
+    "source": "史实",
+    "nickNames": [
+        "李大师",
+        "李老师"
+    ],
+    "height": "166cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

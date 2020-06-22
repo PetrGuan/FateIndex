@@ -1,0 +1,31 @@
+{
+    "id": "50",
+    "name": "斯巴达克斯",
+    "attribute": "中立·中庸",
+    "illustrator": "近衛乙嗣",
+    "castVoice": "鹤冈聪",
+    "access": "友情点召唤",
+    "weight": "165kg",
+    "source": "史实",
+    "nickNames": [
+        "抖M",
+        "微笑兄贵",
+        "爱酱"
+    ],
+    "height": "221cm",
+    "region": "罗马",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "罗马",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

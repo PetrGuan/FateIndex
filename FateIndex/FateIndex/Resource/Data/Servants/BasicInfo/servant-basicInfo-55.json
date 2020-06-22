@@ -1,0 +1,32 @@
+{
+    "id": "55",
+    "name": "大流士三世",
+    "attribute": "秩序·中庸",
+    "illustrator": "PFALZ",
+    "castVoice": "安井邦彦",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "280kg",
+    "source": "史实",
+    "nickNames": [
+        "酋长",
+        "黑无毛",
+        "酒精灯",
+        "大流士三岁"
+    ],
+    "height": "345cm",
+    "region": "西亚",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

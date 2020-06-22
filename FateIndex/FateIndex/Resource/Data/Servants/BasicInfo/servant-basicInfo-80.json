@@ -1,0 +1,29 @@
+{
+    "id": "80",
+    "name": "查尔斯・巴贝奇",
+    "attribute": "混沌·中庸",
+    "illustrator": "I-Ⅳ",
+    "castVoice": "稻田彻",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "500kg超（均包含铠甲）",
+    "source": "史实",
+    "nickNames": [
+        "蒸汽王",
+        "高达"
+    ],
+    "height": "250cm",
+    "region": "欧洲",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

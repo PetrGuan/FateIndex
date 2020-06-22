@@ -1,0 +1,32 @@
+{
+    "id": "220",
+    "name": "BB",
+    "attribute": "混沌·恶",
+    "illustrator": "ワダアルコ",
+    "castVoice": "下屋则子",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "46kg～??",
+    "source": "『Fate\/EXTRA CCC』",
+    "nickNames": [
+        "水BB",
+        "泳BB"
+    ],
+    "height": "156cm～??",
+    "region": "SE.RA.PH",
+    "camp": "地",
+    "tokusei": [
+        "神性",
+        "从者（天地乖离特攻）",
+        "天\/地从者（雷电降临特攻）",
+        "天\/地从者（神秘杀手特攻）",
+        ""
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "170",
+    "name": "不夜城的Assassin",
+    "attribute": "秩序·恶",
+    "illustrator": "原田たけひと",
+    "castVoice": "井泽诗织",
+    "access": "圣晶石召唤",
+    "weight": "35kg",
+    "source": "史实",
+    "nickNames": [
+        "武皇",
+        "媚娘"
+    ],
+    "height": "138cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ]
+}

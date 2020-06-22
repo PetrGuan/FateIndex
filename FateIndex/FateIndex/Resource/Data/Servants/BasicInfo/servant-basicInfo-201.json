@@ -1,0 +1,28 @@
+{
+    "id": "201",
+    "name": "阿纳斯塔西娅",
+    "attribute": "中立·中庸",
+    "illustrator": "sime",
+    "castVoice": "原由实",
+    "access": "圣晶石召唤",
+    "weight": "40kg",
+    "source": "史实",
+    "nickNames": [
+        "皇女"
+    ],
+    "height": "158cm",
+    "region": "俄罗斯",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻)"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

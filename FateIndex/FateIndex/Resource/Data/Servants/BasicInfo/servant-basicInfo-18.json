@@ -1,0 +1,30 @@
+{
+    "id": "18",
+    "name": "伊丽莎白・巴托里",
+    "attribute": "混沌·恶",
+    "illustrator": "ワダアルコ",
+    "castVoice": "大久保瑠美",
+    "access": "圣晶石召唤",
+    "weight": "44kg",
+    "source": "史实",
+    "nickNames": [
+        "龙娘",
+        "爱抖露"
+    ],
+    "height": "154cm",
+    "region": "匈牙利",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "龙",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ]
+}

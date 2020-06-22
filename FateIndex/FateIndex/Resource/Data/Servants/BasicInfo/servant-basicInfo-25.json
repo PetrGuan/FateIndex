@@ -1,0 +1,29 @@
+{
+    "id": "25",
+    "name": "爱德华・蒂奇",
+    "attribute": "混沌·恶",
+    "illustrator": "Bすけ",
+    "castVoice": "西前忠久",
+    "access": "友情点召唤",
+    "weight": "114kg",
+    "source": "史实",
+    "nickNames": [
+        "黑胡子",
+        "死宅"
+    ],
+    "height": "210cm",
+    "region": "加勒比海",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

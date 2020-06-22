@@ -1,0 +1,29 @@
+{
+    "id": "210",
+    "name": "冈田以藏",
+    "attribute": "中立·恶",
+    "illustrator": "lack",
+    "castVoice": "吉野裕行",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "65kg",
+    "source": "史实",
+    "nickNames": [
+        "人斩以藏",
+        "始末犬"
+    ],
+    "height": "174cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

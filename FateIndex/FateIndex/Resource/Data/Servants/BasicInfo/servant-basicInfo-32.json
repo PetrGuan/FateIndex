@@ -1,0 +1,29 @@
+{
+    "id": "32",
+    "name": "吉尔・德・雷",
+    "attribute": "混沌·恶",
+    "illustrator": "Azusa",
+    "castVoice": "鹤冈聪",
+    "access": "圣晶石召唤（Story卡池） 剧情第1部第一章通关后加入卡池",
+    "weight": "70kg",
+    "source": "史实",
+    "nickNames": [
+        "C元帅",
+        "蓝胡子"
+    ],
+    "height": "196cm",
+    "region": "法国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

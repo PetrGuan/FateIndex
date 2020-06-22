@@ -1,0 +1,29 @@
+{
+    "id": "135",
+    "name": "玛尔达",
+    "attribute": "秩序·善",
+    "illustrator": "坂本みねぢ",
+    "castVoice": "早见沙织",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "49kg",
+    "source": "史实、新约圣书",
+    "nickNames": [
+        "马达",
+        "铁拳圣女"
+    ],
+    "height": "161cm",
+    "region": "欧州",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

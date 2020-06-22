@@ -1,0 +1,34 @@
+{
+    "id": "58",
+    "name": "玉藻猫",
+    "attribute": "混沌·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "斋藤千和",
+    "access": "圣晶石召唤",
+    "weight": "52kg",
+    "source": "Fate\/EXTRA CCC",
+    "nickNames": [
+        "B玉",
+        "B狐",
+        "玉藻喵",
+        "喵玉"
+    ],
+    "height": "160cm",
+    "region": "SE.RA.PH",
+    "camp": "地",
+    "tokusei": [
+        "人型",
+        "猛兽",
+        "从者(天地乖离特攻）",
+        "天\/地从者(雷电降临特攻）",
+        "天\/地从者(神秘杀手特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

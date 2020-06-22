@@ -1,0 +1,31 @@
+{
+    "id": "227",
+    "name": "兰陵王",
+    "attribute": "秩序·善",
+    "illustrator": "hou",
+    "castVoice": "森奈奈子",
+    "access": "圣晶石召唤",
+    "weight": "55kg",
+    "source": "北史、北齐书",
+    "nickNames": [
+        "高长恭",
+        "CP厨"
+    ],
+    "height": "172cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "从者(天地乖离特攻)",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

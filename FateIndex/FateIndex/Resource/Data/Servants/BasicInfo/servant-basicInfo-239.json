@@ -1,0 +1,31 @@
+{
+    "id": "239",
+    "name": "迦摩",
+    "attribute": "混沌·恶",
+    "illustrator": "ReDrop",
+    "castVoice": "下屋则子",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "46kg",
+    "source": "印度神话",
+    "nickNames": [
+        "黑樱"
+    ],
+    "height": "156cm",
+    "region": "印度",
+    "camp": "天",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）",
+        "天\/地从者(雷电降临特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ]
+}

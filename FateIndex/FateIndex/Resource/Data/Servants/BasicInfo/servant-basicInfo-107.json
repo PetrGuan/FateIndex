@@ -1,0 +1,29 @@
+{
+    "id": "107",
+    "name": "安哥拉曼纽",
+    "attribute": "混沌·恶",
+    "illustrator": "ネコタワワ",
+    "castVoice": "寺岛拓笃",
+    "access": "友情点召唤",
+    "weight": "58kg",
+    "source": "拜火教",
+    "nickNames": [
+        "小安",
+        "小黑"
+    ],
+    "height": "167cm",
+    "region": "古代波斯",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

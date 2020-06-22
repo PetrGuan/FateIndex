@@ -1,0 +1,29 @@
+{
+    "id": "39",
+    "name": "佐佐木小次郎",
+    "attribute": "中立·恶",
+    "illustrator": "また",
+    "castVoice": "三木真一郎",
+    "access": "友情点召唤",
+    "weight": "63kg",
+    "source": "史实",
+    "nickNames": [
+        "山门大爷",
+        "屠龙剑圣"
+    ],
+    "height": "176cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ]
+}

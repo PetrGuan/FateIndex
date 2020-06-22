@@ -1,0 +1,28 @@
+{
+    "id": "117",
+    "name": "风魔小太郎",
+    "attribute": "混沌·恶",
+    "illustrator": "佐々木少年",
+    "castVoice": "花江夏树",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "49kg",
+    "source": "史实",
+    "nickNames": [
+        "五代风魔"
+    ],
+    "height": "158cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ]
+}

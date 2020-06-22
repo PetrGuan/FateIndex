@@ -1,0 +1,29 @@
+{
+    "id": "276",
+    "name": "清少纳言",
+    "attribute": "混沌·善",
+    "illustrator": "Mika Pikazo",
+    "castVoice": "ファイルーズあい",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "46kg",
+    "source": "史实",
+    "nickNames": [
+        "Switch娘",
+        "VTB"
+    ],
+    "height": "157cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻)"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

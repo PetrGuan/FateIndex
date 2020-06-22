@@ -1,0 +1,28 @@
+{
+    "id": "124",
+    "name": "静谧哈桑",
+    "attribute": "秩序·恶",
+    "illustrator": "中原",
+    "castVoice": "千本木彩花",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "42kg",
+    "source": "史实",
+    "nickNames": [
+        "毒娘"
+    ],
+    "height": "161cm",
+    "region": "中东",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "49",
+    "name": "吕布奉先",
+    "attribute": "混沌·恶",
+    "illustrator": "ワダアルコ",
+    "castVoice": "安井邦彦",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "153kg",
+    "source": "史实",
+    "nickNames": [
+        "吕高达",
+        "马中吕布"
+    ],
+    "height": "225cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

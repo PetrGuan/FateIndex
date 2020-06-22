@@ -1,0 +1,30 @@
+{
+    "id": "269",
+    "name": "灾星简",
+    "attribute": "混沌·中庸",
+    "illustrator": "Bすけ",
+    "castVoice": "东山奈央",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "60kg",
+    "source": "史実",
+    "nickNames": [
+        "野姑娘杰恩"
+    ],
+    "height": "168cm",
+    "region": "从者·宇宙",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "从者(天地乖离特攻)",
+        "所爱之人"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

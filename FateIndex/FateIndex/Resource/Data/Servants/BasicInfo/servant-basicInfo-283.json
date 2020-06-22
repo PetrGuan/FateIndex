@@ -1,0 +1,33 @@
+{
+    "id": "283",
+    "name": "宇津见艾莉瑟",
+    "attribute": "秩序·中庸",
+    "illustrator": "NOCO",
+    "castVoice": "鬼头明里",
+    "access": "限时活动免费获取 活动结束后无法获得",
+    "weight": "48kg",
+    "source": "Fate\/Requiem",
+    "nickNames": [
+        "14岁",
+        "死神",
+        "艾丽瑟"
+    ],
+    "height": "158cm",
+    "region": "日本·mosaic市《秋叶原》、《新宿》",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "神性",
+        "从者(天地乖离特攻)",
+        ""
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

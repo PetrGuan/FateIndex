@@ -1,0 +1,29 @@
+{
+    "id": "166",
+    "name": "BB",
+    "attribute": "混沌·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "下屋则子",
+    "access": "限时活动免费获取 活动结束后无法获得",
+    "weight": "46kg",
+    "source": "『Fate\/EXTRA CCC』",
+    "nickNames": [
+        "2B",
+        "BB酱"
+    ],
+    "height": "156cm",
+    "region": "SE.RA.PH",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者（天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "65",
+    "name": "弗朗西斯・德雷克",
+    "attribute": "混沌·恶",
+    "illustrator": "ワダアルコ",
+    "castVoice": "高乃丽",
+    "access": "圣晶石召唤",
+    "weight": "55kg",
+    "source": "史实",
+    "nickNames": [
+        "海盗船长",
+        "德姐",
+        "BBA"
+    ],
+    "height": "162cm",
+    "region": "英国",
+    "camp": "星",
+    "tokusei": [
+        "骑乘",
+        "人型"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

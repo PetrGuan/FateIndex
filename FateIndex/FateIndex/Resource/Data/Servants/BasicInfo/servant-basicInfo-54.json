@@ -1,0 +1,30 @@
+{
+    "id": "54",
+    "name": "卡利古拉",
+    "attribute": "混沌·恶",
+    "illustrator": "BLACK",
+    "castVoice": "鹤冈聪",
+    "access": "友情点召唤",
+    "weight": "80kg",
+    "source": "史实",
+    "nickNames": [
+        "鬼舅"
+    ],
+    "height": "185cm",
+    "region": "欧洲",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "罗马",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

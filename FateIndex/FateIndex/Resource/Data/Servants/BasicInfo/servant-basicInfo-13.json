@@ -1,0 +1,30 @@
+{
+    "id": "13",
+    "name": "罗宾汉",
+    "attribute": "中立·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "鸟海浩辅",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "65kg",
+    "source": "史实",
+    "nickNames": [
+        "绿茶",
+        "种树茶"
+    ],
+    "height": "175cm",
+    "region": "英国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

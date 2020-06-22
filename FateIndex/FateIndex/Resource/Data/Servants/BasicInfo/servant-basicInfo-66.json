@@ -1,0 +1,28 @@
+{
+    "id": "66",
+    "name": "安妮・伯妮＆玛莉・瑞德",
+    "attribute": "混沌·恶",
+    "illustrator": "I-Ⅳ",
+    "castVoice": "野中蓝&川澄绫子",
+    "access": "圣晶石召唤",
+    "weight": "54kg",
+    "source": "史实",
+    "nickNames": [
+        "骑双子"
+    ],
+    "height": "171cm",
+    "region": "加勒比",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

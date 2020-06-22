@@ -1,0 +1,29 @@
+{
+    "id": "203",
+    "name": "阿维斯布隆",
+    "attribute": "秩序·中庸",
+    "illustrator": "近衛乙嗣",
+    "castVoice": "宫本充",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "52kg",
+    "source": "传说",
+    "nickNames": [
+        "哲学家",
+        "阿维老师"
+    ],
+    "height": "161cm",
+    "region": "欧洲",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

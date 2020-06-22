@@ -1,0 +1,29 @@
+{
+    "id": "169",
+    "name": "不夜城的Caster",
+    "attribute": "秩序·中庸",
+    "illustrator": "なまにくATK(ニトロプラス）",
+    "castVoice": "井上喜久子",
+    "access": "圣晶石召唤",
+    "weight": "58kg",
+    "source": "《一千零一夜》（Arabian Nights）",
+    "nickNames": [
+        "1001",
+        "怂学家"
+    ],
+    "height": "168cm",
+    "region": "波斯",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

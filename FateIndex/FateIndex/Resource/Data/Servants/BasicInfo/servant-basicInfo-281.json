@@ -1,0 +1,27 @@
+{
+    "id": "281",
+    "name": "旅行者",
+    "attribute": "中立·善",
+    "illustrator": "NOCO",
+    "castVoice": "井口裕香",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "26\/40kg",
+    "source": "Fate\/Requiem、史实",
+    "nickNames": [
+        "旅行者"
+    ],
+    "height": "127\/148cm",
+    "region": "北美·美利坚合众国",
+    "camp": "星",
+    "tokusei": [
+        "人型"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

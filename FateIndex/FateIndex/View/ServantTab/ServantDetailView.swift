@@ -13,7 +13,7 @@ struct ServantDetailView: View {
 
     private let segments = ["基础信息", "能力", "技能"]
 
-    private let servantId: String = "1"
+    let servantId: String
 
     var body: some View {
         VStack {
@@ -27,189 +27,7 @@ struct ServantDetailView: View {
                 .pickerStyle(SegmentedPickerStyle())
 
                 if selectedSegment == 0 {
-                    VStack {
-                        Divider()
-                        Image("69px-5星")
-
-                        Image("48px-金卡Foreigner")
-                        Divider()
-
-                        PageView([
-                            Image("servant-\(servantId)-1")
-                            .resizable()
-                            .clipped()
-                            .cornerRadius(12),
-                            Image("servant-\(servantId)-2")
-                            .resizable()
-                            .clipped()
-                            .cornerRadius(12),
-                            Image("servant-\(servantId)-3")
-                            .resizable()
-                            .clipped()
-                            .cornerRadius(12),
-                            Image("servant-\(servantId)-4")
-                            .resizable()
-                            .clipped()
-                            .cornerRadius(12),
-                        ])
-                        .frame(width: UIScreen.main.bounds.size.width, height: UIScreen.main.bounds.size.width * 724 / 512) // 512 724
-
-                        Group {
-                            HStack {
-                                Spacer()
-
-                                VStack {
-                                    Text("画师")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("NOCO")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("声优")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("井口裕香")
-                                }
-
-                                Spacer()
-                            }
-
-                            Divider()
-
-                            HStack {
-                                Spacer()
-
-                                VStack {
-                                    Text("职阶")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("Foreigner")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("性别")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("男性")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("身高")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("随形态变化")
-                                }
-
-                                Spacer()
-                            }
-
-                            Divider()
-
-                            HStack {
-                                Spacer()
-
-                                VStack {
-                                    Text("体重")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("随形态变化")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("属性")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("中立·善")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("隐藏属性")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("星")
-                                }
-
-                                Spacer()
-                            }
-
-                            Divider()
-
-                            HStack {
-                                Spacer()
-
-                                VStack {
-                                    Text("筋力")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("E")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("耐久")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("C")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("敏捷")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("A+")
-                                }
-
-                                Spacer()
-                            }
-
-                            Divider()
-
-                            HStack {
-                                Spacer()
-
-                                VStack {
-                                    Text("魔力")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("B")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("幸运")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("A")
-                                }
-
-                                Spacer()
-
-                                VStack {
-                                    Text("宝具")
-                                        .font(.headline)
-                                        .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
-                                    Text("B")
-                                }
-
-                                Spacer()
-                            }
-                        }
-                    }
+                    basicInfoView()
                 }
                 else {
                     ContentView()
@@ -217,17 +35,27 @@ struct ServantDetailView: View {
             }
 
         }
-        .navigationBarTitle("旅行者")
+        .navigationBarTitle(basicInfoTitle())
     }
 
     private func segmentChange(_ tag: Int) {
         let selectionFeedback = UISelectionFeedbackGenerator()
         selectionFeedback.selectionChanged()
     }
+
+    private func basicInfoView() -> AnyView {
+        let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
+        return AnyView(ServantBasicInfoView(servantBasicInfo: basicInfo))
+    }
+
+    private func basicInfoTitle() -> String {
+        let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
+        return basicInfo.name
+    }
 }
 
 struct ServantDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        ServantDetailView()
+        ServantDetailView(servantId: "1")
     }
 }

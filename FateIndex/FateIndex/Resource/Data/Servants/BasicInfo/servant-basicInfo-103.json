@@ -1,0 +1,30 @@
+{
+    "id": "103",
+    "name": "托马斯・爱迪生",
+    "attribute": "秩序·中庸",
+    "illustrator": "pako",
+    "castVoice": "寺岛拓笃",
+    "access": "圣晶石召唤（Story卡池） 剧情第1部第五章通关后加入卡池",
+    "weight": "88kg",
+    "source": "史实",
+    "nickNames": [
+        "托马狮艾迪牲",
+        "大统王",
+        "发明王"
+    ],
+    "height": "182cm",
+    "region": "北美",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

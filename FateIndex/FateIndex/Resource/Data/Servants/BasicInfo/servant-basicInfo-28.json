@@ -1,0 +1,33 @@
+{
+    "id": "28",
+    "name": "亚历山大",
+    "attribute": "中立·善",
+    "illustrator": "BUNBUN",
+    "castVoice": "坂本真绫",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "40kg",
+    "source": "史实",
+    "nickNames": [
+        "幼帝",
+        "红颜美少年"
+    ],
+    "height": "151cm",
+    "region": "欧洲",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）",
+        "王",
+        "希腊神话系男性"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

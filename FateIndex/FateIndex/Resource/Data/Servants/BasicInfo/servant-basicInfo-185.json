@@ -1,0 +1,30 @@
+{
+    "id": "185",
+    "name": "Assassin Paraiso",
+    "attribute": "混沌·恶",
+    "illustrator": "ひろやまひろし",
+    "castVoice": "佐仓绫音",
+    "access": "圣晶石召唤",
+    "weight": "46kg",
+    "source": "史实",
+    "nickNames": [
+        "蛇巫女"
+    ],
+    "height": "154cm",
+    "region": "日本",
+    "camp": "地",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "天\/地从者(雷电降临特攻）",
+        "天\/地从者(神秘杀手特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

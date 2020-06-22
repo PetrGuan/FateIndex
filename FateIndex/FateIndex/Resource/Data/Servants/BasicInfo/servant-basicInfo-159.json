@@ -1,0 +1,31 @@
+{
+    "id": "159",
+    "name": "新宿的Assassin",
+    "attribute": "混沌·恶",
+    "illustrator": "縞うどん",
+    "castVoice": "冈本信彦",
+    "access": "圣晶石召唤",
+    "weight": "63kg",
+    "source": "《水浒传》",
+    "nickNames": [
+        "燕小乙",
+        "天巧星",
+        "梁山好汉"
+    ],
+    "height": "171cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ]
+}

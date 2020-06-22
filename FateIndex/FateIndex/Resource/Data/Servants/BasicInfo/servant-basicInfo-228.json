@@ -1,0 +1,30 @@
+{
+    "id": "228",
+    "name": "秦良玉",
+    "attribute": "秩序·善",
+    "illustrator": "しまどりる",
+    "castVoice": "下屋则子",
+    "access": "圣晶石召唤",
+    "weight": "46kg",
+    "source": "明史",
+    "nickNames": [
+        "春丽",
+        "包子头"
+    ],
+    "height": "166cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻)",
+        "所爱之人"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "69",
+    "name": "织田信长",
+    "attribute": "秩序·中庸",
+    "illustrator": "pako",
+    "castVoice": "钉宫理惠",
+    "access": "限时活动免费获取 活动结束后无法获得",
+    "weight": "43kg",
+    "source": "史实",
+    "nickNames": [
+        "NOBU",
+        "第六天萌王"
+    ],
+    "height": "152cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

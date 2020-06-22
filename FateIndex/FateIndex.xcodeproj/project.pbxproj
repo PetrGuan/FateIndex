@@ -142,6 +142,288 @@
 		6E79A28D24964E82002FE7B7 /* CommandCodeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E79A28C24964E82002FE7B7 /* CommandCodeDetailView.swift */; };
 		6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */; };
 		6E7EA31C248FD2E5006C0321 /* CommonCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */; };
+		6EBB83B324A0CA1D00D4CD1B /* servant-basicInfo-65.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB829D24A0C9AC00D4CD1B /* servant-basicInfo-65.json */; };
+		6EBB83B424A0CA1D00D4CD1B /* servant-basicInfo-14.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB829E24A0C9AD00D4CD1B /* servant-basicInfo-14.json */; };
+		6EBB83B524A0CA1D00D4CD1B /* servant-basicInfo-100.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB829F24A0C9AD00D4CD1B /* servant-basicInfo-100.json */; };
+		6EBB83B624A0CA1D00D4CD1B /* servant-basicInfo-274.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A024A0C9AE00D4CD1B /* servant-basicInfo-274.json */; };
+		6EBB83B724A0CA1D00D4CD1B /* servant-basicInfo-127.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A124A0C9AE00D4CD1B /* servant-basicInfo-127.json */; };
+		6EBB83B824A0CA1D00D4CD1B /* servant-basicInfo-15.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A224A0C9AE00D4CD1B /* servant-basicInfo-15.json */; };
+		6EBB83B924A0CA1D00D4CD1B /* servant-basicInfo-64.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A324A0C9AF00D4CD1B /* servant-basicInfo-64.json */; };
+		6EBB83BA24A0CA1D00D4CD1B /* servant-basicInfo-140.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A424A0C9AF00D4CD1B /* servant-basicInfo-140.json */; };
+		6EBB83BB24A0CA1D00D4CD1B /* servant-basicInfo-38.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A524A0C9B000D4CD1B /* servant-basicInfo-38.json */; };
+		6EBB83BC24A0CA1D00D4CD1B /* servant-basicInfo-27.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A624A0C9B000D4CD1B /* servant-basicInfo-27.json */; };
+		6EBB83BD24A0CA1D00D4CD1B /* servant-basicInfo-176.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A724A0C9B100D4CD1B /* servant-basicInfo-176.json */; };
+		6EBB83BE24A0CA1D00D4CD1B /* servant-basicInfo-117.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A824A0C9B100D4CD1B /* servant-basicInfo-117.json */; };
+		6EBB83BF24A0CA1D00D4CD1B /* servant-basicInfo-8.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82A924A0C9B200D4CD1B /* servant-basicInfo-8.json */; };
+		6EBB83C024A0CA1D00D4CD1B /* servant-basicInfo-196.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AA24A0C9B200D4CD1B /* servant-basicInfo-196.json */; };
+		6EBB83C124A0CA1D00D4CD1B /* servant-basicInfo-182.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AB24A0C9B300D4CD1B /* servant-basicInfo-182.json */; };
+		6EBB83C224A0CA1D00D4CD1B /* servant-basicInfo-236.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AC24A0C9B300D4CD1B /* servant-basicInfo-236.json */; };
+		6EBB83C324A0CA1D00D4CD1B /* servant-basicInfo-239.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AD24A0C9B400D4CD1B /* servant-basicInfo-239.json */; };
+		6EBB83C424A0CA1D00D4CD1B /* servant-basicInfo-273.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AE24A0C9B400D4CD1B /* servant-basicInfo-273.json */; };
+		6EBB83C524A0CA1D00D4CD1B /* servant-basicInfo-237.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82AF24A0C9B500D4CD1B /* servant-basicInfo-237.json */; };
+		6EBB83C624A0CA1D00D4CD1B /* servant-basicInfo-247.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B024A0C9B500D4CD1B /* servant-basicInfo-247.json */; };
+		6EBB83C724A0CA1D00D4CD1B /* servant-basicInfo-164.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B124A0C9B500D4CD1B /* servant-basicInfo-164.json */; };
+		6EBB83C824A0CA1D00D4CD1B /* servant-basicInfo-105.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B224A0C9B600D4CD1B /* servant-basicInfo-105.json */; };
+		6EBB83C924A0CA1D00D4CD1B /* servant-basicInfo-238.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B324A0C9B600D4CD1B /* servant-basicInfo-238.json */; };
+		6EBB83CA24A0CA1D00D4CD1B /* servant-basicInfo-132.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B424A0C9B700D4CD1B /* servant-basicInfo-132.json */; };
+		6EBB83CB24A0CA1D00D4CD1B /* servant-basicInfo-227.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B524A0C9B700D4CD1B /* servant-basicInfo-227.json */; };
+		6EBB83CC24A0CA1D00D4CD1B /* servant-basicInfo-73.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B624A0C9B800D4CD1B /* servant-basicInfo-73.json */; };
+		6EBB83CD24A0CA1D00D4CD1B /* servant-basicInfo-141.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B724A0C9B800D4CD1B /* servant-basicInfo-141.json */; };
+		6EBB83CE24A0CA1D00D4CD1B /* servant-basicInfo-10.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B824A0C9B900D4CD1B /* servant-basicInfo-10.json */; };
+		6EBB83CF24A0CA1D00D4CD1B /* servant-basicInfo-165.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82B924A0C9B900D4CD1B /* servant-basicInfo-165.json */; };
+		6EBB83D024A0CA1D00D4CD1B /* servant-basicInfo-129.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BA24A0C9BA00D4CD1B /* servant-basicInfo-129.json */; };
+		6EBB83D124A0CA1D00D4CD1B /* servant-basicInfo-197.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BB24A0C9BA00D4CD1B /* servant-basicInfo-197.json */; };
+		6EBB83D224A0CA1D00D4CD1B /* servant-basicInfo-103.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BC24A0C9BA00D4CD1B /* servant-basicInfo-103.json */; };
+		6EBB83D324A0CA1D00D4CD1B /* servant-basicInfo-118.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BD24A0C9BB00D4CD1B /* servant-basicInfo-118.json */; };
+		6EBB83D424A0CA1D00D4CD1B /* servant-basicInfo-261.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BE24A0C9BB00D4CD1B /* servant-basicInfo-261.json */; };
+		6EBB83D524A0CA1D00D4CD1B /* servant-basicInfo-171.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82BF24A0C9BC00D4CD1B /* servant-basicInfo-171.json */; };
+		6EBB83D624A0CA1D00D4CD1B /* servant-basicInfo-189.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C024A0C9BC00D4CD1B /* servant-basicInfo-189.json */; };
+		6EBB83D724A0CA1E00D4CD1B /* servant-basicInfo-98.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C124A0C9BD00D4CD1B /* servant-basicInfo-98.json */; };
+		6EBB83D824A0CA1E00D4CD1B /* servant-basicInfo-24.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C224A0C9BD00D4CD1B /* servant-basicInfo-24.json */; };
+		6EBB83D924A0CA1E00D4CD1B /* servant-basicInfo-87.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C324A0C9BE00D4CD1B /* servant-basicInfo-87.json */; };
+		6EBB83DA24A0CA1E00D4CD1B /* servant-basicInfo-272.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C424A0C9BE00D4CD1B /* servant-basicInfo-272.json */; };
+		6EBB83DB24A0CA1E00D4CD1B /* servant-basicInfo-99.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C524A0C9BF00D4CD1B /* servant-basicInfo-99.json */; };
+		6EBB83DC24A0CA1E00D4CD1B /* servant-basicInfo-283.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C624A0C9BF00D4CD1B /* servant-basicInfo-283.json */; };
+		6EBB83DD24A0CA1E00D4CD1B /* servant-basicInfo-55.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C724A0C9BF00D4CD1B /* servant-basicInfo-55.json */; };
+		6EBB83DE24A0CA1E00D4CD1B /* servant-basicInfo-246.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C824A0C9C000D4CD1B /* servant-basicInfo-246.json */; };
+		6EBB83DF24A0CA1E00D4CD1B /* servant-basicInfo-13.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82C924A0C9C000D4CD1B /* servant-basicInfo-13.json */; };
+		6EBB83E024A0CA1E00D4CD1B /* servant-basicInfo-125.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CA24A0C9C100D4CD1B /* servant-basicInfo-125.json */; };
+		6EBB83E124A0CA1E00D4CD1B /* servant-basicInfo-89.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CB24A0C9C100D4CD1B /* servant-basicInfo-89.json */; };
+		6EBB83E224A0CA1E00D4CD1B /* servant-basicInfo-79.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CC24A0C9C200D4CD1B /* servant-basicInfo-79.json */; };
+		6EBB83E324A0CA1E00D4CD1B /* servant-basicInfo-154.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CD24A0C9C200D4CD1B /* servant-basicInfo-154.json */; };
+		6EBB83E424A0CA1E00D4CD1B /* servant-basicInfo-106.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CE24A0C9C300D4CD1B /* servant-basicInfo-106.json */; };
+		6EBB83E524A0CA1E00D4CD1B /* servant-basicInfo-128.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82CF24A0C9C300D4CD1B /* servant-basicInfo-128.json */; };
+		6EBB83E624A0CA1E00D4CD1B /* servant-basicInfo-1(2).json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D024A0C9C300D4CD1B /* servant-basicInfo-1(2).json */; };
+		6EBB83E724A0CA1E00D4CD1B /* servant-basicInfo-206.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D124A0C9C400D4CD1B /* servant-basicInfo-206.json */; };
+		6EBB83E824A0CA1E00D4CD1B /* servant-basicInfo-242.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D224A0C9C400D4CD1B /* servant-basicInfo-242.json */; };
+		6EBB83E924A0CA1E00D4CD1B /* servant-basicInfo-266.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D324A0C9C500D4CD1B /* servant-basicInfo-266.json */; };
+		6EBB83EA24A0CA1E00D4CD1B /* servant-basicInfo-217.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D424A0C9C500D4CD1B /* servant-basicInfo-217.json */; };
+		6EBB83EB24A0CA1E00D4CD1B /* servant-basicInfo-130.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D524A0C9C600D4CD1B /* servant-basicInfo-130.json */; };
+		6EBB83EC24A0CA1E00D4CD1B /* servant-basicInfo-253.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D624A0C9C600D4CD1B /* servant-basicInfo-253.json */; };
+		6EBB83ED24A0CA1E00D4CD1B /* servant-basicInfo-45.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D724A0C9C700D4CD1B /* servant-basicInfo-45.json */; };
+		6EBB83EE24A0CA1E00D4CD1B /* servant-basicInfo-181.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D824A0C9C700D4CD1B /* servant-basicInfo-181.json */; };
+		6EBB83EF24A0CA1E00D4CD1B /* servant-basicInfo-32.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82D924A0C9C700D4CD1B /* servant-basicInfo-32.json */; };
+		6EBB83F024A0CA1E00D4CD1B /* servant-basicInfo-267.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DA24A0C9C800D4CD1B /* servant-basicInfo-267.json */; };
+		6EBB83F124A0CA1E00D4CD1B /* servant-basicInfo-159.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DB24A0C9C800D4CD1B /* servant-basicInfo-159.json */; };
+		6EBB83F224A0CA1E00D4CD1B /* servant-basicInfo-153.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DC24A0C9C900D4CD1B /* servant-basicInfo-153.json */; };
+		6EBB83F324A0CA1E00D4CD1B /* servant-basicInfo-158.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DD24A0C9C900D4CD1B /* servant-basicInfo-158.json */; };
+		6EBB83F424A0CA1E00D4CD1B /* servant-basicInfo-39.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DE24A0C9CA00D4CD1B /* servant-basicInfo-39.json */; };
+		6EBB83F524A0CA1E00D4CD1B /* servant-basicInfo-109.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82DF24A0C9CA00D4CD1B /* servant-basicInfo-109.json */; };
+		6EBB83F624A0CA1E00D4CD1B /* servant-basicInfo-60.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E024A0C9CB00D4CD1B /* servant-basicInfo-60.json */; };
+		6EBB83F724A0CA1E00D4CD1B /* servant-basicInfo-172.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E124A0C9CB00D4CD1B /* servant-basicInfo-172.json */; };
+		6EBB83F824A0CA1E00D4CD1B /* servant-basicInfo-70.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E224A0C9CC00D4CD1B /* servant-basicInfo-70.json */; };
+		6EBB83F924A0CA1E00D4CD1B /* servant-basicInfo-195.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E324A0C9CC00D4CD1B /* servant-basicInfo-195.json */; };
+		6EBB83FA24A0CA1E00D4CD1B /* servant-basicInfo-185.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E424A0C9CC00D4CD1B /* servant-basicInfo-185.json */; };
+		6EBB83FB24A0CA1E00D4CD1B /* servant-basicInfo-167.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E524A0C9CD00D4CD1B /* servant-basicInfo-167.json */; };
+		6EBB83FC24A0CA1E00D4CD1B /* servant-basicInfo-257.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E624A0C9CD00D4CD1B /* servant-basicInfo-257.json */; };
+		6EBB83FD24A0CA1E00D4CD1B /* servant-basicInfo-111.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E724A0C9CE00D4CD1B /* servant-basicInfo-111.json */; };
+		6EBB83FE24A0CA1E00D4CD1B /* servant-basicInfo-282.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E824A0C9CE00D4CD1B /* servant-basicInfo-282.json */; };
+		6EBB83FF24A0CA1E00D4CD1B /* servant-basicInfo-54.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82E924A0C9CF00D4CD1B /* servant-basicInfo-54.json */; };
+		6EBB840024A0CA1E00D4CD1B /* servant-basicInfo-63.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82EA24A0C9CF00D4CD1B /* servant-basicInfo-63.json */; };
+		6EBB840124A0CA1E00D4CD1B /* servant-basicInfo-58.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82EB24A0C9D000D4CD1B /* servant-basicInfo-58.json */; };
+		6EBB840224A0CA1E00D4CD1B /* servant-basicInfo-72.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82EC24A0C9D000D4CD1B /* servant-basicInfo-72.json */; };
+		6EBB840324A0CA1E00D4CD1B /* servant-basicInfo-279.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82ED24A0C9D000D4CD1B /* servant-basicInfo-279.json */; };
+		6EBB840424A0CA1E00D4CD1B /* servant-basicInfo-162.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82EE24A0C9D100D4CD1B /* servant-basicInfo-162.json */; };
+		6EBB840524A0CA1E00D4CD1B /* servant-basicInfo-123.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82EF24A0C9D100D4CD1B /* servant-basicInfo-123.json */; };
+		6EBB840624A0CA1E00D4CD1B /* servant-basicInfo-4.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F024A0C9D200D4CD1B /* servant-basicInfo-4.json */; };
+		6EBB840724A0CA1E00D4CD1B /* servant-basicInfo-191.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F124A0C9D200D4CD1B /* servant-basicInfo-191.json */; };
+		6EBB840824A0CA1E00D4CD1B /* servant-basicInfo-146.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F224A0C9D300D4CD1B /* servant-basicInfo-146.json */; };
+		6EBB840924A0CA1E00D4CD1B /* servant-basicInfo-281.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F324A0C9D300D4CD1B /* servant-basicInfo-281.json */; };
+		6EBB840A24A0CA1E00D4CD1B /* servant-basicInfo-157.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F424A0C9D400D4CD1B /* servant-basicInfo-157.json */; };
+		6EBB840B24A0CA1E00D4CD1B /* servant-basicInfo-188.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F524A0C9D400D4CD1B /* servant-basicInfo-188.json */; };
+		6EBB840C24A0CA1E00D4CD1B /* servant-basicInfo-113.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F624A0C9D500D4CD1B /* servant-basicInfo-113.json */; };
+		6EBB840D24A0CA1E00D4CD1B /* servant-basicInfo-133.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F724A0C9D500D4CD1B /* servant-basicInfo-133.json */; };
+		6EBB840E24A0CA1E00D4CD1B /* servant-basicInfo-166.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F824A0C9D600D4CD1B /* servant-basicInfo-166.json */; };
+		6EBB840F24A0CA1E00D4CD1B /* servant-basicInfo-184.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82F924A0C9D600D4CD1B /* servant-basicInfo-184.json */; };
+		6EBB841024A0CA1E00D4CD1B /* servant-basicInfo-18.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FA24A0C9D700D4CD1B /* servant-basicInfo-18.json */; };
+		6EBB841124A0CA1E00D4CD1B /* servant-basicInfo-36.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FB24A0C9D700D4CD1B /* servant-basicInfo-36.json */; };
+		6EBB841224A0CA1E00D4CD1B /* servant-basicInfo-214.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FC24A0C9D700D4CD1B /* servant-basicInfo-214.json */; };
+		6EBB841324A0CA1E00D4CD1B /* servant-basicInfo-161.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FD24A0C9D800D4CD1B /* servant-basicInfo-161.json */; };
+		6EBB841424A0CA1E00D4CD1B /* servant-basicInfo-263.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FE24A0C9D800D4CD1B /* servant-basicInfo-263.json */; };
+		6EBB841524A0CA1E00D4CD1B /* servant-basicInfo-121.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB82FF24A0C9D900D4CD1B /* servant-basicInfo-121.json */; };
+		6EBB841624A0CA1E00D4CD1B /* servant-basicInfo-250.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830024A0C9D900D4CD1B /* servant-basicInfo-250.json */; };
+		6EBB841724A0CA1E00D4CD1B /* servant-basicInfo-81.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830124A0C9DA00D4CD1B /* servant-basicInfo-81.json */; };
+		6EBB841824A0CA1E00D4CD1B /* servant-basicInfo-7.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830224A0C9DA00D4CD1B /* servant-basicInfo-7.json */; };
+		6EBB841924A0CA1E00D4CD1B /* servant-basicInfo-277.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830324A0C9DB00D4CD1B /* servant-basicInfo-277.json */; };
+		6EBB841A24A0CA1E00D4CD1B /* servant-basicInfo-101.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830424A0C9DB00D4CD1B /* servant-basicInfo-101.json */; };
+		6EBB841B24A0CA1E00D4CD1B /* servant-basicInfo-252.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830524A0C9DC00D4CD1B /* servant-basicInfo-252.json */; };
+		6EBB841C24A0CA1E00D4CD1B /* servant-basicInfo-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830624A0C9DC00D4CD1B /* servant-basicInfo-1.json */; };
+		6EBB841D24A0CA1E00D4CD1B /* servant-basicInfo-170.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830724A0C9DD00D4CD1B /* servant-basicInfo-170.json */; };
+		6EBB841E24A0CA1E00D4CD1B /* servant-basicInfo-134.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830824A0C9DD00D4CD1B /* servant-basicInfo-134.json */; };
+		6EBB841F24A0CA1E00D4CD1B /* servant-basicInfo-226.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830924A0C9DE00D4CD1B /* servant-basicInfo-226.json */; };
+		6EBB842024A0CA1E00D4CD1B /* servant-basicInfo-52.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830A24A0C9DE00D4CD1B /* servant-basicInfo-52.json */; };
+		6EBB842124A0CA1E00D4CD1B /* servant-basicInfo-91.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830B24A0C9DF00D4CD1B /* servant-basicInfo-91.json */; };
+		6EBB842224A0CA1E00D4CD1B /* servant-basicInfo-198.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830C24A0C9DF00D4CD1B /* servant-basicInfo-198.json */; };
+		6EBB842324A0CA1E00D4CD1B /* servant-basicInfo-255.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830D24A0C9E000D4CD1B /* servant-basicInfo-255.json */; };
+		6EBB842424A0CA1E00D4CD1B /* servant-basicInfo-177.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830E24A0C9E000D4CD1B /* servant-basicInfo-177.json */; };
+		6EBB842524A0CA1E00D4CD1B /* servant-basicInfo-17.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB830F24A0C9E000D4CD1B /* servant-basicInfo-17.json */; };
+		6EBB842624A0CA1E00D4CD1B /* servant-basicInfo-30.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831024A0C9E100D4CD1B /* servant-basicInfo-30.json */; };
+		6EBB842724A0CA1E00D4CD1B /* servant-basicInfo-200.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831124A0C9E100D4CD1B /* servant-basicInfo-200.json */; };
+		6EBB842824A0CA1E00D4CD1B /* servant-basicInfo-202.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831224A0C9E200D4CD1B /* servant-basicInfo-202.json */; };
+		6EBB842924A0CA1E00D4CD1B /* servant-basicInfo-201.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831324A0C9E200D4CD1B /* servant-basicInfo-201.json */; };
+		6EBB842A24A0CA1E00D4CD1B /* servant-basicInfo-245.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831424A0C9E300D4CD1B /* servant-basicInfo-245.json */; };
+		6EBB842B24A0CA1E00D4CD1B /* servant-basicInfo-26.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831524A0C9E300D4CD1B /* servant-basicInfo-26.json */; };
+		6EBB842C24A0CA1E00D4CD1B /* servant-basicInfo-254.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831624A0C9E400D4CD1B /* servant-basicInfo-254.json */; };
+		6EBB842D24A0CA1E00D4CD1B /* servant-basicInfo-269.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831724A0C9E400D4CD1B /* servant-basicInfo-269.json */; };
+		6EBB842E24A0CA1E00D4CD1B /* servant-basicInfo-218.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831824A0C9E500D4CD1B /* servant-basicInfo-218.json */; };
+		6EBB842F24A0CA1E00D4CD1B /* servant-basicInfo-163.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831924A0C9E500D4CD1B /* servant-basicInfo-163.json */; };
+		6EBB843024A0CA1E00D4CD1B /* servant-basicInfo-88.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831A24A0C9E600D4CD1B /* servant-basicInfo-88.json */; };
+		6EBB843124A0CA1E00D4CD1B /* servant-basicInfo-231.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831B24A0C9E600D4CD1B /* servant-basicInfo-231.json */; };
+		6EBB843224A0CA1E00D4CD1B /* servant-basicInfo-207.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831C24A0C9E700D4CD1B /* servant-basicInfo-207.json */; };
+		6EBB843324A0CA1E00D4CD1B /* servant-basicInfo-41.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831D24A0C9E700D4CD1B /* servant-basicInfo-41.json */; };
+		6EBB843424A0CA1E00D4CD1B /* servant-basicInfo-232.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831E24A0C9E800D4CD1B /* servant-basicInfo-232.json */; };
+		6EBB843524A0CA1E00D4CD1B /* servant-basicInfo-180.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB831F24A0C9E800D4CD1B /* servant-basicInfo-180.json */; };
+		6EBB843624A0CA1E00D4CD1B /* servant-basicInfo-190.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832024A0C9E900D4CD1B /* servant-basicInfo-190.json */; };
+		6EBB843724A0CA1E00D4CD1B /* servant-basicInfo-16.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832124A0C9E900D4CD1B /* servant-basicInfo-16.json */; };
+		6EBB843824A0CA1E00D4CD1B /* servant-basicInfo-136.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832224A0C9EA00D4CD1B /* servant-basicInfo-136.json */; };
+		6EBB843924A0CA1E00D4CD1B /* servant-basicInfo-96.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832324A0C9EA00D4CD1B /* servant-basicInfo-96.json */; };
+		6EBB843A24A0CA1E00D4CD1B /* servant-basicInfo-3.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832424A0C9EA00D4CD1B /* servant-basicInfo-3.json */; };
+		6EBB843B24A0CA1E00D4CD1B /* servant-basicInfo-264.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832524A0C9EB00D4CD1B /* servant-basicInfo-264.json */; };
+		6EBB843C24A0CA1E00D4CD1B /* servant-basicInfo-139.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832624A0C9EB00D4CD1B /* servant-basicInfo-139.json */; };
+		6EBB843D24A0CA1E00D4CD1B /* servant-basicInfo-6.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832724A0C9EC00D4CD1B /* servant-basicInfo-6.json */; };
+		6EBB843E24A0CA1E00D4CD1B /* servant-basicInfo-20.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832824A0C9EC00D4CD1B /* servant-basicInfo-20.json */; };
+		6EBB843F24A0CA1E00D4CD1B /* servant-basicInfo-49.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832924A0C9ED00D4CD1B /* servant-basicInfo-49.json */; };
+		6EBB844024A0CA1E00D4CD1B /* servant-basicInfo-179.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832A24A0C9ED00D4CD1B /* servant-basicInfo-179.json */; };
+		6EBB844124A0CA1E00D4CD1B /* servant-basicInfo-243.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832B24A0C9ED00D4CD1B /* servant-basicInfo-243.json */; };
+		6EBB844224A0CA1E00D4CD1B /* servant-basicInfo-260.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832C24A0C9EE00D4CD1B /* servant-basicInfo-260.json */; };
+		6EBB844324A0CA1E00D4CD1B /* servant-basicInfo-178.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832D24A0C9EE00D4CD1B /* servant-basicInfo-178.json */; };
+		6EBB844424A0CA1E00D4CD1B /* servant-basicInfo-25.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832E24A0C9EF00D4CD1B /* servant-basicInfo-25.json */; };
+		6EBB844524A0CA1E00D4CD1B /* servant-basicInfo-57.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB832F24A0C9EF00D4CD1B /* servant-basicInfo-57.json */; };
+		6EBB844624A0CA1E00D4CD1B /* servant-basicInfo-19.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833024A0C9EF00D4CD1B /* servant-basicInfo-19.json */; };
+		6EBB844724A0CA1E00D4CD1B /* servant-basicInfo-5.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833124A0C9F000D4CD1B /* servant-basicInfo-5.json */; };
+		6EBB844824A0CA1E00D4CD1B /* servant-basicInfo-183.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833224A0C9F000D4CD1B /* servant-basicInfo-183.json */; };
+		6EBB844924A0CA1E00D4CD1B /* servant-basicInfo-276.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833324A0C9F000D4CD1B /* servant-basicInfo-276.json */; };
+		6EBB844A24A0CA1E00D4CD1B /* servant-basicInfo-265.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833424A0C9F100D4CD1B /* servant-basicInfo-265.json */; };
+		6EBB844B24A0CA1E00D4CD1B /* servant-basicInfo-12.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833524A0C9F100D4CD1B /* servant-basicInfo-12.json */; };
+		6EBB844C24A0CA1E00D4CD1B /* servant-basicInfo-61.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833624A0C9F100D4CD1B /* servant-basicInfo-61.json */; };
+		6EBB844D24A0CA1E00D4CD1B /* servant-basicInfo-28.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833724A0C9F200D4CD1B /* servant-basicInfo-28.json */; };
+		6EBB844E24A0CA1E00D4CD1B /* servant-basicInfo-251.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833824A0C9F200D4CD1B /* servant-basicInfo-251.json */; };
+		6EBB844F24A0CA1E00D4CD1B /* servant-basicInfo-203.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833924A0C9F200D4CD1B /* servant-basicInfo-203.json */; };
+		6EBB845024A0CA1E00D4CD1B /* servant-basicInfo-173.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833A24A0C9F300D4CD1B /* servant-basicInfo-173.json */; };
+		6EBB845124A0CA1E00D4CD1B /* servant-basicInfo-95.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833B24A0C9F300D4CD1B /* servant-basicInfo-95.json */; };
+		6EBB845224A0CA1E00D4CD1B /* servant-basicInfo-262.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833C24A0C9F300D4CD1B /* servant-basicInfo-262.json */; };
+		6EBB845324A0CA1E00D4CD1B /* servant-basicInfo-77.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833D24A0C9F400D4CD1B /* servant-basicInfo-77.json */; };
+		6EBB845424A0CA1E00D4CD1B /* servant-basicInfo-93.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833E24A0C9F400D4CD1B /* servant-basicInfo-93.json */; };
+		6EBB845524A0CA1E00D4CD1B /* servant-basicInfo-69.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB833F24A0C9F400D4CD1B /* servant-basicInfo-69.json */; };
+		6EBB845624A0CA1E00D4CD1B /* servant-basicInfo-51.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834024A0C9F500D4CD1B /* servant-basicInfo-51.json */; };
+		6EBB845724A0CA1E00D4CD1B /* servant-basicInfo-122.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834124A0C9F500D4CD1B /* servant-basicInfo-122.json */; };
+		6EBB845824A0CA1E00D4CD1B /* servant-basicInfo-115.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834224A0C9F600D4CD1B /* servant-basicInfo-115.json */; };
+		6EBB845924A0CA1E00D4CD1B /* servant-basicInfo-86.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834324A0C9F600D4CD1B /* servant-basicInfo-86.json */; };
+		6EBB845A24A0CA1E00D4CD1B /* servant-basicInfo-221.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834424A0C9F600D4CD1B /* servant-basicInfo-221.json */; };
+		6EBB845B24A0CA1E00D4CD1B /* servant-basicInfo-80.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834524A0C9F700D4CD1B /* servant-basicInfo-80.json */; };
+		6EBB845C24A0CA1E00D4CD1B /* servant-basicInfo-256.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834624A0C9F700D4CD1B /* servant-basicInfo-256.json */; };
+		6EBB845D24A0CA1E00D4CD1B /* servant-basicInfo-102.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834724A0C9F700D4CD1B /* servant-basicInfo-102.json */; };
+		6EBB845E24A0CA1E00D4CD1B /* servant-basicInfo-11.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834824A0C9F800D4CD1B /* servant-basicInfo-11.json */; };
+		6EBB845F24A0CA1E00D4CD1B /* servant-basicInfo-138.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834924A0C9F800D4CD1B /* servant-basicInfo-138.json */; };
+		6EBB846024A0CA1E00D4CD1B /* servant-basicInfo-46.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834A24A0C9F800D4CD1B /* servant-basicInfo-46.json */; };
+		6EBB846124A0CA1E00D4CD1B /* servant-basicInfo-78.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834B24A0C9F900D4CD1B /* servant-basicInfo-78.json */; };
+		6EBB846224A0CA1E00D4CD1B /* servant-basicInfo-268.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834C24A0C9F900D4CD1B /* servant-basicInfo-268.json */; };
+		6EBB846324A0CA1E00D4CD1B /* servant-basicInfo-193.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834D24A0C9F900D4CD1B /* servant-basicInfo-193.json */; };
+		6EBB846424A0CA1E00D4CD1B /* servant-basicInfo-248.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834E24A0C9FA00D4CD1B /* servant-basicInfo-248.json */; };
+		6EBB846524A0CA1E00D4CD1B /* servant-basicInfo-126.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB834F24A0C9FA00D4CD1B /* servant-basicInfo-126.json */; };
+		6EBB846624A0CA1E00D4CD1B /* servant-basicInfo-2.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835024A0C9FA00D4CD1B /* servant-basicInfo-2.json */; };
+		6EBB846724A0CA1E00D4CD1B /* servant-basicInfo-124.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835124A0C9FB00D4CD1B /* servant-basicInfo-124.json */; };
+		6EBB846824A0CA1E00D4CD1B /* servant-basicInfo-84.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835224A0C9FB00D4CD1B /* servant-basicInfo-84.json */; };
+		6EBB846924A0CA1E00D4CD1B /* servant-basicInfo-211.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835324A0C9FC00D4CD1B /* servant-basicInfo-211.json */; };
+		6EBB846A24A0CA1E00D4CD1B /* servant-basicInfo-21.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835424A0C9FC00D4CD1B /* servant-basicInfo-21.json */; };
+		6EBB846B24A0CA1E00D4CD1B /* servant-basicInfo-222.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835524A0C9FC00D4CD1B /* servant-basicInfo-222.json */; };
+		6EBB846C24A0CA1E00D4CD1B /* servant-basicInfo-169.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835624A0C9FD00D4CD1B /* servant-basicInfo-169.json */; };
+		6EBB846D24A0CA1E00D4CD1B /* servant-basicInfo-280.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835724A0C9FD00D4CD1B /* servant-basicInfo-280.json */; };
+		6EBB846E24A0CA1E00D4CD1B /* servant-basicInfo-90.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835824A0C9FD00D4CD1B /* servant-basicInfo-90.json */; };
+		6EBB846F24A0CA1E00D4CD1B /* servant-basicInfo-223.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835924A0C9FE00D4CD1B /* servant-basicInfo-223.json */; };
+		6EBB847024A0CA1E00D4CD1B /* servant-basicInfo-42.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835A24A0C9FE00D4CD1B /* servant-basicInfo-42.json */; };
+		6EBB847124A0CA1E00D4CD1B /* servant-basicInfo-43.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835B24A0C9FE00D4CD1B /* servant-basicInfo-43.json */; };
+		6EBB847224A0CA1E00D4CD1B /* servant-basicInfo-50.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835C24A0C9FF00D4CD1B /* servant-basicInfo-50.json */; };
+		6EBB847324A0CA1E00D4CD1B /* servant-basicInfo-205.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835D24A0C9FF00D4CD1B /* servant-basicInfo-205.json */; };
+		6EBB847424A0CA1E00D4CD1B /* servant-basicInfo-228.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835E24A0C9FF00D4CD1B /* servant-basicInfo-228.json */; };
+		6EBB847524A0CA1E00D4CD1B /* servant-basicInfo-40.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB835F24A0CA0000D4CD1B /* servant-basicInfo-40.json */; };
+		6EBB847624A0CA1E00D4CD1B /* servant-basicInfo-224.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836024A0CA0000D4CD1B /* servant-basicInfo-224.json */; };
+		6EBB847724A0CA1E00D4CD1B /* servant-basicInfo-160.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836124A0CA0000D4CD1B /* servant-basicInfo-160.json */; };
+		6EBB847824A0CA1E00D4CD1B /* servant-basicInfo-275.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836224A0CA0100D4CD1B /* servant-basicInfo-275.json */; };
+		6EBB847924A0CA1E00D4CD1B /* servant-basicInfo-71.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836324A0CA0100D4CD1B /* servant-basicInfo-71.json */; };
+		6EBB847A24A0CA1E00D4CD1B /* servant-basicInfo-107.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836424A0CA0200D4CD1B /* servant-basicInfo-107.json */; };
+		6EBB847B24A0CA1E00D4CD1B /* servant-basicInfo-208.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836524A0CA0200D4CD1B /* servant-basicInfo-208.json */; };
+		6EBB847C24A0CA1E00D4CD1B /* servant-basicInfo-67.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836624A0CA0200D4CD1B /* servant-basicInfo-67.json */; };
+		6EBB847D24A0CA1E00D4CD1B /* servant-basicInfo-48.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836724A0CA0300D4CD1B /* servant-basicInfo-48.json */; };
+		6EBB847E24A0CA1E00D4CD1B /* servant-basicInfo-186.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836824A0CA0300D4CD1B /* servant-basicInfo-186.json */; };
+		6EBB847F24A0CA1E00D4CD1B /* servant-basicInfo-33.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836924A0CA0300D4CD1B /* servant-basicInfo-33.json */; };
+		6EBB848024A0CA1E00D4CD1B /* servant-basicInfo-213.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836A24A0CA0400D4CD1B /* servant-basicInfo-213.json */; };
+		6EBB848124A0CA1E00D4CD1B /* servant-basicInfo-219.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836B24A0CA0400D4CD1B /* servant-basicInfo-219.json */; };
+		6EBB848224A0CA1E00D4CD1B /* servant-basicInfo-131.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836C24A0CA0400D4CD1B /* servant-basicInfo-131.json */; };
+		6EBB848324A0CA1E00D4CD1B /* servant-basicInfo-120.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836D24A0CA0500D4CD1B /* servant-basicInfo-120.json */; };
+		6EBB848424A0CA1E00D4CD1B /* servant-basicInfo-85.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836E24A0CA0500D4CD1B /* servant-basicInfo-85.json */; };
+		6EBB848524A0CA1E00D4CD1B /* servant-basicInfo-155.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB836F24A0CA0500D4CD1B /* servant-basicInfo-155.json */; };
+		6EBB848624A0CA1E00D4CD1B /* servant-basicInfo-9.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837024A0CA0600D4CD1B /* servant-basicInfo-9.json */; };
+		6EBB848724A0CA1E00D4CD1B /* servant-basicInfo-204.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837124A0CA0600D4CD1B /* servant-basicInfo-204.json */; };
+		6EBB848824A0CA1E00D4CD1B /* servant-basicInfo-175.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837224A0CA0600D4CD1B /* servant-basicInfo-175.json */; };
+		6EBB848924A0CA1E00D4CD1B /* servant-basicInfo-150.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837324A0CA0700D4CD1B /* servant-basicInfo-150.json */; };
+		6EBB848A24A0CA1E00D4CD1B /* servant-basicInfo-271.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837424A0CA0700D4CD1B /* servant-basicInfo-271.json */; };
+		6EBB848B24A0CA1E00D4CD1B /* servant-basicInfo-135.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837524A0CA0800D4CD1B /* servant-basicInfo-135.json */; };
+		6EBB848C24A0CA1E00D4CD1B /* servant-basicInfo-35.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837624A0CA0800D4CD1B /* servant-basicInfo-35.json */; };
+		6EBB848D24A0CA1E00D4CD1B /* servant-basicInfo-82.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837724A0CA0800D4CD1B /* servant-basicInfo-82.json */; };
+		6EBB848E24A0CA1E00D4CD1B /* servant-basicInfo-34.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837824A0CA0900D4CD1B /* servant-basicInfo-34.json */; };
+		6EBB848F24A0CA1E00D4CD1B /* servant-basicInfo-225.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837924A0CA0900D4CD1B /* servant-basicInfo-225.json */; };
+		6EBB849024A0CA1E00D4CD1B /* servant-basicInfo-44.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837A24A0CA0900D4CD1B /* servant-basicInfo-44.json */; };
+		6EBB849124A0CA1E00D4CD1B /* servant-basicInfo-278.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837B24A0CA0A00D4CD1B /* servant-basicInfo-278.json */; };
+		6EBB849224A0CA1E00D4CD1B /* servant-basicInfo-114.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837C24A0CA0A00D4CD1B /* servant-basicInfo-114.json */; };
+		6EBB849324A0CA1E00D4CD1B /* servant-basicInfo-270.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837D24A0CA0A00D4CD1B /* servant-basicInfo-270.json */; };
+		6EBB849424A0CA1E00D4CD1B /* servant-basicInfo-119.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837E24A0CA0B00D4CD1B /* servant-basicInfo-119.json */; };
+		6EBB849524A0CA1E00D4CD1B /* servant-basicInfo-37.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB837F24A0CA0B00D4CD1B /* servant-basicInfo-37.json */; };
+		6EBB849624A0CA1E00D4CD1B /* servant-basicInfo-47.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838024A0CA0B00D4CD1B /* servant-basicInfo-47.json */; };
+		6EBB849724A0CA1E00D4CD1B /* servant-basicInfo-199.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838124A0CA0C00D4CD1B /* servant-basicInfo-199.json */; };
+		6EBB849824A0CA1E00D4CD1B /* servant-basicInfo-209.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838224A0CA0C00D4CD1B /* servant-basicInfo-209.json */; };
+		6EBB849924A0CA1E00D4CD1B /* servant-basicInfo-258.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838324A0CA0C00D4CD1B /* servant-basicInfo-258.json */; };
+		6EBB849A24A0CA1E00D4CD1B /* servant-basicInfo-147.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838424A0CA0D00D4CD1B /* servant-basicInfo-147.json */; };
+		6EBB849B24A0CA1E00D4CD1B /* servant-basicInfo-110.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838524A0CA0D00D4CD1B /* servant-basicInfo-110.json */; };
+		6EBB849C24A0CA1E00D4CD1B /* servant-basicInfo-97.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838624A0CA0E00D4CD1B /* servant-basicInfo-97.json */; };
+		6EBB849D24A0CA1E00D4CD1B /* servant-basicInfo-75.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838724A0CA0E00D4CD1B /* servant-basicInfo-75.json */; };
+		6EBB849E24A0CA1E00D4CD1B /* servant-basicInfo-23.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838824A0CA0E00D4CD1B /* servant-basicInfo-23.json */; };
+		6EBB849F24A0CA1E00D4CD1B /* servant-basicInfo-192.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838924A0CA0F00D4CD1B /* servant-basicInfo-192.json */; };
+		6EBB84A024A0CA1E00D4CD1B /* servant-basicInfo-56.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838A24A0CA0F00D4CD1B /* servant-basicInfo-56.json */; };
+		6EBB84A124A0CA1E00D4CD1B /* servant-basicInfo-235.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838B24A0CA0F00D4CD1B /* servant-basicInfo-235.json */; };
+		6EBB84A224A0CA1E00D4CD1B /* servant-basicInfo-104.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838C24A0CA1000D4CD1B /* servant-basicInfo-104.json */; };
+		6EBB84A324A0CA1E00D4CD1B /* servant-basicInfo-249.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838D24A0CA1000D4CD1B /* servant-basicInfo-249.json */; };
+		6EBB84A424A0CA1E00D4CD1B /* servant-basicInfo-187.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838E24A0CA1000D4CD1B /* servant-basicInfo-187.json */; };
+		6EBB84A524A0CA1E00D4CD1B /* servant-basicInfo-148.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB838F24A0CA1100D4CD1B /* servant-basicInfo-148.json */; };
+		6EBB84A624A0CA1E00D4CD1B /* servant-basicInfo-62.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839024A0CA1100D4CD1B /* servant-basicInfo-62.json */; };
+		6EBB84A724A0CA1E00D4CD1B /* servant-basicInfo-116.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839124A0CA1200D4CD1B /* servant-basicInfo-116.json */; };
+		6EBB84A824A0CA1E00D4CD1B /* servant-basicInfo-212.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839224A0CA1200D4CD1B /* servant-basicInfo-212.json */; };
+		6EBB84A924A0CA1E00D4CD1B /* servant-basicInfo-229.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839324A0CA1200D4CD1B /* servant-basicInfo-229.json */; };
+		6EBB84AA24A0CA1E00D4CD1B /* servant-basicInfo-259.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839424A0CA1300D4CD1B /* servant-basicInfo-259.json */; };
+		6EBB84AB24A0CA1E00D4CD1B /* servant-basicInfo-220.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839524A0CA1300D4CD1B /* servant-basicInfo-220.json */; };
+		6EBB84AC24A0CA1E00D4CD1B /* servant-basicInfo-137.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839624A0CA1300D4CD1B /* servant-basicInfo-137.json */; };
+		6EBB84AD24A0CA1E00D4CD1B /* servant-basicInfo-29.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839724A0CA1400D4CD1B /* servant-basicInfo-29.json */; };
+		6EBB84AE24A0CA1E00D4CD1B /* servant-basicInfo-156.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839824A0CA1400D4CD1B /* servant-basicInfo-156.json */; };
+		6EBB84AF24A0CA1E00D4CD1B /* servant-basicInfo-143.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839924A0CA1400D4CD1B /* servant-basicInfo-143.json */; };
+		6EBB84B024A0CA1E00D4CD1B /* servant-basicInfo-194.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839A24A0CA1500D4CD1B /* servant-basicInfo-194.json */; };
+		6EBB84B124A0CA1E00D4CD1B /* servant-basicInfo-215.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839B24A0CA1500D4CD1B /* servant-basicInfo-215.json */; };
+		6EBB84B224A0CA1E00D4CD1B /* servant-basicInfo-216.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839C24A0CA1600D4CD1B /* servant-basicInfo-216.json */; };
+		6EBB84B324A0CA1E00D4CD1B /* servant-basicInfo-94.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839D24A0CA1600D4CD1B /* servant-basicInfo-94.json */; };
+		6EBB84B424A0CA1E00D4CD1B /* servant-basicInfo-142.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839E24A0CA1600D4CD1B /* servant-basicInfo-142.json */; };
+		6EBB84B524A0CA1E00D4CD1B /* servant-basicInfo-22.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB839F24A0CA1700D4CD1B /* servant-basicInfo-22.json */; };
+		6EBB84B624A0CA1E00D4CD1B /* servant-basicInfo-59.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A024A0CA1700D4CD1B /* servant-basicInfo-59.json */; };
+		6EBB84B724A0CA1E00D4CD1B /* servant-basicInfo-234.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A124A0CA1700D4CD1B /* servant-basicInfo-234.json */; };
+		6EBB84B824A0CA1E00D4CD1B /* servant-basicInfo-241.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A224A0CA1800D4CD1B /* servant-basicInfo-241.json */; };
+		6EBB84B924A0CA1E00D4CD1B /* servant-basicInfo-76.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A324A0CA1800D4CD1B /* servant-basicInfo-76.json */; };
+		6EBB84BA24A0CA1E00D4CD1B /* servant-basicInfo-53.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A424A0CA1800D4CD1B /* servant-basicInfo-53.json */; };
+		6EBB84BB24A0CA1E00D4CD1B /* servant-basicInfo-233.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A524A0CA1900D4CD1B /* servant-basicInfo-233.json */; };
+		6EBB84BC24A0CA1E00D4CD1B /* servant-basicInfo-92.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A624A0CA1900D4CD1B /* servant-basicInfo-92.json */; };
+		6EBB84BD24A0CA1E00D4CD1B /* servant-basicInfo-244.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A724A0CA1900D4CD1B /* servant-basicInfo-244.json */; };
+		6EBB84BE24A0CA1E00D4CD1B /* servant-basicInfo-230.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A824A0CA1A00D4CD1B /* servant-basicInfo-230.json */; };
+		6EBB84BF24A0CA1E00D4CD1B /* servant-basicInfo-112.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83A924A0CA1A00D4CD1B /* servant-basicInfo-112.json */; };
+		6EBB84C024A0CA1E00D4CD1B /* servant-basicInfo-108.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AA24A0CA1B00D4CD1B /* servant-basicInfo-108.json */; };
+		6EBB84C124A0CA1E00D4CD1B /* servant-basicInfo-31.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AB24A0CA1B00D4CD1B /* servant-basicInfo-31.json */; };
+		6EBB84C224A0CA1E00D4CD1B /* servant-basicInfo-145.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AC24A0CA1B00D4CD1B /* servant-basicInfo-145.json */; };
+		6EBB84C324A0CA1E00D4CD1B /* servant-basicInfo-144.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AD24A0CA1C00D4CD1B /* servant-basicInfo-144.json */; };
+		6EBB84C424A0CA1E00D4CD1B /* servant-basicInfo-74.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AE24A0CA1C00D4CD1B /* servant-basicInfo-74.json */; };
+		6EBB84C524A0CA1E00D4CD1B /* servant-basicInfo-210.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83AF24A0CA1C00D4CD1B /* servant-basicInfo-210.json */; };
+		6EBB84C624A0CA1E00D4CD1B /* servant-basicInfo-174.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83B024A0CA1D00D4CD1B /* servant-basicInfo-174.json */; };
+		6EBB84C724A0CA1E00D4CD1B /* servant-basicInfo-68.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83B124A0CA1D00D4CD1B /* servant-basicInfo-68.json */; };
+		6EBB84C824A0CA1E00D4CD1B /* servant-basicInfo-66.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBB83B224A0CA1D00D4CD1B /* servant-basicInfo-66.json */; };
+		6EBB84CA24A0CC4800D4CD1B /* ServantBasicInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84C924A0CC4800D4CD1B /* ServantBasicInfo.swift */; };
+		6EBB84CC24A0CCB200D4CD1B /* ServantStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */; };
+		6EBB84CE24A0CF6D00D4CD1B /* ServantStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */; };
+		6EBB84D024A0D24D00D4CD1B /* ServantBasicInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */; };
 		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
 		6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */; };
@@ -309,6 +591,288 @@
 		6E79A28C24964E82002FE7B7 /* CommandCodeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandCodeDetailView.swift; sourceTree = "<group>"; };
 		6E7EA319248FD1A4006C0321 /* MysticCodeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeDetailView.swift; sourceTree = "<group>"; };
 		6E7EA31B248FD2E5006C0321 /* CommonCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonCellView.swift; sourceTree = "<group>"; };
+		6EBB829D24A0C9AC00D4CD1B /* servant-basicInfo-65.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-65.json"; sourceTree = "<group>"; };
+		6EBB829E24A0C9AD00D4CD1B /* servant-basicInfo-14.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-14.json"; sourceTree = "<group>"; };
+		6EBB829F24A0C9AD00D4CD1B /* servant-basicInfo-100.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-100.json"; sourceTree = "<group>"; };
+		6EBB82A024A0C9AE00D4CD1B /* servant-basicInfo-274.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-274.json"; sourceTree = "<group>"; };
+		6EBB82A124A0C9AE00D4CD1B /* servant-basicInfo-127.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-127.json"; sourceTree = "<group>"; };
+		6EBB82A224A0C9AE00D4CD1B /* servant-basicInfo-15.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-15.json"; sourceTree = "<group>"; };
+		6EBB82A324A0C9AF00D4CD1B /* servant-basicInfo-64.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-64.json"; sourceTree = "<group>"; };
+		6EBB82A424A0C9AF00D4CD1B /* servant-basicInfo-140.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-140.json"; sourceTree = "<group>"; };
+		6EBB82A524A0C9B000D4CD1B /* servant-basicInfo-38.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-38.json"; sourceTree = "<group>"; };
+		6EBB82A624A0C9B000D4CD1B /* servant-basicInfo-27.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-27.json"; sourceTree = "<group>"; };
+		6EBB82A724A0C9B100D4CD1B /* servant-basicInfo-176.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-176.json"; sourceTree = "<group>"; };
+		6EBB82A824A0C9B100D4CD1B /* servant-basicInfo-117.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-117.json"; sourceTree = "<group>"; };
+		6EBB82A924A0C9B200D4CD1B /* servant-basicInfo-8.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-8.json"; sourceTree = "<group>"; };
+		6EBB82AA24A0C9B200D4CD1B /* servant-basicInfo-196.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-196.json"; sourceTree = "<group>"; };
+		6EBB82AB24A0C9B300D4CD1B /* servant-basicInfo-182.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-182.json"; sourceTree = "<group>"; };
+		6EBB82AC24A0C9B300D4CD1B /* servant-basicInfo-236.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-236.json"; sourceTree = "<group>"; };
+		6EBB82AD24A0C9B400D4CD1B /* servant-basicInfo-239.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-239.json"; sourceTree = "<group>"; };
+		6EBB82AE24A0C9B400D4CD1B /* servant-basicInfo-273.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-273.json"; sourceTree = "<group>"; };
+		6EBB82AF24A0C9B500D4CD1B /* servant-basicInfo-237.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-237.json"; sourceTree = "<group>"; };
+		6EBB82B024A0C9B500D4CD1B /* servant-basicInfo-247.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-247.json"; sourceTree = "<group>"; };
+		6EBB82B124A0C9B500D4CD1B /* servant-basicInfo-164.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-164.json"; sourceTree = "<group>"; };
+		6EBB82B224A0C9B600D4CD1B /* servant-basicInfo-105.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-105.json"; sourceTree = "<group>"; };
+		6EBB82B324A0C9B600D4CD1B /* servant-basicInfo-238.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-238.json"; sourceTree = "<group>"; };
+		6EBB82B424A0C9B700D4CD1B /* servant-basicInfo-132.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-132.json"; sourceTree = "<group>"; };
+		6EBB82B524A0C9B700D4CD1B /* servant-basicInfo-227.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-227.json"; sourceTree = "<group>"; };
+		6EBB82B624A0C9B800D4CD1B /* servant-basicInfo-73.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-73.json"; sourceTree = "<group>"; };
+		6EBB82B724A0C9B800D4CD1B /* servant-basicInfo-141.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-141.json"; sourceTree = "<group>"; };
+		6EBB82B824A0C9B900D4CD1B /* servant-basicInfo-10.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-10.json"; sourceTree = "<group>"; };
+		6EBB82B924A0C9B900D4CD1B /* servant-basicInfo-165.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-165.json"; sourceTree = "<group>"; };
+		6EBB82BA24A0C9BA00D4CD1B /* servant-basicInfo-129.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-129.json"; sourceTree = "<group>"; };
+		6EBB82BB24A0C9BA00D4CD1B /* servant-basicInfo-197.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-197.json"; sourceTree = "<group>"; };
+		6EBB82BC24A0C9BA00D4CD1B /* servant-basicInfo-103.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-103.json"; sourceTree = "<group>"; };
+		6EBB82BD24A0C9BB00D4CD1B /* servant-basicInfo-118.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-118.json"; sourceTree = "<group>"; };
+		6EBB82BE24A0C9BB00D4CD1B /* servant-basicInfo-261.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-261.json"; sourceTree = "<group>"; };
+		6EBB82BF24A0C9BC00D4CD1B /* servant-basicInfo-171.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-171.json"; sourceTree = "<group>"; };
+		6EBB82C024A0C9BC00D4CD1B /* servant-basicInfo-189.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-189.json"; sourceTree = "<group>"; };
+		6EBB82C124A0C9BD00D4CD1B /* servant-basicInfo-98.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-98.json"; sourceTree = "<group>"; };
+		6EBB82C224A0C9BD00D4CD1B /* servant-basicInfo-24.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-24.json"; sourceTree = "<group>"; };
+		6EBB82C324A0C9BE00D4CD1B /* servant-basicInfo-87.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-87.json"; sourceTree = "<group>"; };
+		6EBB82C424A0C9BE00D4CD1B /* servant-basicInfo-272.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-272.json"; sourceTree = "<group>"; };
+		6EBB82C524A0C9BF00D4CD1B /* servant-basicInfo-99.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-99.json"; sourceTree = "<group>"; };
+		6EBB82C624A0C9BF00D4CD1B /* servant-basicInfo-283.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-283.json"; sourceTree = "<group>"; };
+		6EBB82C724A0C9BF00D4CD1B /* servant-basicInfo-55.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-55.json"; sourceTree = "<group>"; };
+		6EBB82C824A0C9C000D4CD1B /* servant-basicInfo-246.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-246.json"; sourceTree = "<group>"; };
+		6EBB82C924A0C9C000D4CD1B /* servant-basicInfo-13.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-13.json"; sourceTree = "<group>"; };
+		6EBB82CA24A0C9C100D4CD1B /* servant-basicInfo-125.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-125.json"; sourceTree = "<group>"; };
+		6EBB82CB24A0C9C100D4CD1B /* servant-basicInfo-89.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-89.json"; sourceTree = "<group>"; };
+		6EBB82CC24A0C9C200D4CD1B /* servant-basicInfo-79.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-79.json"; sourceTree = "<group>"; };
+		6EBB82CD24A0C9C200D4CD1B /* servant-basicInfo-154.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-154.json"; sourceTree = "<group>"; };
+		6EBB82CE24A0C9C300D4CD1B /* servant-basicInfo-106.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-106.json"; sourceTree = "<group>"; };
+		6EBB82CF24A0C9C300D4CD1B /* servant-basicInfo-128.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-128.json"; sourceTree = "<group>"; };
+		6EBB82D024A0C9C300D4CD1B /* servant-basicInfo-1(2).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-1(2).json"; sourceTree = "<group>"; };
+		6EBB82D124A0C9C400D4CD1B /* servant-basicInfo-206.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-206.json"; sourceTree = "<group>"; };
+		6EBB82D224A0C9C400D4CD1B /* servant-basicInfo-242.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-242.json"; sourceTree = "<group>"; };
+		6EBB82D324A0C9C500D4CD1B /* servant-basicInfo-266.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-266.json"; sourceTree = "<group>"; };
+		6EBB82D424A0C9C500D4CD1B /* servant-basicInfo-217.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-217.json"; sourceTree = "<group>"; };
+		6EBB82D524A0C9C600D4CD1B /* servant-basicInfo-130.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-130.json"; sourceTree = "<group>"; };
+		6EBB82D624A0C9C600D4CD1B /* servant-basicInfo-253.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-253.json"; sourceTree = "<group>"; };
+		6EBB82D724A0C9C700D4CD1B /* servant-basicInfo-45.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-45.json"; sourceTree = "<group>"; };
+		6EBB82D824A0C9C700D4CD1B /* servant-basicInfo-181.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-181.json"; sourceTree = "<group>"; };
+		6EBB82D924A0C9C700D4CD1B /* servant-basicInfo-32.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-32.json"; sourceTree = "<group>"; };
+		6EBB82DA24A0C9C800D4CD1B /* servant-basicInfo-267.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-267.json"; sourceTree = "<group>"; };
+		6EBB82DB24A0C9C800D4CD1B /* servant-basicInfo-159.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-159.json"; sourceTree = "<group>"; };
+		6EBB82DC24A0C9C900D4CD1B /* servant-basicInfo-153.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-153.json"; sourceTree = "<group>"; };
+		6EBB82DD24A0C9C900D4CD1B /* servant-basicInfo-158.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-158.json"; sourceTree = "<group>"; };
+		6EBB82DE24A0C9CA00D4CD1B /* servant-basicInfo-39.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-39.json"; sourceTree = "<group>"; };
+		6EBB82DF24A0C9CA00D4CD1B /* servant-basicInfo-109.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-109.json"; sourceTree = "<group>"; };
+		6EBB82E024A0C9CB00D4CD1B /* servant-basicInfo-60.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-60.json"; sourceTree = "<group>"; };
+		6EBB82E124A0C9CB00D4CD1B /* servant-basicInfo-172.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-172.json"; sourceTree = "<group>"; };
+		6EBB82E224A0C9CC00D4CD1B /* servant-basicInfo-70.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-70.json"; sourceTree = "<group>"; };
+		6EBB82E324A0C9CC00D4CD1B /* servant-basicInfo-195.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-195.json"; sourceTree = "<group>"; };
+		6EBB82E424A0C9CC00D4CD1B /* servant-basicInfo-185.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-185.json"; sourceTree = "<group>"; };
+		6EBB82E524A0C9CD00D4CD1B /* servant-basicInfo-167.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-167.json"; sourceTree = "<group>"; };
+		6EBB82E624A0C9CD00D4CD1B /* servant-basicInfo-257.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-257.json"; sourceTree = "<group>"; };
+		6EBB82E724A0C9CE00D4CD1B /* servant-basicInfo-111.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-111.json"; sourceTree = "<group>"; };
+		6EBB82E824A0C9CE00D4CD1B /* servant-basicInfo-282.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-282.json"; sourceTree = "<group>"; };
+		6EBB82E924A0C9CF00D4CD1B /* servant-basicInfo-54.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-54.json"; sourceTree = "<group>"; };
+		6EBB82EA24A0C9CF00D4CD1B /* servant-basicInfo-63.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-63.json"; sourceTree = "<group>"; };
+		6EBB82EB24A0C9D000D4CD1B /* servant-basicInfo-58.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-58.json"; sourceTree = "<group>"; };
+		6EBB82EC24A0C9D000D4CD1B /* servant-basicInfo-72.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-72.json"; sourceTree = "<group>"; };
+		6EBB82ED24A0C9D000D4CD1B /* servant-basicInfo-279.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-279.json"; sourceTree = "<group>"; };
+		6EBB82EE24A0C9D100D4CD1B /* servant-basicInfo-162.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-162.json"; sourceTree = "<group>"; };
+		6EBB82EF24A0C9D100D4CD1B /* servant-basicInfo-123.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-123.json"; sourceTree = "<group>"; };
+		6EBB82F024A0C9D200D4CD1B /* servant-basicInfo-4.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-4.json"; sourceTree = "<group>"; };
+		6EBB82F124A0C9D200D4CD1B /* servant-basicInfo-191.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-191.json"; sourceTree = "<group>"; };
+		6EBB82F224A0C9D300D4CD1B /* servant-basicInfo-146.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-146.json"; sourceTree = "<group>"; };
+		6EBB82F324A0C9D300D4CD1B /* servant-basicInfo-281.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-281.json"; sourceTree = "<group>"; };
+		6EBB82F424A0C9D400D4CD1B /* servant-basicInfo-157.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-157.json"; sourceTree = "<group>"; };
+		6EBB82F524A0C9D400D4CD1B /* servant-basicInfo-188.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-188.json"; sourceTree = "<group>"; };
+		6EBB82F624A0C9D500D4CD1B /* servant-basicInfo-113.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-113.json"; sourceTree = "<group>"; };
+		6EBB82F724A0C9D500D4CD1B /* servant-basicInfo-133.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-133.json"; sourceTree = "<group>"; };
+		6EBB82F824A0C9D600D4CD1B /* servant-basicInfo-166.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-166.json"; sourceTree = "<group>"; };
+		6EBB82F924A0C9D600D4CD1B /* servant-basicInfo-184.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-184.json"; sourceTree = "<group>"; };
+		6EBB82FA24A0C9D700D4CD1B /* servant-basicInfo-18.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-18.json"; sourceTree = "<group>"; };
+		6EBB82FB24A0C9D700D4CD1B /* servant-basicInfo-36.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-36.json"; sourceTree = "<group>"; };
+		6EBB82FC24A0C9D700D4CD1B /* servant-basicInfo-214.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-214.json"; sourceTree = "<group>"; };
+		6EBB82FD24A0C9D800D4CD1B /* servant-basicInfo-161.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-161.json"; sourceTree = "<group>"; };
+		6EBB82FE24A0C9D800D4CD1B /* servant-basicInfo-263.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-263.json"; sourceTree = "<group>"; };
+		6EBB82FF24A0C9D900D4CD1B /* servant-basicInfo-121.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-121.json"; sourceTree = "<group>"; };
+		6EBB830024A0C9D900D4CD1B /* servant-basicInfo-250.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-250.json"; sourceTree = "<group>"; };
+		6EBB830124A0C9DA00D4CD1B /* servant-basicInfo-81.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-81.json"; sourceTree = "<group>"; };
+		6EBB830224A0C9DA00D4CD1B /* servant-basicInfo-7.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-7.json"; sourceTree = "<group>"; };
+		6EBB830324A0C9DB00D4CD1B /* servant-basicInfo-277.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-277.json"; sourceTree = "<group>"; };
+		6EBB830424A0C9DB00D4CD1B /* servant-basicInfo-101.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-101.json"; sourceTree = "<group>"; };
+		6EBB830524A0C9DC00D4CD1B /* servant-basicInfo-252.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-252.json"; sourceTree = "<group>"; };
+		6EBB830624A0C9DC00D4CD1B /* servant-basicInfo-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-1.json"; sourceTree = "<group>"; };
+		6EBB830724A0C9DD00D4CD1B /* servant-basicInfo-170.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-170.json"; sourceTree = "<group>"; };
+		6EBB830824A0C9DD00D4CD1B /* servant-basicInfo-134.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-134.json"; sourceTree = "<group>"; };
+		6EBB830924A0C9DE00D4CD1B /* servant-basicInfo-226.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-226.json"; sourceTree = "<group>"; };
+		6EBB830A24A0C9DE00D4CD1B /* servant-basicInfo-52.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-52.json"; sourceTree = "<group>"; };
+		6EBB830B24A0C9DF00D4CD1B /* servant-basicInfo-91.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-91.json"; sourceTree = "<group>"; };
+		6EBB830C24A0C9DF00D4CD1B /* servant-basicInfo-198.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-198.json"; sourceTree = "<group>"; };
+		6EBB830D24A0C9E000D4CD1B /* servant-basicInfo-255.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-255.json"; sourceTree = "<group>"; };
+		6EBB830E24A0C9E000D4CD1B /* servant-basicInfo-177.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-177.json"; sourceTree = "<group>"; };
+		6EBB830F24A0C9E000D4CD1B /* servant-basicInfo-17.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-17.json"; sourceTree = "<group>"; };
+		6EBB831024A0C9E100D4CD1B /* servant-basicInfo-30.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-30.json"; sourceTree = "<group>"; };
+		6EBB831124A0C9E100D4CD1B /* servant-basicInfo-200.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-200.json"; sourceTree = "<group>"; };
+		6EBB831224A0C9E200D4CD1B /* servant-basicInfo-202.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-202.json"; sourceTree = "<group>"; };
+		6EBB831324A0C9E200D4CD1B /* servant-basicInfo-201.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-201.json"; sourceTree = "<group>"; };
+		6EBB831424A0C9E300D4CD1B /* servant-basicInfo-245.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-245.json"; sourceTree = "<group>"; };
+		6EBB831524A0C9E300D4CD1B /* servant-basicInfo-26.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-26.json"; sourceTree = "<group>"; };
+		6EBB831624A0C9E400D4CD1B /* servant-basicInfo-254.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-254.json"; sourceTree = "<group>"; };
+		6EBB831724A0C9E400D4CD1B /* servant-basicInfo-269.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-269.json"; sourceTree = "<group>"; };
+		6EBB831824A0C9E500D4CD1B /* servant-basicInfo-218.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-218.json"; sourceTree = "<group>"; };
+		6EBB831924A0C9E500D4CD1B /* servant-basicInfo-163.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-163.json"; sourceTree = "<group>"; };
+		6EBB831A24A0C9E600D4CD1B /* servant-basicInfo-88.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-88.json"; sourceTree = "<group>"; };
+		6EBB831B24A0C9E600D4CD1B /* servant-basicInfo-231.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-231.json"; sourceTree = "<group>"; };
+		6EBB831C24A0C9E700D4CD1B /* servant-basicInfo-207.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-207.json"; sourceTree = "<group>"; };
+		6EBB831D24A0C9E700D4CD1B /* servant-basicInfo-41.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-41.json"; sourceTree = "<group>"; };
+		6EBB831E24A0C9E800D4CD1B /* servant-basicInfo-232.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-232.json"; sourceTree = "<group>"; };
+		6EBB831F24A0C9E800D4CD1B /* servant-basicInfo-180.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-180.json"; sourceTree = "<group>"; };
+		6EBB832024A0C9E900D4CD1B /* servant-basicInfo-190.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-190.json"; sourceTree = "<group>"; };
+		6EBB832124A0C9E900D4CD1B /* servant-basicInfo-16.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-16.json"; sourceTree = "<group>"; };
+		6EBB832224A0C9EA00D4CD1B /* servant-basicInfo-136.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-136.json"; sourceTree = "<group>"; };
+		6EBB832324A0C9EA00D4CD1B /* servant-basicInfo-96.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-96.json"; sourceTree = "<group>"; };
+		6EBB832424A0C9EA00D4CD1B /* servant-basicInfo-3.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-3.json"; sourceTree = "<group>"; };
+		6EBB832524A0C9EB00D4CD1B /* servant-basicInfo-264.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-264.json"; sourceTree = "<group>"; };
+		6EBB832624A0C9EB00D4CD1B /* servant-basicInfo-139.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-139.json"; sourceTree = "<group>"; };
+		6EBB832724A0C9EC00D4CD1B /* servant-basicInfo-6.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-6.json"; sourceTree = "<group>"; };
+		6EBB832824A0C9EC00D4CD1B /* servant-basicInfo-20.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-20.json"; sourceTree = "<group>"; };
+		6EBB832924A0C9ED00D4CD1B /* servant-basicInfo-49.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-49.json"; sourceTree = "<group>"; };
+		6EBB832A24A0C9ED00D4CD1B /* servant-basicInfo-179.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-179.json"; sourceTree = "<group>"; };
+		6EBB832B24A0C9ED00D4CD1B /* servant-basicInfo-243.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-243.json"; sourceTree = "<group>"; };
+		6EBB832C24A0C9EE00D4CD1B /* servant-basicInfo-260.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-260.json"; sourceTree = "<group>"; };
+		6EBB832D24A0C9EE00D4CD1B /* servant-basicInfo-178.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-178.json"; sourceTree = "<group>"; };
+		6EBB832E24A0C9EF00D4CD1B /* servant-basicInfo-25.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-25.json"; sourceTree = "<group>"; };
+		6EBB832F24A0C9EF00D4CD1B /* servant-basicInfo-57.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-57.json"; sourceTree = "<group>"; };
+		6EBB833024A0C9EF00D4CD1B /* servant-basicInfo-19.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-19.json"; sourceTree = "<group>"; };
+		6EBB833124A0C9F000D4CD1B /* servant-basicInfo-5.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-5.json"; sourceTree = "<group>"; };
+		6EBB833224A0C9F000D4CD1B /* servant-basicInfo-183.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-183.json"; sourceTree = "<group>"; };
+		6EBB833324A0C9F000D4CD1B /* servant-basicInfo-276.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-276.json"; sourceTree = "<group>"; };
+		6EBB833424A0C9F100D4CD1B /* servant-basicInfo-265.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-265.json"; sourceTree = "<group>"; };
+		6EBB833524A0C9F100D4CD1B /* servant-basicInfo-12.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-12.json"; sourceTree = "<group>"; };
+		6EBB833624A0C9F100D4CD1B /* servant-basicInfo-61.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-61.json"; sourceTree = "<group>"; };
+		6EBB833724A0C9F200D4CD1B /* servant-basicInfo-28.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-28.json"; sourceTree = "<group>"; };
+		6EBB833824A0C9F200D4CD1B /* servant-basicInfo-251.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-251.json"; sourceTree = "<group>"; };
+		6EBB833924A0C9F200D4CD1B /* servant-basicInfo-203.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-203.json"; sourceTree = "<group>"; };
+		6EBB833A24A0C9F300D4CD1B /* servant-basicInfo-173.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-173.json"; sourceTree = "<group>"; };
+		6EBB833B24A0C9F300D4CD1B /* servant-basicInfo-95.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-95.json"; sourceTree = "<group>"; };
+		6EBB833C24A0C9F300D4CD1B /* servant-basicInfo-262.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-262.json"; sourceTree = "<group>"; };
+		6EBB833D24A0C9F400D4CD1B /* servant-basicInfo-77.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-77.json"; sourceTree = "<group>"; };
+		6EBB833E24A0C9F400D4CD1B /* servant-basicInfo-93.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-93.json"; sourceTree = "<group>"; };
+		6EBB833F24A0C9F400D4CD1B /* servant-basicInfo-69.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-69.json"; sourceTree = "<group>"; };
+		6EBB834024A0C9F500D4CD1B /* servant-basicInfo-51.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-51.json"; sourceTree = "<group>"; };
+		6EBB834124A0C9F500D4CD1B /* servant-basicInfo-122.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-122.json"; sourceTree = "<group>"; };
+		6EBB834224A0C9F600D4CD1B /* servant-basicInfo-115.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-115.json"; sourceTree = "<group>"; };
+		6EBB834324A0C9F600D4CD1B /* servant-basicInfo-86.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-86.json"; sourceTree = "<group>"; };
+		6EBB834424A0C9F600D4CD1B /* servant-basicInfo-221.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-221.json"; sourceTree = "<group>"; };
+		6EBB834524A0C9F700D4CD1B /* servant-basicInfo-80.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-80.json"; sourceTree = "<group>"; };
+		6EBB834624A0C9F700D4CD1B /* servant-basicInfo-256.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-256.json"; sourceTree = "<group>"; };
+		6EBB834724A0C9F700D4CD1B /* servant-basicInfo-102.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-102.json"; sourceTree = "<group>"; };
+		6EBB834824A0C9F800D4CD1B /* servant-basicInfo-11.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-11.json"; sourceTree = "<group>"; };
+		6EBB834924A0C9F800D4CD1B /* servant-basicInfo-138.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-138.json"; sourceTree = "<group>"; };
+		6EBB834A24A0C9F800D4CD1B /* servant-basicInfo-46.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-46.json"; sourceTree = "<group>"; };
+		6EBB834B24A0C9F900D4CD1B /* servant-basicInfo-78.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-78.json"; sourceTree = "<group>"; };
+		6EBB834C24A0C9F900D4CD1B /* servant-basicInfo-268.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-268.json"; sourceTree = "<group>"; };
+		6EBB834D24A0C9F900D4CD1B /* servant-basicInfo-193.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-193.json"; sourceTree = "<group>"; };
+		6EBB834E24A0C9FA00D4CD1B /* servant-basicInfo-248.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-248.json"; sourceTree = "<group>"; };
+		6EBB834F24A0C9FA00D4CD1B /* servant-basicInfo-126.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-126.json"; sourceTree = "<group>"; };
+		6EBB835024A0C9FA00D4CD1B /* servant-basicInfo-2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-2.json"; sourceTree = "<group>"; };
+		6EBB835124A0C9FB00D4CD1B /* servant-basicInfo-124.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-124.json"; sourceTree = "<group>"; };
+		6EBB835224A0C9FB00D4CD1B /* servant-basicInfo-84.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-84.json"; sourceTree = "<group>"; };
+		6EBB835324A0C9FC00D4CD1B /* servant-basicInfo-211.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-211.json"; sourceTree = "<group>"; };
+		6EBB835424A0C9FC00D4CD1B /* servant-basicInfo-21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-21.json"; sourceTree = "<group>"; };
+		6EBB835524A0C9FC00D4CD1B /* servant-basicInfo-222.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-222.json"; sourceTree = "<group>"; };
+		6EBB835624A0C9FD00D4CD1B /* servant-basicInfo-169.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-169.json"; sourceTree = "<group>"; };
+		6EBB835724A0C9FD00D4CD1B /* servant-basicInfo-280.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-280.json"; sourceTree = "<group>"; };
+		6EBB835824A0C9FD00D4CD1B /* servant-basicInfo-90.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-90.json"; sourceTree = "<group>"; };
+		6EBB835924A0C9FE00D4CD1B /* servant-basicInfo-223.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-223.json"; sourceTree = "<group>"; };
+		6EBB835A24A0C9FE00D4CD1B /* servant-basicInfo-42.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-42.json"; sourceTree = "<group>"; };
+		6EBB835B24A0C9FE00D4CD1B /* servant-basicInfo-43.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-43.json"; sourceTree = "<group>"; };
+		6EBB835C24A0C9FF00D4CD1B /* servant-basicInfo-50.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-50.json"; sourceTree = "<group>"; };
+		6EBB835D24A0C9FF00D4CD1B /* servant-basicInfo-205.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-205.json"; sourceTree = "<group>"; };
+		6EBB835E24A0C9FF00D4CD1B /* servant-basicInfo-228.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-228.json"; sourceTree = "<group>"; };
+		6EBB835F24A0CA0000D4CD1B /* servant-basicInfo-40.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-40.json"; sourceTree = "<group>"; };
+		6EBB836024A0CA0000D4CD1B /* servant-basicInfo-224.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-224.json"; sourceTree = "<group>"; };
+		6EBB836124A0CA0000D4CD1B /* servant-basicInfo-160.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-160.json"; sourceTree = "<group>"; };
+		6EBB836224A0CA0100D4CD1B /* servant-basicInfo-275.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-275.json"; sourceTree = "<group>"; };
+		6EBB836324A0CA0100D4CD1B /* servant-basicInfo-71.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-71.json"; sourceTree = "<group>"; };
+		6EBB836424A0CA0200D4CD1B /* servant-basicInfo-107.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-107.json"; sourceTree = "<group>"; };
+		6EBB836524A0CA0200D4CD1B /* servant-basicInfo-208.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-208.json"; sourceTree = "<group>"; };
+		6EBB836624A0CA0200D4CD1B /* servant-basicInfo-67.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-67.json"; sourceTree = "<group>"; };
+		6EBB836724A0CA0300D4CD1B /* servant-basicInfo-48.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-48.json"; sourceTree = "<group>"; };
+		6EBB836824A0CA0300D4CD1B /* servant-basicInfo-186.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-186.json"; sourceTree = "<group>"; };
+		6EBB836924A0CA0300D4CD1B /* servant-basicInfo-33.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-33.json"; sourceTree = "<group>"; };
+		6EBB836A24A0CA0400D4CD1B /* servant-basicInfo-213.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-213.json"; sourceTree = "<group>"; };
+		6EBB836B24A0CA0400D4CD1B /* servant-basicInfo-219.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-219.json"; sourceTree = "<group>"; };
+		6EBB836C24A0CA0400D4CD1B /* servant-basicInfo-131.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-131.json"; sourceTree = "<group>"; };
+		6EBB836D24A0CA0500D4CD1B /* servant-basicInfo-120.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-120.json"; sourceTree = "<group>"; };
+		6EBB836E24A0CA0500D4CD1B /* servant-basicInfo-85.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-85.json"; sourceTree = "<group>"; };
+		6EBB836F24A0CA0500D4CD1B /* servant-basicInfo-155.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-155.json"; sourceTree = "<group>"; };
+		6EBB837024A0CA0600D4CD1B /* servant-basicInfo-9.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-9.json"; sourceTree = "<group>"; };
+		6EBB837124A0CA0600D4CD1B /* servant-basicInfo-204.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-204.json"; sourceTree = "<group>"; };
+		6EBB837224A0CA0600D4CD1B /* servant-basicInfo-175.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-175.json"; sourceTree = "<group>"; };
+		6EBB837324A0CA0700D4CD1B /* servant-basicInfo-150.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-150.json"; sourceTree = "<group>"; };
+		6EBB837424A0CA0700D4CD1B /* servant-basicInfo-271.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-271.json"; sourceTree = "<group>"; };
+		6EBB837524A0CA0800D4CD1B /* servant-basicInfo-135.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-135.json"; sourceTree = "<group>"; };
+		6EBB837624A0CA0800D4CD1B /* servant-basicInfo-35.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-35.json"; sourceTree = "<group>"; };
+		6EBB837724A0CA0800D4CD1B /* servant-basicInfo-82.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-82.json"; sourceTree = "<group>"; };
+		6EBB837824A0CA0900D4CD1B /* servant-basicInfo-34.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-34.json"; sourceTree = "<group>"; };
+		6EBB837924A0CA0900D4CD1B /* servant-basicInfo-225.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-225.json"; sourceTree = "<group>"; };
+		6EBB837A24A0CA0900D4CD1B /* servant-basicInfo-44.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-44.json"; sourceTree = "<group>"; };
+		6EBB837B24A0CA0A00D4CD1B /* servant-basicInfo-278.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-278.json"; sourceTree = "<group>"; };
+		6EBB837C24A0CA0A00D4CD1B /* servant-basicInfo-114.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-114.json"; sourceTree = "<group>"; };
+		6EBB837D24A0CA0A00D4CD1B /* servant-basicInfo-270.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-270.json"; sourceTree = "<group>"; };
+		6EBB837E24A0CA0B00D4CD1B /* servant-basicInfo-119.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-119.json"; sourceTree = "<group>"; };
+		6EBB837F24A0CA0B00D4CD1B /* servant-basicInfo-37.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-37.json"; sourceTree = "<group>"; };
+		6EBB838024A0CA0B00D4CD1B /* servant-basicInfo-47.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-47.json"; sourceTree = "<group>"; };
+		6EBB838124A0CA0C00D4CD1B /* servant-basicInfo-199.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-199.json"; sourceTree = "<group>"; };
+		6EBB838224A0CA0C00D4CD1B /* servant-basicInfo-209.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-209.json"; sourceTree = "<group>"; };
+		6EBB838324A0CA0C00D4CD1B /* servant-basicInfo-258.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-258.json"; sourceTree = "<group>"; };
+		6EBB838424A0CA0D00D4CD1B /* servant-basicInfo-147.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-147.json"; sourceTree = "<group>"; };
+		6EBB838524A0CA0D00D4CD1B /* servant-basicInfo-110.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-110.json"; sourceTree = "<group>"; };
+		6EBB838624A0CA0E00D4CD1B /* servant-basicInfo-97.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-97.json"; sourceTree = "<group>"; };
+		6EBB838724A0CA0E00D4CD1B /* servant-basicInfo-75.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-75.json"; sourceTree = "<group>"; };
+		6EBB838824A0CA0E00D4CD1B /* servant-basicInfo-23.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-23.json"; sourceTree = "<group>"; };
+		6EBB838924A0CA0F00D4CD1B /* servant-basicInfo-192.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-192.json"; sourceTree = "<group>"; };
+		6EBB838A24A0CA0F00D4CD1B /* servant-basicInfo-56.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-56.json"; sourceTree = "<group>"; };
+		6EBB838B24A0CA0F00D4CD1B /* servant-basicInfo-235.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-235.json"; sourceTree = "<group>"; };
+		6EBB838C24A0CA1000D4CD1B /* servant-basicInfo-104.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-104.json"; sourceTree = "<group>"; };
+		6EBB838D24A0CA1000D4CD1B /* servant-basicInfo-249.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-249.json"; sourceTree = "<group>"; };
+		6EBB838E24A0CA1000D4CD1B /* servant-basicInfo-187.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-187.json"; sourceTree = "<group>"; };
+		6EBB838F24A0CA1100D4CD1B /* servant-basicInfo-148.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-148.json"; sourceTree = "<group>"; };
+		6EBB839024A0CA1100D4CD1B /* servant-basicInfo-62.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-62.json"; sourceTree = "<group>"; };
+		6EBB839124A0CA1200D4CD1B /* servant-basicInfo-116.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-116.json"; sourceTree = "<group>"; };
+		6EBB839224A0CA1200D4CD1B /* servant-basicInfo-212.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-212.json"; sourceTree = "<group>"; };
+		6EBB839324A0CA1200D4CD1B /* servant-basicInfo-229.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-229.json"; sourceTree = "<group>"; };
+		6EBB839424A0CA1300D4CD1B /* servant-basicInfo-259.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-259.json"; sourceTree = "<group>"; };
+		6EBB839524A0CA1300D4CD1B /* servant-basicInfo-220.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-220.json"; sourceTree = "<group>"; };
+		6EBB839624A0CA1300D4CD1B /* servant-basicInfo-137.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-137.json"; sourceTree = "<group>"; };
+		6EBB839724A0CA1400D4CD1B /* servant-basicInfo-29.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-29.json"; sourceTree = "<group>"; };
+		6EBB839824A0CA1400D4CD1B /* servant-basicInfo-156.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-156.json"; sourceTree = "<group>"; };
+		6EBB839924A0CA1400D4CD1B /* servant-basicInfo-143.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-143.json"; sourceTree = "<group>"; };
+		6EBB839A24A0CA1500D4CD1B /* servant-basicInfo-194.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-194.json"; sourceTree = "<group>"; };
+		6EBB839B24A0CA1500D4CD1B /* servant-basicInfo-215.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-215.json"; sourceTree = "<group>"; };
+		6EBB839C24A0CA1600D4CD1B /* servant-basicInfo-216.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-216.json"; sourceTree = "<group>"; };
+		6EBB839D24A0CA1600D4CD1B /* servant-basicInfo-94.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-94.json"; sourceTree = "<group>"; };
+		6EBB839E24A0CA1600D4CD1B /* servant-basicInfo-142.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-142.json"; sourceTree = "<group>"; };
+		6EBB839F24A0CA1700D4CD1B /* servant-basicInfo-22.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-22.json"; sourceTree = "<group>"; };
+		6EBB83A024A0CA1700D4CD1B /* servant-basicInfo-59.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-59.json"; sourceTree = "<group>"; };
+		6EBB83A124A0CA1700D4CD1B /* servant-basicInfo-234.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-234.json"; sourceTree = "<group>"; };
+		6EBB83A224A0CA1800D4CD1B /* servant-basicInfo-241.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-241.json"; sourceTree = "<group>"; };
+		6EBB83A324A0CA1800D4CD1B /* servant-basicInfo-76.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-76.json"; sourceTree = "<group>"; };
+		6EBB83A424A0CA1800D4CD1B /* servant-basicInfo-53.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-53.json"; sourceTree = "<group>"; };
+		6EBB83A524A0CA1900D4CD1B /* servant-basicInfo-233.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-233.json"; sourceTree = "<group>"; };
+		6EBB83A624A0CA1900D4CD1B /* servant-basicInfo-92.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-92.json"; sourceTree = "<group>"; };
+		6EBB83A724A0CA1900D4CD1B /* servant-basicInfo-244.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-244.json"; sourceTree = "<group>"; };
+		6EBB83A824A0CA1A00D4CD1B /* servant-basicInfo-230.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-230.json"; sourceTree = "<group>"; };
+		6EBB83A924A0CA1A00D4CD1B /* servant-basicInfo-112.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-112.json"; sourceTree = "<group>"; };
+		6EBB83AA24A0CA1B00D4CD1B /* servant-basicInfo-108.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-108.json"; sourceTree = "<group>"; };
+		6EBB83AB24A0CA1B00D4CD1B /* servant-basicInfo-31.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-31.json"; sourceTree = "<group>"; };
+		6EBB83AC24A0CA1B00D4CD1B /* servant-basicInfo-145.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-145.json"; sourceTree = "<group>"; };
+		6EBB83AD24A0CA1C00D4CD1B /* servant-basicInfo-144.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-144.json"; sourceTree = "<group>"; };
+		6EBB83AE24A0CA1C00D4CD1B /* servant-basicInfo-74.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-74.json"; sourceTree = "<group>"; };
+		6EBB83AF24A0CA1C00D4CD1B /* servant-basicInfo-210.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-210.json"; sourceTree = "<group>"; };
+		6EBB83B024A0CA1D00D4CD1B /* servant-basicInfo-174.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-174.json"; sourceTree = "<group>"; };
+		6EBB83B124A0CA1D00D4CD1B /* servant-basicInfo-68.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-68.json"; sourceTree = "<group>"; };
+		6EBB83B224A0CA1D00D4CD1B /* servant-basicInfo-66.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-basicInfo-66.json"; sourceTree = "<group>"; };
+		6EBB84C924A0CC4800D4CD1B /* ServantBasicInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBasicInfo.swift; sourceTree = "<group>"; };
+		6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStore.swift; sourceTree = "<group>"; };
+		6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStoreTests.swift; sourceTree = "<group>"; };
+		6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBasicInfoView.swift; sourceTree = "<group>"; };
 		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
 		6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBoxView.swift; sourceTree = "<group>"; };
@@ -465,6 +1029,7 @@
 		6E1AC306248CC746004C006A /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				6EBB829B24A0C8F000D4CD1B /* Servants */,
 				6E1AC305248CC734004C006A /* MysticCodes */,
 				6E1AC201248C8FF3004C006A /* CommandCodes */,
 				6E4C9D93248B8F0D00B96630 /* CraftEssences */,
@@ -479,6 +1044,7 @@
 				6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */,
 				6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */,
 				6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */,
+				6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */,
 			);
 			path = ServantTab;
 			sourceTree = "<group>";
@@ -536,6 +1102,7 @@
 				6E4C9D9B248B9A7E00B96630 /* CraftEssenceStoreTests.swift */,
 				6E1AC2FC248C96F2004C006A /* CommandCodeStoreTests.swift */,
 				6E1AC329248CCA1B004C006A /* MysticCodeStoreTests.swift */,
+				6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */,
 			);
 			path = FateIndexTests;
 			sourceTree = "<group>";
@@ -592,6 +1159,7 @@
 				6E4C9D90248B8BC000B96630 /* CraftEssences.swift */,
 				6E1AC1FF248C8942004C006A /* CommandCode.swift */,
 				6E1AC325248CC799004C006A /* MysticCode.swift */,
+				6EBB84C924A0CC4800D4CD1B /* ServantBasicInfo.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -630,8 +1198,302 @@
 				6E4C9D99248B96A500B96630 /* CraftEssenceStore.swift */,
 				6E1AC2FA248C9634004C006A /* CommandCodeStore.swift */,
 				6E1AC327248CC995004C006A /* MysticCodeStore.swift */,
+				6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */,
 			);
 			path = Stores;
+			sourceTree = "<group>";
+		};
+		6EBB829B24A0C8F000D4CD1B /* Servants */ = {
+			isa = PBXGroup;
+			children = (
+				6EBB829C24A0C8FA00D4CD1B /* BasicInfo */,
+			);
+			path = Servants;
+			sourceTree = "<group>";
+		};
+		6EBB829C24A0C8FA00D4CD1B /* BasicInfo */ = {
+			isa = PBXGroup;
+			children = (
+				6EBB830624A0C9DC00D4CD1B /* servant-basicInfo-1.json */,
+				6EBB82D024A0C9C300D4CD1B /* servant-basicInfo-1(2).json */,
+				6EBB835024A0C9FA00D4CD1B /* servant-basicInfo-2.json */,
+				6EBB832424A0C9EA00D4CD1B /* servant-basicInfo-3.json */,
+				6EBB82F024A0C9D200D4CD1B /* servant-basicInfo-4.json */,
+				6EBB833124A0C9F000D4CD1B /* servant-basicInfo-5.json */,
+				6EBB832724A0C9EC00D4CD1B /* servant-basicInfo-6.json */,
+				6EBB830224A0C9DA00D4CD1B /* servant-basicInfo-7.json */,
+				6EBB82A924A0C9B200D4CD1B /* servant-basicInfo-8.json */,
+				6EBB837024A0CA0600D4CD1B /* servant-basicInfo-9.json */,
+				6EBB82B824A0C9B900D4CD1B /* servant-basicInfo-10.json */,
+				6EBB834824A0C9F800D4CD1B /* servant-basicInfo-11.json */,
+				6EBB833524A0C9F100D4CD1B /* servant-basicInfo-12.json */,
+				6EBB82C924A0C9C000D4CD1B /* servant-basicInfo-13.json */,
+				6EBB829E24A0C9AD00D4CD1B /* servant-basicInfo-14.json */,
+				6EBB82A224A0C9AE00D4CD1B /* servant-basicInfo-15.json */,
+				6EBB832124A0C9E900D4CD1B /* servant-basicInfo-16.json */,
+				6EBB830F24A0C9E000D4CD1B /* servant-basicInfo-17.json */,
+				6EBB82FA24A0C9D700D4CD1B /* servant-basicInfo-18.json */,
+				6EBB833024A0C9EF00D4CD1B /* servant-basicInfo-19.json */,
+				6EBB832824A0C9EC00D4CD1B /* servant-basicInfo-20.json */,
+				6EBB835424A0C9FC00D4CD1B /* servant-basicInfo-21.json */,
+				6EBB839F24A0CA1700D4CD1B /* servant-basicInfo-22.json */,
+				6EBB838824A0CA0E00D4CD1B /* servant-basicInfo-23.json */,
+				6EBB82C224A0C9BD00D4CD1B /* servant-basicInfo-24.json */,
+				6EBB832E24A0C9EF00D4CD1B /* servant-basicInfo-25.json */,
+				6EBB831524A0C9E300D4CD1B /* servant-basicInfo-26.json */,
+				6EBB82A624A0C9B000D4CD1B /* servant-basicInfo-27.json */,
+				6EBB833724A0C9F200D4CD1B /* servant-basicInfo-28.json */,
+				6EBB839724A0CA1400D4CD1B /* servant-basicInfo-29.json */,
+				6EBB831024A0C9E100D4CD1B /* servant-basicInfo-30.json */,
+				6EBB83AB24A0CA1B00D4CD1B /* servant-basicInfo-31.json */,
+				6EBB82D924A0C9C700D4CD1B /* servant-basicInfo-32.json */,
+				6EBB836924A0CA0300D4CD1B /* servant-basicInfo-33.json */,
+				6EBB837824A0CA0900D4CD1B /* servant-basicInfo-34.json */,
+				6EBB837624A0CA0800D4CD1B /* servant-basicInfo-35.json */,
+				6EBB82FB24A0C9D700D4CD1B /* servant-basicInfo-36.json */,
+				6EBB837F24A0CA0B00D4CD1B /* servant-basicInfo-37.json */,
+				6EBB82A524A0C9B000D4CD1B /* servant-basicInfo-38.json */,
+				6EBB82DE24A0C9CA00D4CD1B /* servant-basicInfo-39.json */,
+				6EBB835F24A0CA0000D4CD1B /* servant-basicInfo-40.json */,
+				6EBB831D24A0C9E700D4CD1B /* servant-basicInfo-41.json */,
+				6EBB835A24A0C9FE00D4CD1B /* servant-basicInfo-42.json */,
+				6EBB835B24A0C9FE00D4CD1B /* servant-basicInfo-43.json */,
+				6EBB837A24A0CA0900D4CD1B /* servant-basicInfo-44.json */,
+				6EBB82D724A0C9C700D4CD1B /* servant-basicInfo-45.json */,
+				6EBB834A24A0C9F800D4CD1B /* servant-basicInfo-46.json */,
+				6EBB838024A0CA0B00D4CD1B /* servant-basicInfo-47.json */,
+				6EBB836724A0CA0300D4CD1B /* servant-basicInfo-48.json */,
+				6EBB832924A0C9ED00D4CD1B /* servant-basicInfo-49.json */,
+				6EBB835C24A0C9FF00D4CD1B /* servant-basicInfo-50.json */,
+				6EBB834024A0C9F500D4CD1B /* servant-basicInfo-51.json */,
+				6EBB830A24A0C9DE00D4CD1B /* servant-basicInfo-52.json */,
+				6EBB83A424A0CA1800D4CD1B /* servant-basicInfo-53.json */,
+				6EBB82E924A0C9CF00D4CD1B /* servant-basicInfo-54.json */,
+				6EBB82C724A0C9BF00D4CD1B /* servant-basicInfo-55.json */,
+				6EBB838A24A0CA0F00D4CD1B /* servant-basicInfo-56.json */,
+				6EBB832F24A0C9EF00D4CD1B /* servant-basicInfo-57.json */,
+				6EBB82EB24A0C9D000D4CD1B /* servant-basicInfo-58.json */,
+				6EBB83A024A0CA1700D4CD1B /* servant-basicInfo-59.json */,
+				6EBB82E024A0C9CB00D4CD1B /* servant-basicInfo-60.json */,
+				6EBB833624A0C9F100D4CD1B /* servant-basicInfo-61.json */,
+				6EBB839024A0CA1100D4CD1B /* servant-basicInfo-62.json */,
+				6EBB82EA24A0C9CF00D4CD1B /* servant-basicInfo-63.json */,
+				6EBB82A324A0C9AF00D4CD1B /* servant-basicInfo-64.json */,
+				6EBB829D24A0C9AC00D4CD1B /* servant-basicInfo-65.json */,
+				6EBB83B224A0CA1D00D4CD1B /* servant-basicInfo-66.json */,
+				6EBB836624A0CA0200D4CD1B /* servant-basicInfo-67.json */,
+				6EBB83B124A0CA1D00D4CD1B /* servant-basicInfo-68.json */,
+				6EBB833F24A0C9F400D4CD1B /* servant-basicInfo-69.json */,
+				6EBB82E224A0C9CC00D4CD1B /* servant-basicInfo-70.json */,
+				6EBB836324A0CA0100D4CD1B /* servant-basicInfo-71.json */,
+				6EBB82EC24A0C9D000D4CD1B /* servant-basicInfo-72.json */,
+				6EBB82B624A0C9B800D4CD1B /* servant-basicInfo-73.json */,
+				6EBB83AE24A0CA1C00D4CD1B /* servant-basicInfo-74.json */,
+				6EBB838724A0CA0E00D4CD1B /* servant-basicInfo-75.json */,
+				6EBB83A324A0CA1800D4CD1B /* servant-basicInfo-76.json */,
+				6EBB833D24A0C9F400D4CD1B /* servant-basicInfo-77.json */,
+				6EBB834B24A0C9F900D4CD1B /* servant-basicInfo-78.json */,
+				6EBB82CC24A0C9C200D4CD1B /* servant-basicInfo-79.json */,
+				6EBB834524A0C9F700D4CD1B /* servant-basicInfo-80.json */,
+				6EBB830124A0C9DA00D4CD1B /* servant-basicInfo-81.json */,
+				6EBB837724A0CA0800D4CD1B /* servant-basicInfo-82.json */,
+				6EBB835224A0C9FB00D4CD1B /* servant-basicInfo-84.json */,
+				6EBB836E24A0CA0500D4CD1B /* servant-basicInfo-85.json */,
+				6EBB834324A0C9F600D4CD1B /* servant-basicInfo-86.json */,
+				6EBB82C324A0C9BE00D4CD1B /* servant-basicInfo-87.json */,
+				6EBB831A24A0C9E600D4CD1B /* servant-basicInfo-88.json */,
+				6EBB82CB24A0C9C100D4CD1B /* servant-basicInfo-89.json */,
+				6EBB835824A0C9FD00D4CD1B /* servant-basicInfo-90.json */,
+				6EBB830B24A0C9DF00D4CD1B /* servant-basicInfo-91.json */,
+				6EBB83A624A0CA1900D4CD1B /* servant-basicInfo-92.json */,
+				6EBB833E24A0C9F400D4CD1B /* servant-basicInfo-93.json */,
+				6EBB839D24A0CA1600D4CD1B /* servant-basicInfo-94.json */,
+				6EBB833B24A0C9F300D4CD1B /* servant-basicInfo-95.json */,
+				6EBB832324A0C9EA00D4CD1B /* servant-basicInfo-96.json */,
+				6EBB838624A0CA0E00D4CD1B /* servant-basicInfo-97.json */,
+				6EBB82C124A0C9BD00D4CD1B /* servant-basicInfo-98.json */,
+				6EBB82C524A0C9BF00D4CD1B /* servant-basicInfo-99.json */,
+				6EBB829F24A0C9AD00D4CD1B /* servant-basicInfo-100.json */,
+				6EBB830424A0C9DB00D4CD1B /* servant-basicInfo-101.json */,
+				6EBB834724A0C9F700D4CD1B /* servant-basicInfo-102.json */,
+				6EBB82BC24A0C9BA00D4CD1B /* servant-basicInfo-103.json */,
+				6EBB838C24A0CA1000D4CD1B /* servant-basicInfo-104.json */,
+				6EBB82B224A0C9B600D4CD1B /* servant-basicInfo-105.json */,
+				6EBB82CE24A0C9C300D4CD1B /* servant-basicInfo-106.json */,
+				6EBB836424A0CA0200D4CD1B /* servant-basicInfo-107.json */,
+				6EBB83AA24A0CA1B00D4CD1B /* servant-basicInfo-108.json */,
+				6EBB82DF24A0C9CA00D4CD1B /* servant-basicInfo-109.json */,
+				6EBB838524A0CA0D00D4CD1B /* servant-basicInfo-110.json */,
+				6EBB82E724A0C9CE00D4CD1B /* servant-basicInfo-111.json */,
+				6EBB83A924A0CA1A00D4CD1B /* servant-basicInfo-112.json */,
+				6EBB82F624A0C9D500D4CD1B /* servant-basicInfo-113.json */,
+				6EBB837C24A0CA0A00D4CD1B /* servant-basicInfo-114.json */,
+				6EBB834224A0C9F600D4CD1B /* servant-basicInfo-115.json */,
+				6EBB839124A0CA1200D4CD1B /* servant-basicInfo-116.json */,
+				6EBB82A824A0C9B100D4CD1B /* servant-basicInfo-117.json */,
+				6EBB82BD24A0C9BB00D4CD1B /* servant-basicInfo-118.json */,
+				6EBB837E24A0CA0B00D4CD1B /* servant-basicInfo-119.json */,
+				6EBB836D24A0CA0500D4CD1B /* servant-basicInfo-120.json */,
+				6EBB82FF24A0C9D900D4CD1B /* servant-basicInfo-121.json */,
+				6EBB834124A0C9F500D4CD1B /* servant-basicInfo-122.json */,
+				6EBB82EF24A0C9D100D4CD1B /* servant-basicInfo-123.json */,
+				6EBB835124A0C9FB00D4CD1B /* servant-basicInfo-124.json */,
+				6EBB82CA24A0C9C100D4CD1B /* servant-basicInfo-125.json */,
+				6EBB834F24A0C9FA00D4CD1B /* servant-basicInfo-126.json */,
+				6EBB82A124A0C9AE00D4CD1B /* servant-basicInfo-127.json */,
+				6EBB82CF24A0C9C300D4CD1B /* servant-basicInfo-128.json */,
+				6EBB82BA24A0C9BA00D4CD1B /* servant-basicInfo-129.json */,
+				6EBB82D524A0C9C600D4CD1B /* servant-basicInfo-130.json */,
+				6EBB836C24A0CA0400D4CD1B /* servant-basicInfo-131.json */,
+				6EBB82B424A0C9B700D4CD1B /* servant-basicInfo-132.json */,
+				6EBB82F724A0C9D500D4CD1B /* servant-basicInfo-133.json */,
+				6EBB830824A0C9DD00D4CD1B /* servant-basicInfo-134.json */,
+				6EBB837524A0CA0800D4CD1B /* servant-basicInfo-135.json */,
+				6EBB832224A0C9EA00D4CD1B /* servant-basicInfo-136.json */,
+				6EBB839624A0CA1300D4CD1B /* servant-basicInfo-137.json */,
+				6EBB834924A0C9F800D4CD1B /* servant-basicInfo-138.json */,
+				6EBB832624A0C9EB00D4CD1B /* servant-basicInfo-139.json */,
+				6EBB82A424A0C9AF00D4CD1B /* servant-basicInfo-140.json */,
+				6EBB82B724A0C9B800D4CD1B /* servant-basicInfo-141.json */,
+				6EBB839E24A0CA1600D4CD1B /* servant-basicInfo-142.json */,
+				6EBB839924A0CA1400D4CD1B /* servant-basicInfo-143.json */,
+				6EBB83AD24A0CA1C00D4CD1B /* servant-basicInfo-144.json */,
+				6EBB83AC24A0CA1B00D4CD1B /* servant-basicInfo-145.json */,
+				6EBB82F224A0C9D300D4CD1B /* servant-basicInfo-146.json */,
+				6EBB838424A0CA0D00D4CD1B /* servant-basicInfo-147.json */,
+				6EBB838F24A0CA1100D4CD1B /* servant-basicInfo-148.json */,
+				6EBB837324A0CA0700D4CD1B /* servant-basicInfo-150.json */,
+				6EBB82DC24A0C9C900D4CD1B /* servant-basicInfo-153.json */,
+				6EBB82CD24A0C9C200D4CD1B /* servant-basicInfo-154.json */,
+				6EBB836F24A0CA0500D4CD1B /* servant-basicInfo-155.json */,
+				6EBB839824A0CA1400D4CD1B /* servant-basicInfo-156.json */,
+				6EBB82F424A0C9D400D4CD1B /* servant-basicInfo-157.json */,
+				6EBB82DD24A0C9C900D4CD1B /* servant-basicInfo-158.json */,
+				6EBB82DB24A0C9C800D4CD1B /* servant-basicInfo-159.json */,
+				6EBB836124A0CA0000D4CD1B /* servant-basicInfo-160.json */,
+				6EBB82FD24A0C9D800D4CD1B /* servant-basicInfo-161.json */,
+				6EBB82EE24A0C9D100D4CD1B /* servant-basicInfo-162.json */,
+				6EBB831924A0C9E500D4CD1B /* servant-basicInfo-163.json */,
+				6EBB82B124A0C9B500D4CD1B /* servant-basicInfo-164.json */,
+				6EBB82B924A0C9B900D4CD1B /* servant-basicInfo-165.json */,
+				6EBB82F824A0C9D600D4CD1B /* servant-basicInfo-166.json */,
+				6EBB82E524A0C9CD00D4CD1B /* servant-basicInfo-167.json */,
+				6EBB835624A0C9FD00D4CD1B /* servant-basicInfo-169.json */,
+				6EBB830724A0C9DD00D4CD1B /* servant-basicInfo-170.json */,
+				6EBB82BF24A0C9BC00D4CD1B /* servant-basicInfo-171.json */,
+				6EBB82E124A0C9CB00D4CD1B /* servant-basicInfo-172.json */,
+				6EBB833A24A0C9F300D4CD1B /* servant-basicInfo-173.json */,
+				6EBB83B024A0CA1D00D4CD1B /* servant-basicInfo-174.json */,
+				6EBB837224A0CA0600D4CD1B /* servant-basicInfo-175.json */,
+				6EBB82A724A0C9B100D4CD1B /* servant-basicInfo-176.json */,
+				6EBB830E24A0C9E000D4CD1B /* servant-basicInfo-177.json */,
+				6EBB832D24A0C9EE00D4CD1B /* servant-basicInfo-178.json */,
+				6EBB832A24A0C9ED00D4CD1B /* servant-basicInfo-179.json */,
+				6EBB831F24A0C9E800D4CD1B /* servant-basicInfo-180.json */,
+				6EBB82D824A0C9C700D4CD1B /* servant-basicInfo-181.json */,
+				6EBB82AB24A0C9B300D4CD1B /* servant-basicInfo-182.json */,
+				6EBB833224A0C9F000D4CD1B /* servant-basicInfo-183.json */,
+				6EBB82F924A0C9D600D4CD1B /* servant-basicInfo-184.json */,
+				6EBB82E424A0C9CC00D4CD1B /* servant-basicInfo-185.json */,
+				6EBB836824A0CA0300D4CD1B /* servant-basicInfo-186.json */,
+				6EBB838E24A0CA1000D4CD1B /* servant-basicInfo-187.json */,
+				6EBB82F524A0C9D400D4CD1B /* servant-basicInfo-188.json */,
+				6EBB82C024A0C9BC00D4CD1B /* servant-basicInfo-189.json */,
+				6EBB832024A0C9E900D4CD1B /* servant-basicInfo-190.json */,
+				6EBB82F124A0C9D200D4CD1B /* servant-basicInfo-191.json */,
+				6EBB838924A0CA0F00D4CD1B /* servant-basicInfo-192.json */,
+				6EBB834D24A0C9F900D4CD1B /* servant-basicInfo-193.json */,
+				6EBB839A24A0CA1500D4CD1B /* servant-basicInfo-194.json */,
+				6EBB82E324A0C9CC00D4CD1B /* servant-basicInfo-195.json */,
+				6EBB82AA24A0C9B200D4CD1B /* servant-basicInfo-196.json */,
+				6EBB82BB24A0C9BA00D4CD1B /* servant-basicInfo-197.json */,
+				6EBB830C24A0C9DF00D4CD1B /* servant-basicInfo-198.json */,
+				6EBB838124A0CA0C00D4CD1B /* servant-basicInfo-199.json */,
+				6EBB831124A0C9E100D4CD1B /* servant-basicInfo-200.json */,
+				6EBB831324A0C9E200D4CD1B /* servant-basicInfo-201.json */,
+				6EBB831224A0C9E200D4CD1B /* servant-basicInfo-202.json */,
+				6EBB833924A0C9F200D4CD1B /* servant-basicInfo-203.json */,
+				6EBB837124A0CA0600D4CD1B /* servant-basicInfo-204.json */,
+				6EBB835D24A0C9FF00D4CD1B /* servant-basicInfo-205.json */,
+				6EBB82D124A0C9C400D4CD1B /* servant-basicInfo-206.json */,
+				6EBB831C24A0C9E700D4CD1B /* servant-basicInfo-207.json */,
+				6EBB836524A0CA0200D4CD1B /* servant-basicInfo-208.json */,
+				6EBB838224A0CA0C00D4CD1B /* servant-basicInfo-209.json */,
+				6EBB83AF24A0CA1C00D4CD1B /* servant-basicInfo-210.json */,
+				6EBB835324A0C9FC00D4CD1B /* servant-basicInfo-211.json */,
+				6EBB839224A0CA1200D4CD1B /* servant-basicInfo-212.json */,
+				6EBB836A24A0CA0400D4CD1B /* servant-basicInfo-213.json */,
+				6EBB82FC24A0C9D700D4CD1B /* servant-basicInfo-214.json */,
+				6EBB839B24A0CA1500D4CD1B /* servant-basicInfo-215.json */,
+				6EBB839C24A0CA1600D4CD1B /* servant-basicInfo-216.json */,
+				6EBB82D424A0C9C500D4CD1B /* servant-basicInfo-217.json */,
+				6EBB831824A0C9E500D4CD1B /* servant-basicInfo-218.json */,
+				6EBB836B24A0CA0400D4CD1B /* servant-basicInfo-219.json */,
+				6EBB839524A0CA1300D4CD1B /* servant-basicInfo-220.json */,
+				6EBB834424A0C9F600D4CD1B /* servant-basicInfo-221.json */,
+				6EBB835524A0C9FC00D4CD1B /* servant-basicInfo-222.json */,
+				6EBB835924A0C9FE00D4CD1B /* servant-basicInfo-223.json */,
+				6EBB836024A0CA0000D4CD1B /* servant-basicInfo-224.json */,
+				6EBB837924A0CA0900D4CD1B /* servant-basicInfo-225.json */,
+				6EBB830924A0C9DE00D4CD1B /* servant-basicInfo-226.json */,
+				6EBB82B524A0C9B700D4CD1B /* servant-basicInfo-227.json */,
+				6EBB835E24A0C9FF00D4CD1B /* servant-basicInfo-228.json */,
+				6EBB839324A0CA1200D4CD1B /* servant-basicInfo-229.json */,
+				6EBB83A824A0CA1A00D4CD1B /* servant-basicInfo-230.json */,
+				6EBB831B24A0C9E600D4CD1B /* servant-basicInfo-231.json */,
+				6EBB831E24A0C9E800D4CD1B /* servant-basicInfo-232.json */,
+				6EBB83A524A0CA1900D4CD1B /* servant-basicInfo-233.json */,
+				6EBB83A124A0CA1700D4CD1B /* servant-basicInfo-234.json */,
+				6EBB838B24A0CA0F00D4CD1B /* servant-basicInfo-235.json */,
+				6EBB82AC24A0C9B300D4CD1B /* servant-basicInfo-236.json */,
+				6EBB82AF24A0C9B500D4CD1B /* servant-basicInfo-237.json */,
+				6EBB82B324A0C9B600D4CD1B /* servant-basicInfo-238.json */,
+				6EBB82AD24A0C9B400D4CD1B /* servant-basicInfo-239.json */,
+				6EBB83A224A0CA1800D4CD1B /* servant-basicInfo-241.json */,
+				6EBB82D224A0C9C400D4CD1B /* servant-basicInfo-242.json */,
+				6EBB832B24A0C9ED00D4CD1B /* servant-basicInfo-243.json */,
+				6EBB83A724A0CA1900D4CD1B /* servant-basicInfo-244.json */,
+				6EBB831424A0C9E300D4CD1B /* servant-basicInfo-245.json */,
+				6EBB82C824A0C9C000D4CD1B /* servant-basicInfo-246.json */,
+				6EBB82B024A0C9B500D4CD1B /* servant-basicInfo-247.json */,
+				6EBB834E24A0C9FA00D4CD1B /* servant-basicInfo-248.json */,
+				6EBB838D24A0CA1000D4CD1B /* servant-basicInfo-249.json */,
+				6EBB830024A0C9D900D4CD1B /* servant-basicInfo-250.json */,
+				6EBB833824A0C9F200D4CD1B /* servant-basicInfo-251.json */,
+				6EBB830524A0C9DC00D4CD1B /* servant-basicInfo-252.json */,
+				6EBB82D624A0C9C600D4CD1B /* servant-basicInfo-253.json */,
+				6EBB831624A0C9E400D4CD1B /* servant-basicInfo-254.json */,
+				6EBB830D24A0C9E000D4CD1B /* servant-basicInfo-255.json */,
+				6EBB834624A0C9F700D4CD1B /* servant-basicInfo-256.json */,
+				6EBB82E624A0C9CD00D4CD1B /* servant-basicInfo-257.json */,
+				6EBB838324A0CA0C00D4CD1B /* servant-basicInfo-258.json */,
+				6EBB839424A0CA1300D4CD1B /* servant-basicInfo-259.json */,
+				6EBB832C24A0C9EE00D4CD1B /* servant-basicInfo-260.json */,
+				6EBB82BE24A0C9BB00D4CD1B /* servant-basicInfo-261.json */,
+				6EBB833C24A0C9F300D4CD1B /* servant-basicInfo-262.json */,
+				6EBB82FE24A0C9D800D4CD1B /* servant-basicInfo-263.json */,
+				6EBB832524A0C9EB00D4CD1B /* servant-basicInfo-264.json */,
+				6EBB833424A0C9F100D4CD1B /* servant-basicInfo-265.json */,
+				6EBB82D324A0C9C500D4CD1B /* servant-basicInfo-266.json */,
+				6EBB82DA24A0C9C800D4CD1B /* servant-basicInfo-267.json */,
+				6EBB834C24A0C9F900D4CD1B /* servant-basicInfo-268.json */,
+				6EBB831724A0C9E400D4CD1B /* servant-basicInfo-269.json */,
+				6EBB837D24A0CA0A00D4CD1B /* servant-basicInfo-270.json */,
+				6EBB837424A0CA0700D4CD1B /* servant-basicInfo-271.json */,
+				6EBB82C424A0C9BE00D4CD1B /* servant-basicInfo-272.json */,
+				6EBB82AE24A0C9B400D4CD1B /* servant-basicInfo-273.json */,
+				6EBB82A024A0C9AE00D4CD1B /* servant-basicInfo-274.json */,
+				6EBB836224A0CA0100D4CD1B /* servant-basicInfo-275.json */,
+				6EBB833324A0C9F000D4CD1B /* servant-basicInfo-276.json */,
+				6EBB830324A0C9DB00D4CD1B /* servant-basicInfo-277.json */,
+				6EBB837B24A0CA0A00D4CD1B /* servant-basicInfo-278.json */,
+				6EBB82ED24A0C9D000D4CD1B /* servant-basicInfo-279.json */,
+				6EBB835724A0C9FD00D4CD1B /* servant-basicInfo-280.json */,
+				6EBB82F324A0C9D300D4CD1B /* servant-basicInfo-281.json */,
+				6EBB82E824A0C9CE00D4CD1B /* servant-basicInfo-282.json */,
+				6EBB82C624A0C9BF00D4CD1B /* servant-basicInfo-283.json */,
+			);
+			path = BasicInfo;
 			sourceTree = "<group>";
 		};
 		6EEC277D249A36B1008809E7 /* Shared */ = {
@@ -730,99 +1592,377 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E1AC2CE248C90B0004C006A /* command_code_5.json in Resources */,
+				6EBB840024A0CA1E00D4CD1B /* servant-basicInfo-63.json in Resources */,
 				6E1AC2E8248C90B0004C006A /* command_code_50.json in Resources */,
+				6EBB848B24A0CA1E00D4CD1B /* servant-basicInfo-135.json in Resources */,
+				6EBB84A624A0CA1E00D4CD1B /* servant-basicInfo-62.json in Resources */,
 				6E1AC2EE248C90B0004C006A /* command_code_15.json in Resources */,
+				6EBB84A524A0CA1E00D4CD1B /* servant-basicInfo-148.json in Resources */,
+				6EBB843424A0CA1E00D4CD1B /* servant-basicInfo-232.json in Resources */,
+				6EBB83ED24A0CA1E00D4CD1B /* servant-basicInfo-45.json in Resources */,
+				6EBB83F024A0CA1E00D4CD1B /* servant-basicInfo-267.json in Resources */,
+				6EBB844124A0CA1E00D4CD1B /* servant-basicInfo-243.json in Resources */,
 				6E1AC2EB248C90B0004C006A /* command_code_26.json in Resources */,
+				6EBB845124A0CA1E00D4CD1B /* servant-basicInfo-95.json in Resources */,
+				6EBB842024A0CA1E00D4CD1B /* servant-basicInfo-52.json in Resources */,
+				6EBB849024A0CA1E00D4CD1B /* servant-basicInfo-44.json in Resources */,
+				6EBB83FB24A0CA1E00D4CD1B /* servant-basicInfo-167.json in Resources */,
+				6EBB84AC24A0CA1E00D4CD1B /* servant-basicInfo-137.json in Resources */,
+				6EBB843B24A0CA1E00D4CD1B /* servant-basicInfo-264.json in Resources */,
+				6EBB846C24A0CA1E00D4CD1B /* servant-basicInfo-169.json in Resources */,
+				6EBB83C724A0CA1D00D4CD1B /* servant-basicInfo-164.json in Resources */,
+				6EBB83D324A0CA1D00D4CD1B /* servant-basicInfo-118.json in Resources */,
+				6EBB83DA24A0CA1E00D4CD1B /* servant-basicInfo-272.json in Resources */,
+				6EBB84C024A0CA1E00D4CD1B /* servant-basicInfo-108.json in Resources */,
+				6EBB83EF24A0CA1E00D4CD1B /* servant-basicInfo-32.json in Resources */,
+				6EBB83D424A0CA1D00D4CD1B /* servant-basicInfo-261.json in Resources */,
+				6EBB843E24A0CA1E00D4CD1B /* servant-basicInfo-20.json in Resources */,
+				6EBB843624A0CA1E00D4CD1B /* servant-basicInfo-190.json in Resources */,
+				6EBB845E24A0CA1E00D4CD1B /* servant-basicInfo-11.json in Resources */,
+				6EBB843A24A0CA1E00D4CD1B /* servant-basicInfo-3.json in Resources */,
+				6EBB83FA24A0CA1E00D4CD1B /* servant-basicInfo-185.json in Resources */,
+				6EBB84A124A0CA1E00D4CD1B /* servant-basicInfo-235.json in Resources */,
+				6EBB83BD24A0CA1D00D4CD1B /* servant-basicInfo-176.json in Resources */,
+				6EBB84AD24A0CA1E00D4CD1B /* servant-basicInfo-29.json in Resources */,
+				6EBB83CC24A0CA1D00D4CD1B /* servant-basicInfo-73.json in Resources */,
 				6E1AC2C3248C90B0004C006A /* command_code_8.json in Resources */,
+				6EBB83BF24A0CA1D00D4CD1B /* servant-basicInfo-8.json in Resources */,
+				6EBB84B024A0CA1E00D4CD1B /* servant-basicInfo-194.json in Resources */,
+				6EBB848724A0CA1E00D4CD1B /* servant-basicInfo-204.json in Resources */,
+				6EBB83E724A0CA1E00D4CD1B /* servant-basicInfo-206.json in Resources */,
+				6EBB844524A0CA1E00D4CD1B /* servant-basicInfo-57.json in Resources */,
+				6EBB84BD24A0CA1E00D4CD1B /* servant-basicInfo-244.json in Resources */,
+				6EBB84BE24A0CA1E00D4CD1B /* servant-basicInfo-230.json in Resources */,
+				6EBB847124A0CA1E00D4CD1B /* servant-basicInfo-43.json in Resources */,
 				6E1AC2E5248C90B0004C006A /* command_code_48.json in Resources */,
+				6EBB849724A0CA1E00D4CD1B /* servant-basicInfo-199.json in Resources */,
+				6EBB84A724A0CA1E00D4CD1B /* servant-basicInfo-116.json in Resources */,
+				6EBB843D24A0CA1E00D4CD1B /* servant-basicInfo-6.json in Resources */,
+				6EBB83CD24A0CA1D00D4CD1B /* servant-basicInfo-141.json in Resources */,
 				6E2FA594248A064000822AA0 /* LaunchScreen.storyboard in Resources */,
+				6EBB846A24A0CA1E00D4CD1B /* servant-basicInfo-21.json in Resources */,
+				6EBB83FE24A0CA1E00D4CD1B /* servant-basicInfo-282.json in Resources */,
 				6E1AC2BA248C90B0004C006A /* command_code_2.json in Resources */,
+				6EBB841324A0CA1E00D4CD1B /* servant-basicInfo-161.json in Resources */,
+				6EBB845324A0CA1E00D4CD1B /* servant-basicInfo-77.json in Resources */,
 				6E1AC2CC248C90B0004C006A /* command_code_16.json in Resources */,
+				6EBB840624A0CA1E00D4CD1B /* servant-basicInfo-4.json in Resources */,
 				6E1AC2C1248C90B0004C006A /* command_code_1.json in Resources */,
+				6EBB83EA24A0CA1E00D4CD1B /* servant-basicInfo-217.json in Resources */,
+				6EBB83CF24A0CA1D00D4CD1B /* servant-basicInfo-165.json in Resources */,
+				6EBB841824A0CA1E00D4CD1B /* servant-basicInfo-7.json in Resources */,
 				6E1AC2D1248C90B0004C006A /* command_code_56.json in Resources */,
 				6E1AC2F1248C90B0004C006A /* command_code_10.json in Resources */,
+				6EBB840124A0CA1E00D4CD1B /* servant-basicInfo-58.json in Resources */,
+				6EBB83F624A0CA1E00D4CD1B /* servant-basicInfo-60.json in Resources */,
+				6EBB848224A0CA1E00D4CD1B /* servant-basicInfo-131.json in Resources */,
+				6EBB83D924A0CA1E00D4CD1B /* servant-basicInfo-87.json in Resources */,
+				6EBB841C24A0CA1E00D4CD1B /* servant-basicInfo-1.json in Resources */,
 				6E1AC323248CC774004C006A /* mystic_code_14.json in Resources */,
+				6EBB83EB24A0CA1E00D4CD1B /* servant-basicInfo-130.json in Resources */,
+				6EBB840E24A0CA1E00D4CD1B /* servant-basicInfo-166.json in Resources */,
+				6EBB847824A0CA1E00D4CD1B /* servant-basicInfo-275.json in Resources */,
+				6EBB842224A0CA1E00D4CD1B /* servant-basicInfo-198.json in Resources */,
 				6E1AC2C2248C90B0004C006A /* command_code_4.json in Resources */,
+				6EBB83E824A0CA1E00D4CD1B /* servant-basicInfo-242.json in Resources */,
+				6EBB842424A0CA1E00D4CD1B /* servant-basicInfo-177.json in Resources */,
 				6E1AC2E4248C90B0004C006A /* command_code_3.json in Resources */,
+				6EBB83E024A0CA1E00D4CD1B /* servant-basicInfo-125.json in Resources */,
+				6EBB840224A0CA1E00D4CD1B /* servant-basicInfo-72.json in Resources */,
+				6EBB846F24A0CA1E00D4CD1B /* servant-basicInfo-223.json in Resources */,
+				6EBB84C724A0CA1E00D4CD1B /* servant-basicInfo-68.json in Resources */,
+				6EBB846424A0CA1E00D4CD1B /* servant-basicInfo-248.json in Resources */,
+				6EBB849924A0CA1E00D4CD1B /* servant-basicInfo-258.json in Resources */,
+				6EBB84B224A0CA1E00D4CD1B /* servant-basicInfo-216.json in Resources */,
+				6EBB842E24A0CA1E00D4CD1B /* servant-basicInfo-218.json in Resources */,
+				6EBB842924A0CA1E00D4CD1B /* servant-basicInfo-201.json in Resources */,
+				6EBB844A24A0CA1E00D4CD1B /* servant-basicInfo-265.json in Resources */,
 				6E4C9DA8248BAE6E00B96630 /* craftEssence_988.json in Resources */,
 				6E1AC2D2248C90B0004C006A /* command_code_45.json in Resources */,
 				6E1AC319248CC774004C006A /* mystic_code_8.json in Resources */,
+				6EBB848024A0CA1E00D4CD1B /* servant-basicInfo-213.json in Resources */,
+				6EBB83BA24A0CA1D00D4CD1B /* servant-basicInfo-140.json in Resources */,
 				6E1AC2D6248C90B0004C006A /* command_code_51.json in Resources */,
 				6E1AC2E2248C90B0004C006A /* command_code_21.json in Resources */,
 				6E1AC31C248CC774004C006A /* mystic_code_13.json in Resources */,
+				6EBB84C124A0CA1E00D4CD1B /* servant-basicInfo-31.json in Resources */,
+				6EBB844824A0CA1E00D4CD1B /* servant-basicInfo-183.json in Resources */,
+				6EBB84BF24A0CA1E00D4CD1B /* servant-basicInfo-112.json in Resources */,
+				6EBB846E24A0CA1E00D4CD1B /* servant-basicInfo-90.json in Resources */,
 				6E1AC2D9248C90B0004C006A /* command_code_41.json in Resources */,
+				6EBB842724A0CA1E00D4CD1B /* servant-basicInfo-200.json in Resources */,
+				6EBB843F24A0CA1E00D4CD1B /* servant-basicInfo-49.json in Resources */,
 				6E1AC2F7248C956D004C006A /* command_code_63.json in Resources */,
+				6EBB83FF24A0CA1E00D4CD1B /* servant-basicInfo-54.json in Resources */,
+				6EBB847724A0CA1E00D4CD1B /* servant-basicInfo-160.json in Resources */,
+				6EBB83C824A0CA1D00D4CD1B /* servant-basicInfo-105.json in Resources */,
 				6E4C9DA4248BAD0700B96630 /* craftEssence_861.json in Resources */,
+				6EBB84B624A0CA1E00D4CD1B /* servant-basicInfo-59.json in Resources */,
+				6EBB84A424A0CA1E00D4CD1B /* servant-basicInfo-187.json in Resources */,
+				6EBB83B324A0CA1D00D4CD1B /* servant-basicInfo-65.json in Resources */,
+				6EBB844C24A0CA1E00D4CD1B /* servant-basicInfo-61.json in Resources */,
+				6EBB849D24A0CA1E00D4CD1B /* servant-basicInfo-75.json in Resources */,
+				6EBB84A024A0CA1E00D4CD1B /* servant-basicInfo-56.json in Resources */,
+				6EBB846224A0CA1E00D4CD1B /* servant-basicInfo-268.json in Resources */,
 				6E1AC2D4248C90B0004C006A /* command_code_47.json in Resources */,
+				6EBB840424A0CA1E00D4CD1B /* servant-basicInfo-162.json in Resources */,
 				6E1AC2C5248C90B0004C006A /* command_code_19.json in Resources */,
+				6EBB83C124A0CA1D00D4CD1B /* servant-basicInfo-182.json in Resources */,
 				6E1AC2DE248C90B0004C006A /* command_code_30.json in Resources */,
 				6E4C9D95248B8F4C00B96630 /* craftEssence_80.json in Resources */,
+				6EBB849224A0CA1E00D4CD1B /* servant-basicInfo-114.json in Resources */,
+				6EBB841524A0CA1E00D4CD1B /* servant-basicInfo-121.json in Resources */,
+				6EBB841B24A0CA1E00D4CD1B /* servant-basicInfo-252.json in Resources */,
 				6E4C9DAC248BAF8400B96630 /* craftEssence_1080.json in Resources */,
+				6EBB842C24A0CA1E00D4CD1B /* servant-basicInfo-254.json in Resources */,
+				6EBB845424A0CA1E00D4CD1B /* servant-basicInfo-93.json in Resources */,
+				6EBB83D624A0CA1D00D4CD1B /* servant-basicInfo-189.json in Resources */,
 				6E1AC324248CC774004C006A /* mystic_code_15.json in Resources */,
+				6EBB845224A0CA1E00D4CD1B /* servant-basicInfo-262.json in Resources */,
 				6E1AC2F9248C95BF004C006A /* command_code_64.json in Resources */,
+				6EBB848D24A0CA1E00D4CD1B /* servant-basicInfo-82.json in Resources */,
 				6E1AC2E9248C90B0004C006A /* command_code_27.json in Resources */,
 				6E1AC322248CC774004C006A /* mystic_code_6.json in Resources */,
+				6EBB83D224A0CA1D00D4CD1B /* servant-basicInfo-103.json in Resources */,
+				6EBB848F24A0CA1E00D4CD1B /* servant-basicInfo-225.json in Resources */,
+				6EBB845824A0CA1E00D4CD1B /* servant-basicInfo-115.json in Resources */,
+				6EBB83DB24A0CA1E00D4CD1B /* servant-basicInfo-99.json in Resources */,
+				6EBB848A24A0CA1E00D4CD1B /* servant-basicInfo-271.json in Resources */,
+				6EBB845C24A0CA1E00D4CD1B /* servant-basicInfo-256.json in Resources */,
 				6E1AC2CD248C90B0004C006A /* command_code_49.json in Resources */,
+				6EBB83E424A0CA1E00D4CD1B /* servant-basicInfo-106.json in Resources */,
+				6EBB844624A0CA1E00D4CD1B /* servant-basicInfo-19.json in Resources */,
+				6EBB844F24A0CA1E00D4CD1B /* servant-basicInfo-203.json in Resources */,
 				6E1AC2BF248C90B0004C006A /* command_code_24.json in Resources */,
+				6EBB83B624A0CA1D00D4CD1B /* servant-basicInfo-274.json in Resources */,
 				6E1AC2CA248C90B0004C006A /* command_code_29.json in Resources */,
+				6EBB83D524A0CA1D00D4CD1B /* servant-basicInfo-171.json in Resources */,
 				6E1AC2DB248C90B0004C006A /* command_code_40.json in Resources */,
+				6EBB849824A0CA1E00D4CD1B /* servant-basicInfo-209.json in Resources */,
+				6EBB841A24A0CA1E00D4CD1B /* servant-basicInfo-101.json in Resources */,
+				6EBB847324A0CA1E00D4CD1B /* servant-basicInfo-205.json in Resources */,
+				6EBB841224A0CA1E00D4CD1B /* servant-basicInfo-214.json in Resources */,
+				6EBB844324A0CA1E00D4CD1B /* servant-basicInfo-178.json in Resources */,
 				6E1AC317248CC774004C006A /* mystic_code_4.json in Resources */,
+				6EBB841024A0CA1E00D4CD1B /* servant-basicInfo-18.json in Resources */,
+				6EBB83D024A0CA1D00D4CD1B /* servant-basicInfo-129.json in Resources */,
+				6EBB83DC24A0CA1E00D4CD1B /* servant-basicInfo-283.json in Resources */,
+				6EBB83E124A0CA1E00D4CD1B /* servant-basicInfo-89.json in Resources */,
+				6EBB847A24A0CA1E00D4CD1B /* servant-basicInfo-107.json in Resources */,
+				6EBB84B824A0CA1E00D4CD1B /* servant-basicInfo-241.json in Resources */,
+				6EBB846724A0CA1E00D4CD1B /* servant-basicInfo-124.json in Resources */,
 				6E1AC2E6248C90B0004C006A /* command_code_14.json in Resources */,
+				6EBB83B524A0CA1D00D4CD1B /* servant-basicInfo-100.json in Resources */,
 				6E1AC2B9248C90B0004C006A /* command_code_59.json in Resources */,
 				6E1AC2C4248C90B0004C006A /* command_code_32.json in Resources */,
+				6EBB848124A0CA1E00D4CD1B /* servant-basicInfo-219.json in Resources */,
 				6E1AC31B248CC774004C006A /* mystic_code_5.json in Resources */,
+				6EBB847524A0CA1E00D4CD1B /* servant-basicInfo-40.json in Resources */,
+				6EBB83EC24A0CA1E00D4CD1B /* servant-basicInfo-253.json in Resources */,
+				6EBB843324A0CA1E00D4CD1B /* servant-basicInfo-41.json in Resources */,
+				6EBB849E24A0CA1E00D4CD1B /* servant-basicInfo-23.json in Resources */,
+				6EBB844B24A0CA1E00D4CD1B /* servant-basicInfo-12.json in Resources */,
+				6EBB847624A0CA1E00D4CD1B /* servant-basicInfo-224.json in Resources */,
+				6EBB843524A0CA1E00D4CD1B /* servant-basicInfo-180.json in Resources */,
+				6EBB83E524A0CA1E00D4CD1B /* servant-basicInfo-128.json in Resources */,
+				6EBB847024A0CA1E00D4CD1B /* servant-basicInfo-42.json in Resources */,
+				6EBB845624A0CA1E00D4CD1B /* servant-basicInfo-51.json in Resources */,
+				6EBB849F24A0CA1E00D4CD1B /* servant-basicInfo-192.json in Resources */,
+				6EBB842D24A0CA1E00D4CD1B /* servant-basicInfo-269.json in Resources */,
+				6EBB848E24A0CA1E00D4CD1B /* servant-basicInfo-34.json in Resources */,
+				6EBB83E224A0CA1E00D4CD1B /* servant-basicInfo-79.json in Resources */,
+				6EBB847C24A0CA1E00D4CD1B /* servant-basicInfo-67.json in Resources */,
 				6E1AC318248CC774004C006A /* mystic_code_2.json in Resources */,
+				6EBB841924A0CA1E00D4CD1B /* servant-basicInfo-277.json in Resources */,
+				6EBB848524A0CA1E00D4CD1B /* servant-basicInfo-155.json in Resources */,
+				6EBB847F24A0CA1E00D4CD1B /* servant-basicInfo-33.json in Resources */,
+				6EBB842124A0CA1E00D4CD1B /* servant-basicInfo-91.json in Resources */,
+				6EBB848424A0CA1E00D4CD1B /* servant-basicInfo-85.json in Resources */,
 				6E4C9DA0248BA1CB00B96630 /* craftEssence_242.json in Resources */,
+				6EBB845B24A0CA1E00D4CD1B /* servant-basicInfo-80.json in Resources */,
+				6EBB846524A0CA1E00D4CD1B /* servant-basicInfo-126.json in Resources */,
+				6EBB847E24A0CA1E00D4CD1B /* servant-basicInfo-186.json in Resources */,
 				6E1AC2DA248C90B0004C006A /* command_code_43.json in Resources */,
+				6EBB840524A0CA1E00D4CD1B /* servant-basicInfo-123.json in Resources */,
+				6EBB83F224A0CA1E00D4CD1B /* servant-basicInfo-153.json in Resources */,
+				6EBB840924A0CA1E00D4CD1B /* servant-basicInfo-281.json in Resources */,
+				6EBB83E924A0CA1E00D4CD1B /* servant-basicInfo-266.json in Resources */,
+				6EBB844D24A0CA1E00D4CD1B /* servant-basicInfo-28.json in Resources */,
 				6E1AC31F248CC774004C006A /* mystic_code_11.json in Resources */,
 				6E1AC316248CC774004C006A /* mystic_code_9.json in Resources */,
 				6E1AC1FE248C83D6004C006A /* craftEssence_1214.json in Resources */,
+				6EBB83CE24A0CA1D00D4CD1B /* servant-basicInfo-10.json in Resources */,
+				6EBB849C24A0CA1E00D4CD1B /* servant-basicInfo-97.json in Resources */,
 				6E1AC2BD248C90B0004C006A /* command_code_39.json in Resources */,
 				6E4C9DB0248BB08D00B96630 /* craftEssence_1149.json in Resources */,
+				6EBB83F424A0CA1E00D4CD1B /* servant-basicInfo-39.json in Resources */,
+				6EBB841E24A0CA1E00D4CD1B /* servant-basicInfo-134.json in Resources */,
+				6EBB83C424A0CA1D00D4CD1B /* servant-basicInfo-273.json in Resources */,
+				6EBB847B24A0CA1E00D4CD1B /* servant-basicInfo-208.json in Resources */,
+				6EBB845F24A0CA1E00D4CD1B /* servant-basicInfo-138.json in Resources */,
+				6EBB83C624A0CA1D00D4CD1B /* servant-basicInfo-247.json in Resources */,
+				6EBB841D24A0CA1E00D4CD1B /* servant-basicInfo-170.json in Resources */,
+				6EBB840324A0CA1E00D4CD1B /* servant-basicInfo-279.json in Resources */,
 				6E1AC320248CC774004C006A /* mystic_code_1.json in Resources */,
 				6E1AC2F0248C90B0004C006A /* command_code_36.json in Resources */,
+				6EBB844924A0CA1E00D4CD1B /* servant-basicInfo-276.json in Resources */,
 				6E4C9DA6248BADDE00B96630 /* craftEssence_910.json in Resources */,
 				6E1AC31A248CC774004C006A /* mystic_code_10.json in Resources */,
+				6EBB84AE24A0CA1E00D4CD1B /* servant-basicInfo-156.json in Resources */,
 				6E1AC2D8248C90B0004C006A /* command_code_46.json in Resources */,
+				6EBB846624A0CA1E00D4CD1B /* servant-basicInfo-2.json in Resources */,
+				6EBB840F24A0CA1E00D4CD1B /* servant-basicInfo-184.json in Resources */,
+				6EBB84B724A0CA1E00D4CD1B /* servant-basicInfo-234.json in Resources */,
+				6EBB83C324A0CA1D00D4CD1B /* servant-basicInfo-239.json in Resources */,
 				6E1AC2BB248C90B0004C006A /* command_code_22.json in Resources */,
 				6E1AC2CB248C90B0004C006A /* command_code_11.json in Resources */,
+				6EBB848324A0CA1E00D4CD1B /* servant-basicInfo-120.json in Resources */,
 				6E1AC2F3248C932D004C006A /* command_code_61.json in Resources */,
+				6EBB849424A0CA1E00D4CD1B /* servant-basicInfo-119.json in Resources */,
+				6EBB844224A0CA1E00D4CD1B /* servant-basicInfo-260.json in Resources */,
+				6EBB83E324A0CA1E00D4CD1B /* servant-basicInfo-154.json in Resources */,
 				6E1AC2EF248C90B0004C006A /* command_code_33.json in Resources */,
+				6EBB83CA24A0CA1D00D4CD1B /* servant-basicInfo-132.json in Resources */,
+				6EBB83C224A0CA1D00D4CD1B /* servant-basicInfo-236.json in Resources */,
+				6EBB83F324A0CA1E00D4CD1B /* servant-basicInfo-158.json in Resources */,
+				6EBB848924A0CA1E00D4CD1B /* servant-basicInfo-150.json in Resources */,
+				6EBB84A924A0CA1E00D4CD1B /* servant-basicInfo-229.json in Resources */,
 				6E4C9DAE248BB00F00B96630 /* craftEssence_1121.json in Resources */,
+				6EBB843724A0CA1E00D4CD1B /* servant-basicInfo-16.json in Resources */,
 				6E1AC321248CC774004C006A /* mystic_code_12.json in Resources */,
+				6EBB84A224A0CA1E00D4CD1B /* servant-basicInfo-104.json in Resources */,
+				6EBB848824A0CA1E00D4CD1B /* servant-basicInfo-175.json in Resources */,
+				6EBB846024A0CA1E00D4CD1B /* servant-basicInfo-46.json in Resources */,
 				6E1AC31E248CC774004C006A /* mystic_code_3.json in Resources */,
 				6E1AC2C0248C90B0004C006A /* command_code_34.json in Resources */,
+				6EBB848624A0CA1E00D4CD1B /* servant-basicInfo-9.json in Resources */,
 				6E1AC2B7248C90B0004C006A /* command_code_55.json in Resources */,
 				6E1AC2B8248C90B0004C006A /* command_code_25.json in Resources */,
+				6EBB846D24A0CA1E00D4CD1B /* servant-basicInfo-280.json in Resources */,
+				6EBB843124A0CA1E00D4CD1B /* servant-basicInfo-231.json in Resources */,
+				6EBB849124A0CA1E00D4CD1B /* servant-basicInfo-278.json in Resources */,
+				6EBB83BC24A0CA1D00D4CD1B /* servant-basicInfo-27.json in Resources */,
+				6EBB849A24A0CA1E00D4CD1B /* servant-basicInfo-147.json in Resources */,
+				6EBB83B924A0CA1D00D4CD1B /* servant-basicInfo-64.json in Resources */,
+				6EBB83F124A0CA1E00D4CD1B /* servant-basicInfo-159.json in Resources */,
+				6EBB84C624A0CA1E00D4CD1B /* servant-basicInfo-174.json in Resources */,
+				6EBB849524A0CA1E00D4CD1B /* servant-basicInfo-37.json in Resources */,
 				6E1AC2D5248C90B0004C006A /* command_code_28.json in Resources */,
 				6E1AC2E0248C90B0004C006A /* command_code_57.json in Resources */,
+				6EBB84B924A0CA1E00D4CD1B /* servant-basicInfo-76.json in Resources */,
+				6EBB84C524A0CA1E00D4CD1B /* servant-basicInfo-210.json in Resources */,
+				6EBB840824A0CA1E00D4CD1B /* servant-basicInfo-146.json in Resources */,
+				6EBB844724A0CA1E00D4CD1B /* servant-basicInfo-5.json in Resources */,
+				6EBB840C24A0CA1E00D4CD1B /* servant-basicInfo-113.json in Resources */,
+				6EBB847424A0CA1E00D4CD1B /* servant-basicInfo-228.json in Resources */,
+				6EBB841424A0CA1E00D4CD1B /* servant-basicInfo-263.json in Resources */,
 				6E1AC2CF248C90B0004C006A /* command_code_58.json in Resources */,
 				6E1AC2F5248C9523004C006A /* command_code_62.json in Resources */,
 				6E1AC2DC248C90B0004C006A /* command_code_44.json in Resources */,
+				6EBB845524A0CA1E00D4CD1B /* servant-basicInfo-69.json in Resources */,
 				6E1AC2B6248C90B0004C006A /* command_code_42.json in Resources */,
+				6EBB83F524A0CA1E00D4CD1B /* servant-basicInfo-109.json in Resources */,
+				6EBB840724A0CA1E00D4CD1B /* servant-basicInfo-191.json in Resources */,
+				6EBB841124A0CA1E00D4CD1B /* servant-basicInfo-36.json in Resources */,
+				6EBB84B124A0CA1E00D4CD1B /* servant-basicInfo-215.json in Resources */,
+				6EBB845D24A0CA1E00D4CD1B /* servant-basicInfo-102.json in Resources */,
+				6EBB84A324A0CA1E00D4CD1B /* servant-basicInfo-249.json in Resources */,
+				6EBB845A24A0CA1E00D4CD1B /* servant-basicInfo-221.json in Resources */,
+				6EBB83BE24A0CA1D00D4CD1B /* servant-basicInfo-117.json in Resources */,
+				6EBB83D724A0CA1E00D4CD1B /* servant-basicInfo-98.json in Resources */,
+				6EBB844024A0CA1E00D4CD1B /* servant-basicInfo-179.json in Resources */,
+				6EBB849624A0CA1E00D4CD1B /* servant-basicInfo-47.json in Resources */,
+				6EBB84AF24A0CA1E00D4CD1B /* servant-basicInfo-143.json in Resources */,
+				6EBB84AA24A0CA1E00D4CD1B /* servant-basicInfo-259.json in Resources */,
+				6EBB845024A0CA1E00D4CD1B /* servant-basicInfo-173.json in Resources */,
+				6EBB847924A0CA1E00D4CD1B /* servant-basicInfo-71.json in Resources */,
+				6EBB83D124A0CA1D00D4CD1B /* servant-basicInfo-197.json in Resources */,
+				6EBB83B824A0CA1D00D4CD1B /* servant-basicInfo-15.json in Resources */,
+				6EBB842824A0CA1E00D4CD1B /* servant-basicInfo-202.json in Resources */,
 				6E1AC2DF248C90B0004C006A /* command_code_18.json in Resources */,
 				6E1AC31D248CC774004C006A /* mystic_code_7.json in Resources */,
+				6EBB84C224A0CA1E00D4CD1B /* servant-basicInfo-145.json in Resources */,
 				6E1AC2DD248C90B0004C006A /* command_code_52.json in Resources */,
+				6EBB83FC24A0CA1E00D4CD1B /* servant-basicInfo-257.json in Resources */,
+				6EBB843C24A0CA1E00D4CD1B /* servant-basicInfo-139.json in Resources */,
 				6E2FA591248A064000822AA0 /* Preview Assets.xcassets in Resources */,
 				6E2FA58E248A064000822AA0 /* Assets.xcassets in Resources */,
+				6EBB83EE24A0CA1E00D4CD1B /* servant-basicInfo-181.json in Resources */,
+				6EBB83DF24A0CA1E00D4CD1B /* servant-basicInfo-13.json in Resources */,
+				6EBB83BB24A0CA1D00D4CD1B /* servant-basicInfo-38.json in Resources */,
 				6E4C9DAA248BAF0C00B96630 /* craftEssence_1012.json in Resources */,
+				6EBB840A24A0CA1E00D4CD1B /* servant-basicInfo-157.json in Resources */,
+				6EBB84AB24A0CA1E00D4CD1B /* servant-basicInfo-220.json in Resources */,
+				6EBB843824A0CA1E00D4CD1B /* servant-basicInfo-136.json in Resources */,
+				6EBB849324A0CA1E00D4CD1B /* servant-basicInfo-270.json in Resources */,
+				6EBB841F24A0CA1E00D4CD1B /* servant-basicInfo-226.json in Resources */,
+				6EBB84B424A0CA1E00D4CD1B /* servant-basicInfo-142.json in Resources */,
+				6EBB84B324A0CA1E00D4CD1B /* servant-basicInfo-94.json in Resources */,
+				6EBB841624A0CA1E00D4CD1B /* servant-basicInfo-250.json in Resources */,
+				6EBB842624A0CA1E00D4CD1B /* servant-basicInfo-30.json in Resources */,
+				6EBB840D24A0CA1E00D4CD1B /* servant-basicInfo-133.json in Resources */,
+				6EBB849B24A0CA1E00D4CD1B /* servant-basicInfo-110.json in Resources */,
+				6EBB846824A0CA1E00D4CD1B /* servant-basicInfo-84.json in Resources */,
+				6EBB83DD24A0CA1E00D4CD1B /* servant-basicInfo-55.json in Resources */,
+				6EBB841724A0CA1E00D4CD1B /* servant-basicInfo-81.json in Resources */,
 				6E1AC2D7248C90B0004C006A /* command_code_23.json in Resources */,
+				6EBB84BA24A0CA1E00D4CD1B /* servant-basicInfo-53.json in Resources */,
 				6E1AC2BC248C90B0004C006A /* command_code_12.json in Resources */,
+				6EBB846124A0CA1E00D4CD1B /* servant-basicInfo-78.json in Resources */,
+				6EBB83DE24A0CA1E00D4CD1B /* servant-basicInfo-246.json in Resources */,
 				6E1AC2EC248C90B0004C006A /* command_code_31.json in Resources */,
+				6EBB846B24A0CA1E00D4CD1B /* servant-basicInfo-222.json in Resources */,
+				6EBB843224A0CA1E00D4CD1B /* servant-basicInfo-207.json in Resources */,
+				6EBB83C924A0CA1D00D4CD1B /* servant-basicInfo-238.json in Resources */,
+				6EBB83C524A0CA1D00D4CD1B /* servant-basicInfo-237.json in Resources */,
+				6EBB83B424A0CA1D00D4CD1B /* servant-basicInfo-14.json in Resources */,
+				6EBB840B24A0CA1E00D4CD1B /* servant-basicInfo-188.json in Resources */,
 				6E1AC2C9248C90B0004C006A /* command_code_6.json in Resources */,
+				6EBB843024A0CA1E00D4CD1B /* servant-basicInfo-88.json in Resources */,
+				6EBB84BC24A0CA1E00D4CD1B /* servant-basicInfo-92.json in Resources */,
+				6EBB847224A0CA1E00D4CD1B /* servant-basicInfo-50.json in Resources */,
+				6EBB845724A0CA1E00D4CD1B /* servant-basicInfo-122.json in Resources */,
+				6EBB84B524A0CA1E00D4CD1B /* servant-basicInfo-22.json in Resources */,
+				6EBB84C324A0CA1E00D4CD1B /* servant-basicInfo-144.json in Resources */,
+				6EBB844424A0CA1E00D4CD1B /* servant-basicInfo-25.json in Resources */,
+				6EBB83E624A0CA1E00D4CD1B /* servant-basicInfo-1(2).json in Resources */,
 				6E1AC2C8248C90B0004C006A /* command_code_20.json in Resources */,
+				6EBB843924A0CA1E00D4CD1B /* servant-basicInfo-96.json in Resources */,
+				6EBB83F924A0CA1E00D4CD1B /* servant-basicInfo-195.json in Resources */,
 				6E1AC2C6248C90B0004C006A /* command_code_17.json in Resources */,
 				6E4C9D9E248B9DC600B96630 /* craftEssence_178.json in Resources */,
+				6EBB83D824A0CA1E00D4CD1B /* servant-basicInfo-24.json in Resources */,
+				6EBB842524A0CA1E00D4CD1B /* servant-basicInfo-17.json in Resources */,
 				6E1AC2D3248C90B0004C006A /* command_code_60.json in Resources */,
+				6EBB846924A0CA1E00D4CD1B /* servant-basicInfo-211.json in Resources */,
+				6EBB842324A0CA1E00D4CD1B /* servant-basicInfo-255.json in Resources */,
+				6EBB83B724A0CA1D00D4CD1B /* servant-basicInfo-127.json in Resources */,
+				6EBB83FD24A0CA1E00D4CD1B /* servant-basicInfo-111.json in Resources */,
+				6EBB842A24A0CA1E00D4CD1B /* servant-basicInfo-245.json in Resources */,
 				6E1AC2E3248C90B0004C006A /* command_code_53.json in Resources */,
 				6E1AC2EA248C90B0004C006A /* command_code_54.json in Resources */,
 				6E1AC2ED248C90B0004C006A /* command_code_13.json in Resources */,
+				6EBB83C024A0CA1D00D4CD1B /* servant-basicInfo-196.json in Resources */,
 				6E1AC2D0248C90B0004C006A /* command_code_35.json in Resources */,
+				6EBB83F724A0CA1E00D4CD1B /* servant-basicInfo-172.json in Resources */,
 				6E4C9DA2248BAC2300B96630 /* craftEssence_330.json in Resources */,
 				6E1AC2E7248C90B0004C006A /* command_code_37.json in Resources */,
 				6E1AC2BE248C90B0004C006A /* command_code_38.json in Resources */,
 				6E1AC2C7248C90B0004C006A /* command_code_9.json in Resources */,
+				6EBB846324A0CA1E00D4CD1B /* servant-basicInfo-193.json in Resources */,
+				6EBB84A824A0CA1E00D4CD1B /* servant-basicInfo-212.json in Resources */,
+				6EBB842B24A0CA1E00D4CD1B /* servant-basicInfo-26.json in Resources */,
 				6E1AC2E1248C90B0004C006A /* command_code_7.json in Resources */,
+				6EBB84C424A0CA1E00D4CD1B /* servant-basicInfo-74.json in Resources */,
+				6EBB847D24A0CA1E00D4CD1B /* servant-basicInfo-48.json in Resources */,
+				6EBB842F24A0CA1E00D4CD1B /* servant-basicInfo-163.json in Resources */,
+				6EBB83CB24A0CA1D00D4CD1B /* servant-basicInfo-227.json in Resources */,
+				6EBB848C24A0CA1E00D4CD1B /* servant-basicInfo-35.json in Resources */,
+				6EBB845924A0CA1E00D4CD1B /* servant-basicInfo-86.json in Resources */,
+				6EBB84C824A0CA1E00D4CD1B /* servant-basicInfo-66.json in Resources */,
+				6EBB84BB24A0CA1E00D4CD1B /* servant-basicInfo-233.json in Resources */,
+				6EBB83F824A0CA1E00D4CD1B /* servant-basicInfo-70.json in Resources */,
+				6EBB844E24A0CA1E00D4CD1B /* servant-basicInfo-251.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -863,6 +2003,7 @@
 				6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */,
 				6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */,
 				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,
+				6EBB84CA24A0CC4800D4CD1B /* ServantBasicInfo.swift in Sources */,
 				6EE266A8249E59A0000B4277 /* ServantAbilityView.swift in Sources */,
 				6E1AC2FB248C9634004C006A /* CommandCodeStore.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
@@ -879,6 +2020,7 @@
 				6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */,
 				6E69D183249271EF009A7F00 /* SeeAllCommandCodeListView.swift in Sources */,
 				6E1AC200248C8942004C006A /* CommandCode.swift in Sources */,
+				6EBB84D024A0D24D00D4CD1B /* ServantBasicInfoView.swift in Sources */,
 				6E1AC32E248CCEFC004C006A /* MysticCodeBoxView.swift in Sources */,
 				6E1AC32C248CCD4F004C006A /* MysticCodeListView.swift in Sources */,
 				6E4C9D8E248B880F00B96630 /* DavinciStoreCraftEssenceView.swift in Sources */,
@@ -892,6 +2034,7 @@
 				6E1AC331248D144F004C006A /* FightCharacterFilterListView.swift in Sources */,
 				6EE266A6249E4543000B4277 /* TwoColumnSheetView.swift in Sources */,
 				6ED0724D248A661400C2C7D9 /* GivenServantListView.swift in Sources */,
+				6EBB84CC24A0CCB200D4CD1B /* ServantStore.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -899,6 +2042,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EBB84CE24A0CF6D00D4CD1B /* ServantStoreTests.swift in Sources */,
 				6E2FA59F248A064100822AA0 /* FateIndexTests.swift in Sources */,
 				6E1AC32A248CCA1B004C006A /* MysticCodeStoreTests.swift in Sources */,
 				6E4C9D9C248B9A7E00B96630 /* CraftEssenceStoreTests.swift in Sources */,

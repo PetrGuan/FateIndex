@@ -1,0 +1,29 @@
+{
+    "id": "157",
+    "name": "卫宫〔Alter〕",
+    "attribute": "混沌·恶",
+    "illustrator": "佐々木少年",
+    "castVoice": "诹访部顺一",
+    "access": "圣晶石召唤（Story卡池） 剧情第1.5部第一章通关后加入卡池",
+    "weight": "78kg",
+    "source": "Fate\/Grand Order",
+    "nickNames": [
+        "黑茶",
+        "黑A"
+    ],
+    "height": "187cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ]
+}

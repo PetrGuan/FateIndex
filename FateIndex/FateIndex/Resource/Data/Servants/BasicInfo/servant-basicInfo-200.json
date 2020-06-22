@@ -1,0 +1,27 @@
+{
+    "id": "200",
+    "name": "浅上藤乃",
+    "attribute": "秩序·恶",
+    "illustrator": "武内崇",
+    "castVoice": "能登麻美子",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "51kg",
+    "source": "空之境界",
+    "nickNames": [
+        "拆桥"
+    ],
+    "height": "157cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

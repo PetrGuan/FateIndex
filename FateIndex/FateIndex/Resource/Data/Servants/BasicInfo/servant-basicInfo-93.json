@@ -1,0 +1,29 @@
+{
+    "id": "93",
+    "name": "天草四郎",
+    "attribute": "秩序·善",
+    "illustrator": "近衛乙嗣",
+    "castVoice": "内山昂辉",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "59kg",
+    "source": "史实",
+    "nickNames": [
+        "天草四郎时贞",
+        "圣诞假面"
+    ],
+    "height": "169cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

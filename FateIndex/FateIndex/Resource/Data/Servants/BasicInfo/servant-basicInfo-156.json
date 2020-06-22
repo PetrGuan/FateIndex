@@ -1,0 +1,30 @@
+{
+    "id": "156",
+    "name": "新宿的Archer",
+    "attribute": "混沌·恶",
+    "illustrator": "本庄雷太",
+    "castVoice": "土师孝也",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "68kg",
+    "source": "福尔摩斯探案集系列",
+    "nickNames": [
+        "莫教授",
+        "老爷爷",
+        "骚老头"
+    ],
+    "height": "175cm",
+    "region": "欧洲全域",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

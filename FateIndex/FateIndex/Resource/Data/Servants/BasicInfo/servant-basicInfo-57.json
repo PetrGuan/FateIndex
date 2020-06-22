@@ -1,0 +1,30 @@
+{
+    "id": "57",
+    "name": "血斧埃里克",
+    "attribute": "混沌·中庸",
+    "illustrator": "蒼月タカオ",
+    "castVoice": "安井邦彦",
+    "access": "友情点召唤",
+    "weight": "115kg",
+    "source": "《Fagrskinna》",
+    "nickNames": [
+        "血斧王",
+        "成龙大哥"
+    ],
+    "height": "195cm",
+    "region": "挪威～英格兰",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "id": "222",
+    "name": "谜之女主角XX",
+    "attribute": "秩序·善",
+    "illustrator": "BUNBUN",
+    "castVoice": "川澄绫子",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "48kg",
+    "source": "Cosmo Guardian三部作",
+    "nickNames": [
+        "XX毛"
+    ],
+    "height": "154cm",
+    "region": "从者界",
+    "camp": "星",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "龙",
+        "阿尔托莉雅脸",
+        "亚瑟",
+        "所爱之人",
+        "王"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

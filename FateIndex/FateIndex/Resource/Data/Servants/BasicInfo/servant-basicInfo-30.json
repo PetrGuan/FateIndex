@@ -1,0 +1,31 @@
+{
+    "id": "30",
+    "name": "玛尔达",
+    "attribute": "秩序·善",
+    "illustrator": "坂本みねぢ",
+    "castVoice": "早见沙织",
+    "access": "圣晶石召唤",
+    "weight": "49kg",
+    "source": "史实、新约圣书",
+    "nickNames": [
+        "马达",
+        "降龙圣女"
+    ],
+    "height": "161cm",
+    "region": "欧洲",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

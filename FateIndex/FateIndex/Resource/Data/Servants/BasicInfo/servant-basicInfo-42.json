@@ -1,0 +1,29 @@
+{
+    "id": "42",
+    "name": "荆轲",
+    "attribute": "混沌·善",
+    "illustrator": "高橋慶太郎",
+    "castVoice": "田中敦子",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "48kg",
+    "source": "史实",
+    "nickNames": [
+        "毛腿王",
+        "酒鬼"
+    ],
+    "height": "159cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ]
+}

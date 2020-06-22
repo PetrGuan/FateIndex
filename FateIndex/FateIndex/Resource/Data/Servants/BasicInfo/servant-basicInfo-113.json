@@ -1,0 +1,29 @@
+{
+    "id": "113",
+    "name": "玄奘三藏",
+    "attribute": "秩序·善",
+    "illustrator": "岡崎武士",
+    "castVoice": "小松未可子",
+    "access": "圣晶石召唤",
+    "weight": "48kg",
+    "source": "「西遊记」等",
+    "nickNames": [
+        "唐僧"
+    ],
+    "height": "160cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

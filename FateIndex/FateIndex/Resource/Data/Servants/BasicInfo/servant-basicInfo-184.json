@@ -1,0 +1,32 @@
+{
+    "id": "184",
+    "name": "Archer Inferno",
+    "attribute": "中立·中庸",
+    "illustrator": "しらび",
+    "castVoice": "金元寿子",
+    "access": "圣晶石召唤",
+    "weight": "50kg",
+    "source": "史实",
+    "nickNames": [
+        "巴妈",
+        "鲅鱼圈"
+    ],
+    "height": "162cm",
+    "region": "日本",
+    "camp": "地",
+    "tokusei": [
+        "人型",
+        "魔性",
+        "从者(天地乖离特攻)",
+        "天\/地从者(雷电降临特攻)",
+        "天\/地从者(神秘杀手特攻)"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

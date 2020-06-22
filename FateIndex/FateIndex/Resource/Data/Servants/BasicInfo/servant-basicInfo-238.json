@@ -1,0 +1,34 @@
+{
+    "id": "238",
+    "name": "Kingprotea",
+    "attribute": "秩序·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "潘惠美",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "??kg",
+    "source": "Fate\/EXTRA CCC",
+    "nickNames": [
+        "巨萝莉",
+        "巨樱",
+        "绷带樱"
+    ],
+    "height": "5～??m",
+    "region": "SE.RA.PH",
+    "camp": "地",
+    "tokusei": [
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）",
+        "天\/地从者(雷电降临特攻）",
+        "天\/地从者(神秘杀手特攻）",
+        "超巨大"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

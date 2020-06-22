@@ -1,0 +1,33 @@
+{
+    "id": "8",
+    "name": "阿蒂拉",
+    "attribute": "混沌·善",
+    "illustrator": "huke",
+    "castVoice": "能登麻美子",
+    "access": "圣晶石召唤",
+    "weight": "48kg",
+    "source": "史实",
+    "nickNames": [
+        "B提拉",
+        "彩笔",
+        "大王"
+    ],
+    "height": "160cm",
+    "region": "中亚～欧洲",
+    "camp": "人",
+    "tokusei": [
+        "骑乘",
+        "人型",
+        "神性",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

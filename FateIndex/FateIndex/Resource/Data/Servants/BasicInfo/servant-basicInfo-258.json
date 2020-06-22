@@ -1,0 +1,30 @@
+{
+    "id": "258",
+    "name": "陈宫",
+    "attribute": "混沌·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "真殿光昭",
+    "access": "友情点召唤",
+    "weight": "60kg",
+    "source": "史实、《三国演义》",
+    "nickNames": [
+        "自爆军师",
+        "火箭发射器",
+        "白武男"
+    ],
+    "height": "182cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

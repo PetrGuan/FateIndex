@@ -21,7 +21,19 @@ struct AppView: View {
             ContentView()
                 .tab(title: "设置", image: "gear")
         }
+        .onAppear(perform: {
+            ServantStore.shared.fetchAllBasicInfo()
+        })
+    }
+}
 
+struct AppView_Previews: PreviewProvider {
+    static var previews: some View {
+        AppView()
+    }
+}
+
+//
 //        TabView {
 //            ServantsView()
 //                .tabItem {
@@ -47,11 +59,3 @@ struct AppView: View {
 //                    Text("设置")
 //                }
 //        }
-    }
-}
-
-struct AppView_Previews: PreviewProvider {
-    static var previews: some View {
-        AppView()
-    }
-}

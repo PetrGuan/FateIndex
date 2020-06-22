@@ -1,0 +1,28 @@
+{
+    "id": "127",
+    "name": "莱昂纳多・达・芬奇",
+    "attribute": "混沌·善",
+    "illustrator": "下越",
+    "castVoice": "坂本真绫",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "40kg",
+    "source": "史実",
+    "nickNames": [
+        "大碧池"
+    ],
+    "height": "160cm",
+    "region": "欧州",
+    "camp": "星",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "id": "33",
+    "name": "汉斯・克里斯蒂安・安徒生",
+    "attribute": "秩序·中庸",
+    "illustrator": "ワダアルコ",
+    "castVoice": "子安武人",
+    "access": "友情点召唤",
+    "weight": "39kg",
+    "source": "史实",
+    "nickNames": [
+        "安日天",
+        "江户川子安"
+    ],
+    "height": "146cm",
+    "region": "丹麦",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "125",
+    "name": "俵藤太",
+    "attribute": "中立·善",
+    "illustrator": "下越",
+    "castVoice": "铃村健一",
+    "access": "圣晶石召唤&友情点召唤",
+    "weight": "98kg",
+    "source": "俵藤太物语",
+    "nickNames": [
+        "送水弓",
+        "送米弓"
+    ],
+    "height": "183cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

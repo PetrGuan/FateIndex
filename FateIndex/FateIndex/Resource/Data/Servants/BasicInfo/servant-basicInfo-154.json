@@ -1,0 +1,30 @@
+{
+    "id": "154",
+    "name": "山中老人",
+    "attribute": "秩序·恶",
+    "illustrator": "Ryota-H",
+    "castVoice": "中田让治",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "？？kg",
+    "source": "中东",
+    "nickNames": [
+        "王哈桑",
+        "狂战信条"
+    ],
+    "height": "220cm",
+    "region": "中东",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "所爱之人"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

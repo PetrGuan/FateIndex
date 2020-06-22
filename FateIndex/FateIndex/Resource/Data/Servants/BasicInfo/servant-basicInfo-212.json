@@ -1,0 +1,31 @@
+{
+    "id": "212",
+    "name": "拿破仑",
+    "attribute": "中立·善",
+    "illustrator": "Ryota-H",
+    "castVoice": "日野聪",
+    "access": "圣晶石召唤",
+    "weight": "92kg",
+    "source": "史实、拿破仑传说",
+    "nickNames": [
+        "拿皇",
+        "大胸",
+        "彩虹炮"
+    ],
+    "height": "189cm",
+    "region": "欧州",
+    "camp": "星",
+    "tokusei": [
+        "人型",
+        "所爱之人",
+        "王"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ]
+}

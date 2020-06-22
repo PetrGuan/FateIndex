@@ -1,0 +1,29 @@
+{
+    "id": "226",
+    "name": "项羽",
+    "attribute": "秩序·中庸",
+    "illustrator": "danciao",
+    "castVoice": "山寺宏一",
+    "access": "圣晶石召唤",
+    "weight": "480kg",
+    "source": "史实及异闻带",
+    "nickNames": [
+        "人马",
+        "西楚霸王"
+    ],
+    "height": "310cm",
+    "region": "中国",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ]
+}

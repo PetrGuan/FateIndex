@@ -1,0 +1,30 @@
+{
+    "id": "209",
+    "name": "冲田总司〔Alter〕",
+    "attribute": "中立·中庸",
+    "illustrator": "武内崇",
+    "castVoice": "悠木碧",
+    "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
+    "weight": "51kg",
+    "source": "史实",
+    "nickNames": [
+        "魔神SABER"
+    ],
+    "height": "163cm",
+    "region": "日本",
+    "camp": "人",
+    "tokusei": [
+        "人型",
+        "阿尔托莉雅脸",
+        "从者(天地乖离特攻）",
+        "所爱之人"
+    ],
+    "gender": "女性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ]
+}

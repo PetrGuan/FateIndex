@@ -1,0 +1,29 @@
+{
+    "id": "140",
+    "name": "弗拉德三世〔EXTRA〕",
+    "attribute": "秩序·善",
+    "illustrator": "ワダアルコ",
+    "castVoice": "江川央生",
+    "access": "圣晶石召唤",
+    "weight": "90kg",
+    "source": "史实",
+    "nickNames": [
+        "枪大公"
+    ],
+    "height": "191cm",
+    "region": "罗马尼亚",
+    "camp": "地",
+    "tokusei": [
+        "人型",
+        "从者(天地乖离特攻）",
+        "王"
+    ],
+    "gender": "男性",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ]
+}
