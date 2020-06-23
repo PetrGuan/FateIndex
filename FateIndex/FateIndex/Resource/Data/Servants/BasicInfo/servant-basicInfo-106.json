@@ -1,7 +1,15 @@
 {
+    "servantClass": "avenger",
     "id": "106",
-    "name": "贞德〔Alter〕",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "贞德〔Alter〕",
     "illustrator": "武内崇",
     "castVoice": "坂本真绫",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -19,11 +27,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

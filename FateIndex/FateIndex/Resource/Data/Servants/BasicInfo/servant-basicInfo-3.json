@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "3",
-    "name": "阿尔托莉雅・潘德拉贡〔Alter〕",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·恶",
+    "name": "阿尔托莉雅・潘德拉贡〔Alter〕",
     "illustrator": "武内崇",
     "castVoice": "川澄绫子",
     "access": "圣晶石召唤（Story卡池） 剧情序章通关后加入卡池",
@@ -24,11 +32,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

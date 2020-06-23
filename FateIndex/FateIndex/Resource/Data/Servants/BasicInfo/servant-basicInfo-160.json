@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "160",
-    "name": "亚瑟・潘德拉贡〔Prototype〕",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·善",
+    "name": "亚瑟・潘德拉贡〔Prototype〕",
     "illustrator": "中原",
     "castVoice": "樱井孝宏",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -25,11 +33,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

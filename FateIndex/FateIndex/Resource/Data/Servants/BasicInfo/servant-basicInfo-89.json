@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "89",
-    "name": "贝奥武夫",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·善",
+    "name": "贝奥武夫",
     "illustrator": "下越",
     "castVoice": "中井和哉",
     "access": "圣晶石召唤",
@@ -24,11 +32,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

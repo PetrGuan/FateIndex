@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "55",
-    "name": "大流士三世",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "大流士三世",
     "illustrator": "PFALZ",
     "castVoice": "安井邦彦",
     "access": "圣晶石召唤&友情点召唤",
@@ -22,11 +30,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "7"
 }

@@ -1,7 +1,15 @@
 {
+    "servantClass": "alterego",
     "id": "209",
-    "name": "冲田总司〔Alter〕",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "中立·中庸",
+    "name": "冲田总司〔Alter〕",
     "illustrator": "武内崇",
     "castVoice": "悠木碧",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -20,11 +28,5 @@
         "所爱之人"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

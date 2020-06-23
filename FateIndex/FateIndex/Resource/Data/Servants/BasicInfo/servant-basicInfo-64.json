@@ -1,7 +1,15 @@
 {
+    "servantClass": "lancer",
     "id": "64",
-    "name": "赫克托耳",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "赫克托耳",
     "illustrator": "BLACK",
     "castVoice": "安井邦彦",
     "access": "圣晶石召唤&友情点召唤",
@@ -21,11 +29,5 @@
         "希腊神话系男性"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "7"
 }

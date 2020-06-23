@@ -1,7 +1,15 @@
 {
+    "servantClass": "rider",
     "id": "274",
-    "name": "欧罗巴",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "中立·善",
+    "name": "欧罗巴",
     "illustrator": "redjuice",
     "castVoice": "M·A·O",
     "access": "圣晶石召唤",
@@ -23,11 +31,5 @@
         "天\/地从者(神秘杀手特攻)"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

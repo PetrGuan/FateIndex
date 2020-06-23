@@ -1,7 +1,15 @@
 {
+    "servantClass": "caster",
     "id": "74",
-    "name": "童谣",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "根据Master变化",
+    "name": "童谣",
     "illustrator": "ワダアルコ",
     "castVoice": "野中蓝",
     "access": "圣晶石召唤",
@@ -19,11 +27,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

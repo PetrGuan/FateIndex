@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "52",
-    "name": "弗拉德三世",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "弗拉德三世",
     "illustrator": "前田浩孝",
     "castVoice": "置鲇龙太郎",
     "access": "圣晶石召唤",
@@ -24,11 +32,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

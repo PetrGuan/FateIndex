@@ -1,6 +1,8 @@
 {
     "id": "1",
     "name": "玛修・基列莱特",
+    "servantClass": "shielder",
+    "cost": "0",
     "attribute": "秩序·善",
     "illustrator": "武内崇",
     "castVoice": "高桥李依",

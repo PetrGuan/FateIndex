@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "226",
-    "name": "项羽",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "项羽",
     "illustrator": "danciao",
     "castVoice": "山寺宏一",
     "access": "圣晶石召唤",
@@ -19,11 +27,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "254",
-    "name": "伊阿宋",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·善",
+    "name": "伊阿宋",
     "illustrator": "BLACK",
     "castVoice": "保志总一朗",
     "access": "友情点召唤",
@@ -25,11 +33,5 @@
         "希腊神话系男性"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "3"
 }

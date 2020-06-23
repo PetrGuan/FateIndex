@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "227",
-    "name": "兰陵王",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·善",
+    "name": "兰陵王",
     "illustrator": "hou",
     "castVoice": "森奈奈子",
     "access": "圣晶石召唤",
@@ -21,11 +29,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

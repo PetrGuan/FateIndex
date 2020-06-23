@@ -1,7 +1,15 @@
 {
+    "servantClass": "lancer",
     "id": "279",
-    "name": "凯妮斯",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "中立·恶",
+    "name": "凯妮斯",
     "illustrator": "Azusa",
     "castVoice": "小松未可子",
     "access": "圣晶石召唤（Story卡池） 剧情第2部第5章(奥林匹斯)通关后加入卡池",
@@ -25,11 +33,5 @@
         ""
     ],
     "gender": "―",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

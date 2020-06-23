@@ -1,7 +1,15 @@
 {
+    "servantClass": "avenger",
     "id": "204",
-    "name": "安东尼奥・萨列里",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "安东尼奥・萨列里",
     "illustrator": "PFALZ",
     "castVoice": "关俊彦",
     "access": "圣晶石召唤（Story卡池） 剧情第2部第1章通关后加入卡池",
@@ -22,11 +30,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "7"
 }

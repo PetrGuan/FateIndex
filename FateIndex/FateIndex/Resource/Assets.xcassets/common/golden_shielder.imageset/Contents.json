@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "golden_shielder.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

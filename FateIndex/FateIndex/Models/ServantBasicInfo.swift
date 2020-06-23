@@ -12,6 +12,10 @@ struct ServantBasicInfo: Codable {
     let id: String
     /// 姓名
     let name: String
+    /// 职阶
+    let servantClass: String
+    /// 消耗
+    let cost: String
     /// 性别
     let gender: String
     /// 身高

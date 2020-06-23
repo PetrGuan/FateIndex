@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "202",
-    "name": "阿塔兰忒〔Alter〕",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "阿塔兰忒〔Alter〕",
     "illustrator": "近衛乙嗣",
     "castVoice": "早见沙织",
     "access": "圣晶石召唤",
@@ -24,11 +32,5 @@
         "猛兽"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

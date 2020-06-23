@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "162",
-    "name": "茶茶",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·中庸",
+    "name": "茶茶",
     "illustrator": "pako",
     "castVoice": "阿澄佳奈",
     "access": "限时活动免费获取 活动结束后无法获得",
@@ -19,11 +27,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

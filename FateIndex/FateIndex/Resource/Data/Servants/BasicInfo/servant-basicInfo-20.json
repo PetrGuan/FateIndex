@@ -1,7 +1,15 @@
 {
+    "servantClass": "lancer",
     "id": "20",
-    "name": "库・丘林〔Prototype〕",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "库・丘林〔Prototype〕",
     "illustrator": "中原",
     "castVoice": "中井和哉",
     "access": "圣晶石召唤&友情点召唤",
@@ -21,11 +29,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "7"
 }

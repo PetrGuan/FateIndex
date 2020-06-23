@@ -1,7 +1,15 @@
 {
+    "servantClass": "alterego",
     "id": "164",
-    "name": "Passionlip",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "Passionlip",
     "illustrator": "ワダアルコ",
     "castVoice": "小仓唯",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -21,11 +29,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

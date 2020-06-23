@@ -15,9 +15,14 @@ struct ServantBasicInfoView: View {
     var body: some View {
         VStack {
             Divider()
-            Image("69px-5星")
 
-            Image("48px-金卡Foreigner")
+            if !(servantBasicInfo.cost == "0" || servantBasicInfo.id == "107") {
+                Image(servantCostImage())
+            }
+
+            Image(servantClassImage())
+                .resizable()
+                .frame(width: 55, height: 55)
             Divider()
 
             PageView(imagePageView())
@@ -34,7 +39,7 @@ struct ServantBasicInfoView: View {
                             .font(.headline)
                             .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 0, bottom: 8, trailing: 0))
-                        Text(concatenateNickNames(nickNames: servantBasicInfo.nickNames))
+                        Text(concatenateTexts(texts: servantBasicInfo.nickNames))
                     }
 
                     Spacer()
@@ -101,7 +106,13 @@ struct ServantBasicInfoView: View {
                     }
 
                     Spacer()
+                }
 
+                Divider()
+
+                HStack {
+                    Spacer()
+                    
                     VStack {
                         Text("出处")
                             .font(.headline)
@@ -111,11 +122,11 @@ struct ServantBasicInfoView: View {
 
                     Spacer()
                 }
-
-                Divider()
             }
 
             Group {
+                Divider()
+
                 HStack {
                     Image(mapCardImage(card: servantBasicInfo.cards[0]))
                     .resizable()
@@ -144,6 +155,34 @@ struct ServantBasicInfoView: View {
                 }
 
                 Divider()
+
+                HStack {
+                    Spacer()
+
+                    VStack {
+                        Text("属性")
+                            .font(.headline)
+                            .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
+                        Text(servantBasicInfo.attribute)
+                    }
+
+                    Spacer()
+                }
+
+                Divider()
+
+                HStack {
+                    Spacer()
+
+                    VStack {
+                        Text("特性")
+                            .font(.headline)
+                            .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
+                        Text(concatenateTexts(texts: servantBasicInfo.tokusei))
+                    }
+
+                    Spacer()
+                }
             }
         }
     }
@@ -178,18 +217,61 @@ struct ServantBasicInfoView: View {
         }
     }
 
-    private func concatenateNickNames(nickNames: [String]) -> String {
-        var nickName = ""
-        for (index, nick) in nickNames.enumerated() {
-            if index == nickNames.count - 1 {
-                nickName += "\(nick)"
+    private func concatenateTexts(texts: [String]) -> String {
+        var text = ""
+        for (index, t) in texts.enumerated() {
+            if index == texts.count - 1 {
+                text += "\(t)"
             }
             else {
-                nickName += "\(nick) "
+                text += "\(t) "
             }
         }
 
-        return nickName
+        return text
+    }
+
+    private func servantClassImage() -> String {
+        let color: String = {
+            if servantBasicInfo.cost == "16" {
+                return "golden"
+            }
+            else if servantBasicInfo.cost == "12" {
+                return "silver"
+            }
+            else {
+                return "copper"
+            }
+        }()
+
+        // golden_alterego
+        if servantBasicInfo.id == "1" {
+            return "golden_shielder"
+        }
+        else if servantBasicInfo.id == "107" {
+            return "black_\(servantBasicInfo.servantClass)"
+        }
+        else {
+            return "\(color)_\(servantBasicInfo.servantClass)"
+        }
+    }
+
+    private func servantCostImage() -> String {
+        if servantBasicInfo.cost == "16" {
+            return "five_stars"
+        }
+        else if servantBasicInfo.cost == "12" {
+            return "four_stars"
+        }
+        else if servantBasicInfo.cost == "7" {
+            return "three_stars"
+        }
+        else if servantBasicInfo.cost == "4" {
+            return "two_stars"
+        }
+        else {
+            return "one_star"
+        }
     }
 }
 

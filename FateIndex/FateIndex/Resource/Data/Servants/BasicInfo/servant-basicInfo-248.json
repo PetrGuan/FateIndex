@@ -1,7 +1,15 @@
 {
+    "servantClass": "archer",
     "id": "248",
-    "name": "马嘶",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·中庸",
+    "name": "马嘶",
     "illustrator": "pako",
     "castVoice": "铃木达央",
     "access": "圣晶石召唤（Story卡池） 剧情第2部第4章通关后加入卡池",
@@ -23,11 +31,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

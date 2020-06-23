@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "247",
-    "name": "阿周那〔Alter〕",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·善／恶",
+    "name": "阿周那〔Alter〕",
     "illustrator": "pako",
     "castVoice": "岛崎信长",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -22,11 +30,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

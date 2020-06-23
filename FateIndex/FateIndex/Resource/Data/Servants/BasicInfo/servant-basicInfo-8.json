@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "8",
-    "name": "阿蒂拉",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·善",
+    "name": "阿蒂拉",
     "illustrator": "huke",
     "castVoice": "能登麻美子",
     "access": "圣晶石召唤",
@@ -23,11 +31,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

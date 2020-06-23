@@ -1,7 +1,15 @@
 {
+    "servantClass": "archer",
     "id": "84",
-    "name": "阿周那",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "阿周那",
     "illustrator": "pako",
     "castVoice": "岛崎信长",
     "access": "圣晶石召唤",
@@ -24,11 +32,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "16"
 }

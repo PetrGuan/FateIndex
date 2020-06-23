@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "251",
-    "name": "森长可",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·狂",
+    "name": "森长可",
     "illustrator": "Dd",
     "castVoice": "谷山纪章",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -18,11 +26,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "7"
 }

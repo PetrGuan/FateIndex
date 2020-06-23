@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "copper_berserker.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

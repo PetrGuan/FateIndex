@@ -1,7 +1,15 @@
 {
+    "servantClass": "rider",
     "id": "277",
-    "name": "奥德修斯",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "中立·善",
+    "name": "奥德修斯",
     "illustrator": "redjuice",
     "castVoice": "桐本拓哉",
     "access": "圣晶石召唤",
@@ -25,11 +33,5 @@
         "希腊神话系男性"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "16"
 }

@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "223",
-    "name": "迪尔姆德・奥迪那",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·中庸",
+    "name": "迪尔姆德・奥迪那",
     "illustrator": "Azusa",
     "castVoice": "绿川光",
     "access": "圣晶石召唤",
@@ -22,11 +30,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

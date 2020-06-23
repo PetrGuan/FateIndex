@@ -1,7 +1,15 @@
 {
+    "servantClass": "archer",
     "id": "212",
-    "name": "拿破仑",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "中立·善",
+    "name": "拿破仑",
     "illustrator": "Ryota-H",
     "castVoice": "日野聪",
     "access": "圣晶石召唤",
@@ -21,11 +29,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

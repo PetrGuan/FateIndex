@@ -1,7 +1,15 @@
 {
+    "servantClass": "assassin",
     "id": "170",
-    "name": "不夜城的Assassin",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·恶",
+    "name": "不夜城的Assassin",
     "illustrator": "原田たけひと",
     "castVoice": "井泽诗织",
     "access": "圣晶石召唤",
@@ -20,11 +28,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

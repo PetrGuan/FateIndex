@@ -1,7 +1,15 @@
 {
+    "servantClass": "caster",
     "id": "192",
-    "name": "俄刻阿诺斯的Caster",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·中庸",
+    "name": "俄刻阿诺斯的Caster",
     "illustrator": "左",
     "castVoice": "茜屋日海夏",
     "access": "圣晶石召唤",
@@ -22,11 +30,5 @@
         "阿尔戈号因缘者"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

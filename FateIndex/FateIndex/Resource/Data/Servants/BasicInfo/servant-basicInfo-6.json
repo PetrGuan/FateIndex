@@ -1,7 +1,15 @@
 {
+    "servantClass": "saber",
     "id": "6",
-    "name": "齐格飞",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·善",
+    "name": "齐格飞",
     "illustrator": "近衛乙嗣",
     "castVoice": "诹访部顺一",
     "access": "圣晶石召唤",
@@ -26,11 +34,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

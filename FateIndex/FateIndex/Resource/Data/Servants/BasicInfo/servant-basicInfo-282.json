@@ -1,6 +1,8 @@
 {
     "id": "282",
     "name": "鬼女红叶",
+    "servantClass": "berserker",
+    "cost": "12",
     "attribute": "中立·恶",
     "illustrator": "NOCO",
     "castVoice": "日笠阳子",

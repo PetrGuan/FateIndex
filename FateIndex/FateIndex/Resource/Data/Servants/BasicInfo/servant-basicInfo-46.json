@@ -1,7 +1,15 @@
 {
+    "servantClass": "assassin",
     "id": "46",
-    "name": "卡米拉",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "卡米拉",
     "illustrator": "okojo",
     "castVoice": "田中敦子",
     "access": "圣晶石召唤",
@@ -21,11 +29,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "1",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

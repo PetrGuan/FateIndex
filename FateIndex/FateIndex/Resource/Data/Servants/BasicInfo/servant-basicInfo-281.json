@@ -1,6 +1,8 @@
 {
     "id": "281",
     "name": "旅行者",
+    "servantClass": "foreigner",
+    "cost": "16",
     "attribute": "中立·善",
     "illustrator": "NOCO",
     "castVoice": "井口裕香",

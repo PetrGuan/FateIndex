@@ -1,7 +1,15 @@
 {
+    "servantClass": "alterego",
     "id": "224",
-    "name": "志度内",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·善",
+    "name": "志度内",
     "illustrator": "BLACK",
     "castVoice": "门协舞以",
     "access": "圣晶石召唤（Story卡池） 剧情第2部第2章通关后加入卡池",
@@ -24,11 +32,5 @@
         "伊莉雅斯菲尔"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

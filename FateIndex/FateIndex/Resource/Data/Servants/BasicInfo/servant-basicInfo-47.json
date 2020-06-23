@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "47",
-    "name": "赫拉克勒斯",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·狂",
+    "name": "赫拉克勒斯",
     "illustrator": "Azusa",
     "castVoice": "西前忠久",
     "access": "圣晶石召唤",
@@ -26,11 +34,5 @@
         "希腊神话系男性"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

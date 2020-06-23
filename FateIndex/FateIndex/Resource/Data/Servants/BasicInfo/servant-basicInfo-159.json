@@ -1,7 +1,15 @@
 {
+    "servantClass": "assassin",
     "id": "159",
-    "name": "新宿的Assassin",
+    "cards": [
+        "1",
+        "1",
+        "1",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "新宿的Assassin",
     "illustrator": "縞うどん",
     "castVoice": "冈本信彦",
     "access": "圣晶石召唤",
@@ -21,11 +29,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "1",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

@@ -1,7 +1,15 @@
 {
+    "servantClass": "archer",
     "id": "157",
-    "name": "卫宫〔Alter〕",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "卫宫〔Alter〕",
     "illustrator": "佐々木少年",
     "castVoice": "诹访部顺一",
     "access": "圣晶石召唤（Story卡池） 剧情第1.5部第一章通关后加入卡池",
@@ -19,11 +27,5 @@
         "从者(天地乖离特攻）"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

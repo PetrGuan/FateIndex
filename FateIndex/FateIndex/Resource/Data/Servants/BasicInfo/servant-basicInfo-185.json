@@ -1,7 +1,15 @@
 {
+    "servantClass": "assassin",
     "id": "185",
-    "name": "Assassin Paraiso",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·恶",
+    "name": "Assassin Paraiso",
     "illustrator": "ひろやまひろし",
     "castVoice": "佐仓绫音",
     "access": "圣晶石召唤",
@@ -20,11 +28,5 @@
         "天\/地从者(神秘杀手特攻）"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

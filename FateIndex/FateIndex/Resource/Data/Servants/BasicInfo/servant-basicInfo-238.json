@@ -1,7 +1,15 @@
 {
+    "servantClass": "alterego",
     "id": "238",
-    "name": "Kingprotea",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·善",
+    "name": "Kingprotea",
     "illustrator": "ワダアルコ",
     "castVoice": "潘惠美",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -24,11 +32,5 @@
         "超巨大"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

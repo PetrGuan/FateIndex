@@ -1,7 +1,15 @@
 {
+    "servantClass": "caster",
     "id": "194",
-    "name": "米德拉什的Caster",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "中立·善",
+    "name": "米德拉什的Caster",
     "illustrator": "加藤いつわ",
     "castVoice": "佐藤聪美",
     "access": "圣晶石召唤（Story卡池） 剧情第1.5部第四章通关后加入卡池",
@@ -20,11 +28,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

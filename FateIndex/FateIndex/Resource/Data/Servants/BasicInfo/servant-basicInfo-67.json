@@ -1,7 +1,15 @@
 {
+    "servantClass": "caster",
     "id": "67",
-    "name": "美狄亚〔Lily〕",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "秩序·善",
+    "name": "美狄亚〔Lily〕",
     "illustrator": "こやまひろかず",
     "castVoice": "野中蓝",
     "access": "圣晶石召唤（Story卡池） 剧情第1部第三章通关后加入卡池",
@@ -21,11 +29,5 @@
         "阿尔戈号因缘者"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }

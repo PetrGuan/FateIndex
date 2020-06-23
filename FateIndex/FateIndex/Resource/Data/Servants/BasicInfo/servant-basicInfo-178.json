@@ -1,7 +1,15 @@
 {
+    "servantClass": "berserker",
     "id": "178",
-    "name": "织田信长",
+    "cards": [
+        "1",
+        "2",
+        "3",
+        "3",
+        "3"
+    ],
     "attribute": "混沌·夏",
+    "name": "织田信长",
     "illustrator": "pako",
     "castVoice": "钉宫理惠",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -20,11 +28,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "2",
-        "3",
-        "3",
-        "3"
-    ]
+    "cost": "12"
 }

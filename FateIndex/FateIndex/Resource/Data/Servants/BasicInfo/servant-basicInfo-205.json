@@ -1,7 +1,15 @@
 {
+    "servantClass": "rider",
     "id": "205",
-    "name": "伊凡雷帝",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "3",
+        "3"
+    ],
     "attribute": "秩序·恶／混沌·恶",
+    "name": "伊凡雷帝",
     "illustrator": "danciao",
     "castVoice": "黑田崇矢",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -23,11 +31,5 @@
         "王"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "3",
-        "3"
-    ]
+    "cost": "16"
 }

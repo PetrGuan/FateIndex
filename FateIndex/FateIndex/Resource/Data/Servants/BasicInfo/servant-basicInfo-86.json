@@ -1,7 +1,15 @@
 {
+    "servantClass": "assassin",
     "id": "86",
-    "name": "谜之女主角X",
+    "cards": [
+        "1",
+        "1",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "混沌·善",
+    "name": "谜之女主角X",
     "illustrator": "BUNBUN",
     "castVoice": "川澄绫子",
     "access": "圣晶石召唤（期间限定） 非限时UP无法获得",
@@ -23,11 +31,5 @@
         "王"
     ],
     "gender": "女性",
-    "cards": [
-        "1",
-        "1",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "16"
 }

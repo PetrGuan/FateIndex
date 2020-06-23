@@ -1,7 +1,15 @@
 {
+    "servantClass": "archer",
     "id": "11",
-    "name": "卫宫",
+    "cards": [
+        "1",
+        "2",
+        "2",
+        "2",
+        "3"
+    ],
     "attribute": "中立·中庸",
+    "name": "卫宫",
     "illustrator": "武内崇",
     "castVoice": "诹访部顺一",
     "access": "圣晶石召唤",
@@ -23,11 +31,5 @@
         "所爱之人"
     ],
     "gender": "男性",
-    "cards": [
-        "1",
-        "2",
-        "2",
-        "2",
-        "3"
-    ]
+    "cost": "12"
 }
