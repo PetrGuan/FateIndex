@@ -10,9 +10,9 @@ import SwiftUI
 
 struct ServantBoxView: View {
     @Environment(\.colorScheme) var colorScheme
-
+    
     var topNServant: TopNServant
-
+    
     var body: some View {
         VStack {
             VStack(alignment: .leading) {
@@ -24,11 +24,11 @@ struct ServantBoxView: View {
                     .cornerRadius(12)
                     .shadow(radius: 10)
                     .frame(width: 80, height: 80)
-
+                
                 Text(topNServant.name.uppercased())
                     .font(.system(.subheadline))
                     .padding(EdgeInsets(top: 8, leading: 0, bottom: 0, trailing: 0))
-
+                
                 Text(topNServant.servantClass)
                     .font(.system(size: 12))
                     .padding(EdgeInsets(top: 5, leading: 0, bottom: 0, trailing: 0))

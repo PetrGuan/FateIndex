@@ -16,7 +16,7 @@ struct SkillDetailView: View {
         ScrollView(.vertical) {
             VStack {
                 CommonCellView(avatar: mysticCodeSkill.avatar, text: mysticCodeSkill.skillName, textFont: .headline)
-                .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
 
                 Divider()
 
@@ -31,8 +31,8 @@ struct SkillDetailView: View {
                 ForEach(0 ..< mysticCodeSkill.lvEffects.count) { i in
                     VStack(alignment: .center) {
                         Text(self.mysticCodeSkill.lvEffects[i].effectDesc)
-                        .multilineTextAlignment(.center)
-                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                            .multilineTextAlignment(.center)
+                            .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
 
                         HStack(alignment: .center) {
                             Spacer()
@@ -59,7 +59,7 @@ struct SkillDetailView: View {
                         }
                         .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                     }
-                .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
 
                 Divider()

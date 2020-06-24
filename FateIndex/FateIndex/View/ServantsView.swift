@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ServantsView: View {
     @State private var searchText : String = ""
-
+    
     var body: some View {
         NavigationView {
             VStack {

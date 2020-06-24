@@ -17,7 +17,7 @@ struct MysticCode: Codable, Hashable, Identifiable {
     let desc: String
     /// 入手方法
     let access: [String]
-
+    
     let skills: [MysticCodeSkill]
 }
 

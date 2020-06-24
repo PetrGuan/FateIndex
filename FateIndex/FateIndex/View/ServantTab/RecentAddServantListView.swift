@@ -10,17 +10,17 @@ import SwiftUI
 
 struct RecentAddServantListView: View {
     @Environment(\.colorScheme) var colorScheme
-
+    
     var body: some View {
         VStack {
             HStack {
                 Text("新添加从者")
                     .font(.headline)
-
+                
                 Spacer()
             }
             .padding(EdgeInsets(top: 0, leading: 16, bottom: 0, trailing: 16))
-
+            
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     NavigationLink(destination: ServantDetailView(servantId: "283")) {
@@ -30,14 +30,14 @@ struct RecentAddServantListView: View {
                                 .clipped()
                                 .frame(width: 100, height: 100)
                                 .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
-
+                            
                             Text("宇津见艾莉瑟")
                         }
                         .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
                         .cornerRadius(12)
                     }
                     .buttonStyle(PlainButtonStyle())
-
+                    
                     NavigationLink(destination: ServantDetailView(servantId: "282")) {
                         VStack(alignment: .center) {
                             Image("servant_282_status_1")
@@ -45,14 +45,14 @@ struct RecentAddServantListView: View {
                                 .clipped()
                                 .frame(width: 100, height: 100)
                                 .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
-
+                            
                             Text("鬼女红叶")
                         }
                         .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))
                         .cornerRadius(12)
                     }
                     .buttonStyle(PlainButtonStyle())
-
+                    
                     NavigationLink(destination: ServantDetailView(servantId: "281")) {
                         VStack(alignment: .center) {
                             Image("servant_281_status_1")
@@ -60,7 +60,7 @@ struct RecentAddServantListView: View {
                                 .clipped()
                                 .frame(width: 100, height: 100)
                                 .padding(EdgeInsets(top: 5, leading: 5, bottom: 5, trailing: 5))
-
+                            
                             Text("旅行者")
                         }
                         .background(Color(hex: colorScheme == .dark ? 0x202023 : 0xEDEDEE))

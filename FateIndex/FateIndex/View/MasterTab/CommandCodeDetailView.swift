@@ -10,7 +10,7 @@ import SwiftUI
 
 struct CommandCodeDetailView: View {
     var commandCode: CommandCode
-
+    
     var body: some View {
         ScrollView(.vertical) {
             VStack {
@@ -27,62 +27,62 @@ struct CommandCodeDetailView: View {
                             .resizable()
                             .aspectRatio(contentMode: .fill)
                             .frame(width: 150, height: 256)
-                    })
-                .padding(0)
-                .cornerRadius(12)
-
+                })
+                    .padding(0)
+                    .cornerRadius(12)
+                
                 Divider()
-
+                
                 VStack {
                     Spacer()
                     Text("画师 \(commandCode.illustrator)")
-                    .lineSpacing(6)
-                    .lineLimit(nil)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
+                        .lineSpacing(6)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
                     Spacer()
                     Text(commandCode.rarityStars())
-                    .lineSpacing(6)
-                    .lineLimit(nil)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
+                        .lineSpacing(6)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
                     Spacer()
                     Text(commandCode.wayToGet)
-                    .lineSpacing(6)
-                    .lineLimit(nil)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
+                        .lineSpacing(6)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
                     Spacer()
                 }
                 .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
+                
                 Divider()
-
+                
                 Image(commandCode.avatar)
-                .resizable()
-                .clipped()
-                .cornerRadius(6)
-                .frame(width: 55, height: 55)
-
-
+                    .resizable()
+                    .clipped()
+                    .cornerRadius(6)
+                    .frame(width: 55, height: 55)
+                
+                
                 VStack {
                     Text(commandCode.effect)
                         .lineSpacing(6)
                         .lineLimit(nil)
                         .fixedSize(horizontal: false, vertical: true)
                         //.frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                    .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
+                        .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
+                    
                     Divider()
-
+                    
                     Text(commandCode.lore)
                         .multilineTextAlignment(.leading)
-                    .lineSpacing(6)
-                    .lineLimit(nil)
-                    .fixedSize(horizontal: false, vertical: true)
-                    .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
+                        .lineSpacing(6)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
+                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
                 }
-
+                
             }
         }
         .navigationBarTitle(commandCode.name)

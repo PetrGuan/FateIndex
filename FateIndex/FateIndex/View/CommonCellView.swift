@@ -17,16 +17,16 @@ struct CommonCellView: View {
     var body: some View {
         HStack(alignment: .center) {
             Image(avatar)
-            .resizable()
-            .clipped()
-            .cornerRadius(6)
-            .frame(width: imageSize.width, height: imageSize.height)
+                .resizable()
+                .clipped()
+                .cornerRadius(6)
+                .frame(width: imageSize.width, height: imageSize.height)
 
             VStack(alignment: .leading) {
                 Text(text)
                     .font(textFont)
             }
-        .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
+            .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
         }
     }
 }

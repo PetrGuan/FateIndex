@@ -9,15 +9,15 @@
 import SwiftUI
 
 struct DavinciStoreCraftEssenceListView: View {
-
+    
     @State private var craftEssences = CraftEssenceStore.shared.craftEssences
-
+    
     var body: some View {
         VStack(alignment: .leading) {
             Text("达芬奇商店兑换".uppercased())
                 .font(.headline)
                 .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 0))
-
+            
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.craftEssences, id: \.id) { craftEssence in

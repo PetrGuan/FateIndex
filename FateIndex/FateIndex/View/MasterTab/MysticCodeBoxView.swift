@@ -9,27 +9,27 @@
 import SwiftUI
 
 struct MysticCodeBoxView: View {
-
+    
     @Environment(\.colorScheme) var colorScheme
-
+    
     var mysticCode: MysticCode
-
+    
     var body: some View {
         VStack(alignment: .center) {
             Spacer()
-
+            
             Image("mystic_code_\(mysticCode.id)_avatar")
-            .renderingMode(.original)
-            .resizable()
-            .aspectRatio(contentMode: .fill)
-            .clipped()
-            .cornerRadius(12)
-            .frame(width: 300, height: 300)
-            .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
-
+                .renderingMode(.original)
+                .resizable()
+                .aspectRatio(contentMode: .fill)
+                .clipped()
+                .cornerRadius(12)
+                .frame(width: 300, height: 300)
+                .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+            
             Text("\(mysticCode.name)")
-            .font(.subheadline)
-            .padding(EdgeInsets(top: 5, leading: 10, bottom: 10, trailing: 10))
+                .font(.subheadline)
+                .padding(EdgeInsets(top: 5, leading: 10, bottom: 10, trailing: 10))
                 .foregroundColor(.primary)
         }
         .clipped()

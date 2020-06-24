@@ -10,11 +10,11 @@ import SwiftUI
 
 struct ServantDetailView: View {
     @State private var selectedSegment = 0
-
+    
     private let segments = ["基础信息", "能力", "技能"]
-
+    
     let servantId: String
-
+    
     var body: some View {
         VStack {
             ScrollView {
@@ -25,7 +25,7 @@ struct ServantDetailView: View {
                     }
                 }
                 .pickerStyle(SegmentedPickerStyle())
-
+                
                 if selectedSegment == 0 {
                     basicInfoView()
                 }
@@ -33,21 +33,21 @@ struct ServantDetailView: View {
                     ContentView()
                 }
             }
-
+            
         }
         .navigationBarTitle(basicInfoTitle())
     }
-
+    
     private func segmentChange(_ tag: Int) {
         let selectionFeedback = UISelectionFeedbackGenerator()
         selectionFeedback.selectionChanged()
     }
-
+    
     private func basicInfoView() -> AnyView {
         let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
         return AnyView(ServantBasicInfoView(servantBasicInfo: basicInfo))
     }
-
+    
     private func basicInfoTitle() -> String {
         let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
         return basicInfo.name

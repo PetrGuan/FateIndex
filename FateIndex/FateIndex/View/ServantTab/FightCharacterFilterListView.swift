@@ -11,30 +11,39 @@ import SwiftUI
 struct FightCharacterFilterListView: View {
     var body: some View {
         VStack {
-            Text("战斗特性筛选")
-                .font(.headline)
-
+            HStack {
+                Text("特性筛选")
+                    .font(.headline)
+                
+                Spacer()
+                
+                Text("查看全部")
+                    .foregroundColor(Color(hex: 0xfe365e))
+            }
+            .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
+            
+            
             Divider()
-
+            
             NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.altriaFaceList)) {
                 Text("阿尔托莉雅脸")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
-
+            
             Divider()
-
+            
             NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.dragonList)) {
                 Text("龙")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
-
+            
             Divider()
-
+            
             NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.demonList)) {
                 Text("魔性")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
-
+            
             Divider()
         }
         .frame(minHeight: 200)

@@ -9,9 +9,9 @@
 import SwiftUI
 
 struct CommandCodeAlbumnFrameView: View {
-
+    
     var commandCode: CommandCode
-
+    
     var body: some View {
         VStack {
             Text(self.commandCodeHeadline())
@@ -20,7 +20,7 @@ struct CommandCodeAlbumnFrameView: View {
         }
         .frame(minWidth: 350, idealWidth: 350, maxWidth: 350, minHeight: 300, idealHeight: 300, maxHeight: 300, alignment: .topLeading)
     }
-
+    
     func commandCodeHeadline() -> String {
         if let firtSlice = commandCode.lore.split(separator: "\n").first {
             return String(firtSlice.prefix(10))

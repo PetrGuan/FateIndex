@@ -9,15 +9,15 @@
 import SwiftUI
 
 struct ServantClassView: View {
-
+    
     var servantClass: String
-
+    
     var body: some View {
         VStack(alignment: .leading) {
             Text(servantClass)
                 .foregroundColor(Color.white)
                 .padding(12)
-
+            
             Spacer()
         }
         .frame(minWidth: 150, maxWidth: 150, minHeight: 256,  maxHeight: 256, alignment: .topLeading)
@@ -28,13 +28,13 @@ struct ServantClassView: View {
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(width: 150, height: 256)
-
+                
                 LinearGradient(gradient: Gradient(colors: [.black, .clear]), startPoint: .top, endPoint: .bottom)
                     .opacity(0.7)
                     .frame(width: 150, height: 256)
-            })
-        .padding(0)
-        .cornerRadius(12)
+        })
+            .padding(0)
+            .cornerRadius(12)
     }
 }
 

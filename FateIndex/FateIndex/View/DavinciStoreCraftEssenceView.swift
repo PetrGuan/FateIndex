@@ -9,11 +9,11 @@
 import SwiftUI
 
 struct DavinciStoreCraftEssenceView: View {
-
+    
     @Environment(\.colorScheme) var colorScheme
-
+    
     var craftEssence: CraftEssences
-
+    
     var body: some View {
         VStack {
             VStack(alignment: .leading) {
@@ -25,7 +25,7 @@ struct DavinciStoreCraftEssenceView: View {
                     .cornerRadius(12)
                     .shadow(radius: 10)
                     .frame(width: 80, height: 80)
-
+                
                 Text(craftEssence.name)
                     .font(.system(.subheadline))
                     .padding(EdgeInsets(top: 8, leading: 0, bottom: 0, trailing: 0))

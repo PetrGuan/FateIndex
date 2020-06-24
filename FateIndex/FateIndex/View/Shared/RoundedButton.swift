@@ -12,7 +12,7 @@ struct RoundedButton: View {
     let title: String
     let avatar: String
     let action: () -> Void
-
+    
     var body: some View {
         Button(action: action) {
             Image(avatar)

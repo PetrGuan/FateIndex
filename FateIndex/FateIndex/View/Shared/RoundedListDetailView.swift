@@ -10,13 +10,13 @@ import SwiftUI
 
 struct RoundedListDetailView: View {
     var mysticCode: MysticCode
-
+    
     @Environment(\.colorScheme) var colorScheme
-
+    
     @State var selectedIndex = 0
-
+    
     @State var selectedSkill: MysticCodeSkill
-
+    
     var body: some View {
         VStack {
             HStack {
@@ -24,94 +24,94 @@ struct RoundedListDetailView: View {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[0].avatar, action: {
                         self.selectedIndex = 0
                         self.selectedSkill = self.mysticCode.skills[0]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[0].avatar, action: {
                         self.selectedIndex = 0
                         self.selectedSkill = self.mysticCode.skills[0]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
-
+                
                 if selectedIndex == 1 {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[1].avatar, action: {
                         self.selectedIndex = 1
                         self.selectedSkill = self.mysticCode.skills[1]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[1].avatar, action: {
                         self.selectedIndex = 1
                         self.selectedSkill = self.mysticCode.skills[1]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
-
+                
                 if selectedIndex == 2 {
                     RoundedShadowButton(title: "", avatar: mysticCode.skills[2].avatar, action: {
                         self.selectedIndex = 2
                         self.selectedSkill = self.mysticCode.skills[2]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
                 else {
                     RoundedButton(title: "", avatar: mysticCode.skills[2].avatar, action: {
                         self.selectedIndex = 2
                         self.selectedSkill = self.mysticCode.skills[2]
-
+                        
                         let selectionFeedback = UISelectionFeedbackGenerator()
                         selectionFeedback.selectionChanged()
                     })
-                    .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                        .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
             }
-
+            
             VStack {
                 Text(selectedSkill.skillName)
                     .font(.title)
-
+                
                 Divider()
-
+                
                 ForEach(selectedSkill.stableEffects) { text in
                     Text(text)
-                    .lineSpacing(6)
-                    .lineLimit(nil)
-                    .fixedSize(horizontal: false, vertical: true)
+                        .lineSpacing(6)
+                        .lineLimit(nil)
+                        .fixedSize(horizontal: false, vertical: true)
                 }
-
+                
                 if !selectedSkill.stableEffects.isEmpty {
                     Divider()
                 }
-
+                
                 ForEach(0 ..< selectedSkill.lvEffects.count) { i in
                     VStack(alignment: .center) {
                         if i < self.selectedSkill.lvEffects.count {
                             Text(self.selectedSkill.lvEffects[i].effectDesc)
-                            .lineSpacing(6)
-                            .lineLimit(nil)
-                            .fixedSize(horizontal: false, vertical: true)
-                            .multilineTextAlignment(.center)
-                            .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
+                                .lineSpacing(6)
+                                .lineLimit(nil)
+                                .fixedSize(horizontal: false, vertical: true)
+                                .multilineTextAlignment(.center)
+                                .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                         }
-
+                        
                         VStack {
                             if i < self.selectedSkill.lvEffects.count {
                                 HStack(alignment: .center) {
@@ -126,7 +126,7 @@ struct RoundedListDetailView: View {
                                 }
                                 .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                             }
-
+                            
                             if i < self.selectedSkill.lvEffects.count {
                                 HStack {
                                     Spacer()
@@ -142,11 +142,11 @@ struct RoundedListDetailView: View {
                             }
                         }
                         .background(Color(hex: self.colorScheme == .dark ? 0x202023 : 0xEDEDEE))
-
+                        
                     }
                     .padding(EdgeInsets(top: 10, leading: 10, bottom: 10, trailing: 10))
                 }
-
+                
                 HStack {
                     Text("冷却时间:")
                     Text(selectedSkill.countDown)

@@ -26,16 +26,16 @@ struct CraftEssences: Codable {
     let effectImg: String
     // 民间传说
     let lore: String
-
+    
     // 羁绊从者 ID
     let bondServantID: String
-
+    
     func rarityStars() -> String {
         var stars = ""
         for _ in 1...rarity {
             stars.append("⭐️")
         }
-
+        
         return stars
     }
 }

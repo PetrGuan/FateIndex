@@ -9,20 +9,20 @@
 import Foundation
 
 final class CraftEssenceStore {
-
+    
     static let shared = CraftEssenceStore()
-
+    
     var craftEssences = [CraftEssences]()
-
+    
     init() {
         craftEssences = loadCraftEssences()
     }
-
+    
     func loadCraftEssences() -> [CraftEssences] {
         let craftIds = ["craftEssence_80", "craftEssence_178", "craftEssence_242", "craftEssence_330", "craftEssence_861", "craftEssence_910", "craftEssence_988", "craftEssence_1012", "craftEssence_1080", "craftEssence_1121", "craftEssence_1149", "craftEssence_1214"]
         var craftEssences = [CraftEssences]()
         craftIds.forEach { craftEssences.append(load($0, withExtension: "json")) }
-
+        
         return craftEssences
     }
 }

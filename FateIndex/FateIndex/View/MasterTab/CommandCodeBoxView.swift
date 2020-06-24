@@ -9,28 +9,28 @@
 import SwiftUI
 
 struct CommandCodeBoxView: View {
-
+    
     @Environment(\.colorScheme) var colorScheme
-
+    
     var commandCode: CommandCode
-
+    
     var body: some View {
         HStack(alignment: .top) {
             Text("\(commandCode.name)")
                 .font(.subheadline)
                 .foregroundColor(.black)
                 .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
+            
             Spacer()
             Image("command_code_\(commandCode.id)_whole")
-            .renderingMode(.original)
-            .resizable()
-            .aspectRatio(contentMode: .fill)
-            .clipped()
-            .cornerRadius(12)
-            //.shadow(radius: 10)
-            .frame(width: 120, height: 205)
-            .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
+                .renderingMode(.original)
+                .resizable()
+                .aspectRatio(contentMode: .fill)
+                .clipped()
+                .cornerRadius(12)
+                //.shadow(radius: 10)
+                .frame(width: 120, height: 205)
+                .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
         }
         .clipped()
         .cornerRadius(12)

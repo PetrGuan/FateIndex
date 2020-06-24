@@ -10,15 +10,15 @@ import SwiftUI
 
 struct MysticCodeTableListView: View {
     var mysticCodes = MysticCodeStore.shared.mysticCodes
-
+    
     @State private var selectedSegment = 0
-
+    
     private var gender: String {
         return selectedSegment == 0 ? "male" : "female"
     }
-
+    
     private let segments = ["Male", "Female"]
-
+    
     var body: some View {
         VStack {
             Picker("Numbers", selection: $selectedSegment.onChange(segmentChange)) {
@@ -28,7 +28,7 @@ struct MysticCodeTableListView: View {
                 }
             }
             .pickerStyle(SegmentedPickerStyle())
-
+            
             List {
                 ForEach(self.mysticCodes, id: \.id) { mysticCode in
                     NavigationLink(destination: MysticCodeDetailView(mysticCode: mysticCode)) {
@@ -39,7 +39,7 @@ struct MysticCodeTableListView: View {
         }
         .navigationBarTitle("魔术礼装")
     }
-
+    
     private func segmentChange(_ tag: Int) {
         let selectionFeedback = UISelectionFeedbackGenerator()
         selectionFeedback.selectionChanged()

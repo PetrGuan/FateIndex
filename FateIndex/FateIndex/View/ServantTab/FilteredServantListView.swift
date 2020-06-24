@@ -11,7 +11,7 @@ import SwiftUI
 struct FilteredServantListView: View {
     let title: String
     let servantIds: [String]
-
+    
     var body: some View {
         List {
             ForEach(servantIds) { servantId in
@@ -22,7 +22,7 @@ struct FilteredServantListView: View {
         }
         .navigationBarTitle(title)
     }
-
+    
     private func servantName(servantId: String) -> String {
         let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
         return basicInfo.name

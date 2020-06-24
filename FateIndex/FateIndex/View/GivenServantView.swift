@@ -45,7 +45,7 @@ struct GivenServantView: View {
                     .padding(0)
                     .cornerRadius(20)
         })
-        .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
+            .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
             .sheet(isPresented: $presentingModal) {
                 NavigationView {
                     ServantDetailView(servantId: self.campaignServant.id)
