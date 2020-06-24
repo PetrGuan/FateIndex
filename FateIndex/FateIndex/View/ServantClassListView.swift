@@ -21,15 +21,18 @@ struct ServantClassListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top, spacing: 14) {
                     ForEach(servantClassList, id: \.self) { servantClass in
-                        ServantClassView(servantClass: servantClass)
-//                        NavigationLink(destination: PeriodDetail(period: period)) {
-//                            PeriodBox(period: period)
-//                        }
+                        NavigationLink(destination: FilteredServantListView(title: servantClass, servantIds: self.filterIds(servantClass: servantClass))) {
+                            ServantClassView(servantClass: servantClass)
+                        }
                     }
                 }
                 .padding(EdgeInsets(top: 0, leading: 20, bottom: 0, trailing: 20))
             }
         }
+    }
+
+    private func filterIds(servantClass: String) -> [String] {
+        return ServantStore.shared.filterServantClass(servantClass: servantClass)
     }
 }
 

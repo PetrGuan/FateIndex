@@ -43,13 +43,11 @@ struct GivenServantListView: View {
 
                 Spacer()
 
-                Button(action: {
-                    print("")
-                }) {
+                NavigationLink(destination: FilteredServantListView(title: "活动赠送从者", servantIds: ServantStore.shared.givenList)) {
                     Text("查看全部")
-                        .foregroundColor(Color(hex: 0xfe365e))
+                    .foregroundColor(Color(hex: 0xfe365e))
+                    .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
                 }
-                .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
             }
 
             ScrollView(.horizontal, showsIndicators: false) {

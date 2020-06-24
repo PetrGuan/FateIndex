@@ -12,10 +12,13 @@ struct GivenServantView: View {
 
     var campaignServant: CampaignServant
 
+    @State var presentingModal = false
+
     var body: some View {
         Button(
             action: {
                 print("Hello World")
+                self.presentingModal = true
         },
             label: {
                 VStack {
@@ -43,6 +46,12 @@ struct GivenServantView: View {
                     .cornerRadius(20)
         })
         .frame(minWidth: 200, idealWidth: 200, maxWidth: 200, minHeight: 282, idealHeight: 282, maxHeight: 282, alignment: .topLeading)
+            .sheet(isPresented: $presentingModal) {
+                NavigationView {
+                    ServantDetailView(servantId: self.campaignServant.id)
+                        .navigationBarTitle(self.campaignServant.campaignName)
+                }
+        }
     }
 }
 

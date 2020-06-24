@@ -24,6 +24,7 @@ struct ServantClassView: View {
         .background(
             ZStack(alignment: .topLeading) {
                 Image("\(servantClass.lowercased())_card")
+                    .renderingMode(.original)
                     .resizable()
                     .aspectRatio(contentMode: .fill)
                     .frame(width: 150, height: 256)

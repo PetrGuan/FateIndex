@@ -233,10 +233,10 @@ struct ServantBasicInfoView: View {
 
     private func servantClassImage() -> String {
         let color: String = {
-            if servantBasicInfo.cost == "16" {
+            if servantBasicInfo.cost == "16" || servantBasicInfo.cost == "12" {
                 return "golden"
             }
-            else if servantBasicInfo.cost == "12" {
+            else if servantBasicInfo.cost == "7" {
                 return "silver"
             }
             else {
@@ -247,6 +247,9 @@ struct ServantBasicInfoView: View {
         // golden_alterego
         if servantBasicInfo.id == "1" {
             return "golden_shielder"
+        }
+        else if servantBasicInfo.servantClass == "foreigner" {
+            return "golden_foreigner"
         }
         else if servantBasicInfo.id == "107" {
             return "black_\(servantBasicInfo.servantClass)"

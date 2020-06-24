@@ -118,6 +118,7 @@
 		6E2FA5B7248A144100822AA0 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B6248A144100822AA0 /* SettingsView.swift */; };
 		6E2FA5B9248A199400822AA0 /* ServantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5B8248A199400822AA0 /* ServantsView.swift */; };
 		6E2FA5BB248A1BF900822AA0 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */; };
+		6E47DEC024A34BB4002ACC47 /* FilteredServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E47DEBF24A34BB4002ACC47 /* FilteredServantListView.swift */; };
 		6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */; };
 		6E4C9D8E248B880F00B96630 /* DavinciStoreCraftEssenceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */; };
 		6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E4C9D90248B8BC000B96630 /* CraftEssences.swift */; };
@@ -567,6 +568,7 @@
 		6E2FA5B6248A144100822AA0 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		6E2FA5B8248A199400822AA0 /* ServantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantsView.swift; sourceTree = "<group>"; };
 		6E2FA5BA248A1BF900822AA0 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		6E47DEBF24A34BB4002ACC47 /* FilteredServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilteredServantListView.swift; sourceTree = "<group>"; };
 		6E4C9D8B248B874000B96630 /* DavinciStoreCraftEssenceListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DavinciStoreCraftEssenceListView.swift; sourceTree = "<group>"; };
 		6E4C9D8D248B880F00B96630 /* DavinciStoreCraftEssenceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DavinciStoreCraftEssenceView.swift; sourceTree = "<group>"; };
 		6E4C9D90248B8BC000B96630 /* CraftEssences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CraftEssences.swift; sourceTree = "<group>"; };
@@ -1045,6 +1047,7 @@
 				6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */,
 				6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */,
 				6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */,
+				6E47DEBF24A34BB4002ACC47 /* FilteredServantListView.swift */,
 			);
 			path = ServantTab;
 			sourceTree = "<group>";
@@ -1071,7 +1074,6 @@
 			isa = PBXGroup;
 			children = (
 				6E2FA587248A063F00822AA0 /* AppDelegate.swift */,
-				6E2FA5AC248A093400822AA0 /* Components */,
 				6E2FA58B248A063F00822AA0 /* ContentView.swift */,
 				6E2FA5B1248A0A8F00822AA0 /* Helpers */,
 				6E2FA595248A064000822AA0 /* Info.plist */,
@@ -1130,13 +1132,6 @@
 				6E69D17E2492494B009A7F00 /* SkillDetailView.swift */,
 			);
 			path = View;
-			sourceTree = "<group>";
-		};
-		6E2FA5AC248A093400822AA0 /* Components */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Components;
 			sourceTree = "<group>";
 		};
 		6E2FA5B1248A0A8F00822AA0 /* Helpers */ = {
@@ -2013,6 +2008,7 @@
 				6E4C9D9A248B96A500B96630 /* CraftEssenceStore.swift in Sources */,
 				6E4C9D97248B947C00B96630 /* Data.swift in Sources */,
 				6E79A28B24946838002FE7B7 /* UIKitTabView.swift in Sources */,
+				6E47DEC024A34BB4002ACC47 /* FilteredServantListView.swift in Sources */,
 				6ED211E12491110F005E98D2 /* MysticCodeTableListView.swift in Sources */,
 				6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */,
 				6E79A28D24964E82002FE7B7 /* CommandCodeDetailView.swift in Sources */,

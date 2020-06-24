@@ -42,9 +42,3 @@ struct SearchBar: UIViewRepresentable {
         uiView.text = text
     }
 }
-
-//struct SearchBarView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        SearchBarView()
-//    }
-//}
