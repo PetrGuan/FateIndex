@@ -11,7 +11,7 @@ import SwiftUI
 struct ServantDetailView: View {
     @State private var selectedSegment = 0
     
-    private let segments = ["基础信息", "能力", "技能"]
+    private let segments = ["基础信息", "能力", "技能", "资料"]
     
     let servantId: String
     
@@ -28,6 +28,9 @@ struct ServantDetailView: View {
                 
                 if selectedSegment == 0 {
                     basicInfoView()
+                }
+                else if selectedSegment == 3 {
+                    SectionContentView(story: servantStory())
                 }
                 else {
                     ContentView()
@@ -51,6 +54,10 @@ struct ServantDetailView: View {
     private func basicInfoTitle() -> String {
         let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
         return basicInfo.name
+    }
+
+    private func servantStory() -> ServantStory {
+        return ServantStore.shared.servantStories[servantId] ?? ServantStory(id: "", detail: "", story1: "", story2: "", story3: "", story4: "", story5: "", story6: "")
     }
 }
 

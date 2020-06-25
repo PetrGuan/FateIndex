@@ -25,6 +25,9 @@ class ServantStoreTests: XCTestCase {
             // Put the code you want to measure the time of here.
             let basicInfos = ServantStore.shared.allBasicInfos()
             XCTAssertFalse(basicInfos.isEmpty)
+
+            let stories = ServantStore.shared.allServantStories()
+            XCTAssertFalse(stories.isEmpty)
         }
     }
 

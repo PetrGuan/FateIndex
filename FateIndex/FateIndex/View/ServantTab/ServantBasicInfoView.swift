@@ -53,6 +53,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("画师")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.illustrator)
                     }
@@ -62,6 +63,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("声优")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.castVoice)
                     }
@@ -77,6 +79,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("身高")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.height)
                     }
@@ -86,6 +89,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("体重")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.weight)
                     }
@@ -101,6 +105,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("地域")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.region)
                     }
@@ -116,6 +121,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("出处")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.source)
                     }
@@ -162,6 +168,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("属性")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.attribute)
                     }
@@ -177,6 +184,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("特性")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(concatenateTexts(texts: servantBasicInfo.tokusei))
                     }
@@ -192,6 +200,7 @@ struct ServantBasicInfoView: View {
                     VStack {
                         Text("入手方式")
                             .font(.headline)
+                            .fixedSize(horizontal: true, vertical: false)
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.access)
                     }

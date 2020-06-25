@@ -13,21 +13,23 @@ final class ServantStore {
 
     var basicInfos = [String: ServantBasicInfo]()
 
+    var servantStories = [String: ServantStory]()
+
     private let queue = DispatchQueue(label: "ServantStore", qos: .userInitiated, attributes: .concurrent)
 
     func fetchAllBasicInfo() {
         queue.async {
-            let all = self.allBasicInfos()
+            let allBasicInfos = self.allBasicInfos()
+            let allStories = self.allServantStories()
 
             DispatchQueue.main.async {
-                self.basicInfos = all
+                self.basicInfos = allBasicInfos
+                self.servantStories = allStories
             }
         }
     }
 
     func allBasicInfos() -> [String: ServantBasicInfo] {
-        let filterLists = ["240", "168", "152", "151", "149", "83"]
-
         var basicInfos = [String: ServantBasicInfo]()
 
         var id = 1
@@ -100,6 +102,26 @@ final class ServantStore {
             return foreignerIds
         }
     }
+
+    func allServantStories() -> [String: ServantStory] {
+        var stories = [String: ServantStory]()
+
+        var id = 1
+        while id <= 283 {
+            if filterLists.contains("\(id)") {
+                id += 1
+                continue
+            }
+
+            stories["\(id)"] = load("servant-story-\(id)", withExtension: "json")
+            id += 1
+        }
+
+        return stories
+    }
+
+    ///
+    let filterLists = ["240", "168", "152", "151", "149", "83"]
 
     /// 活动赠送从者 id
     let givenList = ["283", "271", "264", "252", "243", "233", "225", "219", "211", "208", "197", "191", "190", "182", "174", "166", "162", "141", "138", "137", "133", "115", "111", "92", "73", "69", "61", "4"]
