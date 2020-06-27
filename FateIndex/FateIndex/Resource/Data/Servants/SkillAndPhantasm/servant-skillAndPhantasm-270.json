@@ -1,0 +1,176 @@
+{
+    "noblePhantasm": {
+        "hit": "9Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Quick卡性能提升（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Vulcano Caligorante） 侥幸的拘捕网"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合充能",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得NP的状态（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "初期",
+            "name": "破却宣言"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "恐怖：每回合一定概率赋予[眩晕]状态（1回合），只生效1次",
+                    "values": [
+                        "30%",
+                        "31%",
+                        "32%",
+                        "33%",
+                        "34%",
+                        "35%",
+                        "36%",
+                        "37%",
+                        "38%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌方全体[恐怖]状态（3回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（3次·3回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "唤起恐慌之魔笛"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡的星星集中度提升（3回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "威风堂堂的凯旋"
+        }
+    ],
+    "servantId": "No.270",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升(20%)",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升(10%)",
+            "level": "A",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

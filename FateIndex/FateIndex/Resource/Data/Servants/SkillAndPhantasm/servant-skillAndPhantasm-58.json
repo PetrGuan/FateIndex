@@ -1,0 +1,232 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "D+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予自身每回合回复HP的状态（3回合）<OC>",
+                "values": [
+                    "3000",
+                    "4000",
+                    "5000",
+                    "6000",
+                    "7000"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「修罗肉林」",
+        "type": "对人宝具",
+        "name": "灿灿日光午睡宫酒池肉林"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予自身每回合HP回复的状态（3回合）<OC>",
+                "values": [
+                    "2000",
+                    "3000",
+                    "4000",
+                    "5000",
+                    "6000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "灿灿日光午睡宫酒池肉林"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值低概率减少1格",
+                    "values": [
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "48%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "60%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌状态（1次·5回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "通关强化副本「玉藻猫2」",
+            "name": "咒层·猫日照"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的防御力提升（3回合）",
+                    "values": [
+                        "18%",
+                        "18.9%",
+                        "19.8%",
+                        "20.7%",
+                        "21.6%",
+                        "22.5%",
+                        "23.4%",
+                        "24.3%",
+                        "25.2%",
+                        "27%"
+                    ]
+                },
+                {
+                    "effect": "赋予最大HP提升状态（3回合）",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予弱体无效状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "通关强化副本「玉藻猫」",
+            "name": "变化（午餐）"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（2回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "怪力"
+        },
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值低概率减少1格",
+                    "values": [
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "48%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "60%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E",
+            "requirement": "灵基一阶",
+            "name": "咒术"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的防御力提升（3回合）",
+                    "values": [
+                        "18%",
+                        "18.9%",
+                        "19.8%",
+                        "20.7%",
+                        "21.6%",
+                        "22.5%",
+                        "23.4%",
+                        "24.3%",
+                        "25.2%",
+                        "27%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "变化"
+        }
+    ],
+    "servantId": "No.58",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能少量提升（6%）",
+            "level": "C",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

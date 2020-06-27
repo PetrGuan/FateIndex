@@ -1,0 +1,225 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「汝成为了怪物」",
+        "type": "对军宝具",
+        "name": "（Pandemonium Cetus） 强制封印·万魔神殿"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Pandemonium Cetus） 强制封印·万魔神殿"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力大幅提升（4次·2回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关强化副本「戈尔贡」",
+            "name": "巨怪蹂躏"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力大幅提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "怪力"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身毅力状态（1次·5回合）",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "变转之魔"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率赋予敌方单体[石化]状态（1回合）",
+                    "values": [
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "105%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A++",
+            "requirement": "灵基三阶",
+            "name": "魔眼"
+        }
+    ],
+    "servantId": "No.147",
+    "classSkills": [
+        {
+            "effect": "自身受到伤害时获得NP量提升（18%）&自身以外的己方全体（含候补）弱体耐性下降【副作用】（10%）",
+            "level": "B",
+            "name": "复仇者",
+            "avatar": "复仇者"
+        },
+        {
+            "effect": "自身的暴击威力提升（6%）",
+            "level": "C",
+            "name": "忘却补正",
+            "avatar": "忘却补正"
+        },
+        {
+            "effect": "赋予自身每回合获得NP状态（3.8%）",
+            "level": "A",
+            "name": "自我回复（魔力）",
+            "avatar": "自己回复(魔力)"
+        }
+    ]
+}

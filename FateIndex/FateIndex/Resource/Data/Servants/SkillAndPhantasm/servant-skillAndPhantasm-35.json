@@ -1,0 +1,185 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "中概率赋予[诅咒]状态（3回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「嘀嗒嘀嗒·砰！」",
+        "type": "对军宝具",
+        "name": "（Ticktock Bomb） 微酣爆弹"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            },
+            {
+                "effect": "中概率赋予[诅咒]状态<Lv.>",
+                "values": [
+                    "50%",
+                    "65%",
+                    "72.5%",
+                    "76.3%",
+                    "80%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "（3回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Ticktock Bomb） 微酣爆弹"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值中概率减少1格",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "咒术"
+        },
+        {
+            "avatar": "回合出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得星星的状态（3回合）",
+                    "values": [
+                        "3",
+                        "4",
+                        "5",
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "8",
+                        "8",
+                        "9"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "18%",
+                    "effect": "防御力下降（3回合）【副作用】"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "无辜的怪物"
+        },
+        {
+            "avatar": "强化无效",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予[诅咒]状态（5回合）",
+                    "values": [
+                        "500",
+                        "550",
+                        "600",
+                        "650",
+                        "700",
+                        "750",
+                        "800",
+                        "850",
+                        "900",
+                        "1000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌方单体强化无效状态（3次）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "通关强化副本「梅菲斯托费勒斯」",
+            "name": "道化的大笑"
+        }
+    ],
+    "servantId": "No.35",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（7%）",
+            "level": "C+",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体成功率提升（8%）",
+            "level": "B",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "高概率赋予敌方全体技能封印状态（3回合）<Lv.>",
+                "values": [
+                    "100%",
+                    "125%",
+                    "137.5%",
+                    "143.80%",
+                    "150%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "高概率赋予宝具封印状态（3回合）<OC>",
+                "values": [
+                    "70%",
+                    "75%",
+                    "80%",
+                    "85%",
+                    "90%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Flucticulus Diana） 残食我心吧，月之光"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "防御力下降（3回合）【副作用】"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "加虐体质"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                },
+                {
+                    "effect": "60%概率自身的攻击力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "60%概率自身的防御力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "皇帝特权"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "5回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "500",
+                    "effect": "HP减少【副作用】"
+                }
+            ],
+            "level": "B",
+            "requirement": "通关强化副本「卡里古拉」",
+            "name": "昔日的荣光"
+        }
+    ],
+    "servantId": "No.54",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（11%）",
+            "level": "A+",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "noblePhantasm": {
+        "hit": "7Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的宝具威力提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "六道五轮·俱利伽罗天象"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "第五势",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "通常攻击威力提升（1回合）",
+                    "values": [
+                        "0%",
+                        "3%",
+                        "6%",
+                        "9%",
+                        "12%",
+                        "15%",
+                        "18%",
+                        "21%",
+                        "24%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "每Hit威力减半(即总伤害不变）",
+                    "effect": "赋予自身通常攻击Hit数变为2倍的状态，并且每Hit威力降低50%（即总伤害不变）（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "第五势"
+        },
+        {
+            "avatar": "无敌贯通",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "天眼"
+        },
+        {
+            "avatar": "无敌",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌状态（1回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "无空"
+        }
+    ],
+    "servantId": "No.153",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

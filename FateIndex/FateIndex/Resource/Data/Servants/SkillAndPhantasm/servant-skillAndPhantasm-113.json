@@ -1,0 +1,199 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "12Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "敌方暴击发生率大幅下降（1回合）<OC>",
+                "values": [
+                    "80%",
+                    "90%",
+                    "100%",
+                    "110%",
+                    "120%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「这，这不是迷路」",
+        "type": "对军·对城宝具",
+        "name": "五行山·释迦如来掌"
+    },
+    "noblePhantasm": {
+        "hit": "12Hits",
+        "card": "Buster",
+        "levelEffects": [],
+        "level": "B",
+        "stableEffects": [
+            {
+                "value": "600%",
+                "effect": "对敌方单体进行超强力的攻击"
+            }
+        ],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率大幅下降（1回合）<OC>",
+                "values": [
+                    "80%",
+                    "90%",
+                    "100%",
+                    "110%",
+                    "120%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军·对城宝具",
+        "name": "五行山·释迦如来掌"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "充能",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "宝具威力提升（1回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "高速诵经"
+        },
+        {
+            "avatar": "目标集中",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予受到伤害减免状态（1回合）",
+                    "values": [
+                        "500",
+                        "600",
+                        "700",
+                        "800",
+                        "900",
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "300%",
+                    "effect": "赋予自身目标集中状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "妖艳的红颜"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体NP获得量提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予弱体无效状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "三藏的教诲"
+        }
+    ],
+    "servantId": "No.113",
+    "classSkills": [
+        {
+            "effect": "自身的Art卡性能提升（12%）",
+            "level": "A+",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（125）",
+            "level": "D",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

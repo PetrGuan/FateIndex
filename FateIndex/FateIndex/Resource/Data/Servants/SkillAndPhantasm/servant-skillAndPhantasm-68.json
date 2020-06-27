@@ -1,0 +1,137 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力大幅下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人魔剑",
+        "name": "无明三段突刺"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "缩地"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度大幅提升（1回合）",
+                    "values": [
+                        "500%",
+                        "550%",
+                        "600%",
+                        "650%",
+                        "700%",
+                        "750%",
+                        "800%",
+                        "850%",
+                        "900%",
+                        "1000%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "病弱"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力大幅提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "心眼（伪）"
+        }
+    ],
+    "servantId": "No.68",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（10%）",
+            "level": "E",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能少量提升（2%）",
+            "level": "E",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "中概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「Kill me if you can」",
+        "type": "对人宝具",
+        "name": "（Gae Bolg Alternative） 贯穿死翔之枪"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "中等概率赋予即死效果<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Gae Bolg Alternative） 贯穿死翔之枪"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回避",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "80%概率自身的暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "80%概率自身的星星集中度提升（3回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "魔境的智慧"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "？",
+            "requirement": "灵基一阶",
+            "name": "原初的符文"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[神性]特攻状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "对[死灵]特攻状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "弑神者"
+        }
+    ],
+    "servantId": "No.70",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的星星发生率大幅提升<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「没有无偿的爱」",
+        "type": "对人奥义",
+        "name": "坛之浦·八艘跳"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的星星发生率大幅提升<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人奥义",
+        "name": "坛之浦·八艘跳"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的NP获得量提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "自身的Quick卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关强化副本「牛若丸2」",
+            "name": "天狗的兵法"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的NP获得量提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "天狗的兵法"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "8.5%",
+                        "9.4%",
+                        "10.2%",
+                        "11.1%",
+                        "11.9%",
+                        "12.8%",
+                        "13.6%",
+                        "14.5%",
+                        "15.3%",
+                        "17%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C+",
+            "requirement": "灵基一阶",
+            "name": "领导力"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "0",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "通关强化副本「牛若丸」",
+            "name": "燕之神技"
+        }
+    ],
+    "servantId": "No.27",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11%）",
+            "level": "A+",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

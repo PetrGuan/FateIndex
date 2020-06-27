@@ -1,0 +1,213 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "混乱：每回合以低概率赋予技能封印状态（1回合），只生效1次<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「以刀刃断绝此心」",
+        "type": "对军宝具",
+        "name": "不灭的混沌旅团"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "混乱：每回合以低概率赋予技能封印状态（1回合），只生效1次<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "不灭的混沌旅团"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "弱化耐性下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方全体的弱体耐性下降（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予强化无效状态（1次）"
+                }
+            ],
+            "level": "C++",
+            "requirement": "通关强化副本「风魔小太郎」",
+            "name": "风声鹤唳"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "降攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击发生率下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "敌方全体的攻击力下降（3回合）"
+                }
+            ],
+            "level": "B+",
+            "requirement": "初期",
+            "name": "破坏工作"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "0",
+                    "effect": "赋予己方单体回避状态（1回合）"
+                }
+            ],
+            "level": "A+++",
+            "requirement": "灵基一阶",
+            "name": "忍术"
+        },
+        {
+            "avatar": "弱化耐性下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方全体的弱体耐性下降（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基三阶",
+            "name": "风声鹤唳"
+        }
+    ],
+    "servantId": "No.117",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10.5%）",
+            "level": "A+",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

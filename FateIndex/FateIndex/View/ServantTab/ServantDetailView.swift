@@ -36,7 +36,6 @@ struct ServantDetailView: View {
                     ContentView()
                 }
             }
-            
         }
         .navigationBarTitle(basicInfoTitle())
     }

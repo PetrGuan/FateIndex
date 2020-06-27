@@ -1,0 +1,159 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "防御力提升（3回合）<Lv.>",
+                "values": [
+                    "5%",
+                    "15%",
+                    "20%",
+                    "22.5%",
+                    "25%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予每回合回复HP的状态（2回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「吾主在此 II」",
+        "type": "结界宝具",
+        "name": "（Luminosite Eternelle） 我的上帝在此"
+    },
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "防御力提升（3回合）<Lv.>",
+                "values": [
+                    "5%",
+                    "15%",
+                    "20%",
+                    "22.5%",
+                    "25%"
+                ]
+            }
+        ],
+        "level": "A-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予每回合HP回复的状态（2回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "结界宝具",
+        "name": "（Luminosite Eternelle） 我的上帝在此"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合出星",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得星星的状态（3回合）",
+                    "values": [
+                        "3",
+                        "4",
+                        "5",
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "8",
+                        "8",
+                        "9"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "启示"
+        },
+        {
+            "avatar": "宝具威力下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体[从者]的宝具威力大幅下降（1回合）",
+                    "values": [
+                        "15%",
+                        "16.5%",
+                        "18%",
+                        "19.5%",
+                        "21%",
+                        "22.5%",
+                        "24%",
+                        "25.5%",
+                        "27%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "真名看破"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率赋予敌方单体[从者]行动不能状态（1回合）",
+                    "values": [
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "95%",
+                        "100%",
+                        "105%",
+                        "110%",
+                        "120%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "神明裁决"
+        }
+    ],
+    "servantId": "No.59",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（25%）",
+            "level": "EX",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

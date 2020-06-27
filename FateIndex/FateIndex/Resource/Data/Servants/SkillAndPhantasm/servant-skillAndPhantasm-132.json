@@ -1,0 +1,142 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值一定概率减少1格<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对波宝具",
+        "name": "（Prydwen Tube Riding） 制压汹涌波涛的王者心情！"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "蔚蓝色骑乘"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "竞技空翻"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1000",
+                    "effect": "赋予自身毅力状态（1次·3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "无尽的夏日"
+        }
+    ],
+    "servantId": "No.132",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Arts卡性能提升（5%）&星星发生率提升（5%）",
+            "level": "A",
+            "name": "冲浪",
+            "avatar": "蓝放"
+        }
+    ]
+}

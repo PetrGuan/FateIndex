@@ -1,0 +1,214 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "13Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "B++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「百貌所寻之物」",
+        "type": "对人宝具",
+        "name": "（Zabaniya） 妄想幻象"
+    },
+    "noblePhantasm": {
+        "hit": "13Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Zabaniya） 妄想幻象"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "初期",
+            "name": "藏知之司书"
+        },
+        {
+            "avatar": "三色魔放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率提升自身的Buster卡性能30%（3回合）",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "一定概率提升Arts卡性能30%（3回合）",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "一定概率提升Quick卡性能30%（3回合）",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予回避状态（1回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "百般精通"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的HP回复",
+                    "values": [
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "2800",
+                        "3000",
+                        "3200",
+                        "3400",
+                        "3600",
+                        "4000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "强化状态解除【副作用】"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "战斗撤退"
+        }
+    ],
+    "servantId": "No.110",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10%）",
+            "level": "A",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "超蓄力额外攻击倍率<OC>",
+                "values": [
+                    "0%",
+                    "200%",
+                    "400%",
+                    "600%",
+                    "800%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「孤独的战士，他如狮子般勇猛」",
+        "type": "对军宝具",
+        "name": "（Stella） 流星一条"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "超蓄力额外攻击倍率<OC>",
+                "values": [
+                    "0%",
+                    "100%",
+                    "200%",
+                    "300%",
+                    "400%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Stella） 流星一条"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的防御力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "[毒]耐性提升（3回合）",
+                    "values": [
+                        "80%",
+                        "88%",
+                        "96%",
+                        "104%",
+                        "112%",
+                        "120%",
+                        "128%",
+                        "136%",
+                        "144%",
+                        "160%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "顽健"
+        },
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率大幅提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "千里眼"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「阿拉什」",
+            "name": "弓矢作成"
+        }
+    ],
+    "servantId": "No.16",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力少量提升（6%）",
+            "level": "C",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

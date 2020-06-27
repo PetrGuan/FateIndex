@@ -1,0 +1,195 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "4Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「不醒之梦，永恒之战」",
+        "type": "对城宝具",
+        "name": "（Rhongomyniad） 耀于至远之枪"
+    },
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "750",
+                    "1000",
+                    "1250",
+                    "1500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对城宝具",
+        "name": "（Rhongomyniad） 耀于至远之枪"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "35%",
+                        "37%",
+                        "39%",
+                        "41%",
+                        "43%",
+                        "45%",
+                        "47%",
+                        "49%",
+                        "51%",
+                        "55%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "魔力放出"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "500%",
+                        "550%",
+                        "600%",
+                        "650%",
+                        "700%",
+                        "750%",
+                        "800%",
+                        "850%",
+                        "900%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "最遥远的加护"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "6%",
+                        "6.6%",
+                        "7.2%",
+                        "7.8%",
+                        "8.4%",
+                        "9%",
+                        "9.6%",
+                        "10.2%",
+                        "10.8%",
+                        "12%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E",
+            "requirement": "灵基三阶",
+            "name": "领导力"
+        }
+    ],
+    "servantId": "No.78",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（10%）",
+            "level": "A",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

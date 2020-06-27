@@ -1,0 +1,130 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [],
+        "level": "B",
+        "stableEffects": [
+            {
+                "value": "60%",
+                "effect": "降低概率<宝具升级概率提升>"
+            }
+        ],
+        "chargeEffects": [
+            {
+                "effect": "一定概率降低敌方全体的攻击力、防御力（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            },
+            {
+                "effect": "赋予敌方全体[诅咒]状态（3回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Requiem for Death） 为死神奏响的葬送曲"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Arts卡性能提升（1回合）",
+                    "values": [
+                        "22%",
+                        "24.2%",
+                        "26.4%",
+                        "28.6%",
+                        "30.9%",
+                        "33%",
+                        "35.2%",
+                        "37.4%",
+                        "39.6%",
+                        "44"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "音乐神的加护（伪）"
+        },
+        {
+            "avatar": "宝具威力下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体[从者]的宝具威力下降（1回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "艺术审美"
+        },
+        {
+            "avatar": "出星",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "大量获得星星",
+                    "values": [
+                        "20",
+                        "23",
+                        "26",
+                        "29",
+                        "32",
+                        "35",
+                        "38",
+                        "41",
+                        "44",
+                        "50"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关强化副本「沃尔夫冈·阿马多伊斯·莫扎特」",
+            "name": "小小的夜之曲"
+        }
+    ],
+    "servantId": "No.36",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（8%）",
+            "level": "B",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

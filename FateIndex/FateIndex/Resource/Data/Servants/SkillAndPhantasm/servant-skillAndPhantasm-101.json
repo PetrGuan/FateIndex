@@ -1,0 +1,158 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[魔性]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对魔宝具",
+        "name": "（Brahmastra） 破穿罗刹之不灭"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "集星",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "武之祝福"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "领导力"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1000",
+                    "effect": "赋予自身毅力状态（1次·3回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "离别之诅咒"
+        }
+    ],
+    "servantId": "No.101",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11%）",
+            "level": "A+",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（200）",
+            "level": "A",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

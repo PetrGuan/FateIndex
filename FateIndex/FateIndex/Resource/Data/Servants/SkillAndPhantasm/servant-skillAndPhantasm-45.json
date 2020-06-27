@@ -1,0 +1,149 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "概率赋予敌方全体[魅惑]状态（1回合）<Lv.>",
+                "values": [
+                    "40%",
+                    "50%",
+                    "55%",
+                    "57.5%",
+                    "60%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力大幅下降（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            },
+            {
+                "effect": "防御力大幅下降（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Mata Hari）有着白昼之眼的女子"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A++",
+            "requirement": "初期",
+            "name": "谍报"
+        },
+        {
+            "avatar": "魅惑",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "低概率赋予敌方全体[男性]魅惑状态（1回合）",
+                    "values": [
+                        "30%",
+                        "33%",
+                        "36%",
+                        "39%",
+                        "42%",
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "60%"
+                    ]
+                },
+                {
+                    "effect": "敌方全体的防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "荷尔蒙"
+        },
+        {
+            "avatar": "封印",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌单体技能封印状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "通关强化副本「玛塔·哈里」",
+            "name": "双重封印"
+        }
+    ],
+    "servantId": "No.45",
+    "classSkills": []
+}

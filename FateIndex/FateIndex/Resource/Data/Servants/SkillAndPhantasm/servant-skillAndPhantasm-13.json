@@ -1,0 +1,146 @@
+{
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[毒]状态特攻<OC>",
+                "values": [
+                    "200%",
+                    "212.5%",
+                    "225%",
+                    "237.5%",
+                    "250%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Yew Bow） 祈祷之弓"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "降攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方全体的攻击力下降（3回合）",
+                    "values": [
+                        "5%",
+                        "6%",
+                        "7%",
+                        "8%",
+                        "9%",
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "15%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "500",
+                    "effect": "赋予[毒]状态（5回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "破坏工作"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "12%",
+                        "13.8%",
+                        "15.6%",
+                        "17.4%",
+                        "19.2%",
+                        "21%",
+                        "22.8%",
+                        "24.6%",
+                        "26.4%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E",
+            "requirement": "灵基一阶",
+            "name": "黄金律"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "20"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身必中状态（1回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "通关强化副本「罗宾汉」",
+            "name": "五月之王"
+        }
+    ],
+    "servantId": "No.13",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

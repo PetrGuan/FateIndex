@@ -1,0 +1,200 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "B++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "15",
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「驰骋吧，初始的蹂躏制霸」",
+        "type": "对军宝具",
+        "name": "（Bucephalus） 起始的蹂躏制霸"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "5",
+                    "10",
+                    "15",
+                    "20",
+                    "25"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Bucephalus） 起始的蹂躏制霸"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "魅惑",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率赋予敌方单体[人型]魅惑状态（1回合）",
+                    "values": [
+                        "60%",
+                        "64%",
+                        "68%",
+                        "72%",
+                        "76%",
+                        "80%",
+                        "84%",
+                        "88%",
+                        "92%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除强化状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "通关强化副本「亚历山大2」",
+            "name": "红颜的美少年（雷）"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "8%",
+                        "8.8%",
+                        "9.6%",
+                        "10.4%",
+                        "11.2%",
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "16%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "初期",
+            "name": "领导力"
+        },
+        {
+            "avatar": "魅惑",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率赋予敌方单体[人型]魅惑状态（1回合）",
+                    "values": [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "红颜的美少年"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Quick卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「亚历山大」",
+            "name": "霸王之兆"
+        }
+    ],
+    "servantId": "No.28",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（10%）",
+            "level": "A",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（100）",
+            "level": "E",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

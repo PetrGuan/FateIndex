@@ -1,0 +1,195 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「伊修塔尔」",
+        "type": "对山宝具",
+        "name": "（Angalta Kigalse） 震撼山脉明星之薪"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对山宝具",
+        "name": "（Angalta Kigalse） 震撼山脉明星之薪"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "美的显现"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "80%概率赋予自身无敌状态（1回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "80%概率赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "光辉大王冠"
+        },
+        {
+            "avatar": "秒表buff",
+            "coldDown": "5回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身1回合后的攻击力提升（1回合）的状态",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "灵基三阶",
+            "name": "魔力放出（宝石）"
+        }
+    ],
+    "servantId": "No.142",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（225）&弱体耐性提升（22.5%）",
+            "level": "B",
+            "name": "女神的神核",
+            "avatar": "女神的神核"
+        }
+    ]
+}

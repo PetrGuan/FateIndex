@@ -16,9 +16,11 @@ struct FightCharacterFilterListView: View {
                     .font(.headline)
                 
                 Spacer()
-                
-                Text("查看全部")
+
+                NavigationLink(destination: AllFightCharacterListView()) {
+                    Text("查看全部")
                     .foregroundColor(Color(hex: 0xfe365e))
+                }
             }
             .padding(EdgeInsets(top: 20, leading: 20, bottom: 0, trailing: 20))
             

@@ -1,0 +1,208 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "低概率赋予即死效果<OC>",
+                "values": [
+                    "30%",
+                    "42.5%",
+                    "55%",
+                    "67.5%",
+                    "80%"
+                ]
+            },
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「夏尔·亨利·桑松2」",
+        "type": "对人宝具",
+        "name": "（la Molé Espoir） 死是向着明日的希望"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "低概率赋予即死效果<OC>",
+                "values": [
+                    "30%",
+                    "42.5%",
+                    "55%",
+                    "67.5%",
+                    "80%"
+                ]
+            },
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（la Molé Espoir） 死是向着明日的希望"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "回血",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体HP大量回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "A+",
+            "requirement": "通关强化副本「夏尔·亨利·桑松」",
+            "name": "医术"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[恶]特攻状态（3回合）",
+                    "values": [
+                        "40%",
+                        "43%",
+                        "44%",
+                        "46%",
+                        "48%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "60%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A++",
+            "requirement": "初期",
+            "name": "处刑人"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的HP大量回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "医术"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[人类]特攻状态（3回合）",
+                    "values": [
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "48%",
+                        "50%",
+                        "52%",
+                        "54%",
+                        "56%",
+                        "60%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "人体研究"
+        }
+    ],
+    "servantId": "No.43",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率少量提升（4%）",
+            "level": "D",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

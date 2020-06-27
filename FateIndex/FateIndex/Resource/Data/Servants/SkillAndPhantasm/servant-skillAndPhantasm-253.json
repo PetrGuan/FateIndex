@@ -1,0 +1,172 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Arts卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对界宝具",
+        "name": "（Beautiful Journey） 跨越境界之物"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "每回合回复",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合HP回复的状态（3回合）",
+                    "values": [
+                        "500",
+                        "550",
+                        "600",
+                        "650",
+                        "700",
+                        "750",
+                        "800",
+                        "850",
+                        "900",
+                        "1000"
+                    ]
+                },
+                {
+                    "effect": "赋予自身每回合NP增加状态（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身弱体无效状态（3回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "黄金律（体）"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1次）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "高速转弯"
+        },
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "NP少量增加"
+                },
+                {
+                    "value": "∅",
+                    "effect": "宝具使用时的蓄力阶段提升1阶段（1回合）"
+                }
+            ],
+            "level": "D",
+            "requirement": "灵基三阶",
+            "name": "予星以梦"
+        }
+    ],
+    "servantId": "No.253",
+    "classSkills": [
+        {
+            "effect": "自身的Quick卡性能提升（8%）",
+            "level": "B",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "自身的Arts卡性能少量提升（6%）",
+            "level": "C",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体耐性提升(20%）&星星发生率提升(20%）",
+            "level": "E",
+            "name": "检修",
+            "avatar": "弱化耐性提升"
+        }
+    ]
+}

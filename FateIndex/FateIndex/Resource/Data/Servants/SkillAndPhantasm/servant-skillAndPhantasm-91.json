@@ -1,0 +1,211 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "750%",
+                    "825%",
+                    "862.5%",
+                    "900%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「两仪式〔Saber〕」",
+        "type": "对人宝具",
+        "name": "无垢识·空之境界"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "无垢识·空之境界"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "直死之魔眼",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "Arts卡性能提升（1回合）",
+                    "values": [
+                        "25%",
+                        "26.5%",
+                        "28%",
+                        "29.5%",
+                        "31%",
+                        "32.5%",
+                        "34%",
+                        "35.5%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "敌方全体的即死耐性下降（1回合）",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "初期",
+            "name": "直死之魔眼"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "25%"
+                    ]
+                },
+                {
+                    "effect": "精神异常耐性提升（3回合）",
+                    "values": [
+                        "18%",
+                        "19.8%",
+                        "21.6%",
+                        "23.4%",
+                        "25.2%",
+                        "27%",
+                        "28.8%",
+                        "30.6%",
+                        "32.4%",
+                        "36%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "云耀"
+        },
+        {
+            "avatar": "阴阳鱼",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的HP回复",
+                    "values": [
+                        "2000",
+                        "2300",
+                        "2600",
+                        "2900",
+                        "3200",
+                        "3500",
+                        "3800",
+                        "4100",
+                        "4400",
+                        "5000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "NP减少【副作用】"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "阴阳鱼"
+        }
+    ],
+    "servantId": "No.91",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力少量提升（6%）&即死耐性提升（6%）&精神异常耐性提升（6%）",
+            "level": "C",
+            "name": "单独显现",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "自己的Buster卡性能提升（6%）&Arts卡性能提升（6%）&Quick卡性能提升（6%）",
+            "level": "A",
+            "name": "根源接续",
+            "avatar": "三色魔放"
+        }
+    ]
+}

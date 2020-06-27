@@ -1,0 +1,152 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Tauropolos Skia Thermoplasia） 暗天蚀射"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "3000%",
+                        "3300%",
+                        "3600%",
+                        "3900%",
+                        "4200%",
+                        "4500%",
+                        "4800%",
+                        "5100%",
+                        "5400%",
+                        "6000%"
+                    ]
+                },
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "自我进化"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "跨越阿卡迪亚"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "野兽的逻辑"
+        }
+    ],
+    "servantId": "No.202",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（8%）&星星发生率提升（8%）",
+            "level": "B",
+            "name": "兽化",
+            "avatar": "兽化"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

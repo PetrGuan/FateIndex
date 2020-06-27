@@ -1,0 +1,198 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "6Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行较强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1100%",
+                    "1200%",
+                    "1250%",
+                    "1300%"
+                ]
+            }
+        ],
+        "level": "D~B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予暴击率降低状态（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「11月寂寥之夜的往事Ⅰ」",
+        "type": "对军宝具",
+        "name": "（Blasted Tree） 磔刑之雷树"
+    },
+    "noblePhantasm": {
+        "hit": "6Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行较强力的攻击<Lv.>",
+                "values": [
+                    "700%",
+                    "900%",
+                    "1000%",
+                    "1050%",
+                    "1100%"
+                ]
+            }
+        ],
+        "level": "D~B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予暴击率降低状态（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Blasted Tree） 磔刑之雷树"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（1回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "60%",
+                    "effect": "中概率赋予敌方单体[眩晕]状态（1回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "通关幕间物语「11月寂寥之夜的往事Ⅱ」",
+            "name": "空虚生者之叹息"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "25%",
+                        "27%",
+                        "29%",
+                        "31%",
+                        "33%",
+                        "35%",
+                        "37%",
+                        "39%",
+                        "41%",
+                        "45%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "流电学"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（1回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "60%",
+                    "effect": "中概率赋予敌方单体[眩晕]状态（1回合）"
+                }
+            ],
+            "level": "D",
+            "requirement": "灵基一阶",
+            "name": "空虚生者之叹息"
+        },
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的宝具威力大幅提升（1回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "300",
+                    "effect": "赋予[灼伤]状态（5回合）【副作用】"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基三阶",
+            "name": "过载"
+        }
+    ],
+    "servantId": "No.82",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能少量提升（4%）",
+            "level": "D",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

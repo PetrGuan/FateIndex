@@ -1,0 +1,151 @@
+{
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "罗生门大怨起"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "自身的宝具威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "鬼种之魔"
+        },
+        {
+            "avatar": "弱化解除",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "0",
+                    "effect": "解除自身的弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "重整架势"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "自身的防御力大幅提升（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "变化"
+        }
+    ],
+    "servantId": "No.116",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（8%）",
+            "level": "B",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

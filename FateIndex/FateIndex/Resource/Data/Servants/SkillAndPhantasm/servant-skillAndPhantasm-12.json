@@ -1,0 +1,210 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[从者]特攻（对持有特别的星之力的从者特攻无效）<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「开辟之理」",
+        "type": "对界宝具",
+        "name": "（Enuma Elish） 天地乖离开辟之星"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[从者]特攻（对持有特别的星之力的从者特攻无效）<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对界宝具",
+        "name": "（Enuma Elish） 天地乖离开辟之星"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（3回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                },
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关幕间物语「天之理」",
+            "name": "巴比伦的宝藏"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10.5%",
+                        "11.6%",
+                        "12.6%",
+                        "13.7%",
+                        "14.7%",
+                        "15.8%",
+                        "16.8%",
+                        "17.9%",
+                        "18.9%",
+                        "21%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "领导力"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "黄金律"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（3回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "收藏家"
+        }
+    ],
+    "servantId": "No.12",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（10%）",
+            "level": "E",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（11%）",
+            "level": "A+",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（175）",
+            "level": "B",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

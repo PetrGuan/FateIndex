@@ -1,0 +1,248 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "己方全体的HP回复<Lv.>",
+                "values": [
+                    "2000",
+                    "2500",
+                    "2750",
+                    "2875",
+                    "3000"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "NP增加<OC>",
+                "values": [
+                    "25%",
+                    "31.25%",
+                    "37.5%",
+                    "43.75%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「笔友战争」",
+        "type": "对军宝具",
+        "name": "水天日光天照八野镇石"
+    },
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "己方全体的HP回复<Lv.>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "1750",
+                    "1875",
+                    "2000"
+                ]
+            }
+        ],
+        "level": "D-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "NP增加<OC>",
+                "values": [
+                    "25%",
+                    "31.25%",
+                    "37.5%",
+                    "43.75%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "水天日光天照八野镇石"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值高概率减少1格",
+                    "values": [
+                        "80%",
+                        "82%",
+                        "84%",
+                        "86%",
+                        "88%",
+                        "90%",
+                        "92%",
+                        "94%",
+                        "96%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "自身除外己方全体的宝具威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关强化副本「玉藻前」",
+            "name": "咒层·广日照"
+        },
+        null,
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的Arts卡性能提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关幕间物语「九尾狐」",
+            "name": "狐嫁女"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值高概率减少1格",
+                    "values": [
+                        "80%",
+                        "82%",
+                        "84%",
+                        "86%",
+                        "88%",
+                        "90%",
+                        "92%",
+                        "94%",
+                        "96%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "咒术"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "自身的防御力大幅提升（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "变化"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的Arts卡性能提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "狐嫁女"
+        }
+    ],
+    "servantId": "No.62",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能少量提升（6%）",
+            "level": "C",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（200）",
+            "level": "A",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "10Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "\"对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "E~A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值一定概率减少1格<OC><br \/>\"",
+                "values": [
+                    "80%",
+                    "85%",
+                    "90%",
+                    "95%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「卫宫〔Alter〕」",
+        "type": "对人宝具",
+        "name": "（Unlimited Lost Works） 无限剑制"
+    },
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "\"对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "E~A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值一定概率减少1格<OC><br \/>\"",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Unlimited Lost Works） 无限剑制"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的防御力提升（3次·5回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "赋予受到伤害减免状态（3次）",
+                    "values": [
+                        "300",
+                        "320",
+                        "340",
+                        "360",
+                        "380",
+                        "400",
+                        "420",
+                        "440",
+                        "460",
+                        "500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "防弹加工"
+        },
+        {
+            "avatar": "三色魔放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（1回合）",
+                    "values": [
+                        "15%",
+                        "16.5%",
+                        "18%",
+                        "19.5%",
+                        "21%",
+                        "22.5%",
+                        "24%",
+                        "25.5%",
+                        "27%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "Quick卡性能提升（1回合）",
+                    "values": [
+                        "15%",
+                        "16.5%",
+                        "18%",
+                        "19.5%",
+                        "21%",
+                        "22.5%",
+                        "24%",
+                        "25.5%",
+                        "27%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡性能提升（1回合）",
+                    "values": [
+                        "15%",
+                        "16.5%",
+                        "18%",
+                        "19.5%",
+                        "21%",
+                        "22.5%",
+                        "24%",
+                        "25.5%",
+                        "27%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "投影魔术"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3次·5回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "嗤笑的铁心"
+        }
+    ],
+    "servantId": "No.157",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

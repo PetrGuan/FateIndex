@@ -1,0 +1,153 @@
+{
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军～对城宝具",
+        "name": "（Melammu Dingir） 王之号炮"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的星星发生率大幅提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "王的回归"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10.5%",
+                        "11.6%",
+                        "12.6%",
+                        "13.7%",
+                        "14.7%",
+                        "15.8%",
+                        "16.8%",
+                        "17.9%",
+                        "18.9%",
+                        "21%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "领导力"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Arts卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "弱体赋予成功率提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "魔杖的支配者"
+        }
+    ],
+    "servantId": "No.145",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体赋予成功率提升（10%）",
+            "level": "A",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（175）",
+            "level": "B",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

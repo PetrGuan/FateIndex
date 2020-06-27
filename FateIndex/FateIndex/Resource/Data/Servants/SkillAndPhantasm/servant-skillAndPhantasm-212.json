@@ -1,0 +1,205 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[神性]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "幕间物语活动第11弹",
+        "type": "对军宝具",
+        "name": "（Arc de Triomphe de lEtoile） 高诏凯旋之虹弓"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[神性]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Arc de Triomphe de lEtoile） 高诏凯旋之虹弓"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "自身的攻击力提升（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "初期",
+            "name": "凯旋的领导力"
+        },
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（1回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B+",
+            "requirement": "灵基一阶",
+            "name": "火力支援（炮）"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "赋予每回合获得星星的状态（3回合）",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予无敌贯通状态（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "可能性之光"
+        }
+    ],
+    "servantId": "No.212",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升(15%)",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力少量提升(6%)",
+            "level": "C",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

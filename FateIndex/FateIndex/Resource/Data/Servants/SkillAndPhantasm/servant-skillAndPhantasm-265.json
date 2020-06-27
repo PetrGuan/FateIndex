@@ -1,0 +1,172 @@
+{
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Quick卡、Arts卡性能、Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Bright Ehangwen） 闪耀吧 我辉煌的大厅"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "赋予「1回合后自身的攻击力提升（1回合）」的状态（1次）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "王之兔女郎"
+        },
+        {
+            "avatar": "洗牌",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "重新配发指令卡"
+                }
+            ],
+            "level": "C+",
+            "requirement": "灵基一阶",
+            "name": "王之卡片"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "狮子的骑士"
+        }
+    ],
+    "servantId": "No.265",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升(20%)",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Arts卡性能提升(8%)",
+            "level": "B",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

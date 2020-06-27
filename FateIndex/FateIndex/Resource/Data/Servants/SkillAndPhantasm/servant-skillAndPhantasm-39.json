@@ -1,0 +1,218 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "—",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "大量获得星星<OC>",
+                "values": [
+                    "15",
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「佐佐木小次郎2」",
+        "type": "对人魔剑",
+        "name": "燕返"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "—",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "大量获得星星<OC>",
+                "values": [
+                    "15",
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人魔剑",
+        "name": "燕返"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "必中",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "30%",
+                        "36%",
+                        "42%",
+                        "48%",
+                        "54%",
+                        "60%",
+                        "66%",
+                        "72%",
+                        "78%",
+                        "90%"
+                    ]
+                },
+                {
+                    "effect": "星星集中度提升（3回合）",
+                    "values": [
+                        "200%",
+                        "230%",
+                        "260%",
+                        "290%",
+                        "320%",
+                        "350%",
+                        "380%",
+                        "410%",
+                        "440%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身必中状态（3回合）"
+                }
+            ],
+            "level": "B++",
+            "requirement": "通关强化副本「佐佐木小次郎」",
+            "name": "宗和的心得"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "心眼（伪）"
+        },
+        {
+            "avatar": "弱化解除",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除自身精神异常状态"
+                }
+            ],
+            "level": "B+",
+            "requirement": "灵基一阶",
+            "name": "透化"
+        },
+        {
+            "avatar": "必中",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身必中状态（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "宗和的心得"
+        }
+    ],
+    "servantId": "No.39",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率少量提升（4%）",
+            "level": "D",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行自身HP越少威力越高的超强力攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "C++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "附加倍率<OC>【实际倍率=宝具倍率+附加倍率×已损失HP所占百分比】",
+                "values": [
+                    "800%",
+                    "900%",
+                    "1000%",
+                    "1100%",
+                    "1200%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「土方岁三」",
+        "type": "对人宝具",
+        "name": "不灭之诚"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行自身HP越少威力越高的超强力攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "C+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "附加倍率<OC>【实际倍率=宝具倍率+附加倍率×已损失HP所占百分比】",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "不灭之诚"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Buster卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "战场之鬼"
+        },
+        {
+            "avatar": "弱化解除",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "500",
+                        "600",
+                        "700",
+                        "800",
+                        "900",
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除自身的弱体状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "回归初始"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（3回合）",
+                    "values": [
+                        "2000%",
+                        "2200%",
+                        "2400%",
+                        "2600%",
+                        "2800%",
+                        "3000%",
+                        "3200%",
+                        "3400%",
+                        "3600%",
+                        "4000%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%+80%×损失HP所占百分比",
+                    "effect": "赋予根据自身HP减少程度提升暴击威力的状态（3回合）"
+                },
+                {
+                    "value": "1000",
+                    "effect": "HP减少【副作用】"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "局中法度"
+        }
+    ],
+    "servantId": "No.161",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（5%）",
+            "level": "D+",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

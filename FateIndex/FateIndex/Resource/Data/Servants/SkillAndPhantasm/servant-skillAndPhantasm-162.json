@@ -1,0 +1,151 @@
+{
+    "noblePhantasm": {
+        "hit": "8Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[灼伤]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "城塞宝具",
+        "name": "绚烂魔界日轮城"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得NP的状态（3回合）",
+                    "values": [
+                        "5%",
+                        "5.5%",
+                        "6%",
+                        "6.5%",
+                        "7%",
+                        "7.5%",
+                        "8%",
+                        "8.5%",
+                        "9%",
+                        "10%"
+                    ]
+                },
+                {
+                    "effect": "被攻击时的NP获得量提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "黄金律（凶）"
+        },
+        {
+            "avatar": "回合出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得星星的状态（3回合）",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "50%",
+                    "effect": "自身除外己方全体的星星集中度下降（3回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "无辜的怪物（焰）"
+        },
+        {
+            "avatar": "降防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "第2回合起，每回合效果量增量",
+                    "values": [
+                        "5%",
+                        "5.5%",
+                        "6%",
+                        "6.5%",
+                        "7%",
+                        "7.5%",
+                        "8%",
+                        "8.5%",
+                        "9%",
+                        "10%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%(第1回合固定）",
+                    "effect": "赋予敌方单体每回合效果量增加的防御力下降状态（5回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "日轮的宠姬"
+        }
+    ],
+    "servantId": "No.162",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（3%）",
+            "level": "E+",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

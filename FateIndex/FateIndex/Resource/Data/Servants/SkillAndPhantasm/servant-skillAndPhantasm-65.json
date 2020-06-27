@@ -1,0 +1,189 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "大量获得星星<OC>",
+                "values": [
+                    "20",
+                    "25",
+                    "30",
+                    "35",
+                    "40"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「财宝之岛」",
+        "type": "对军宝具",
+        "name": "（Golden Wild Hunt） 黄金鹿与暴风夜"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "大量获得星星<OC>",
+                "values": [
+                    "20",
+                    "25",
+                    "30",
+                    "35",
+                    "40"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Golden Wild Hunt） 黄金鹿与暴风夜"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（1回合）",
+                    "values": [
+                        "8.5%",
+                        "9.4%",
+                        "10.2%",
+                        "11.1%",
+                        "11.9%",
+                        "12.8%",
+                        "13.6%",
+                        "14.5%",
+                        "15.3%",
+                        "17%"
+                    ]
+                },
+                {
+                    "effect": "攻击力提升（1回合）",
+                    "values": [
+                        "8.5%",
+                        "9.4%",
+                        "10.2%",
+                        "11.1%",
+                        "11.9%",
+                        "12.8%",
+                        "13.6%",
+                        "14.5%",
+                        "15.3%",
+                        "17%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "暴风航海者"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "18%",
+                        "20.7%",
+                        "23.4%",
+                        "26.1%",
+                        "28.8%",
+                        "31.5%",
+                        "34.2%",
+                        "36.9%",
+                        "39.6%",
+                        "45%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "黄金律"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予无敌贯通状态（3回合）"
+                },
+                {
+                    "value": "10",
+                    "effect": "获得星星"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "星之开拓者"
+        }
+    ],
+    "servantId": "No.65",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（8%）",
+            "level": "B",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

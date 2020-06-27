@@ -1,0 +1,158 @@
+{
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率减少1格蓄气值<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "翱翔天际宛如龙"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "8.5%",
+                        "9.4%",
+                        "10.2",
+                        "11.1%",
+                        "11.9%",
+                        "12.8%",
+                        "13.6%",
+                        "14.5%",
+                        "15.3%",
+                        "17%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C+",
+            "requirement": "初期",
+            "name": "领导力"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "弱体耐性提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "己方全体的NP少量增加"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "船中八策"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的蓝卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "维新的英雄"
+        }
+    ],
+    "servantId": "No.211",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11%）",
+            "level": "A+",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（170）",
+            "level": "B-",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

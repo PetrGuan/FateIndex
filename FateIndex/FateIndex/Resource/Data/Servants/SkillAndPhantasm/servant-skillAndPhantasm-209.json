@@ -1,0 +1,167 @@
+{
+    "noblePhantasm": {
+        "hit": "7Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "Buster卡耐性下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对界宝具",
+        "name": "绝剑·无穹三段"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红绿魔放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "极地"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "不断"
+        },
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的宝具威力提升（1回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予回避状态（1次·3回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "无边"
+        }
+    ],
+    "servantId": "No.209",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[魔性]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对兽宝具",
+        "name": "络缲幻法·吞牛"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红绿魔放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A++",
+            "requirement": "初期",
+            "name": "人造四肢（络缲）"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "25%",
+                        "27%",
+                        "29%",
+                        "31%",
+                        "33%",
+                        "35%",
+                        "37%",
+                        "39%",
+                        "41%",
+                        "45%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予己方单体回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "忍术"
+        },
+        {
+            "avatar": "无敌",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（1回合）",
+                    "values": [
+                        "25%",
+                        "27%",
+                        "29%",
+                        "31%",
+                        "33%",
+                        "35%",
+                        "37%",
+                        "39%",
+                        "41%",
+                        "45%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予己方单体无敌状态（1回合）"
+                }
+            ],
+            "level": "B+",
+            "requirement": "灵基三阶",
+            "name": "络缲幻法"
+        }
+    ],
+    "servantId": "No.188",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10%）",
+            "level": "A",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

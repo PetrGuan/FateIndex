@@ -1,0 +1,146 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Prelati's·spellbook） 螺湮城教本"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "弱化成功率提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的精神异常赋予成功率提升（3回合）",
+                    "values": [
+                        "5%",
+                        "7%",
+                        "9%",
+                        "11%",
+                        "13%",
+                        "15%",
+                        "17%",
+                        "19%",
+                        "21%",
+                        "25%"
+                    ]
+                },
+                {
+                    "effect": "精神异常耐性提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "精神污染"
+        },
+        {
+            "avatar": "宝具威力下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体[从者]的宝具威力下降（1回合）",
+                    "values": [
+                        "5.5%",
+                        "6.1%",
+                        "6.6%",
+                        "7.2%",
+                        "7.7%",
+                        "8.3%",
+                        "8.8%",
+                        "9.4%",
+                        "9.9%",
+                        "11%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E-",
+            "requirement": "灵基一阶",
+            "name": "艺术审美"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "恐怖：每回合一定概率赋予[眩晕]状态（1回合），只生效1次",
+                    "values": [
+                        "30%",
+                        "31%",
+                        "32%",
+                        "33%",
+                        "34%",
+                        "35%",
+                        "36%",
+                        "37%",
+                        "38%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌方全体[恐怖]状态（5回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "通关强化副本「吉尔·德·雷〔Caster〕」",
+            "name": "深渊的邪视"
+        }
+    ],
+    "servantId": "No.32",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（8%）",
+            "level": "B",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

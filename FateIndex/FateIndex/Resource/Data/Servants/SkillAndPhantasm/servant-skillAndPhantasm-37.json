@@ -1,0 +1,210 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "敌方全体的防御力下降（3回合）<Lv.>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "45%",
+                    "47.5%",
+                    "50%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "中概率赋予[眩晕]状态（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "57.5%",
+                    "65%",
+                    "72.5%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「再临的真相」",
+        "type": "对军宝具",
+        "name": "石兵八阵"
+    },
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "敌方的全体防御力下降<Lv.>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "25%",
+                    "27.5%",
+                    "30%"
+                ]
+            }
+        ],
+        "level": "C-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "中概率赋予[眩晕]状态<OC>",
+                "values": [
+                    "50%",
+                    "57.5%",
+                    "65%",
+                    "72.5%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "石兵八阵"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "NP增加"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "鉴识眼"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的防御力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "赋予受到伤害减免状态（3回合）",
+                    "values": [
+                        "200",
+                        "230",
+                        "260",
+                        "290",
+                        "320",
+                        "350",
+                        "380",
+                        "410",
+                        "440",
+                        "500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "NP少量增加"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "军师的忠言"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "赋予造成伤害增加状态（3回合）",
+                    "values": [
+                        "200",
+                        "230",
+                        "260",
+                        "290",
+                        "320",
+                        "350",
+                        "380",
+                        "410",
+                        "440",
+                        "500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "10%",
+                    "effect": "NP少量增加"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基三阶",
+            "name": "军师的指挥"
+        }
+    ],
+    "servantId": "No.37",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体成功率提升（8%）",
+            "level": "B",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        }
+    ]
+}

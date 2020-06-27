@@ -1,0 +1,214 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "750%",
+                    "825%",
+                    "862.5%",
+                    "900%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值中概率减少1格<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「书籍的集合，我们的集合」",
+        "type": "对人宝具",
+        "name": "（Nursery Rhyme） 为某人写的故事"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "C-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值中概率减少1格<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Nursery Rhyme） 为某人写的故事"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "星星集中提升（3回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "自我改造"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "弱体耐性提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "自身的防御力大幅提升（1回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "变化"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "与此同时的另一面"
+        }
+    ],
+    "servantId": "No.74",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

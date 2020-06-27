@@ -1,0 +1,198 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "C+++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值低概率减少1格<OC>",
+                "values": [
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「爱德华·蒂奇2」",
+        "type": "对军宝具",
+        "name": "（Queen Anne's Revenge） 安妮女王的复仇"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "C++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值低概率减少1格<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Queen Anne's Revenge） 安妮女王的复仇"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（1回合）",
+                    "values": [
+                        "8%",
+                        "8.8%",
+                        "9.6%",
+                        "10.4%",
+                        "11.2%",
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "16%"
+                    ]
+                },
+                {
+                    "effect": "攻击力提升（1回合）",
+                    "values": [
+                        "8%",
+                        "8.8%",
+                        "9.6%",
+                        "10.4%",
+                        "11.2%",
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "16%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "暴风航海者"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "10.8%",
+                        "12.6%",
+                        "14.4%",
+                        "16.2%",
+                        "18%",
+                        "19.8%",
+                        "21.6%",
+                        "23.4%",
+                        "27%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1",
+                    "effect": "赋予毅力状态（1次·无限时）"
+                },
+                {
+                    "value": "50%",
+                    "effect": "弱体耐性下降（3回合）【副作用】"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "海贼的荣誉"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体HP回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                },
+                {
+                    "effect": "自身除外己方全体[女性]的HP回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "通关强化副本「爱德华·蒂奇」",
+            "name": "绅士般的爱"
+        }
+    ],
+    "servantId": "No.25",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（10%）",
+            "level": "E",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

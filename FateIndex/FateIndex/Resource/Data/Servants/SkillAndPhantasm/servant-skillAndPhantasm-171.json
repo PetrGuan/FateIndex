@@ -1,0 +1,152 @@
+{
+    "noblePhantasm": {
+        "hit": "8Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Outrage Amazon） 英雄，在我的愤恨中终结吧"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "领导力"
+        },
+        {
+            "avatar": "弱化无效",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "每回合获得NP的状态（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身弱体无效状态（3回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "黄金律（美）"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Buster卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "赋予自身对[希腊神话系男性]特攻状态（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "灵基三阶",
+            "name": "军神咆哮"
+        }
+    ],
+    "servantId": "No.171",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（12%）",
+            "level": "EX",
+            "name": "狂化",
+            "avatar": "兽化"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（175）",
+            "level": "B",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "自身的攻击力提升（3回合）<Lv.>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "45%",
+                    "47.5%",
+                    "50%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "星星发生率大幅提升（3回合）<OC>",
+                "values": [
+                    "100%",
+                    "125%",
+                    "150%",
+                    "175%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "胧里月十一式"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "必中",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身必中状态（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "初期",
+            "name": "宗和的心得"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "100%",
+                    "effect": "精神异常耐性大幅提升（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "武之求道"
+        },
+        {
+            "avatar": "封印",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌方单体宝具封印状态（1回合）"
+                }
+            ],
+            "level": "B+",
+            "requirement": "灵基三阶",
+            "name": "先之先"
+        }
+    ],
+    "servantId": "No.186",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（13%）",
+            "level": "D+",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

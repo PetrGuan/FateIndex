@@ -1,0 +1,179 @@
+{
+    "noblePhantasm": {
+        "hit": "6Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得大量星星<OC>",
+                "values": [
+                    "20",
+                    "25",
+                    "30",
+                    "35",
+                    "40"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "释提桓因·金刚杵"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "500%",
+                        "550%",
+                        "600%",
+                        "650%",
+                        "700%",
+                        "750%",
+                        "800%",
+                        "850%",
+                        "900%",
+                        "1000%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "影之风纪委员长"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的Buster卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "炼铁独轮"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "炎夏灾难！"
+        }
+    ],
+    "servantId": "No.181",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11%）",
+            "level": "A+",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "自身的Buster卡性能提升（6%）",
+            "level": "C",
+            "name": "狂化",
+            "avatar": "兽化"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（150）",
+            "level": "C",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

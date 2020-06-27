@@ -1,0 +1,175 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "2Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "C+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "30%",
+                    "45%",
+                    "60%",
+                    "75%",
+                    "90%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「——即便，要献出性命」",
+        "type": "对人宝具",
+        "name": "（Switch-on Agateram） 手握圣剑吧，银色之腕"
+    },
+    "noblePhantasm": {
+        "hit": "2Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Switch-on Agateram） 手握圣剑吧，银色之腕"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（1回合）",
+                    "values": [
+                        "8%",
+                        "8%",
+                        "9%",
+                        "10%",
+                        "11%",
+                        "12%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "16%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "初期",
+            "name": "军略"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "精神异常耐性提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "自身的NP增加"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "沉着冷静"
+        },
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "弱体耐性提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "己方全体的防御力提升（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "守护的誓约"
+        }
+    ],
+    "servantId": "No.126",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（10%）",
+            "level": "A",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

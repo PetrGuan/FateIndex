@@ -1,0 +1,194 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "10Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "15",
+                    "20",
+                    "25",
+                    "30",
+                    "35"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「伦敦的幼童」",
+        "type": "对军宝具",
+        "name": "（Phoibos Catastrophe） 诉状的箭书"
+    },
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "10",
+                    "15",
+                    "20",
+                    "25",
+                    "30"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Phoibos Catastrophe） 诉状的箭书"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关幕间物语「女神的微笑」",
+            "name": "跨越阿卡迪亚"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Quick卡性能提升（1回合）",
+                    "values": [
+                        "18%",
+                        "19%",
+                        "21%",
+                        "23%",
+                        "25%",
+                        "27%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "36%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "跨越阿卡迪亚"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度大幅提升（1回合）",
+                    "values": [
+                        "500%",
+                        "550%",
+                        "600%",
+                        "650%",
+                        "700%",
+                        "750%",
+                        "800%",
+                        "850%",
+                        "900%",
+                        "1000%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "追猎的美学"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "NP获得量提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "通关强化副本「阿塔兰忒」",
+            "name": "狩猎卡莱敦的野猪"
+        }
+    ],
+    "servantId": "No.14",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

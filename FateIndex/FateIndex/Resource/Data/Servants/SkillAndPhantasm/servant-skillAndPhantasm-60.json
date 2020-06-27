@@ -1,0 +1,179 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「某一首爱之歌」",
+        "type": "对人宝具",
+        "name": "（Tristar Amore Mio） 月之女神的爱矢恋矢"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "蓄气值中概率减少1格<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Tristar Amore Mio） 月之女神的爱矢恋矢"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的防御力大幅提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "攻击力提升（3回合）"
+                },
+                {
+                    "value": "50%",
+                    "effect": "弱体耐性提升（3回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "女神的宠爱"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[男性]特攻状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "见异思迁的楔子"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力大幅提升（3回合）",
+                    "values": [
+                        "17%",
+                        "18.7%",
+                        "20.4%",
+                        "22.1%",
+                        "23.8%",
+                        "25.5%",
+                        "27.2%",
+                        "28.9%",
+                        "30.6%",
+                        "34%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B-",
+            "requirement": "灵基三阶",
+            "name": "心眼（伪）"
+        }
+    ],
+    "servantId": "No.60",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（11%）",
+            "level": "A+",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "noblePhantasm": {
+        "hit": "12Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "敌方单体的防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（The Dynamics Of An Asteroid） 终局的犯罪"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "<星星在10个以上时才能使用>自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "宝具威力提升（3回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予自身以外己方全体[恶]特性（3回合）"
+                }
+            ],
+            "level": "A+++",
+            "requirement": "通关强化副本「新宿的Archer」",
+            "name": "蜘蛛丝的终点"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "无敌贯通",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "魔弹射手"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "<星星在10个以上时才能使用>自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "宝具威力提升（3回合）"
+                },
+                {
+                    "value": "10",
+                    "effect": "星星减少【副作用】"
+                }
+            ],
+            "level": "A++",
+            "requirement": "灵基一阶",
+            "name": "蜘蛛丝的终点"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "除自身外己方全体持有[恶]特性的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "邪智的领导力"
+        }
+    ],
+    "servantId": "No.156",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（11%）",
+            "level": "A+",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

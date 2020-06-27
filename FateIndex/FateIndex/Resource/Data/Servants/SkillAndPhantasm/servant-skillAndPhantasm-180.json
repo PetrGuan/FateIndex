@@ -1,0 +1,157 @@
+{
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "弱体耐性下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            },
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Sanat Kumāra wheel） 金星神·白银圆环"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "充能",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的NP增加",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "5",
+                    "effect": "赋予自身每回合获得星星的状态（5回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "夏日假期！"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身造成伤害增加状态（5次·5回合）",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "敌方单体的蓄气值减少1格"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "ＮＹＡＲＦ！"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（1回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身弱体无效状态（1次·5回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "大佐的暑假"
+        }
+    ],
+    "servantId": "No.180",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（6%）",
+            "level": "C",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

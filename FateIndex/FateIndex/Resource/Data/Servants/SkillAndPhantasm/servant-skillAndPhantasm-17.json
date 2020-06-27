@@ -1,0 +1,195 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            },
+            {
+                "effect": "中概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「库·丘林」",
+        "type": "对人宝具",
+        "name": "（Gae Bolg） 刺穿死棘之枪"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            },
+            {
+                "effect": "中概率赋予即死效果<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Gae Bolg） 刺穿死棘之枪"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身毅力状态（1次·5回合）",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "战斗续行"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "8%",
+                        "8.8%",
+                        "9.6%",
+                        "10.4%",
+                        "11.2%",
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "16%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（3次）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "避矢的加护"
+        },
+        {
+            "avatar": "弱化解除",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "500",
+                        "600",
+                        "700",
+                        "800",
+                        "900",
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除自身的弱体状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基三阶",
+            "name": "回归初始"
+        }
+    ],
+    "servantId": "No.17",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（175）",
+            "level": "B",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

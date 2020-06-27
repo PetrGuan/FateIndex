@@ -1,0 +1,179 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "4Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "40%",
+                    "60%",
+                    "80%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「那份光辉是为了谁」",
+        "type": "对人宝具",
+        "name": "（Quintet Fire） 多元重奏饱和炮击"
+    },
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "35%",
+                    "50%",
+                    "65%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Quintet Fire） 多元重奏饱和炮击"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "愉快型魔術礼装"
+        },
+        {
+            "avatar": "无敌",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "NP获得量提高（3回合）",
+                    "values": [
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "28%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "自然的婴儿"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1000",
+                    "effect": "70%概率赋予己方单体毅力状态（1次·3回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "70%概率赋予弱体无效状态（1次）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "奇怪的药"
+        }
+    ],
+    "servantId": "No.136",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "赋予自身每回合NP增加状态（3%）",
+            "level": "C",
+            "name": "无限的魔力供给",
+            "avatar": "回合充能"
+        }
+    ]
+}

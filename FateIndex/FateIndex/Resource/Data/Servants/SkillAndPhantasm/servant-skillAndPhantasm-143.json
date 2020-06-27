@@ -1,0 +1,217 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "敌方单体的防御力下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「恩奇都」",
+        "type": "对肃正宝具",
+        "name": "（Enuma Elish） 人子啊，紧系神明吧"
+    },
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "敌方单体的防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对肃正宝具",
+        "name": "（Enuma Elish） 人子啊，紧系神明吧"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "暴击威力下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的暴击发生率下降（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除回避状态"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "A++",
+            "requirement": "通关强化副本「恩奇都」",
+            "name": "气息感知"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "Quick卡或Arts卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "变容"
+        },
+        {
+            "avatar": "暴击威力下降",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的暴击发生率降低（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除回避状态"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "气息感知"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "12回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的HP超回复",
+                    "values": [
+                        "5000",
+                        "5500",
+                        "6000",
+                        "6500",
+                        "7000",
+                        "7500",
+                        "8000",
+                        "8500",
+                        "9000",
+                        "10000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "完全的形态"
+        }
+    ],
+    "servantId": "No.143",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

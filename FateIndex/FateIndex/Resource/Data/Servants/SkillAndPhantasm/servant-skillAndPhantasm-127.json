@@ -1,0 +1,213 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "750%",
+                    "825%",
+                    "862.5%",
+                    "900%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的宝具威提升（1回合）<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「小恶魔的赠礼」",
+        "type": "对人宝具\/对军宝具",
+        "name": "（Uomo Universale） 万能之人"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的宝具威提升（1回合）<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具\/对军宝具",
+        "name": "（Uomo Universale） 万能之人"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "毅力",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "85%概率自身的防御力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "85%概率自身的宝具威力提升（1回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "赋予自身毅力状态（1次·3回合）",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "天赋的睿智"
+        },
+        {
+            "avatar": "每回合回复",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予每回合回复HP的状态（3回合）",
+                    "values": [
+                        "500",
+                        "550",
+                        "600",
+                        "650",
+                        "700",
+                        "750",
+                        "800",
+                        "850",
+                        "900",
+                        "1000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "0",
+                    "effect": "赋予自身弱体无效状态（2回合）"
+                },
+                {
+                    "value": "10%",
+                    "effect": "赋予每回合NP增加的状态（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "黄金律（体）"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "0",
+                    "effect": "赋予无敌贯通状态（3回合）"
+                },
+                {
+                    "value": "10",
+                    "effect": "获得星星"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "星之开拓者"
+        }
+    ],
+    "servantId": "No.127",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体赋予成功率提升（10%）",
+            "level": "A",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        }
+    ]
+}

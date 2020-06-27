@@ -1,0 +1,213 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[龙]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「齐格弗里德2」",
+        "type": "对军宝具",
+        "name": "（Balmung） 幻想大剑·天魔失坠"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[龙]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Balmung） 幻想大剑·天魔失坠"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[龙]特攻状态（3回合）",
+                    "values": [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "对[龙]防御力提升（3回合）"
+                }
+            ],
+            "level": "A++",
+            "requirement": "通关强化副本「齐格弗里德1」",
+            "name": "屠龙者"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "15%",
+                        "17.3%",
+                        "19.5%",
+                        "21.8%",
+                        "24%",
+                        "26.3%",
+                        "28.5%",
+                        "30.8%",
+                        "33%",
+                        "37.5%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C-",
+            "requirement": "初期",
+            "name": "黄金律"
+        },
+        {
+            "avatar": "弱化解除",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "HP大量回复",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除自身的弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "回归初始"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[龙]特攻状态（3回合）",
+                    "values": [
+                        "50%",
+                        "53%",
+                        "56%",
+                        "59%",
+                        "62%",
+                        "65%",
+                        "68%",
+                        "71%",
+                        "74%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "30%",
+                    "effect": "对[龙]防御力提升（3回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "屠龙者"
+        }
+    ],
+    "servantId": "No.6",
+    "classSkills": [
+        {
+            "effect": "自身的Quick卡性能提升（8%）",
+            "level": "B",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

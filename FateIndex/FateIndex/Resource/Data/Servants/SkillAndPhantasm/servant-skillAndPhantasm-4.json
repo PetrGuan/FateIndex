@@ -1,0 +1,165 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "8Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "550%",
+                    "625%",
+                    "662.5%",
+                    "700%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的HP大量回复<OC>",
+                "values": [
+                    "2000",
+                    "3000",
+                    "4000",
+                    "5000",
+                    "6000"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「阿尔托莉雅·潘德拉贡〔Lily〕」",
+        "type": "对人宝具",
+        "name": "（Caliburn） 必胜黄金之剑"
+    },
+    "noblePhantasm": {
+        "hit": "8Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "450%",
+                    "525%",
+                    "562.5%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的HP大量回复<OC>",
+                "values": [
+                    "1000",
+                    "2000",
+                    "3000",
+                    "4000",
+                    "5000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Caliburn） 必胜黄金之剑"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "14"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "直感"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "魔力放出"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的NP获得量提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "花之旅途"
+        }
+    ],
+    "servantId": "No.4",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能少量提升（6%）",
+            "level": "C",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

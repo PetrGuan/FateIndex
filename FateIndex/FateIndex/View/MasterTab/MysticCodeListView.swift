@@ -34,10 +34,6 @@ struct MysticCodeListView: View {
                         NavigationLink(destination: MysticCodeDetailView(mysticCode: mysticCode)) {
                             MysticCodeBoxView(mysticCode: mysticCode)
                         }
-                        
-                        //                        NavigationLink(destination: RoundedListDetailView(mysticCode: mysticCode, selectedSkill: mysticCode.skills[0])) {
-                        //                            MysticCodeBoxView(mysticCode: mysticCode)
-                        //                        }
                     }
                 }
                 .frame(minHeight: 70)

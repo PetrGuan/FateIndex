@@ -1,0 +1,189 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "600%",
+                    "675%",
+                    "712.5%",
+                    "750%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "大量获得星星<OC>",
+                "values": [
+                    "20",
+                    "25",
+                    "30",
+                    "35",
+                    "40"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Blue Summer Palladium） 此夏露宛若琉璃"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "蓝放",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（5回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "天鹅湖"
+        },
+        {
+            "avatar": "完全流体",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "强化解除耐性提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌状态（1回合）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予战斗地点[水边]特性（3回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "完全流体"
+        },
+        {
+            "avatar": "灭气",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "吸收除自身除外己方全体的NP",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                },
+                {
+                    "effect": "攻击力提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "梅尔特嫉妒"
+        }
+    ],
+    "servantId": "No.266",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升(17.5%)",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能少量提升(6%)",
+            "level": "C",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "自身的暴击威力提升(12%)",
+            "level": "EX",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态(200)&弱体耐性提升(20%)",
+            "level": "C",
+            "name": "女神的神核",
+            "avatar": "女神的神核"
+        },
+        {
+            "effect": "无效果",
+            "level": "A",
+            "name": "高级从者",
+            "avatar": "空白效果"
+        }
+    ]
+}

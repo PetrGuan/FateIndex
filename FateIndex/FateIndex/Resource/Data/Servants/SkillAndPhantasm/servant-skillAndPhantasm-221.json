@@ -1,0 +1,167 @@
+{
+    "noblePhantasm": {
+        "hit": "6Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "每Hit一定概率触发最大5次的[NiceShot!]效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（OneShot My Love） 我所心爱的夏季爱之约会"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得NP的状态（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "赋予每回合获得星星的状态（3回合）",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "当我换上泳装"
+        },
+        {
+            "avatar": "魅惑",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "Arts攻击耐性下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "60%",
+                    "effect": "一定概率赋予敌方全体[魅惑]状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "清新淡雅·白蜂蜜"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                },
+                {
+                    "effect": "自身除外己方全体的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "女王的教育（海）"
+        }
+    ],
+    "servantId": "No.221",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（18%）",
+            "level": "B+",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（10%）",
+            "level": "A",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

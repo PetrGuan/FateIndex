@@ -1,0 +1,164 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "2Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "750",
+                    "1000",
+                    "1250",
+                    "1500"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「蔷薇的双枪」",
+        "type": "对人宝具",
+        "name": "（Gae Dearg&Gae Buidhe） 破魔的红蔷薇、必灭的黄蔷薇"
+    },
+    "noblePhantasm": {
+        "hit": "2Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "750",
+                    "1000",
+                    "1250",
+                    "1500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Gae Dearg&Gae Buidhe） 破魔的红蔷薇、必灭的黄蔷薇"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "初期",
+            "name": "心眼（真）"
+        },
+        {
+            "avatar": "降攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方全体持有[女性]特性的敌人的攻击力大幅下降（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "爱之黑痣"
+        },
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率大幅提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "骑士的武略"
+        }
+    ],
+    "servantId": "No.71",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

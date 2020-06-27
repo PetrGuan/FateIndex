@@ -1,0 +1,186 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "敌方行动结束时,自身在该回合内受到的总伤害以一定倍率返还给敌方全体<Lv.>",
+                "values": [
+                    "200%",
+                    "250%",
+                    "275%",
+                    "287.5%",
+                    "300%"
+                ]
+            }
+        ],
+        "level": "C-",
+        "stableEffects": [
+            {
+                "value": "2倍",
+                "effect": "（效果与描述有出入，实际反伤倍数如下）"
+            }
+        ],
+        "chargeEffects": [
+            {
+                "effect": "HP回复<OC>",
+                "values": [
+                    "1000",
+                    "2000",
+                    "3000",
+                    "4000",
+                    "5000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Verg Avesta） 伪写记载之万象"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "绿放",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身Quick卡性能每回合提升状态（5回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "50%最大HP",
+                    "effect": "赋予自身毅力状态（1次·6回合·可与其他毅力状态叠加）"
+                },
+                {
+                    "value": "∅",
+                    "effect": "5回合后赋予自身即死效果"
+                }
+            ],
+            "level": "EX",
+            "requirement": "通关幕间物语「无限的残骸」",
+            "name": "四夜的终末"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "暴击威力下降",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的暴击发生率下降（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "初期",
+            "name": "右齿啮咬"
+        },
+        {
+            "avatar": "灭气",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "攻击力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "敌方单体的蓄气值减少1格"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "左齿啮咬"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身Quick卡性能每回合提升的状态（5回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "5回合后赋予自身即死效果"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "死灭愿望"
+        }
+    ],
+    "servantId": "No.107",
+    "classSkills": [
+        {
+            "effect": "自身受到伤害时获得NP量提升（20%）&自身以外的己方全体（含候补）弱体耐性下降【副作用】（10%）",
+            "level": "A",
+            "name": "复仇者",
+            "avatar": "复仇者"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "忘却补正",
+            "avatar": "忘却补正"
+        },
+        {
+            "effect": "赋予自身每回合获得NP状态（2%）",
+            "level": "E",
+            "name": "自我回复（魔力）",
+            "avatar": "自己回复(魔力)"
+        }
+    ]
+}

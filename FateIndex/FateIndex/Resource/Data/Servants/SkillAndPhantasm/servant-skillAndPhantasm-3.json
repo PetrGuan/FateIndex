@@ -1,0 +1,155 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行非常强力的攻击<Lv.>",
+                "values": [
+                    "450%",
+                    "550%",
+                    "600%",
+                    "625%",
+                    "650%"
+                ]
+            }
+        ],
+        "level": "A++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的NP少量增加<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对城宝具",
+        "name": "（Excalibur·Morgan） 誓约胜利之剑"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "充能",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "20"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "自身的NP增加"
+                }
+            ],
+            "level": "A",
+            "requirement": "通关强化副本「阿尔托莉雅Alter」",
+            "name": "宵暗之星"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "魔力放出"
+        },
+        {
+            "avatar": "出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "14"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "直感"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "6%",
+                        "6.6%",
+                        "7.2%",
+                        "7.8%",
+                        "8.4%",
+                        "9%",
+                        "9.6%",
+                        "10.2%",
+                        "10.8%",
+                        "12%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E",
+            "requirement": "灵基三阶",
+            "name": "领导力"
+        }
+    ],
+    "servantId": "No.3",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

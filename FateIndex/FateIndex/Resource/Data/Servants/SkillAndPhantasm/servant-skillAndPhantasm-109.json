@@ -1,0 +1,183 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "15Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「将如花般微笑的你——」",
+        "type": "对人宝具",
+        "name": "（Khronos Rose） 有花堪折直须折"
+    },
+    "noblePhantasm": {
+        "hit": "15Hits",
+        "card": "Arts",
+        "levelEffects": [],
+        "level": "B",
+        "stableEffects": [
+            {
+                "value": "900%",
+                "effect": "对敌方单体进行超强力的攻击"
+            }
+        ],
+        "chargeEffects": [
+            {
+                "effect": "暴击发生率下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Khronos Rose） 有花堪折直须折"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能大幅提升（1回合）",
+                    "values": [
+                        "24%",
+                        "25.6%",
+                        "27.2%",
+                        "28.8%",
+                        "30.4%",
+                        "32%",
+                        "33.6%",
+                        "35.2%",
+                        "36.8%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "魔术"
+        },
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（3回合）"
+                },
+                {
+                    "value": "20%",
+                    "effect": "自身以外的己方全体的弱体耐性下降（3回合）【副作用】"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "圣杯的宠爱"
+        },
+        {
+            "avatar": "目标集中",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予己方单体目标集中状态（1回合）",
+                    "values": [
+                        "100%",
+                        "120%",
+                        "140%",
+                        "160%",
+                        "180%",
+                        "200%",
+                        "220%",
+                        "240%",
+                        "260%",
+                        "300%"
+                    ]
+                },
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基三阶",
+            "name": "替罪羊"
+        }
+    ],
+    "servantId": "No.109",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10.5%）",
+            "level": "A+",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

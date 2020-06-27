@@ -1,0 +1,171 @@
+{
+    "noblePhantasm": {
+        "hit": "9Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "C++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Caribbean Freebird Act 2） 比翼连理"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "19%"
+                    ]
+                },
+                {
+                    "effect": "己方全体的[男性]的星星发生率提升（3回合）",
+                    "values": [
+                        "21%",
+                        "23%",
+                        "25%",
+                        "27%",
+                        "29%",
+                        "31%",
+                        "33%",
+                        "35%",
+                        "37%",
+                        "41%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "海滨之花"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                },
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "寻宝（海）"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "8%",
+                        "10%",
+                        "11%",
+                        "13%",
+                        "15%",
+                        "17%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "25%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1",
+                    "effect": "赋予毅力状态（1次·无限时）"
+                },
+                {
+                    "value": "50%",
+                    "effect": "弱体耐性下降（3回合）【副作用】"
+                }
+            ],
+            "level": "C+",
+            "requirement": "灵基三阶",
+            "name": "海贼的荣誉"
+        }
+    ],
+    "servantId": "No.131",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "—",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的星星发生率大幅提升（3回合）<OC>",
+                "values": [
+                    "100%",
+                    "125%",
+                    "150%",
+                    "175%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人魔剑",
+        "name": "始末剑"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[人型]特攻状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "人斩"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "16%",
+                        "17.6%",
+                        "19.2%",
+                        "20.8%",
+                        "22.4%",
+                        "24%",
+                        "25.6%",
+                        "27.2%",
+                        "28.8%",
+                        "32%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "心眼（伪）"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "5回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "剑疾如鹰隼"
+        }
+    ],
+    "servantId": "No.210",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（8%）",
+            "level": "B",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

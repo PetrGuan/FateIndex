@@ -1,0 +1,141 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "敌方全体的防御力下降（3回合）<Lv.>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "45%",
+                    "47.5%",
+                    "50%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "暴击威力提升（3回合）<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具\/对界宝具",
+        "name": "这是基本的推测，我的朋友（Elementary My Dear）"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "封印",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "20"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予敌方宝具封印状态（1回合）"
+                }
+            ],
+            "level": "A++",
+            "requirement": "初期",
+            "name": "天赋的见识"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "330%",
+                        "360%",
+                        "390%",
+                        "420%",
+                        "450%",
+                        "480%",
+                        "510%",
+                        "540%",
+                        "600%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身弱体无效状态（3回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "假说推论"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予回避状态（1回合）"
+                }
+            ],
+            "level": "B++",
+            "requirement": "灵基三阶",
+            "name": "巴顿术"
+        }
+    ],
+    "servantId": "No.173",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（12%）",
+            "level": "EX",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

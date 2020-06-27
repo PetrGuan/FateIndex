@@ -28,17 +28,6 @@ struct MysticCodeDetailView: View {
                     .font(.callout)
                 
                 RoundedListDetailView(mysticCode: mysticCode, selectedSkill: mysticCode.skills[0])
-                //                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[0])) {
-                //                    CommonCellView(avatar: mysticCode.skills[0].avatar, text: mysticCode.skills[0].skillName)
-                //                }
-                //
-                //                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[1])) {
-                //                    CommonCellView(avatar: mysticCode.skills[1].avatar, text: mysticCode.skills[1].skillName)
-                //                }
-                //
-                //                NavigationLink(destination: SkillDetailView(mysticCodeSkill: mysticCode.skills[2])) {
-                //                    CommonCellView(avatar: mysticCode.skills[2].avatar, text: mysticCode.skills[2].skillName)
-                //                }
                 
                 ForEach(self.mysticCode.access, id: \.self) { access in
                     Text(access)

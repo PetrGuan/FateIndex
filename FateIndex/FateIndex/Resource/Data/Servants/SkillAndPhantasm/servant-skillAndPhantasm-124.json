@@ -1,0 +1,218 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "C+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「静谧的哈桑」",
+        "type": "对人宝具",
+        "name": "（Zabaniya） 妄想毒身"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Zabaniya） 妄想毒身"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "下毒",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "500",
+                    "effect": "赋予敌方单体[毒]状态（5回合）"
+                },
+                {
+                    "value": "100%",
+                    "effect": "赋予[蚀毒]状态（[毒]的效果量提升）（5回合）"
+                }
+            ],
+            "level": "C++",
+            "requirement": "通关幕间物语「因此我要，保持自己的样子在这里死去」",
+            "name": "毒之刃"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "暴击发生率下降",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击发生率下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "敌方单体的蓄气值减少1格"
+                }
+            ],
+            "level": "C",
+            "requirement": "初期",
+            "name": "变化（潜入特化）"
+        },
+        {
+            "avatar": "出星",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "12"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "投掷（短刀）"
+        },
+        {
+            "avatar": "即死成功率提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的即死赋予成功率提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "弱体成功率提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "静寂的舞踏"
+        }
+    ],
+    "servantId": "No.124",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10.5%）",
+            "level": "A+",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

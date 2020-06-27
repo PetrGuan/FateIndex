@@ -1,0 +1,174 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1500%",
+                    "1650%",
+                    "1725%",
+                    "1800%"
+                ]
+            }
+        ],
+        "level": "-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「神枪 李书文」",
+        "type": "对人宝具",
+        "name": "神枪无二打"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "一定概率赋予即死效果<OC>",
+                "values": [
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "神枪无二打"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "必中",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击威力提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身必中状态（1回合）"
+                }
+            ],
+            "level": "A+++",
+            "requirement": "初期",
+            "name": "中国武术（六合大枪）"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "圈境"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "Arts卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "绝招"
+        }
+    ],
+    "servantId": "No.102",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

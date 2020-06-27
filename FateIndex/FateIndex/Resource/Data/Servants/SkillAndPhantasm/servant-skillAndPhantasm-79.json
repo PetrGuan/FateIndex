@@ -1,0 +1,198 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行稍强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「恶魔的任务」",
+        "type": "对军宝具",
+        "name": "（Sword of Paracelsus） 元素使的魔剑"
+    },
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Arts",
+        "levelEffects": [],
+        "level": "A+",
+        "stableEffects": [
+            {
+                "value": "300%",
+                "effect": "对敌方全体进行稍强力的攻击"
+            }
+        ],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Sword of Paracelsus） 元素使的魔剑"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "毅力",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予己方单体毅力状态（1次·3回合）",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                },
+                {
+                    "effect": "NP获得量提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "通关强化副本「冯·霍恩海姆·帕拉塞尔苏斯」",
+            "name": "贤者之石"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "充能",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP大幅增加",
+                    "values": [
+                        "55%",
+                        "57.5%",
+                        "60%",
+                        "62.5%",
+                        "65%",
+                        "67.5%",
+                        "70%",
+                        "72.5%",
+                        "75%",
+                        "80%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "高速咏唱"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Arts卡性能提升（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "灵基一阶",
+            "name": "元素说"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "10回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予己方单体毅力状态（1次·3回合）",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "贤者之石"
+        }
+    ],
+    "servantId": "No.79",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体成功率提升（12%）",
+            "level": "EX",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        }
+    ]
+}

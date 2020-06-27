@@ -1,0 +1,131 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "获得星星<Lv.>",
+                "values": [
+                    "5",
+                    "15",
+                    "20",
+                    "23",
+                    "25"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的防御力大幅提升（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Thermopylōn Enōmotiai） 炎门的守护者"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "目标集中",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "NP获得量提升",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身目标集中状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "殿军的矜持"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身毅力状态（1次·5回合）",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "战斗续行"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的Buster卡性能提升（3回合）",
+                    "values": [
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "25%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "通关强化副本「列奥尼达斯一世」",
+            "name": "战士的雄叫"
+        }
+    ],
+    "servantId": "No.21",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行自身HP越少威力越高的超强力攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "附加倍率<OC>【实际倍率=宝具倍率+附加倍率×已损失HP所占百分比】",
+                "values": [
+                    "600%",
+                    "700%",
+                    "800%",
+                    "900%",
+                    "1000%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Sudarshan Chakra Yama-rāja ） 转轮啊，掀起愤怒之炎"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "无敌",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "初期",
+            "name": "魔尼的宝珠"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "追加效果：敌方单体的防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予Buster卡攻击时追加效果的状态（3次·5回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "士道的蹂躏"
+        },
+        {
+            "avatar": "绿放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                },
+                {
+                    "effect": "追加效果：自身的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予Quick卡攻击时追加效果的状态（3次·5回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基三阶",
+            "name": "至尊的战士"
+        }
+    ],
+    "servantId": "No.248",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（12%）",
+            "level": "EX",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "自身的Buster卡性能少量提升(5%）&暴击威力提升(10%）&赋予精神异常无效状态",
+            "level": "EX",
+            "name": "愤怒的化身",
+            "avatar": "红放"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（210）",
+            "level": "A+",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "noblePhantasm": {
+        "hit": "3Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的宝具威力提升（1回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "？？？",
+        "name": "（Excalibur） 誓约胜利之剑"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "10",
+                        "12",
+                        "14",
+                        "16",
+                        "18",
+                        "20",
+                        "22",
+                        "24",
+                        "26",
+                        "30"
+                    ]
+                },
+                {
+                    "effect": "自身的暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "通关幕间物语「亚瑟·潘德拉贡〔Prototype〕」",
+            "name": "眩目的旅途"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "魔力放出"
+        },
+        {
+            "avatar": "出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "获得大量星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "直感"
+        },
+        {
+            "avatar": "特攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身对[超巨大]特攻状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "NP增加"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "巨兽狩猎"
+        }
+    ],
+    "servantId": "No.160",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（8%）",
+            "level": "B",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

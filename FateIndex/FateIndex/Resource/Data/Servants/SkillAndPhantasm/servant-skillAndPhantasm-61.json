@@ -1,0 +1,157 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "E-",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予[诅咒]状态（3回合）<OC>",
+                "values": [
+                    "500",
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Báthory Halloween Erzsébet） 鲜血特上魔娘"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合出星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得星星的状态（3回合）",
+                    "values": [
+                        "6",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10",
+                        "11",
+                        "11",
+                        "12"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "无辜的怪物"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "25%",
+                        "27%",
+                        "29%",
+                        "31%",
+                        "33%",
+                        "35%",
+                        "37%",
+                        "39%",
+                        "41%",
+                        "45%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "300",
+                    "effect": "赋予敌方全体[灼伤]状态（10回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "魔力放出（南瓜）"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身毅力状态（1次·5回合）",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "8",
+                    "effect": "获得星星"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "演出续行"
+        }
+    ],
+    "servantId": "No.61",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（8%）",
+            "level": "B",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体成功率提升（10%）",
+            "level": "A",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        }
+    ]
+}

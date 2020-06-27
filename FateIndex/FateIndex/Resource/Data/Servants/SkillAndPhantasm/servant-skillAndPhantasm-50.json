@@ -1,0 +1,203 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的HP大量回复<OC>",
+                "values": [
+                    "4000",
+                    "5000",
+                    "6000",
+                    "7000",
+                    "8000"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「斯巴达克斯3」",
+        "type": "对人宝具",
+        "name": "（Crying Warmonger） 疵兽的咆吼"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的HP大量回复<OC>",
+                "values": [
+                    "3000",
+                    "4000",
+                    "5000",
+                    "6000",
+                    "7000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Crying Warmonger） 疵兽的咆吼"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "每回合回复",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合回复HP的状态（5回合）",
+                    "values": [
+                        "500",
+                        "600",
+                        "700",
+                        "800",
+                        "900",
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B+",
+            "requirement": "通关强化副本「斯巴达克斯」",
+            "name": "被虐的荣誉"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "每回合回复",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合回复HP的状态（5回合）",
+                    "values": [
+                        "200",
+                        "240",
+                        "280",
+                        "320",
+                        "360",
+                        "400",
+                        "440",
+                        "480",
+                        "520",
+                        "600"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "被虐的荣誉"
+        },
+        {
+            "avatar": "毅力",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "1",
+                    "effect": "赋予自身毅力状态（1次·5回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "不屈的意志"
+        },
+        {
+            "avatar": "红放",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Buster卡性能提升（1回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "通关强化副本「斯巴达克斯2」",
+            "name": "剑之凯旋"
+        }
+    ],
+    "servantId": "No.50",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能提升（12%）",
+            "level": "EX",
+            "name": "狂化",
+            "avatar": "兽化"
+        }
+    ]
+}

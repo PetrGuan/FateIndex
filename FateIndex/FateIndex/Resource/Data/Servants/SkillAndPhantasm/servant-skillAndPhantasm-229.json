@@ -1,0 +1,156 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "暴击威力提升（3回合）<Lv.>",
+                "values": [
+                    "50%",
+                    "75%",
+                    "87.5%",
+                    "93.8%",
+                    "100%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力提升（3回合）<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对界宝具",
+        "name": "（The Domination Beginning） 始皇帝"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "灭气",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "敌方全体的蓄气值减少1格"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "焚书"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的攻击力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "70%",
+                    "effect": "一定概率赋予敌方全体眩晕状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "坑儒"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "永世帝位"
+        }
+    ],
+    "servantId": "No.229",
+    "classSkills": [
+        {
+            "effect": "自身弱体耐性提升(18%）",
+            "level": "B+",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

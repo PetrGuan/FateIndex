@@ -1,0 +1,220 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "8Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            },
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "750",
+                    "1000",
+                    "1250",
+                    "1500"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「岩窟王 爱德蒙·唐泰斯」",
+        "type": "对军宝具",
+        "name": "（Enfer Château d'If） 虎呀，燃烧着煌煌火光"
+    },
+    "noblePhantasm": {
+        "hit": "8Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            },
+            {
+                "effect": "赋予[诅咒]状态（5回合）<OC>",
+                "values": [
+                    "500",
+                    "750",
+                    "1000",
+                    "1250",
+                    "1500"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Enfer Château d'If） 虎呀，燃烧着煌煌火光"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "无敌贯通",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "攻击力提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "弱体耐性提升（3回合）",
+                    "values": [
+                        "14%",
+                        "15.8%",
+                        "17.6%",
+                        "19.4%",
+                        "21.2%",
+                        "23%",
+                        "24.8%",
+                        "26.6%",
+                        "28.4%",
+                        "32%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身无敌贯通状态（1回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "钢铁的决意"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "黄金律"
+        },
+        {
+            "avatar": "灭气",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14",
+                        "15",
+                        "16",
+                        "17",
+                        "18",
+                        "20"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "敌方单体的蓄气值减少1格"
+                },
+                {
+                    "value": "∅",
+                    "effect": "解除自身的弱体状态"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "困境的智慧"
+        }
+    ],
+    "servantId": "No.96",
+    "classSkills": [
+        {
+            "effect": "自身受到伤害时获得NP量提升（20%）&自身以外的己方全体（含候补）弱体耐性下降【副作用】（10%）",
+            "level": "A",
+            "name": "复仇者",
+            "avatar": "复仇者"
+        },
+        {
+            "effect": "自身的暴击威力提升（8%）",
+            "level": "B",
+            "name": "忘却补正",
+            "avatar": "忘却补正"
+        },
+        {
+            "effect": "赋予自身每回合获得NP状态（3%）",
+            "level": "D",
+            "name": "自我回复（魔力）",
+            "avatar": "自己回复(魔力)"
+        }
+    ]
+}

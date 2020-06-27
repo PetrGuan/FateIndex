@@ -1,0 +1,167 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "900%",
+                    "1200%",
+                    "1350%",
+                    "1425%",
+                    "1500%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "弱体耐性下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "20%",
+                    "30%",
+                    "40%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Cursed Cupid Cleanser） C.C.C."
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "弱化解除",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "1000",
+                        "1200",
+                        "1400",
+                        "1600",
+                        "1800",
+                        "2000",
+                        "2200",
+                        "2400",
+                        "2600",
+                        "3000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除己方单体的弱体状态"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予弱体无效状态（1次·3回合）"
+                }
+            ],
+            "level": "D",
+            "requirement": "初期",
+            "name": "十之王冠"
+        },
+        {
+            "avatar": "眩晕",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "一定概率赋予[眩晕]状态（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除敌方单体无敌状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "黄金之杯"
+        },
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "星星集中度提升（3回合）",
+                    "values": [
+                        "400%",
+                        "440%",
+                        "480%",
+                        "520%",
+                        "560%",
+                        "600%",
+                        "640%",
+                        "680%",
+                        "720%",
+                        "800%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "自我改造"
+        }
+    ],
+    "servantId": "No.166",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的弱体赋予成功率提升（10%）",
+            "level": "A",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        },
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        }
+    ]
+}

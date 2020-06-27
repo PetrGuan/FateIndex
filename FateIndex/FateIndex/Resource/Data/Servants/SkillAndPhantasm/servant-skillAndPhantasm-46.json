@@ -1,0 +1,189 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "800%",
+                    "1000%",
+                    "1100%",
+                    "1150%",
+                    "1200%"
+                ]
+            }
+        ],
+        "level": "C+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[女性]特攻<OC>",
+                "values": [
+                    "150%",
+                    "162.5%",
+                    "175%",
+                    "187.5%",
+                    "200%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「卡米拉2」",
+        "type": "对人宝具",
+        "name": "（Phantom Maiden） 幻想的铁处女"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "对[女性]特攻<OC>",
+                "values": [
+                    "120%",
+                    "132.5%",
+                    "145%",
+                    "157.5%",
+                    "170%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Phantom Maiden） 幻想的铁处女"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "灭气",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值中概率减少1格",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "18%",
+                        "18.9%",
+                        "19.8%",
+                        "20.7%",
+                        "21.6%",
+                        "22.5%",
+                        "23.4%",
+                        "24.3%",
+                        "25.2%",
+                        "27%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "初期",
+            "name": "吸血"
+        },
+        {
+            "avatar": "降防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "拷问技术"
+        },
+        {
+            "avatar": "暴击发生率下降",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的暴击发生率下降（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                },
+                {
+                    "effect": "赋予自身每回合获得星星的状态（3回合）",
+                    "values": [
+                        "5",
+                        "6",
+                        "6",
+                        "7",
+                        "7",
+                        "8",
+                        "8",
+                        "9",
+                        "9",
+                        "10"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「卡米拉」",
+            "name": "沐浴鲜血"
+        }
+    ],
+    "servantId": "No.46",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率少量提升（4%）",
+            "level": "D",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

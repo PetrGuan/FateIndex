@@ -1,0 +1,211 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "10Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "B++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "宝具威力下降（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            },
+            {
+                "effect": "暴击威力下降（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            },
+            {
+                "effect": "弱体耐性下降（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「荒野之花的爱之表现」",
+        "type": "对人宝具",
+        "name": "（Gate Of Babylon） 王之财宝"
+    },
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "宝具威力下降（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            },
+            {
+                "effect": "暴击威力下降（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "60%",
+                    "70%",
+                    "80%",
+                    "90%"
+                ]
+            },
+            {
+                "effect": "弱体耐性下降（1回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Gate Of Babylon） 王之财宝"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "10.5%",
+                        "11.6%",
+                        "12.6%",
+                        "13.7%",
+                        "14.7%",
+                        "15.8%",
+                        "16.8%",
+                        "17.9%",
+                        "18.9%",
+                        "21%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "领导力"
+        },
+        {
+            "avatar": "魅惑",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予敌方单体[人型]魅惑状态（1回合）",
+                    "values": [
+                        "45%",
+                        "48%",
+                        "51%",
+                        "54%",
+                        "57%",
+                        "60%",
+                        "63%",
+                        "66%",
+                        "69%",
+                        "75%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "红颜的美少年"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "黄金律"
+        }
+    ],
+    "servantId": "No.95",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（10%）",
+            "level": "E",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（10%）",
+            "level": "A",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（175）",
+            "level": "B",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

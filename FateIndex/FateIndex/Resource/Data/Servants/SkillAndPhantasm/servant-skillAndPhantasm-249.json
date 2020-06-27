@@ -1,0 +1,173 @@
+{
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "赋予自身除外己方全体毅力状态（1次·3回合）<Lv.>",
+                "values": [
+                    "1000",
+                    "2000",
+                    "2500",
+                    "2750",
+                    "3000"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予己方全体每回合回复HP的状态（3回合）<OC>",
+                "values": [
+                    "1000",
+                    "1500",
+                    "2000",
+                    "2500",
+                    "3000"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Resurrection Float Hades） 仿药·无必要的冥府悲叹"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回血",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的HP大量回复",
+                    "values": [
+                        "3000",
+                        "3200",
+                        "3400",
+                        "3600",
+                        "3800",
+                        "4000",
+                        "4200",
+                        "4400",
+                        "4600",
+                        "5000"
+                    ]
+                },
+                {
+                    "effect": "弱体耐性提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "EX",
+            "requirement": "初期",
+            "name": "医神"
+        },
+        {
+            "avatar": "封印",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "高概率赋予敌方单体宝具封印状态（1回合）",
+                    "values": [
+                        "80%",
+                        "82%",
+                        "84%",
+                        "86%",
+                        "88%",
+                        "90%",
+                        "92%",
+                        "94%",
+                        "96%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "己方全体的NP获得量提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "阿波罗之子"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的NP增加",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "蛇夫"
+        }
+    ],
+    "servantId": "No.249",
+    "classSkills": [
+        {
+            "effect": "自身的Arts卡性能提升（10%）",
+            "level": "A",
+            "name": "阵地作成",
+            "avatar": "阵地作成"
+        },
+        {
+            "effect": "自身的弱体赋予成功率提升（12%）",
+            "level": "EX",
+            "name": "道具作成",
+            "avatar": "道具作成"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（200）",
+            "level": "A",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

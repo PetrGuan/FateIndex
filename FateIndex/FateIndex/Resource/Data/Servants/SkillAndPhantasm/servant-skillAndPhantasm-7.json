@@ -1,0 +1,220 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "10Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "B++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "5",
+                    "10",
+                    "15",
+                    "20",
+                    "25"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「凯撒」",
+        "type": "对人宝具",
+        "name": "（Crocea Mors） 黄之死"
+    },
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "B+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "获得星星<OC>",
+                "values": [
+                    "5",
+                    "10",
+                    "15",
+                    "20",
+                    "25"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Crocea Mors） 黄之死"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的暴击威力大幅提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "防御力下降（3回合）【副作用】"
+                }
+            ],
+            "level": "EX",
+            "requirement": "通关强化副本「凯撒」",
+            "name": "煽动"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "宝具威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的宝具威力提升（1回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "军略"
+        },
+        {
+            "avatar": "加攻",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的攻击力提升（3回合）",
+                    "values": [
+                        "8%",
+                        "8.8%",
+                        "9.6%",
+                        "10.4%",
+                        "11.2%",
+                        "12%",
+                        "12.8%",
+                        "13.6%",
+                        "14.4%",
+                        "16%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "领导力"
+        },
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体的暴击威力大幅提升（3回合）",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "20%",
+                    "effect": "防御力下降（3回合）【副作用】"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基三阶",
+            "name": "煽动"
+        }
+    ],
+    "servantId": "No.7",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（15%）",
+            "level": "C",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（8%）",
+            "level": "B",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（150）",
+            "level": "D",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}

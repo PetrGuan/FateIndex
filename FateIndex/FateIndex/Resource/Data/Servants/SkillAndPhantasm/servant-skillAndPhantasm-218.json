@@ -1,0 +1,152 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "B",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "Quick卡耐性下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "天狗的羽毛扇·暴风"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "28%",
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "D",
+            "requirement": "初期",
+            "name": "动物会话"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "Quick卡性能提升（3回合）",
+                    "values": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "EX",
+            "requirement": "灵基一阶",
+            "name": "天狗的玩法（夏）"
+        },
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（1回合）",
+                    "values": [
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "380%",
+                        "400%",
+                        "420%",
+                        "440%",
+                        "460%",
+                        "500%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予弱体无效状态（1回合）"
+                },
+                {
+                    "value": "40%",
+                    "effect": "赋予通常攻击时低概率解除敌方强化状态的状态（1回合）"
+                }
+            ],
+            "level": "A+",
+            "requirement": "灵基三阶",
+            "name": "鞍马天才"
+        }
+    ],
+    "servantId": "No.218",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率少量提升（5.5%）",
+            "level": "C-",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        },
+        {
+            "effect": "自身的暴击威力提升（11%）",
+            "level": "A+",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11%）",
+            "level": "A+",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

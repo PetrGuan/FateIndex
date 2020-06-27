@@ -1,0 +1,170 @@
+{
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "C",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "高概率赋予即死效果<OC>",
+                "values": [
+                    "80%",
+                    "90%",
+                    "100%",
+                    "110%",
+                    "120%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Zabaniya） 妄想心音"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "出星",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                },
+                {
+                    "effect": "赋予自身回合结束时获得星星的状态（1回合）",
+                    "values": [
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "15"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「咒腕的哈桑」",
+            "name": "投掷／回收"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "出星",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "获得星星",
+                    "values": [
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B",
+            "requirement": "初期",
+            "name": "投掷（短刀）"
+        },
+        {
+            "avatar": "暴击威力提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的暴击威力提升（3回合）",
+                    "values": [
+                        "20%",
+                        "23%",
+                        "26%",
+                        "29%",
+                        "32%",
+                        "35%",
+                        "38%",
+                        "41%",
+                        "44%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "自我改造"
+        },
+        {
+            "avatar": "回避",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（3次）"
+                }
+            ],
+            "level": "A",
+            "requirement": "灵基三阶",
+            "name": "除风的加护"
+        }
+    ],
+    "servantId": "No.40",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10.5%）",
+            "level": "A+",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

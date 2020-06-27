@@ -1,0 +1,147 @@
+{
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "600%",
+                    "800%",
+                    "900%",
+                    "950%",
+                    "1000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的攻击力提升（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Knight of Honor） 骑士不死于徒手"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "集星",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星集中度提升（3回合）",
+                    "values": [
+                        "3000%",
+                        "3300%",
+                        "3600%",
+                        "3900%",
+                        "4200%",
+                        "4500%",
+                        "4800%",
+                        "5100%",
+                        "5400%",
+                        "6000%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A+",
+            "requirement": "初期",
+            "name": "无穷的武练"
+        },
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率提升（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "精灵的加护"
+        },
+        {
+            "avatar": "NP获得量提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP获得量提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「兰斯洛特」",
+            "name": "魔力逆流"
+        }
+    ],
+    "servantId": "No.48",
+    "classSkills": [
+        {
+            "effect": "自身的Buster卡性能少量提升（6%）",
+            "level": "C",
+            "name": "狂化",
+            "avatar": "兽化"
+        },
+        {
+            "effect": "自身的弱体耐性少量提升（10%）",
+            "level": "E",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        }
+    ]
+}

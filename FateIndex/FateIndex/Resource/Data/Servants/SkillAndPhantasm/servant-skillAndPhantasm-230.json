@@ -1,0 +1,161 @@
+{
+    "noblePhantasm": {
+        "hit": "5Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "C+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "自身的Buster卡性能提升（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对界宝具",
+        "name": "（Eternal Lament） 咒血尸解叹歌"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回合充能",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合获得NP的状态（5回合）",
+                    "values": [
+                        "5%",
+                        "5%",
+                        "6%",
+                        "6%",
+                        "7%",
+                        "7%",
+                        "8%",
+                        "8%",
+                        "9%",
+                        "10%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予弱体无效状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "受肉精灵"
+        },
+        {
+            "avatar": "每回合回复",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身每回合回复HP的状态（5回合）",
+                    "values": [
+                        "500",
+                        "550",
+                        "600",
+                        "650",
+                        "700",
+                        "750",
+                        "800",
+                        "850",
+                        "900",
+                        "1000"
+                    ]
+                },
+                {
+                    "effect": "强化解除耐性提升（1回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "灵基一阶",
+            "name": "仙界羽人"
+        },
+        {
+            "avatar": "灭气",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "敌方单体的蓄气值中概率减少1格",
+                    "values": [
+                        "60%",
+                        "62%",
+                        "64%",
+                        "66%",
+                        "68%",
+                        "70%",
+                        "72%",
+                        "74%",
+                        "76%",
+                        "80%"
+                    ]
+                },
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "18%",
+                        "18%",
+                        "19%",
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "27%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基三阶",
+            "name": "吸血"
+        }
+    ],
+    "servantId": "No.230",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（8%）",
+            "level": "B",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

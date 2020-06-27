@@ -1,0 +1,169 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "4Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1400%",
+                    "1800%",
+                    "2000%",
+                    "2100%",
+                    "2200%"
+                ]
+            }
+        ],
+        "level": "D+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予自身对[女性]特攻状态（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「死于杰克之手的杰克」",
+        "type": "对人宝具",
+        "name": "（Maria the Ripper） 解体圣母"
+    },
+    "noblePhantasm": {
+        "hit": "4Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "赋予自身对[女性]特攻状态（1回合）<OC>",
+                "values": [
+                    "50%",
+                    "62.5%",
+                    "75%",
+                    "87.5%",
+                    "100%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对人宝具",
+        "name": "（Maria the Ripper） 解体圣母"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Quick卡性能提升（1回合）",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予回避状态（1回合）"
+                }
+            ],
+            "level": "A",
+            "requirement": "初期",
+            "name": "雾夜杀人"
+        },
+        {
+            "avatar": "封印",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击发生率下降（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除敌方单体的强化状态"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "情报抹消"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "6回合",
+            "levelEffects": [
+                {
+                    "effect": "己方单体HP回复",
+                    "values": [
+                        "500",
+                        "700",
+                        "900",
+                        "1100",
+                        "1300",
+                        "1500",
+                        "1700",
+                        "1900",
+                        "2100",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "E",
+            "requirement": "灵基三阶",
+            "name": "外科手术"
+        }
+    ],
+    "servantId": "No.75",
+    "classSkills": [
+        {
+            "effect": "自身的星星发生率提升（10.5%）",
+            "level": "A+",
+            "name": "气息遮断",
+            "avatar": "气息遮断"
+        }
+    ]
+}

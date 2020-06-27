@@ -1,0 +1,214 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "赋予受到伤害减免状态<Lv.>（3回合）",
+                "values": [
+                    "100",
+                    "550",
+                    "775",
+                    "888",
+                    "1000"
+                ]
+            }
+        ],
+        "level": "B+++",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "己方全体的防御力提升<OC>（3回合）",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关主线第1部第六章「复制品（4\/5）」",
+        "type": "对恶宝具",
+        "name": "（Lord Camelot） 如今仍是遥远的理想之城"
+    },
+    "noblePhantasm": {
+        "hit": "0Hits",
+        "card": "Arts",
+        "levelEffects": [
+            {
+                "effect": "赋予受到伤害减免状态<Lv.>（3回合）",
+                "values": [
+                    "100",
+                    "550",
+                    "775",
+                    "888",
+                    "1000"
+                ]
+            }
+        ],
+        "level": "D",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "己方全体的防御力提升<OC>（3回合）",
+                "values": [
+                    "30%",
+                    "35%",
+                    "40%",
+                    "45%",
+                    "50%"
+                ]
+            }
+        ],
+        "requirement": "通关主线第1部序章「玛修的特训」",
+        "type": "对人宝具",
+        "name": "（Lord Chaldeas） 假想宝具 拟似展开\/人理之础"
+    },
+    "updatedSkills": [
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的防御力提升（3回合）",
+                    "values": [
+                        "15%",
+                        "15.5%",
+                        "16%",
+                        "16.5%",
+                        "17%",
+                        "17.5%",
+                        "18%",
+                        "18.5%",
+                        "19%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "2000",
+                    "effect": "赋予受到伤害减免状态（1次）"
+                }
+            ],
+            "level": "？",
+            "requirement": "通关主线第1部第六章「神王奥兹曼迪亚斯(1\/3）」",
+            "name": "荣光不败的雪花之壁"
+        },
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "加防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的防御力提升（3回合）",
+                    "values": [
+                        "15%",
+                        "15.5%",
+                        "16%",
+                        "16.5%",
+                        "17%",
+                        "17.5%",
+                        "18%",
+                        "18.5%",
+                        "19%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "？",
+            "requirement": "初期",
+            "name": "现为脆弱的雪花之壁"
+        },
+        {
+            "avatar": "无敌",
+            "coldDown": "9回合",
+            "levelEffects": [
+                {
+                    "effect": "NP增加",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予己方单体无敌状态（1回合）"
+                }
+            ],
+            "level": "？",
+            "requirement": "初期",
+            "name": "时为朦胧的白亚之壁"
+        },
+        {
+            "avatar": "目标集中",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "赋予自身目标集中状态（1回合）",
+                    "values": [
+                        "100%",
+                        "120%",
+                        "140%",
+                        "160%",
+                        "180%",
+                        "200%",
+                        "220%",
+                        "240%",
+                        "260%",
+                        "300%"
+                    ]
+                },
+                {
+                    "effect": "NP获得量大幅提升（1回合）",
+                    "values": [
+                        "200%",
+                        "220%",
+                        "240%",
+                        "260%",
+                        "280%",
+                        "300%",
+                        "320%",
+                        "340%",
+                        "360%",
+                        "400%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "？",
+            "requirement": "通关主线第1部第四章「一册书，一支笔」",
+            "name": "意为奋进的决断之盾"
+        }
+    ],
+    "servantId": "No.1",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能少量提升（6%）",
+            "level": "C",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        }
+    ]
+}

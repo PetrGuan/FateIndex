@@ -1,0 +1,263 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "10Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "E~A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「无限剑制」",
+        "type": "???",
+        "name": "（Unlimited Blade Works） 无限剑制"
+    },
+    "noblePhantasm": {
+        "hit": "10Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行无视防御提升效果的强力攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "E~A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "攻击力下降（3回合）<OC>",
+                "values": [
+                    "10%",
+                    "15%",
+                    "20%",
+                    "25%",
+                    "30%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "???",
+        "name": "（Unlimited Blade Works） 无限剑制"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "暴击威力提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "B+",
+            "requirement": "通关强化副本「卫宫2」",
+            "name": "鹰之瞳"
+        },
+        {
+            "avatar": "三色魔放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（1回合）",
+                    "values": [
+                        "25%",
+                        "26%",
+                        "28%",
+                        "29%",
+                        "31%",
+                        "32%",
+                        "34%",
+                        "35%",
+                        "37%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "Quick卡性能提升（1回合）",
+                    "values": [
+                        "25%",
+                        "26%",
+                        "28%",
+                        "29%",
+                        "31%",
+                        "32%",
+                        "34%",
+                        "35%",
+                        "37%",
+                        "40%"
+                    ]
+                },
+                {
+                    "effect": "Buster卡性能提升（1回合）",
+                    "values": [
+                        "25%",
+                        "26%",
+                        "28%",
+                        "29%",
+                        "31%",
+                        "32%",
+                        "34%",
+                        "35%",
+                        "37%",
+                        "40%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "通关强化副本「卫宫1」",
+            "name": "投影魔术"
+        }
+    ],
+    "skills": [
+        {
+            "avatar": "回避",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力提升（3回合）",
+                    "values": [
+                        "9%",
+                        "9.9%",
+                        "10.8%",
+                        "11.7%",
+                        "12.6%",
+                        "13.5%",
+                        "14.4%",
+                        "15.3%",
+                        "16.2%",
+                        "18%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予自身回避状态（1回合）"
+                }
+            ],
+            "level": "B",
+            "requirement": "初期",
+            "name": "心眼（真）"
+        },
+        {
+            "avatar": "掉星率增加",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的星星发生率提升（3回合）",
+                    "values": [
+                        "16%",
+                        "17.6%",
+                        "19.2%",
+                        "20.8%",
+                        "22.4%",
+                        "24%",
+                        "25.6%",
+                        "27.2%",
+                        "28.8%",
+                        "32%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C",
+            "requirement": "灵基一阶",
+            "name": "千里眼"
+        },
+        {
+            "avatar": "蓝放",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的Arts卡性能提升（1回合）",
+                    "values": [
+                        "21%",
+                        "22.4%",
+                        "23.8%",
+                        "25.2%",
+                        "26.6%",
+                        "28%",
+                        "29.4%",
+                        "30.8%",
+                        "32.2%",
+                        "35%"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "C-",
+            "requirement": "灵基三阶",
+            "name": "魔术"
+        }
+    ],
+    "servantId": "No.11",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性少量提升（12.5%）",
+            "level": "D",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（8%）",
+            "level": "B",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

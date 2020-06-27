@@ -1,0 +1,184 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "7Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行无视防御提升效果的超强力攻击<Lv.>",
+                "values": [
+                    "1600%",
+                    "2000%",
+                    "2200%",
+                    "2300%",
+                    "2400%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "弱体耐性下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "通关幕间物语「从丧失中复燃之物」",
+        "type": "对军宝具",
+        "name": "（Failnaught） 痛哭的幻奏"
+    },
+    "noblePhantasm": {
+        "hit": "7Hits",
+        "card": "Quick",
+        "levelEffects": [
+            {
+                "effect": "对敌方单体进行超强力的攻击<Lv.>",
+                "values": [
+                    "1200%",
+                    "1600%",
+                    "1800%",
+                    "1900%",
+                    "2000%"
+                ]
+            }
+        ],
+        "level": "A",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "弱体耐性下降（3回合）<OC>",
+                "values": [
+                    "30%",
+                    "40%",
+                    "50%",
+                    "60%",
+                    "70%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Failnaught） 痛哭的幻奏"
+    },
+    "updatedSkills": [
+        null,
+        null,
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "弱化解除",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "HP回复",
+                    "values": [
+                        "200",
+                        "240",
+                        "280",
+                        "320",
+                        "360",
+                        "400",
+                        "440",
+                        "480",
+                        "520",
+                        "600"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "己方全体的精神异常状态解除"
+                },
+                {
+                    "value": "∅",
+                    "effect": "赋予回避（1次）"
+                }
+            ],
+            "level": "C",
+            "requirement": "初期",
+            "name": "治愈的竖琴"
+        },
+        {
+            "avatar": "充能",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的NP增加",
+                    "values": [
+                        "30%",
+                        "32%",
+                        "34%",
+                        "36%",
+                        "38%",
+                        "40%",
+                        "42%",
+                        "44%",
+                        "46%",
+                        "50%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "赋予宝具封印状态（1回合）【副作用】"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基一阶",
+            "name": "不受祝福的诞生"
+        },
+        {
+            "avatar": "封印",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "暴击发生率下降（3回合）",
+                    "values": [
+                        "10%",
+                        "11%",
+                        "12%",
+                        "13%",
+                        "14%",
+                        "15%",
+                        "16%",
+                        "17%",
+                        "18%",
+                        "20%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除敌方单体的强化状态"
+                }
+            ],
+            "level": "B",
+            "requirement": "灵基三阶",
+            "name": "对骑士王的谏言"
+        }
+    ],
+    "servantId": "No.122",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（17.5%）",
+            "level": "B",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的暴击威力提升（8%）",
+            "level": "B",
+            "name": "单独行动",
+            "avatar": "单独行动"
+        }
+    ]
+}

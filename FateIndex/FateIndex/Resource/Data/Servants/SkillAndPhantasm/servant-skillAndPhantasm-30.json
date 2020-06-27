@@ -1,0 +1,225 @@
+{
+    "updatedNoblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "400%",
+                    "500%",
+                    "550%",
+                    "575%",
+                    "600%"
+                ]
+            }
+        ],
+        "level": "EX",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力大幅下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "通关强化副本「玛尔达3」",
+        "type": "对军宝具",
+        "name": "（Tarasque） 不觉爱的悲哀之龙啊"
+    },
+    "noblePhantasm": {
+        "hit": "1Hits",
+        "card": "Buster",
+        "levelEffects": [
+            {
+                "effect": "对敌方全体进行强力的攻击<Lv.>",
+                "values": [
+                    "300%",
+                    "400%",
+                    "450%",
+                    "475%",
+                    "500%"
+                ]
+            }
+        ],
+        "level": "A+",
+        "stableEffects": [],
+        "chargeEffects": [
+            {
+                "effect": "防御力大幅下降（3回合）<OC>",
+                "values": [
+                    "20%",
+                    "25%",
+                    "30%",
+                    "35%",
+                    "40%"
+                ]
+            }
+        ],
+        "requirement": "初期",
+        "type": "对军宝具",
+        "name": "（Tarasque） 不觉爱的悲哀之龙啊"
+    },
+    "updatedSkills": [
+        null,
+        {
+            "avatar": "回血",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体HP大量回复",
+                    "values": [
+                        "1000",
+                        "1100",
+                        "1200",
+                        "1300",
+                        "1400",
+                        "1500",
+                        "1600",
+                        "1700",
+                        "1800",
+                        "2000"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "D+",
+            "requirement": "通关强化副本「玛尔达」",
+            "name": "奇迹"
+        },
+        null
+    ],
+    "skills": [
+        {
+            "avatar": "弱化耐性提升",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "自身的弱体耐性提升（3回合）",
+                    "values": [
+                        "50%",
+                        "55%",
+                        "60%",
+                        "65%",
+                        "70%",
+                        "75%",
+                        "80%",
+                        "85%",
+                        "90%",
+                        "100%"
+                    ]
+                },
+                {
+                    "effect": "HP大量回复",
+                    "values": [
+                        "1000",
+                        "1150",
+                        "1300",
+                        "1450",
+                        "1600",
+                        "1750",
+                        "1900",
+                        "2050",
+                        "2200",
+                        "2500"
+                    ]
+                }
+            ],
+            "stableEffects": [],
+            "level": "A",
+            "requirement": "初期",
+            "name": "信仰的加护"
+        },
+        {
+            "avatar": "回血",
+            "coldDown": "8回合",
+            "levelEffects": [
+                {
+                    "effect": "己方全体的HP大量回复",
+                    "values": [
+                        "300",
+                        "420",
+                        "540",
+                        "660",
+                        "780",
+                        "900",
+                        "1020",
+                        "1140",
+                        "1260",
+                        "1500"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除弱体状态"
+                }
+            ],
+            "level": "D",
+            "requirement": "灵基一阶",
+            "name": "奇迹"
+        },
+        {
+            "avatar": "降防",
+            "coldDown": "7回合",
+            "levelEffects": [
+                {
+                    "effect": "防御力下降（3回合）",
+                    "values": [
+                        "10%",
+                        "12%",
+                        "14%",
+                        "16%",
+                        "18%",
+                        "20%",
+                        "22%",
+                        "24%",
+                        "26%",
+                        "30%"
+                    ]
+                }
+            ],
+            "stableEffects": [
+                {
+                    "value": "∅",
+                    "effect": "解除敌方单体的强化状态"
+                }
+            ],
+            "level": "C",
+            "requirement": "通关强化副本「玛尔达2」",
+            "name": "圣女的誓约"
+        }
+    ],
+    "servantId": "No.30",
+    "classSkills": [
+        {
+            "effect": "自身的弱体耐性提升（20%）",
+            "level": "A",
+            "name": "对魔力",
+            "avatar": "对魔力"
+        },
+        {
+            "effect": "自身的Quick卡性能提升（11.5%）",
+            "level": "A++",
+            "name": "骑乘",
+            "avatar": "骑乘"
+        },
+        {
+            "effect": "赋予自身造成伤害增加状态（150）",
+            "level": "C",
+            "name": "神性",
+            "avatar": "神性"
+        }
+    ]
+}
