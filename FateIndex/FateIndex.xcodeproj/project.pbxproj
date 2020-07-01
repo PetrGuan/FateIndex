@@ -12,6 +12,7 @@
 		6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7396249CAF95000DE0DB /* PageView.swift */; };
 		6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D7398249CB1DE000DE0DB /* PageControl.swift */; };
 		6E0D739B249CB51C000DE0DB /* ServantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */; };
+		6E1509A124AB28800051A7B1 /* ClassSkillCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1509A024AB28800051A7B1 /* ClassSkillCardView.swift */; };
 		6E1AC1FC248C7F77004C006A /* MasterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FB248C7F77004C006A /* MasterView.swift */; };
 		6E1AC1FE248C83D6004C006A /* craftEssence_1214.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FD248C83D6004C006A /* craftEssence_1214.json */; };
 		6E1AC200248C8942004C006A /* CommandCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC1FF248C8942004C006A /* CommandCode.swift */; };
@@ -981,6 +982,8 @@
 		6E7EB5C924A7994800D6AE52 /* servant-skillAndPhantasm-120.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E7EB4B424A7994800D6AE52 /* servant-skillAndPhantasm-120.json */; };
 		6E7EB5CB24A79A1100D6AE52 /* ServantSkillStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EB5CA24A79A1100D6AE52 /* ServantSkillStore.swift */; };
 		6E7EB5CD24A79A7700D6AE52 /* ServantSkillModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7EB5CC24A79A7700D6AE52 /* ServantSkillModel.swift */; };
+		6E8FED9924AB750700AFB747 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E8FED9824AB750700AFB747 /* AppConstants.swift */; };
+		6E8FED9D24AB81AD00AFB747 /* ClassSkillCardDeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E8FED9C24AB81AD00AFB747 /* ClassSkillCardDeckView.swift */; };
 		6EBB84CA24A0CC4800D4CD1B /* ServantBasicInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84C924A0CC4800D4CD1B /* ServantBasicInfo.swift */; };
 		6EBB84CC24A0CCB200D4CD1B /* ServantStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */; };
 		6EBB84CE24A0CF6D00D4CD1B /* ServantStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */; };
@@ -989,7 +992,6 @@
 		6ED07241248A241500C2C7D9 /* TopNServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07240248A241500C2C7D9 /* TopNServant.swift */; };
 		6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */; };
 		6ED07247248A4E7B00C2C7D9 /* ServantClassListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */; };
-		6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */; };
 		6ED0724B248A50C300C2C7D9 /* ServantClassView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */; };
 		6ED0724D248A661400C2C7D9 /* GivenServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724C248A661400C2C7D9 /* GivenServantListView.swift */; };
 		6ED0724F248A672300C2C7D9 /* GivenServantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724E248A672300C2C7D9 /* GivenServantView.swift */; };
@@ -1017,6 +1019,7 @@
 		6E0D7396249CAF95000DE0DB /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		6E0D7398249CB1DE000DE0DB /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		6E0D739A249CB51C000DE0DB /* ServantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantDetailView.swift; sourceTree = "<group>"; };
+		6E1509A024AB28800051A7B1 /* ClassSkillCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassSkillCardView.swift; sourceTree = "<group>"; };
 		6E1AC1FB248C7F77004C006A /* MasterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterView.swift; sourceTree = "<group>"; };
 		6E1AC1FD248C83D6004C006A /* craftEssence_1214.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_1214.json; sourceTree = "<group>"; };
 		6E1AC1FF248C8942004C006A /* CommandCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommandCode.swift; sourceTree = "<group>"; };
@@ -1990,6 +1993,8 @@
 		6E7EB4B424A7994800D6AE52 /* servant-skillAndPhantasm-120.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "servant-skillAndPhantasm-120.json"; sourceTree = "<group>"; };
 		6E7EB5CA24A79A1100D6AE52 /* ServantSkillStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantSkillStore.swift; sourceTree = "<group>"; };
 		6E7EB5CC24A79A7700D6AE52 /* ServantSkillModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantSkillModel.swift; sourceTree = "<group>"; };
+		6E8FED9824AB750700AFB747 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		6E8FED9C24AB81AD00AFB747 /* ClassSkillCardDeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassSkillCardDeckView.swift; sourceTree = "<group>"; };
 		6EBB84C924A0CC4800D4CD1B /* ServantBasicInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBasicInfo.swift; sourceTree = "<group>"; };
 		6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStore.swift; sourceTree = "<group>"; };
 		6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStoreTests.swift; sourceTree = "<group>"; };
@@ -1998,7 +2003,6 @@
 		6ED07240248A241500C2C7D9 /* TopNServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServant.swift; sourceTree = "<group>"; };
 		6ED07244248A30C000C2C7D9 /* ServantBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBoxView.swift; sourceTree = "<group>"; };
 		6ED07246248A4E7B00C2C7D9 /* ServantClassListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantClassListView.swift; sourceTree = "<group>"; };
-		6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
 		6ED0724A248A50C300C2C7D9 /* ServantClassView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantClassView.swift; sourceTree = "<group>"; };
 		6ED0724C248A661400C2C7D9 /* GivenServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantListView.swift; sourceTree = "<group>"; };
 		6ED0724E248A672300C2C7D9 /* GivenServantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantView.swift; sourceTree = "<group>"; };
@@ -2120,6 +2124,8 @@
 				6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */,
 				6E69D182249271EF009A7F00 /* SeeAllCommandCodeListView.swift */,
 				6E79A28C24964E82002FE7B7 /* CommandCodeDetailView.swift */,
+				6E1509A024AB28800051A7B1 /* ClassSkillCardView.swift */,
+				6E8FED9C24AB81AD00AFB747 /* ClassSkillCardDeckView.swift */,
 			);
 			path = MasterTab;
 			sourceTree = "<group>";
@@ -2256,11 +2262,11 @@
 		6E2FA5B1248A0A8F00822AA0 /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
-				6E2FA5B2248A0AA000822AA0 /* UIColor+Extension.swift */,
-				6ED07248248A4EEE00C2C7D9 /* AppConstants.swift */,
 				6E4C9D96248B947C00B96630 /* Data.swift */,
 				6E69D18024924BAA009A7F00 /* String+Extension.swift */,
+				6E2FA5B2248A0AA000822AA0 /* UIColor+Extension.swift */,
 				6E79A28A24946838002FE7B7 /* UIKitTabView.swift */,
+				6E8FED9824AB750700AFB747 /* AppConstants.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -4222,6 +4228,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E8FED9D24AB81AD00AFB747 /* ClassSkillCardDeckView.swift in Sources */,
 				6E2FA5B7248A144100822AA0 /* SettingsView.swift in Sources */,
 				6E69D17F2492494B009A7F00 /* SkillDetailView.swift in Sources */,
 				6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */,
@@ -4230,7 +4237,6 @@
 				6EEC2785249A5D00008809E7 /* RoundedButton.swift in Sources */,
 				6E0D7393249C9869000DE0DB /* CraftEssenceDetailView.swift in Sources */,
 				6E1AC302248C9B43004C006A /* CommandCodeAlbumnFrameView.swift in Sources */,
-				6ED07249248A4EEE00C2C7D9 /* AppConstants.swift in Sources */,
 				6E0D739B249CB51C000DE0DB /* ServantDetailView.swift in Sources */,
 				6ED0724B248A50C300C2C7D9 /* ServantClassView.swift in Sources */,
 				6E69D18124924BAA009A7F00 /* String+Extension.swift in Sources */,
@@ -4239,12 +4245,14 @@
 				6E7EB5CD24A79A7700D6AE52 /* ServantSkillModel.swift in Sources */,
 				6ED07245248A30C000C2C7D9 /* ServantBoxView.swift in Sources */,
 				6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */,
+				6E1509A124AB28800051A7B1 /* ClassSkillCardView.swift in Sources */,
 				6E1AC300248C98D4004C006A /* CommandCodeListView.swift in Sources */,
 				6E0D7395249CAF52000DE0DB /* PageViewController.swift in Sources */,
 				6E1AC326248CC799004C006A /* MysticCode.swift in Sources */,
 				6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */,
 				6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */,
 				6E53FE7A24A4778F001960A1 /* SectionContentView.swift in Sources */,
+				6E8FED9924AB750700AFB747 /* AppConstants.swift in Sources */,
 				6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */,
 				6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */,
 				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,

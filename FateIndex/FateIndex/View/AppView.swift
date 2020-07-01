@@ -23,6 +23,7 @@ struct AppView: View {
         }
         .onAppear(perform: {
             ServantStore.shared.fetchAllBasicInfo()
+            ServantSkillStore.shared.fetchAllServantSkills()
         })
     }
 }

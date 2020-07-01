@@ -34,7 +34,7 @@ final class ServantStore {
 
         var id = 1
         while id <= 283 {
-            if filterLists.contains("\(id)") {
+            if AppConstants.filterLists.contains("\(id)") {
                 id += 1
                 continue
             }
@@ -108,7 +108,7 @@ final class ServantStore {
 
         var id = 1
         while id <= 283 {
-            if filterLists.contains("\(id)") {
+            if AppConstants.filterLists.contains("\(id)") {
                 id += 1
                 continue
             }
@@ -119,9 +119,6 @@ final class ServantStore {
 
         return stories
     }
-
-    ///
-    let filterLists = ["240", "168", "152", "151", "149", "83"]
 
     /// 活动赠送从者 id
     let givenList = ["283", "271", "264", "252", "243", "233", "225", "219", "211", "208", "197", "191", "190", "182", "174", "166", "162", "141", "138", "137", "133", "115", "111", "92", "73", "69", "61", "4"]

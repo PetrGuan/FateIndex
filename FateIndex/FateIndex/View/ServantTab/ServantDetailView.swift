@@ -29,6 +29,9 @@ struct ServantDetailView: View {
                 if selectedSegment == 0 {
                     basicInfoView()
                 }
+                else if selectedSegment == 2 {
+                    ClassSkillCardDeckView(classSkills: servantClassSkills())
+                }
                 else if selectedSegment == 3 {
                     SectionContentView(story: servantStory())
                 }
@@ -57,6 +60,10 @@ struct ServantDetailView: View {
 
     private func servantStory() -> ServantStory {
         return ServantStore.shared.servantStories[servantId] ?? ServantStory(id: "", detail: "", story1: "", story2: "", story3: "", story4: "", story5: "", story6: "")
+    }
+
+    private func servantClassSkills() -> [ClassSkill] {
+        return ServantSkillStore.shared.servantSkills[servantId]?.classSkills ?? []
     }
 }
 

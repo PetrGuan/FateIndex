@@ -40,7 +40,7 @@ struct ServantNoblePhantasm: Codable {
     let chargeEffects: [LevelEffect]
 }
 
-struct ClassSkill: Codable {
+struct ClassSkill: Codable, Hashable {
     let avatar: String
     let name: String
     let level: String
