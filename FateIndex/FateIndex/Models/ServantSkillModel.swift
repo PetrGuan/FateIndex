@@ -18,12 +18,12 @@ struct ServantSkillModel: Codable {
     let stableEffects: [StableEffect]
 }
 
-struct LevelEffect: Codable {
+struct LevelEffect: Codable, Hashable {
     let effect: String
     let values: [String]
 }
 
-struct StableEffect: Codable {
+struct StableEffect: Codable, Hashable {
     let effect: String
     let value: String
 }

@@ -11,7 +11,7 @@ import SwiftUI
 struct ServantDetailView: View {
     @State private var selectedSegment = 0
     
-    private let segments = ["基础信息", "能力", "技能", "资料"]
+    private let segments = ["基础信息", "技能", "资料", "羁绊礼装"]
     
     let servantId: String
     
@@ -29,10 +29,14 @@ struct ServantDetailView: View {
                 if selectedSegment == 0 {
                     basicInfoView()
                 }
-                else if selectedSegment == 2 {
-                    ClassSkillCardDeckView(classSkills: servantClassSkills())
+                else if selectedSegment == 1 {
+                    VStack {
+                        NoblePhantasmView(servantNoblePhantasm: noblePhantasm())
+
+                        ClassSkillCardDeckView(classSkills: servantClassSkills())
+                    }
                 }
-                else if selectedSegment == 3 {
+                else if selectedSegment == 2 {
                     SectionContentView(story: servantStory())
                 }
                 else {
@@ -62,6 +66,14 @@ struct ServantDetailView: View {
         return ServantStore.shared.servantStories[servantId] ?? ServantStory(id: "", detail: "", story1: "", story2: "", story3: "", story4: "", story5: "", story6: "")
     }
 
+    private func noblePhantasm() -> ServantNoblePhantasm {
+        if let noblePhantasm = ServantSkillStore.shared.servantSkills[servantId]?.noblePhantasm {
+            return noblePhantasm
+        }
+
+        fatalError()
+    }
+
     private func servantClassSkills() -> [ClassSkill] {
         return ServantSkillStore.shared.servantSkills[servantId]?.classSkills ?? []
     }
@@ -69,6 +81,6 @@ struct ServantDetailView: View {
 
 struct ServantDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        ServantDetailView(servantId: "1")
+        ServantDetailView(servantId: "150")
     }
 }

@@ -13,6 +13,7 @@ struct ClassSkillCardDeckView: View {
 
     var body: some View {
         VStack(spacing: 0) {
+            Divider()
             ForEach(self.classSkills, id: \.self) { classSkill in
                 ClassSkillCardView(topTitle: self.topTitle(classSkill: classSkill), avatar: classSkill.avatar, name: classSkill.name + " " + classSkill.level, desc: classSkill.effect)
             }

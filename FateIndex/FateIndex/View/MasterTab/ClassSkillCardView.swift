@@ -14,12 +14,14 @@ struct ClassSkillCardView: View {
     let name: String
     let desc: String
 
+    @Environment(\.colorScheme) var colorScheme
+
     var body: some View {
         VStack {
             if topTitle != "" {
                 Text(topTitle)
                     .font(.headline)
-                .foregroundColor(Color(hex: 0x5AFAFE))
+                    .foregroundColor(Color(hex: colorScheme == .dark ? 0x5AFAFE : 0xA3DDAA)) 
                 .padding()
             }
 
@@ -38,12 +40,10 @@ struct ClassSkillCardView: View {
                     VStack {
                         Text(name)
                             .font(.headline)
-                            .foregroundColor(Color.white)
 
                         Text(desc)
                             .font(.headline)
                             .multilineTextAlignment(.center)
-                            .foregroundColor(Color.white)
                     }
                     .padding()
                 }
@@ -52,7 +52,7 @@ struct ClassSkillCardView: View {
                 Spacer()
             }
         }
-        .background(Color(hex: 0x292C2C))
+        .background(Color(hex: colorScheme == .dark ? 0x292C2C : 0xFFFFFF))
     }
 }
 
