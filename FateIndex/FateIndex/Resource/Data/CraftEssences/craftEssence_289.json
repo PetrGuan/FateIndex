@@ -1,0 +1,13 @@
+{
+    "id": "289",
+    "name": "污秽的死之面具",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "剧院魅影(Assassin)装备，且自身在场时，己方全体的Quick指令卡性能提升15%",
+    "effectImg": "绿放",
+    "lore": "面具，面具。\n始终覆盖于我面容上的面具？\n\n你这话说得还真奇怪呢，克里斯蒂娜。\n你眼中的我是这样的吗，克里斯蒂娜。\n克里斯蒂娜——\n\n我可从未，戴过什么面具啊。\n是吧。\n是吧？",
+    "bondServantID": "44"
+}

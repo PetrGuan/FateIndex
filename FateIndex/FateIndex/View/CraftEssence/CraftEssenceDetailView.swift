@@ -26,14 +26,14 @@ struct CraftEssenceDetailView: View {
 
                 VStack(alignment: .leading) {
                     Spacer()
-                    Text(craftEssence.name)
+                    Text("")
                         .foregroundColor(Color.white)
                         .padding(12)
                 }
                 .frame(minWidth: 150, maxWidth: 150, minHeight: 256,  maxHeight: 256, alignment: .topLeading)
                 .background(
                     ZStack(alignment: .topLeading) {
-                        Image("craftEssence_\(craftEssence.id)_whole")
+                        Image("craftEssence_\(craftEssence.id)")
                             .resizable()
                             .aspectRatio(contentMode: .fill)
                             .frame(width: 150, height: 256)

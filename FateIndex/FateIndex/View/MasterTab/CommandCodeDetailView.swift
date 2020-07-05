@@ -16,7 +16,7 @@ struct CommandCodeDetailView: View {
             VStack {
                 VStack(alignment: .leading) {
                     Spacer()
-                    Text(commandCode.name)
+                    Text("")
                         .foregroundColor(Color.white)
                         .padding(12)
                 }

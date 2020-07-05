@@ -1,0 +1,13 @@
+{
+    "id": "287",
+    "name": "罗马",
+    "illustrator": "TAWAWAMINORU",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "罗穆路斯(Lancer)装备，且自身在场时，己方全体的宝具威力提升20%",
+    "effectImg": "宝具威力提升",
+    "lore": "你询问此乃何物。\n当然——\n\n这毫无疑问也是罗马形态的一种。",
+    "bondServantID": "22"
+}

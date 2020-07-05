@@ -1,0 +1,13 @@
+{
+    "id": "202",
+    "name": "王妃的赠礼",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当骑士迪昂(Saber)装备，且自身在场时，己方全体的Arts指令卡性能提升15%",
+    "effectImg": "蓝放",
+    "lore": "白百合的王后赠与骑士迪昂的礼物。\n\n「我赠与你这件你应该穿上的衣服，\n献给我出色的骑士」",
+    "bondServantID": "10"
+}

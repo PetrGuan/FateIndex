@@ -1,0 +1,13 @@
+{
+    "id": "192",
+    "name": "王之遗物",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当诸葛孔明(Caster)装备，且自身在场时，己方全体的Buster指令卡性能提升15%",
+    "effectImg": "红放",
+    "lore": "青涩、无成、凡庸。\n昔日的少年只会犹豫不决。\n但有一位王，训斥他，与他一同大笑。\n内心暗藏寂寥、后悔，以及些许自豪，\n青年依然在追逐着他的背影。",
+    "bondServantID": "37"
+}

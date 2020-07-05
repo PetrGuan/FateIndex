@@ -1,0 +1,13 @@
+{
+    "id": "193",
+    "name": "穿刺公的凯旋",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当弗拉德三世(Berserker)装备时，且自身在场时，自身的宝具威力提升30%＆攻击时概率增加自身NP5%",
+    "effectImg": "宝具威力提升",
+    "lore": "——我不害怕任何人。\n但只有恶魔（Dracul）例外。\n\n不因憎恶，不因享乐，\n这是必要的牺牲，为了给敌人带去恐怖。\n穿刺公蹂躏他们。",
+    "bondServantID": "52"
+}

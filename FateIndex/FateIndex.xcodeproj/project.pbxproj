@@ -107,6 +107,26 @@
 		6E1AC32E248CCEFC004C006A /* MysticCodeBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */; };
 		6E1AC331248D144F004C006A /* FightCharacterFilterListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */; };
 		6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */; };
+		6E2557F224AF419C002BA7E9 /* ActiveSkillCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2557F124AF419C002BA7E9 /* ActiveSkillCardView.swift */; };
+		6E2557F424AF45BA002BA7E9 /* craftEssence_191.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557F324AF45BA002BA7E9 /* craftEssence_191.json */; };
+		6E2557F624AF46B4002BA7E9 /* craftEssence_195.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557F524AF46B4002BA7E9 /* craftEssence_195.json */; };
+		6E2557F824AF4796002BA7E9 /* craftEssence_221.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557F724AF4796002BA7E9 /* craftEssence_221.json */; };
+		6E2557FA24AF4826002BA7E9 /* craftEssence_218.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557F924AF4826002BA7E9 /* craftEssence_218.json */; };
+		6E2557FC24AF48BE002BA7E9 /* craftEssence_219.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557FB24AF48BE002BA7E9 /* craftEssence_219.json */; };
+		6E2557FE24AF4979002BA7E9 /* craftEssence_286.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557FD24AF4979002BA7E9 /* craftEssence_286.json */; };
+		6E25580024AF4A2E002BA7E9 /* craftEssence_201.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E2557FF24AF4A2E002BA7E9 /* craftEssence_201.json */; };
+		6E25580224AF4A93002BA7E9 /* craftEssence_304.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580124AF4A93002BA7E9 /* craftEssence_304.json */; };
+		6E25580424AF4B2D002BA7E9 /* craftEssence_202.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580324AF4B2D002BA7E9 /* craftEssence_202.json */; };
+		6E25580624AF4BA3002BA7E9 /* craftEssence_196.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580524AF4BA3002BA7E9 /* craftEssence_196.json */; };
+		6E25580824AF4BFB002BA7E9 /* craftEssence_216.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580724AF4BFB002BA7E9 /* craftEssence_216.json */; };
+		6E25580A24AF4C65002BA7E9 /* craftEssence_269.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580924AF4C65002BA7E9 /* craftEssence_269.json */; };
+		6E25580C24AF4CC6002BA7E9 /* craftEssence_233.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580B24AF4CC6002BA7E9 /* craftEssence_233.json */; };
+		6E25580E24AF4D3F002BA7E9 /* craftEssence_323.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580D24AF4D3F002BA7E9 /* craftEssence_323.json */; };
+		6E25581024AF4DAF002BA7E9 /* craftEssence_210.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25580F24AF4DAF002BA7E9 /* craftEssence_210.json */; };
+		6E25581224AF4E01002BA7E9 /* craftEssence_252.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25581124AF4E01002BA7E9 /* craftEssence_252.json */; };
+		6E25581424AF4E81002BA7E9 /* craftEssence_203.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25581324AF4E81002BA7E9 /* craftEssence_203.json */; };
+		6E25581624AF4FC4002BA7E9 /* craftEssence_288.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25581524AF4FC4002BA7E9 /* craftEssence_288.json */; };
+		6E25581824AF50CE002BA7E9 /* craftEssence_322.json in Resources */ = {isa = PBXBuildFile; fileRef = 6E25581724AF50CE002BA7E9 /* craftEssence_322.json */; };
 		6E2FA588248A063F00822AA0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA587248A063F00822AA0 /* AppDelegate.swift */; };
 		6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA589248A063F00822AA0 /* SceneDelegate.swift */; };
 		6E2FA58C248A063F00822AA0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E2FA58B248A063F00822AA0 /* ContentView.swift */; };
@@ -999,6 +1019,187 @@
 		6ED0724F248A672300C2C7D9 /* GivenServantView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0724E248A672300C2C7D9 /* GivenServantView.swift */; };
 		6ED07251248A887200C2C7D9 /* CampaignServant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED07250248A887200C2C7D9 /* CampaignServant.swift */; };
 		6ED211E12491110F005E98D2 /* MysticCodeTableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */; };
+		6EDA4EDC24B04358001FD9B2 /* craftEssence_274.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EDB24B04358001FD9B2 /* craftEssence_274.json */; };
+		6EDA4EDE24B04540001FD9B2 /* craftEssence_287.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EDD24B04540001FD9B2 /* craftEssence_287.json */; };
+		6EDA4EE024B06B6F001FD9B2 /* craftEssence_254.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EDF24B06B6F001FD9B2 /* craftEssence_254.json */; };
+		6EDA4EE224B06C79001FD9B2 /* craftEssence_273.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EE124B06C79001FD9B2 /* craftEssence_273.json */; };
+		6EDA4EE424B06D95001FD9B2 /* craftEssence_238.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EE324B06D95001FD9B2 /* craftEssence_238.json */; };
+		6EDA4EE624B06E19001FD9B2 /* craftEssence_208.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EE524B06E19001FD9B2 /* craftEssence_208.json */; };
+		6EDA4EE824B06E98001FD9B2 /* craftEssence_270.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EE724B06E98001FD9B2 /* craftEssence_270.json */; };
+		6EDA4EEA24B06F43001FD9B2 /* craftEssence_255.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EE924B06F43001FD9B2 /* craftEssence_255.json */; };
+		6EDA4EEC24B06FD1001FD9B2 /* craftEssence_204.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EEB24B06FD1001FD9B2 /* craftEssence_204.json */; };
+		6EDA4EEE24B07065001FD9B2 /* craftEssence_205.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EED24B07065001FD9B2 /* craftEssence_205.json */; };
+		6EDA4EF024B070D7001FD9B2 /* craftEssence_253.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EEF24B070D7001FD9B2 /* craftEssence_253.json */; };
+		6EDA4EF224B07153001FD9B2 /* craftEssence_321.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EF124B07153001FD9B2 /* craftEssence_321.json */; };
+		6EDA4EF424B071E2001FD9B2 /* craftEssence_209.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EF324B071E2001FD9B2 /* craftEssence_209.json */; };
+		6EDA4EF624B072B7001FD9B2 /* craftEssence_290.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EF524B072B7001FD9B2 /* craftEssence_290.json */; };
+		6EDA4EF824B0734F001FD9B2 /* craftEssence_305.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EF724B0734F001FD9B2 /* craftEssence_305.json */; };
+		6EDA4EFA24B073CB001FD9B2 /* craftEssence_275.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EF924B073CB001FD9B2 /* craftEssence_275.json */; };
+		6EDA4EFC24B074A8001FD9B2 /* craftEssence_192.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EFB24B074A8001FD9B2 /* craftEssence_192.json */; };
+		6EDA4EFE24B0751D001FD9B2 /* craftEssence_198.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EFD24B0751D001FD9B2 /* craftEssence_198.json */; };
+		6EDA4F0024B0758B001FD9B2 /* craftEssence_239.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4EFF24B0758B001FD9B2 /* craftEssence_239.json */; };
+		6EDA4F0224B075FC001FD9B2 /* craftEssence_256.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0124B075FC001FD9B2 /* craftEssence_256.json */; };
+		6EDA4F0424B07670001FD9B2 /* craftEssence_220.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0324B07670001FD9B2 /* craftEssence_220.json */; };
+		6EDA4F0624B076D8001FD9B2 /* craftEssence_271.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0524B076D8001FD9B2 /* craftEssence_271.json */; };
+		6EDA4F0824B0777A001FD9B2 /* craftEssence_307.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0724B0777A001FD9B2 /* craftEssence_307.json */; };
+		6EDA4F0A24B077ED001FD9B2 /* craftEssence_289.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0924B077ED001FD9B2 /* craftEssence_289.json */; };
+		6EDA4F0C24B07852001FD9B2 /* craftEssence_200.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0B24B07852001FD9B2 /* craftEssence_200.json */; };
+		6EDA4F0E24B078C6001FD9B2 /* craftEssence_206.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0D24B078C6001FD9B2 /* craftEssence_206.json */; };
+		6EDA4F1024B0793D001FD9B2 /* craftEssence_197.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F0F24B0793D001FD9B2 /* craftEssence_197.json */; };
+		6EDA4F1224B0799F001FD9B2 /* craftEssence_232.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1124B0799F001FD9B2 /* craftEssence_232.json */; };
+		6EDA4F1424B07A02001FD9B2 /* craftEssence_272.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1324B07A02001FD9B2 /* craftEssence_272.json */; };
+		6EDA4F1624B07A8B001FD9B2 /* craftEssence_225.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1524B07A8B001FD9B2 /* craftEssence_225.json */; };
+		6EDA4F1824B07B04001FD9B2 /* craftEssence_217.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1724B07B04001FD9B2 /* craftEssence_217.json */; };
+		6EDA4F1A24B07B75001FD9B2 /* craftEssence_193.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1924B07B75001FD9B2 /* craftEssence_193.json */; };
+		6EDA4F1C24B07BED001FD9B2 /* craftEssence_257.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1B24B07BED001FD9B2 /* craftEssence_257.json */; };
+		6EDA4F1E24B07C5A001FD9B2 /* craftEssence_308.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1D24B07C5A001FD9B2 /* craftEssence_308.json */; };
+		6EDA4F2024B07E51001FD9B2 /* craftEssence_223.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F1F24B07E51001FD9B2 /* craftEssence_223.json */; };
+		6EDA4F2224B07ED9001FD9B2 /* craftEssence_199.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2124B07ED9001FD9B2 /* craftEssence_199.json */; };
+		6EDA4F2424B07F8C001FD9B2 /* craftEssence_224.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2324B07F8C001FD9B2 /* craftEssence_224.json */; };
+		6EDA4F2624B0800A001FD9B2 /* craftEssence_207.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2524B0800A001FD9B2 /* craftEssence_207.json */; };
+		6EDA4F2824B08085001FD9B2 /* craftEssence_194.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2724B08085001FD9B2 /* craftEssence_194.json */; };
+		6EDA4F2A24B080F6001FD9B2 /* craftEssence_230.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2924B080F6001FD9B2 /* craftEssence_230.json */; };
+		6EDA4F2C24B08178001FD9B2 /* craftEssence_234.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2B24B08178001FD9B2 /* craftEssence_234.json */; };
+		6EDA4F2E24B08384001FD9B2 /* craftEssence_248.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2D24B08384001FD9B2 /* craftEssence_248.json */; };
+		6EDA4F3024B08404001FD9B2 /* craftEssence_222.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F2F24B08404001FD9B2 /* craftEssence_222.json */; };
+		6EDA4F3224B08571001FD9B2 /* craftEssence_324.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3124B08571001FD9B2 /* craftEssence_324.json */; };
+		6EDA4F3424B0866B001FD9B2 /* craftEssence_231.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3324B0866B001FD9B2 /* craftEssence_231.json */; };
+		6EDA4F3624B0973E001FD9B2 /* craftEssence_250.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3524B0973E001FD9B2 /* craftEssence_250.json */; };
+		6EDA4F3824B097A6001FD9B2 /* craftEssence_318.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3724B097A6001FD9B2 /* craftEssence_318.json */; };
+		6EDA4F3A24B09847001FD9B2 /* craftEssence_249.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3924B09847001FD9B2 /* craftEssence_249.json */; };
+		6EDA4F3C24B098B2001FD9B2 /* craftEssence_235.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3B24B098B2001FD9B2 /* craftEssence_235.json */; };
+		6EDA4F3E24B09931001FD9B2 /* craftEssence_251.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3D24B09931001FD9B2 /* craftEssence_251.json */; };
+		6EDA4F4024B09A25001FD9B2 /* craftEssence_341.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F3F24B09A25001FD9B2 /* craftEssence_341.json */; };
+		6EDA4F4224B09B5B001FD9B2 /* craftEssence_306.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4124B09B5B001FD9B2 /* craftEssence_306.json */; };
+		6EDA4F4424B09C8E001FD9B2 /* craftEssence_236.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4324B09C8E001FD9B2 /* craftEssence_236.json */; };
+		6EDA4F4624B09D3D001FD9B2 /* craftEssence_268.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4524B09D3D001FD9B2 /* craftEssence_268.json */; };
+		6EDA4F4824B0A10C001FD9B2 /* craftEssence_267.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4724B0A10C001FD9B2 /* craftEssence_267.json */; };
+		6EDA4F4A24B0A26B001FD9B2 /* craftEssence_266.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4924B0A26B001FD9B2 /* craftEssence_266.json */; };
+		6EDA4F4C24B0A300001FD9B2 /* craftEssence_281.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4B24B0A300001FD9B2 /* craftEssence_281.json */; };
+		6EDA4F4E24B0A376001FD9B2 /* craftEssence_285.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4D24B0A376001FD9B2 /* craftEssence_285.json */; };
+		6EDA4F5024B0A3EC001FD9B2 /* craftEssence_342.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F4F24B0A3EC001FD9B2 /* craftEssence_342.json */; };
+		6EDA4F5224B0A45A001FD9B2 /* craftEssence_343.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5124B0A45A001FD9B2 /* craftEssence_343.json */; };
+		6EDA4F5424B0A4E6001FD9B2 /* craftEssence_237.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5324B0A4E6001FD9B2 /* craftEssence_237.json */; };
+		6EDA4F5624B0A549001FD9B2 /* craftEssence_284.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5524B0A549001FD9B2 /* craftEssence_284.json */; };
+		6EDA4F5824B0A5A8001FD9B2 /* craftEssence_282.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5724B0A5A8001FD9B2 /* craftEssence_282.json */; };
+		6EDA4F5A24B0A615001FD9B2 /* craftEssence_283.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5924B0A615001FD9B2 /* craftEssence_283.json */; };
+		6EDA4F5C24B0A684001FD9B2 /* craftEssence_299.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5B24B0A684001FD9B2 /* craftEssence_299.json */; };
+		6EDA4F5E24B0A707001FD9B2 /* craftEssence_303.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5D24B0A707001FD9B2 /* craftEssence_303.json */; };
+		6EDA4F6024B0A777001FD9B2 /* craftEssence_300.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F5F24B0A777001FD9B2 /* craftEssence_300.json */; };
+		6EDA4F6224B15E4D001FD9B2 /* craftEssence_302.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6124B15E4D001FD9B2 /* craftEssence_302.json */; };
+		6EDA4F6424B15ECD001FD9B2 /* craftEssence_301.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6324B15ECD001FD9B2 /* craftEssence_301.json */; };
+		6EDA4F6624B15F4C001FD9B2 /* craftEssence_315.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6524B15F4C001FD9B2 /* craftEssence_315.json */; };
+		6EDA4F6824B15FC2001FD9B2 /* craftEssence_319.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6724B15FC2001FD9B2 /* craftEssence_319.json */; };
+		6EDA4F6A24B1603C001FD9B2 /* craftEssence_316.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6924B1603C001FD9B2 /* craftEssence_316.json */; };
+		6EDA4F6C24B160B0001FD9B2 /* craftEssence_320.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6B24B160B0001FD9B2 /* craftEssence_320.json */; };
+		6EDA4F6E24B161F5001FD9B2 /* craftEssence_355.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6D24B161F5001FD9B2 /* craftEssence_355.json */; };
+		6EDA4F7024B16288001FD9B2 /* craftEssence_317.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F6F24B16288001FD9B2 /* craftEssence_317.json */; };
+		6EDA4F7224B16336001FD9B2 /* craftEssence_334.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7124B16336001FD9B2 /* craftEssence_334.json */; };
+		6EDA4F7424B163F9001FD9B2 /* craftEssence_335.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7324B163F9001FD9B2 /* craftEssence_335.json */; };
+		6EDA4F7624B1646B001FD9B2 /* craftEssence_336.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7524B1646B001FD9B2 /* craftEssence_336.json */; };
+		6EDA4F7824B16514001FD9B2 /* craftEssence_338.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7724B16514001FD9B2 /* craftEssence_338.json */; };
+		6EDA4F7A24B16585001FD9B2 /* craftEssence_337.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7924B16585001FD9B2 /* craftEssence_337.json */; };
+		6EDA4F7C24B16842001FD9B2 /* craftEssence_340.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7B24B16842001FD9B2 /* craftEssence_340.json */; };
+		6EDA4F7E24B169C6001FD9B2 /* craftEssence_339.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7D24B169C6001FD9B2 /* craftEssence_339.json */; };
+		6EDA4F8024B1B801001FD9B2 /* craftEssence_356.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F7F24B1B801001FD9B2 /* craftEssence_356.json */; };
+		6EDA4F8224B1B8AB001FD9B2 /* craftEssence_357.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8124B1B8AB001FD9B2 /* craftEssence_357.json */; };
+		6EDA4F8424B1B939001FD9B2 /* craftEssence_350.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8324B1B939001FD9B2 /* craftEssence_350.json */; };
+		6EDA4F8624B1B9AD001FD9B2 /* craftEssence_359.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8524B1B9AD001FD9B2 /* craftEssence_359.json */; };
+		6EDA4F8824B1BA3B001FD9B2 /* craftEssence_351.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8724B1BA3B001FD9B2 /* craftEssence_351.json */; };
+		6EDA4F8A24B1BAE7001FD9B2 /* craftEssence_353.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8924B1BAE7001FD9B2 /* craftEssence_353.json */; };
+		6EDA4F8C24B1BC5B001FD9B2 /* craftEssence_358.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8B24B1BC5B001FD9B2 /* craftEssence_358.json */; };
+		6EDA4F8E24B1BCCE001FD9B2 /* craftEssence_354.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8D24B1BCCE001FD9B2 /* craftEssence_354.json */; };
+		6EDA4F9024B1C1A3001FD9B2 /* craftEssence_367.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F8F24B1C1A3001FD9B2 /* craftEssence_367.json */; };
+		6EDA4F9224B1C243001FD9B2 /* craftEssence_352.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9124B1C243001FD9B2 /* craftEssence_352.json */; };
+		6EDA4F9424B1C2B6001FD9B2 /* craftEssence_368.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9324B1C2B6001FD9B2 /* craftEssence_368.json */; };
+		6EDA4F9624B1C328001FD9B2 /* craftEssence_371.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9524B1C328001FD9B2 /* craftEssence_371.json */; };
+		6EDA4F9824B1C3CA001FD9B2 /* craftEssence_370.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9724B1C3C9001FD9B2 /* craftEssence_370.json */; };
+		6EDA4F9A24B1C443001FD9B2 /* craftEssence_375.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9924B1C443001FD9B2 /* craftEssence_375.json */; };
+		6EDA4F9C24B1C4C7001FD9B2 /* craftEssence_369.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9B24B1C4C7001FD9B2 /* craftEssence_369.json */; };
+		6EDA4F9E24B1C543001FD9B2 /* craftEssence_377.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9D24B1C543001FD9B2 /* craftEssence_377.json */; };
+		6EDA4FA024B1C5C1001FD9B2 /* craftEssence_374.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4F9F24B1C5C1001FD9B2 /* craftEssence_374.json */; };
+		6EDA4FA224B1C61B001FD9B2 /* craftEssence_380.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FA124B1C61B001FD9B2 /* craftEssence_380.json */; };
+		6EDA4FA424B1C6B3001FD9B2 /* craftEssence_373.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FA324B1C6B3001FD9B2 /* craftEssence_373.json */; };
+		6EDA4FA624B1C71F001FD9B2 /* craftEssence_372.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FA524B1C71F001FD9B2 /* craftEssence_372.json */; };
+		6EDA4FA824B1C798001FD9B2 /* craftEssence_386.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FA724B1C798001FD9B2 /* craftEssence_386.json */; };
+		6EDA4FAA24B1C804001FD9B2 /* craftEssence_376.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FA924B1C804001FD9B2 /* craftEssence_376.json */; };
+		6EDA4FAC24B1C85D001FD9B2 /* craftEssence_385.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FAB24B1C85D001FD9B2 /* craftEssence_385.json */; };
+		6EDA4FAE24B1C8BE001FD9B2 /* craftEssence_378.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FAD24B1C8BE001FD9B2 /* craftEssence_378.json */; };
+		6EDA4FB024B1C925001FD9B2 /* craftEssence_379.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FAF24B1C925001FD9B2 /* craftEssence_379.json */; };
+		6EDA4FB224B1C986001FD9B2 /* craftEssence_391.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FB124B1C986001FD9B2 /* craftEssence_391.json */; };
+		6EDA4FB424B1C9F0001FD9B2 /* craftEssence_381.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FB324B1C9F0001FD9B2 /* craftEssence_381.json */; };
+		6EDA4FB624B1CA5A001FD9B2 /* craftEssence_382.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FB524B1CA5A001FD9B2 /* craftEssence_382.json */; };
+		6EDA4FB824B1CAB9001FD9B2 /* craftEssence_383.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FB724B1CAB9001FD9B2 /* craftEssence_383.json */; };
+		6EDA4FBA24B1CB1B001FD9B2 /* craftEssence_395.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FB924B1CB1B001FD9B2 /* craftEssence_395.json */; };
+		6EDA4FBC24B1D780001FD9B2 /* craftEssence_384.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FBB24B1D780001FD9B2 /* craftEssence_384.json */; };
+		6EDA4FBE24B1D8C7001FD9B2 /* craftEssence_394.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FBD24B1D8C7001FD9B2 /* craftEssence_394.json */; };
+		6EDA4FC024B1D99E001FD9B2 /* craftEssence_392.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FBF24B1D99E001FD9B2 /* craftEssence_392.json */; };
+		6EDA4FC224B1DAC2001FD9B2 /* craftEssence_396.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FC124B1DAC2001FD9B2 /* craftEssence_396.json */; };
+		6EDA4FC424B1DBF9001FD9B2 /* craftEssence_398.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FC324B1DBF9001FD9B2 /* craftEssence_398.json */; };
+		6EDA4FC624B1DC60001FD9B2 /* craftEssence_393.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FC524B1DC60001FD9B2 /* craftEssence_393.json */; };
+		6EDA4FC824B1DD37001FD9B2 /* craftEssence_397.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FC724B1DD37001FD9B2 /* craftEssence_397.json */; };
+		6EDA4FCA24B1DDEA001FD9B2 /* craftEssence_406.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FC924B1DDEA001FD9B2 /* craftEssence_406.json */; };
+		6EDA4FCC24B1DEEC001FD9B2 /* craftEssence_403.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FCB24B1DEEC001FD9B2 /* craftEssence_403.json */; };
+		6EDA4FCE24B1DFCA001FD9B2 /* craftEssence_404.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FCD24B1DFCA001FD9B2 /* craftEssence_404.json */; };
+		6EDA4FD024B1E0A1001FD9B2 /* craftEssence_405.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FCF24B1E0A1001FD9B2 /* craftEssence_405.json */; };
+		6EDA4FD224B1E5FA001FD9B2 /* craftEssence_407.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FD124B1E5FA001FD9B2 /* craftEssence_407.json */; };
+		6EDA4FD424B1E68C001FD9B2 /* craftEssence_409.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FD324B1E68C001FD9B2 /* craftEssence_409.json */; };
+		6EDA4FD624B1E7A9001FD9B2 /* craftEssence_408.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FD524B1E7A9001FD9B2 /* craftEssence_408.json */; };
+		6EDA4FD824B1E86B001FD9B2 /* craftEssence_410.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FD724B1E86B001FD9B2 /* craftEssence_410.json */; };
+		6EDA4FDA24B1E9AC001FD9B2 /* craftEssence_411.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FD924B1E9AC001FD9B2 /* craftEssence_411.json */; };
+		6EDA4FDC24B1EA93001FD9B2 /* craftEssence_416.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FDB24B1EA93001FD9B2 /* craftEssence_416.json */; };
+		6EDA4FDE24B1ED36001FD9B2 /* craftEssence_417.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FDD24B1ED36001FD9B2 /* craftEssence_417.json */; };
+		6EDA4FE024B1EE84001FD9B2 /* craftEssence_429.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FDF24B1EE84001FD9B2 /* craftEssence_429.json */; };
+		6EDA4FE224B1EFE1001FD9B2 /* craftEssence_546.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FE124B1EFE1001FD9B2 /* craftEssence_546.json */; };
+		6EDA4FE424B1F119001FD9B2 /* craftEssence_547.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FE324B1F119001FD9B2 /* craftEssence_547.json */; };
+		6EDA4FE624B1F288001FD9B2 /* craftEssence_548.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FE524B1F288001FD9B2 /* craftEssence_548.json */; };
+		6EDA4FE824B1F329001FD9B2 /* craftEssence_549.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FE724B1F329001FD9B2 /* craftEssence_549.json */; };
+		6EDA4FEA24B1F429001FD9B2 /* craftEssence_559.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FE924B1F429001FD9B2 /* craftEssence_559.json */; };
+		6EDA4FEC24B1F4A3001FD9B2 /* craftEssence_567.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FEB24B1F4A3001FD9B2 /* craftEssence_567.json */; };
+		6EDA4FEE24B1F50D001FD9B2 /* craftEssence_568.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FED24B1F50D001FD9B2 /* craftEssence_568.json */; };
+		6EDA4FF024B1F58D001FD9B2 /* craftEssence_575.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FEF24B1F58D001FD9B2 /* craftEssence_575.json */; };
+		6EDA4FF224B1F631001FD9B2 /* craftEssence_576.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FF124B1F631001FD9B2 /* craftEssence_576.json */; };
+		6EDA4FF424B1F709001FD9B2 /* craftEssence_578.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FF324B1F709001FD9B2 /* craftEssence_578.json */; };
+		6EDA4FF624B1F7DC001FD9B2 /* craftEssence_577.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FF524B1F7DC001FD9B2 /* craftEssence_577.json */; };
+		6EDA4FF824B1F854001FD9B2 /* craftEssence_579.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FF724B1F854001FD9B2 /* craftEssence_579.json */; };
+		6EDA4FFA24B1F905001FD9B2 /* craftEssence_586.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FF924B1F905001FD9B2 /* craftEssence_586.json */; };
+		6EDA4FFC24B1F988001FD9B2 /* craftEssence_587.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FFB24B1F988001FD9B2 /* craftEssence_587.json */; };
+		6EDA4FFE24B209D5001FD9B2 /* craftEssence_588.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FFD24B209D5001FD9B2 /* craftEssence_588.json */; };
+		6EDA500024B20A52001FD9B2 /* craftEssence_589.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA4FFF24B20A52001FD9B2 /* craftEssence_589.json */; };
+		6EDA500224B20AAF001FD9B2 /* craftEssence_642.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500124B20AAF001FD9B2 /* craftEssence_642.json */; };
+		6EDA500424B20B0B001FD9B2 /* craftEssence_641.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500324B20B0B001FD9B2 /* craftEssence_641.json */; };
+		6EDA500624B20B6F001FD9B2 /* craftEssence_647.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500524B20B6F001FD9B2 /* craftEssence_647.json */; };
+		6EDA500824B20BB4001FD9B2 /* craftEssence_648.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500724B20BB4001FD9B2 /* craftEssence_648.json */; };
+		6EDA500A24B20C0A001FD9B2 /* craftEssence_649.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500924B20C0A001FD9B2 /* craftEssence_649.json */; };
+		6EDA500C24B20C7D001FD9B2 /* craftEssence_650.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500B24B20C7D001FD9B2 /* craftEssence_650.json */; };
+		6EDA500E24B20D56001FD9B2 /* craftEssence_656.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500D24B20D56001FD9B2 /* craftEssence_656.json */; };
+		6EDA501024B20E05001FD9B2 /* craftEssence_657.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA500F24B20E05001FD9B2 /* craftEssence_657.json */; };
+		6EDA501224B20E8D001FD9B2 /* craftEssence_658.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501124B20E8D001FD9B2 /* craftEssence_658.json */; };
+		6EDA501424B20F4D001FD9B2 /* craftEssence_651.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501324B20F4D001FD9B2 /* craftEssence_651.json */; };
+		6EDA501624B20FCB001FD9B2 /* craftEssence_669.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501524B20FCB001FD9B2 /* craftEssence_669.json */; };
+		6EDA501824B21057001FD9B2 /* craftEssence_675.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501724B21057001FD9B2 /* craftEssence_675.json */; };
+		6EDA501A24B210E5001FD9B2 /* craftEssence_676.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501924B210E5001FD9B2 /* craftEssence_676.json */; };
+		6EDA501C24B21195001FD9B2 /* craftEssence_677.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501B24B21195001FD9B2 /* craftEssence_677.json */; };
+		6EDA501E24B212B5001FD9B2 /* craftEssence_678.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501D24B212B5001FD9B2 /* craftEssence_678.json */; };
+		6EDA502024B21385001FD9B2 /* craftEssence_679.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA501F24B21385001FD9B2 /* craftEssence_679.json */; };
+		6EDA502224B2140A001FD9B2 /* craftEssence_686.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502124B2140A001FD9B2 /* craftEssence_686.json */; };
+		6EDA502424B2149D001FD9B2 /* craftEssence_687.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502324B2149D001FD9B2 /* craftEssence_687.json */; };
+		6EDA502624B21528001FD9B2 /* craftEssence_688.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502524B21528001FD9B2 /* craftEssence_688.json */; };
+		6EDA502824B21591001FD9B2 /* craftEssence_692.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502724B21591001FD9B2 /* craftEssence_692.json */; };
+		6EDA502A24B216BC001FD9B2 /* craftEssence_693.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502924B216BC001FD9B2 /* craftEssence_693.json */; };
+		6EDA502C24B217D7001FD9B2 /* craftEssence_694.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502B24B217D7001FD9B2 /* craftEssence_694.json */; };
+		6EDA502E24B2189F001FD9B2 /* craftEssence_695.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502D24B2189F001FD9B2 /* craftEssence_695.json */; };
+		6EDA503024B21963001FD9B2 /* craftEssence_700.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA502F24B21963001FD9B2 /* craftEssence_700.json */; };
+		6EDA503224B219F9001FD9B2 /* craftEssence_701.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503124B219F9001FD9B2 /* craftEssence_701.json */; };
+		6EDA503424B21AB6001FD9B2 /* craftEssence_709.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503324B21AB6001FD9B2 /* craftEssence_709.json */; };
+		6EDA503624B21B5C001FD9B2 /* craftEssence_717.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503524B21B5C001FD9B2 /* craftEssence_717.json */; };
+		6EDA503824B21C2D001FD9B2 /* craftEssence_762.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503724B21C2D001FD9B2 /* craftEssence_762.json */; };
+		6EDA503A24B21CC3001FD9B2 /* craftEssence_787.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503924B21CC3001FD9B2 /* craftEssence_787.json */; };
+		6EDA503C24B21D91001FD9B2 /* craftEssence_788.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503B24B21D91001FD9B2 /* craftEssence_788.json */; };
+		6EDA503E24B21E0F001FD9B2 /* craftEssence_789.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503D24B21E0F001FD9B2 /* craftEssence_789.json */; };
+		6EDA504024B21E99001FD9B2 /* craftEssence_790.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA503F24B21E99001FD9B2 /* craftEssence_790.json */; };
+		6EDA504224B21EEF001FD9B2 /* craftEssence_791.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA504124B21EEF001FD9B2 /* craftEssence_791.json */; };
+		6EDA504424B21F54001FD9B2 /* craftEssence_798.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EDA504324B21F54001FD9B2 /* craftEssence_798.json */; };
 		6EE266A8249E59A0000B4277 /* ServantAbilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */; };
 		6EEC277F249A36D3008809E7 /* RoundedListDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEC277E249A36D3008809E7 /* RoundedListDetailView.swift */; };
 		6EEC2783249A5A75008809E7 /* RoundedShadowButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EEC2782249A5A75008809E7 /* RoundedShadowButton.swift */; };
@@ -1116,6 +1317,26 @@
 		6E1AC32D248CCEFC004C006A /* MysticCodeBoxView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeBoxView.swift; sourceTree = "<group>"; };
 		6E1AC330248D144F004C006A /* FightCharacterFilterListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FightCharacterFilterListView.swift; sourceTree = "<group>"; };
 		6E1AC33A248D3B22004C006A /* RecentAddServantListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentAddServantListView.swift; sourceTree = "<group>"; };
+		6E2557F124AF419C002BA7E9 /* ActiveSkillCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActiveSkillCardView.swift; sourceTree = "<group>"; };
+		6E2557F324AF45BA002BA7E9 /* craftEssence_191.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_191.json; sourceTree = "<group>"; };
+		6E2557F524AF46B4002BA7E9 /* craftEssence_195.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_195.json; sourceTree = "<group>"; };
+		6E2557F724AF4796002BA7E9 /* craftEssence_221.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_221.json; sourceTree = "<group>"; };
+		6E2557F924AF4826002BA7E9 /* craftEssence_218.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_218.json; sourceTree = "<group>"; };
+		6E2557FB24AF48BE002BA7E9 /* craftEssence_219.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_219.json; sourceTree = "<group>"; };
+		6E2557FD24AF4979002BA7E9 /* craftEssence_286.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_286.json; sourceTree = "<group>"; };
+		6E2557FF24AF4A2E002BA7E9 /* craftEssence_201.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_201.json; sourceTree = "<group>"; };
+		6E25580124AF4A93002BA7E9 /* craftEssence_304.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_304.json; sourceTree = "<group>"; };
+		6E25580324AF4B2D002BA7E9 /* craftEssence_202.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_202.json; sourceTree = "<group>"; };
+		6E25580524AF4BA3002BA7E9 /* craftEssence_196.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_196.json; sourceTree = "<group>"; };
+		6E25580724AF4BFB002BA7E9 /* craftEssence_216.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_216.json; sourceTree = "<group>"; };
+		6E25580924AF4C65002BA7E9 /* craftEssence_269.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_269.json; sourceTree = "<group>"; };
+		6E25580B24AF4CC6002BA7E9 /* craftEssence_233.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_233.json; sourceTree = "<group>"; };
+		6E25580D24AF4D3F002BA7E9 /* craftEssence_323.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_323.json; sourceTree = "<group>"; };
+		6E25580F24AF4DAF002BA7E9 /* craftEssence_210.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_210.json; sourceTree = "<group>"; };
+		6E25581124AF4E01002BA7E9 /* craftEssence_252.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_252.json; sourceTree = "<group>"; };
+		6E25581324AF4E81002BA7E9 /* craftEssence_203.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_203.json; sourceTree = "<group>"; };
+		6E25581524AF4FC4002BA7E9 /* craftEssence_288.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_288.json; sourceTree = "<group>"; };
+		6E25581724AF50CE002BA7E9 /* craftEssence_322.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_322.json; sourceTree = "<group>"; };
 		6E2FA584248A063F00822AA0 /* FateIndex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FateIndex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E2FA587248A063F00822AA0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6E2FA589248A063F00822AA0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -2012,6 +2233,187 @@
 		6ED0724E248A672300C2C7D9 /* GivenServantView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GivenServantView.swift; sourceTree = "<group>"; };
 		6ED07250248A887200C2C7D9 /* CampaignServant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CampaignServant.swift; sourceTree = "<group>"; };
 		6ED211E02491110F005E98D2 /* MysticCodeTableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysticCodeTableListView.swift; sourceTree = "<group>"; };
+		6EDA4EDB24B04358001FD9B2 /* craftEssence_274.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_274.json; sourceTree = "<group>"; };
+		6EDA4EDD24B04540001FD9B2 /* craftEssence_287.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_287.json; sourceTree = "<group>"; };
+		6EDA4EDF24B06B6F001FD9B2 /* craftEssence_254.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_254.json; sourceTree = "<group>"; };
+		6EDA4EE124B06C79001FD9B2 /* craftEssence_273.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_273.json; sourceTree = "<group>"; };
+		6EDA4EE324B06D95001FD9B2 /* craftEssence_238.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_238.json; sourceTree = "<group>"; };
+		6EDA4EE524B06E19001FD9B2 /* craftEssence_208.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_208.json; sourceTree = "<group>"; };
+		6EDA4EE724B06E98001FD9B2 /* craftEssence_270.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_270.json; sourceTree = "<group>"; };
+		6EDA4EE924B06F43001FD9B2 /* craftEssence_255.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_255.json; sourceTree = "<group>"; };
+		6EDA4EEB24B06FD1001FD9B2 /* craftEssence_204.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_204.json; sourceTree = "<group>"; };
+		6EDA4EED24B07065001FD9B2 /* craftEssence_205.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_205.json; sourceTree = "<group>"; };
+		6EDA4EEF24B070D7001FD9B2 /* craftEssence_253.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_253.json; sourceTree = "<group>"; };
+		6EDA4EF124B07153001FD9B2 /* craftEssence_321.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_321.json; sourceTree = "<group>"; };
+		6EDA4EF324B071E2001FD9B2 /* craftEssence_209.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_209.json; sourceTree = "<group>"; };
+		6EDA4EF524B072B7001FD9B2 /* craftEssence_290.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_290.json; sourceTree = "<group>"; };
+		6EDA4EF724B0734F001FD9B2 /* craftEssence_305.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_305.json; sourceTree = "<group>"; };
+		6EDA4EF924B073CB001FD9B2 /* craftEssence_275.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_275.json; sourceTree = "<group>"; };
+		6EDA4EFB24B074A8001FD9B2 /* craftEssence_192.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_192.json; sourceTree = "<group>"; };
+		6EDA4EFD24B0751D001FD9B2 /* craftEssence_198.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_198.json; sourceTree = "<group>"; };
+		6EDA4EFF24B0758B001FD9B2 /* craftEssence_239.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_239.json; sourceTree = "<group>"; };
+		6EDA4F0124B075FC001FD9B2 /* craftEssence_256.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_256.json; sourceTree = "<group>"; };
+		6EDA4F0324B07670001FD9B2 /* craftEssence_220.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_220.json; sourceTree = "<group>"; };
+		6EDA4F0524B076D8001FD9B2 /* craftEssence_271.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_271.json; sourceTree = "<group>"; };
+		6EDA4F0724B0777A001FD9B2 /* craftEssence_307.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_307.json; sourceTree = "<group>"; };
+		6EDA4F0924B077ED001FD9B2 /* craftEssence_289.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_289.json; sourceTree = "<group>"; };
+		6EDA4F0B24B07852001FD9B2 /* craftEssence_200.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_200.json; sourceTree = "<group>"; };
+		6EDA4F0D24B078C6001FD9B2 /* craftEssence_206.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_206.json; sourceTree = "<group>"; };
+		6EDA4F0F24B0793D001FD9B2 /* craftEssence_197.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_197.json; sourceTree = "<group>"; };
+		6EDA4F1124B0799F001FD9B2 /* craftEssence_232.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_232.json; sourceTree = "<group>"; };
+		6EDA4F1324B07A02001FD9B2 /* craftEssence_272.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_272.json; sourceTree = "<group>"; };
+		6EDA4F1524B07A8B001FD9B2 /* craftEssence_225.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_225.json; sourceTree = "<group>"; };
+		6EDA4F1724B07B04001FD9B2 /* craftEssence_217.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_217.json; sourceTree = "<group>"; };
+		6EDA4F1924B07B75001FD9B2 /* craftEssence_193.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_193.json; sourceTree = "<group>"; };
+		6EDA4F1B24B07BED001FD9B2 /* craftEssence_257.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_257.json; sourceTree = "<group>"; };
+		6EDA4F1D24B07C5A001FD9B2 /* craftEssence_308.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_308.json; sourceTree = "<group>"; };
+		6EDA4F1F24B07E51001FD9B2 /* craftEssence_223.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_223.json; sourceTree = "<group>"; };
+		6EDA4F2124B07ED9001FD9B2 /* craftEssence_199.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_199.json; sourceTree = "<group>"; };
+		6EDA4F2324B07F8C001FD9B2 /* craftEssence_224.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_224.json; sourceTree = "<group>"; };
+		6EDA4F2524B0800A001FD9B2 /* craftEssence_207.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_207.json; sourceTree = "<group>"; };
+		6EDA4F2724B08085001FD9B2 /* craftEssence_194.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_194.json; sourceTree = "<group>"; };
+		6EDA4F2924B080F6001FD9B2 /* craftEssence_230.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_230.json; sourceTree = "<group>"; };
+		6EDA4F2B24B08178001FD9B2 /* craftEssence_234.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_234.json; sourceTree = "<group>"; };
+		6EDA4F2D24B08384001FD9B2 /* craftEssence_248.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_248.json; sourceTree = "<group>"; };
+		6EDA4F2F24B08404001FD9B2 /* craftEssence_222.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_222.json; sourceTree = "<group>"; };
+		6EDA4F3124B08571001FD9B2 /* craftEssence_324.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_324.json; sourceTree = "<group>"; };
+		6EDA4F3324B0866B001FD9B2 /* craftEssence_231.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_231.json; sourceTree = "<group>"; };
+		6EDA4F3524B0973E001FD9B2 /* craftEssence_250.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_250.json; sourceTree = "<group>"; };
+		6EDA4F3724B097A6001FD9B2 /* craftEssence_318.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_318.json; sourceTree = "<group>"; };
+		6EDA4F3924B09847001FD9B2 /* craftEssence_249.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_249.json; sourceTree = "<group>"; };
+		6EDA4F3B24B098B2001FD9B2 /* craftEssence_235.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_235.json; sourceTree = "<group>"; };
+		6EDA4F3D24B09931001FD9B2 /* craftEssence_251.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_251.json; sourceTree = "<group>"; };
+		6EDA4F3F24B09A25001FD9B2 /* craftEssence_341.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_341.json; sourceTree = "<group>"; };
+		6EDA4F4124B09B5B001FD9B2 /* craftEssence_306.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_306.json; sourceTree = "<group>"; };
+		6EDA4F4324B09C8E001FD9B2 /* craftEssence_236.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_236.json; sourceTree = "<group>"; };
+		6EDA4F4524B09D3D001FD9B2 /* craftEssence_268.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_268.json; sourceTree = "<group>"; };
+		6EDA4F4724B0A10C001FD9B2 /* craftEssence_267.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_267.json; sourceTree = "<group>"; };
+		6EDA4F4924B0A26B001FD9B2 /* craftEssence_266.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_266.json; sourceTree = "<group>"; };
+		6EDA4F4B24B0A300001FD9B2 /* craftEssence_281.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_281.json; sourceTree = "<group>"; };
+		6EDA4F4D24B0A376001FD9B2 /* craftEssence_285.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_285.json; sourceTree = "<group>"; };
+		6EDA4F4F24B0A3EC001FD9B2 /* craftEssence_342.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_342.json; sourceTree = "<group>"; };
+		6EDA4F5124B0A45A001FD9B2 /* craftEssence_343.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_343.json; sourceTree = "<group>"; };
+		6EDA4F5324B0A4E6001FD9B2 /* craftEssence_237.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_237.json; sourceTree = "<group>"; };
+		6EDA4F5524B0A549001FD9B2 /* craftEssence_284.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_284.json; sourceTree = "<group>"; };
+		6EDA4F5724B0A5A8001FD9B2 /* craftEssence_282.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_282.json; sourceTree = "<group>"; };
+		6EDA4F5924B0A615001FD9B2 /* craftEssence_283.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_283.json; sourceTree = "<group>"; };
+		6EDA4F5B24B0A684001FD9B2 /* craftEssence_299.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_299.json; sourceTree = "<group>"; };
+		6EDA4F5D24B0A707001FD9B2 /* craftEssence_303.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_303.json; sourceTree = "<group>"; };
+		6EDA4F5F24B0A777001FD9B2 /* craftEssence_300.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_300.json; sourceTree = "<group>"; };
+		6EDA4F6124B15E4D001FD9B2 /* craftEssence_302.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_302.json; sourceTree = "<group>"; };
+		6EDA4F6324B15ECD001FD9B2 /* craftEssence_301.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_301.json; sourceTree = "<group>"; };
+		6EDA4F6524B15F4C001FD9B2 /* craftEssence_315.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_315.json; sourceTree = "<group>"; };
+		6EDA4F6724B15FC2001FD9B2 /* craftEssence_319.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_319.json; sourceTree = "<group>"; };
+		6EDA4F6924B1603C001FD9B2 /* craftEssence_316.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_316.json; sourceTree = "<group>"; };
+		6EDA4F6B24B160B0001FD9B2 /* craftEssence_320.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_320.json; sourceTree = "<group>"; };
+		6EDA4F6D24B161F5001FD9B2 /* craftEssence_355.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_355.json; sourceTree = "<group>"; };
+		6EDA4F6F24B16288001FD9B2 /* craftEssence_317.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_317.json; sourceTree = "<group>"; };
+		6EDA4F7124B16336001FD9B2 /* craftEssence_334.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_334.json; sourceTree = "<group>"; };
+		6EDA4F7324B163F9001FD9B2 /* craftEssence_335.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_335.json; sourceTree = "<group>"; };
+		6EDA4F7524B1646B001FD9B2 /* craftEssence_336.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_336.json; sourceTree = "<group>"; };
+		6EDA4F7724B16514001FD9B2 /* craftEssence_338.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_338.json; sourceTree = "<group>"; };
+		6EDA4F7924B16585001FD9B2 /* craftEssence_337.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_337.json; sourceTree = "<group>"; };
+		6EDA4F7B24B16842001FD9B2 /* craftEssence_340.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_340.json; sourceTree = "<group>"; };
+		6EDA4F7D24B169C6001FD9B2 /* craftEssence_339.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_339.json; sourceTree = "<group>"; };
+		6EDA4F7F24B1B801001FD9B2 /* craftEssence_356.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_356.json; sourceTree = "<group>"; };
+		6EDA4F8124B1B8AB001FD9B2 /* craftEssence_357.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_357.json; sourceTree = "<group>"; };
+		6EDA4F8324B1B939001FD9B2 /* craftEssence_350.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_350.json; sourceTree = "<group>"; };
+		6EDA4F8524B1B9AD001FD9B2 /* craftEssence_359.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_359.json; sourceTree = "<group>"; };
+		6EDA4F8724B1BA3B001FD9B2 /* craftEssence_351.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_351.json; sourceTree = "<group>"; };
+		6EDA4F8924B1BAE7001FD9B2 /* craftEssence_353.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_353.json; sourceTree = "<group>"; };
+		6EDA4F8B24B1BC5B001FD9B2 /* craftEssence_358.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_358.json; sourceTree = "<group>"; };
+		6EDA4F8D24B1BCCE001FD9B2 /* craftEssence_354.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_354.json; sourceTree = "<group>"; };
+		6EDA4F8F24B1C1A3001FD9B2 /* craftEssence_367.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_367.json; sourceTree = "<group>"; };
+		6EDA4F9124B1C243001FD9B2 /* craftEssence_352.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_352.json; sourceTree = "<group>"; };
+		6EDA4F9324B1C2B6001FD9B2 /* craftEssence_368.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_368.json; sourceTree = "<group>"; };
+		6EDA4F9524B1C328001FD9B2 /* craftEssence_371.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_371.json; sourceTree = "<group>"; };
+		6EDA4F9724B1C3C9001FD9B2 /* craftEssence_370.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_370.json; sourceTree = "<group>"; };
+		6EDA4F9924B1C443001FD9B2 /* craftEssence_375.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_375.json; sourceTree = "<group>"; };
+		6EDA4F9B24B1C4C7001FD9B2 /* craftEssence_369.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_369.json; sourceTree = "<group>"; };
+		6EDA4F9D24B1C543001FD9B2 /* craftEssence_377.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_377.json; sourceTree = "<group>"; };
+		6EDA4F9F24B1C5C1001FD9B2 /* craftEssence_374.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_374.json; sourceTree = "<group>"; };
+		6EDA4FA124B1C61B001FD9B2 /* craftEssence_380.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_380.json; sourceTree = "<group>"; };
+		6EDA4FA324B1C6B3001FD9B2 /* craftEssence_373.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_373.json; sourceTree = "<group>"; };
+		6EDA4FA524B1C71F001FD9B2 /* craftEssence_372.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_372.json; sourceTree = "<group>"; };
+		6EDA4FA724B1C798001FD9B2 /* craftEssence_386.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_386.json; sourceTree = "<group>"; };
+		6EDA4FA924B1C804001FD9B2 /* craftEssence_376.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_376.json; sourceTree = "<group>"; };
+		6EDA4FAB24B1C85D001FD9B2 /* craftEssence_385.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_385.json; sourceTree = "<group>"; };
+		6EDA4FAD24B1C8BE001FD9B2 /* craftEssence_378.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_378.json; sourceTree = "<group>"; };
+		6EDA4FAF24B1C925001FD9B2 /* craftEssence_379.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_379.json; sourceTree = "<group>"; };
+		6EDA4FB124B1C986001FD9B2 /* craftEssence_391.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_391.json; sourceTree = "<group>"; };
+		6EDA4FB324B1C9F0001FD9B2 /* craftEssence_381.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_381.json; sourceTree = "<group>"; };
+		6EDA4FB524B1CA5A001FD9B2 /* craftEssence_382.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_382.json; sourceTree = "<group>"; };
+		6EDA4FB724B1CAB9001FD9B2 /* craftEssence_383.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_383.json; sourceTree = "<group>"; };
+		6EDA4FB924B1CB1B001FD9B2 /* craftEssence_395.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_395.json; sourceTree = "<group>"; };
+		6EDA4FBB24B1D780001FD9B2 /* craftEssence_384.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_384.json; sourceTree = "<group>"; };
+		6EDA4FBD24B1D8C7001FD9B2 /* craftEssence_394.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_394.json; sourceTree = "<group>"; };
+		6EDA4FBF24B1D99E001FD9B2 /* craftEssence_392.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_392.json; sourceTree = "<group>"; };
+		6EDA4FC124B1DAC2001FD9B2 /* craftEssence_396.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_396.json; sourceTree = "<group>"; };
+		6EDA4FC324B1DBF9001FD9B2 /* craftEssence_398.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_398.json; sourceTree = "<group>"; };
+		6EDA4FC524B1DC60001FD9B2 /* craftEssence_393.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_393.json; sourceTree = "<group>"; };
+		6EDA4FC724B1DD37001FD9B2 /* craftEssence_397.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_397.json; sourceTree = "<group>"; };
+		6EDA4FC924B1DDEA001FD9B2 /* craftEssence_406.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_406.json; sourceTree = "<group>"; };
+		6EDA4FCB24B1DEEC001FD9B2 /* craftEssence_403.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_403.json; sourceTree = "<group>"; };
+		6EDA4FCD24B1DFCA001FD9B2 /* craftEssence_404.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_404.json; sourceTree = "<group>"; };
+		6EDA4FCF24B1E0A1001FD9B2 /* craftEssence_405.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_405.json; sourceTree = "<group>"; };
+		6EDA4FD124B1E5FA001FD9B2 /* craftEssence_407.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_407.json; sourceTree = "<group>"; };
+		6EDA4FD324B1E68C001FD9B2 /* craftEssence_409.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_409.json; sourceTree = "<group>"; };
+		6EDA4FD524B1E7A9001FD9B2 /* craftEssence_408.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_408.json; sourceTree = "<group>"; };
+		6EDA4FD724B1E86B001FD9B2 /* craftEssence_410.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_410.json; sourceTree = "<group>"; };
+		6EDA4FD924B1E9AC001FD9B2 /* craftEssence_411.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_411.json; sourceTree = "<group>"; };
+		6EDA4FDB24B1EA93001FD9B2 /* craftEssence_416.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_416.json; sourceTree = "<group>"; };
+		6EDA4FDD24B1ED36001FD9B2 /* craftEssence_417.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_417.json; sourceTree = "<group>"; };
+		6EDA4FDF24B1EE84001FD9B2 /* craftEssence_429.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_429.json; sourceTree = "<group>"; };
+		6EDA4FE124B1EFE1001FD9B2 /* craftEssence_546.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_546.json; sourceTree = "<group>"; };
+		6EDA4FE324B1F119001FD9B2 /* craftEssence_547.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_547.json; sourceTree = "<group>"; };
+		6EDA4FE524B1F288001FD9B2 /* craftEssence_548.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_548.json; sourceTree = "<group>"; };
+		6EDA4FE724B1F329001FD9B2 /* craftEssence_549.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_549.json; sourceTree = "<group>"; };
+		6EDA4FE924B1F429001FD9B2 /* craftEssence_559.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_559.json; sourceTree = "<group>"; };
+		6EDA4FEB24B1F4A3001FD9B2 /* craftEssence_567.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_567.json; sourceTree = "<group>"; };
+		6EDA4FED24B1F50D001FD9B2 /* craftEssence_568.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_568.json; sourceTree = "<group>"; };
+		6EDA4FEF24B1F58D001FD9B2 /* craftEssence_575.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_575.json; sourceTree = "<group>"; };
+		6EDA4FF124B1F631001FD9B2 /* craftEssence_576.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_576.json; sourceTree = "<group>"; };
+		6EDA4FF324B1F709001FD9B2 /* craftEssence_578.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_578.json; sourceTree = "<group>"; };
+		6EDA4FF524B1F7DC001FD9B2 /* craftEssence_577.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_577.json; sourceTree = "<group>"; };
+		6EDA4FF724B1F854001FD9B2 /* craftEssence_579.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_579.json; sourceTree = "<group>"; };
+		6EDA4FF924B1F905001FD9B2 /* craftEssence_586.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_586.json; sourceTree = "<group>"; };
+		6EDA4FFB24B1F988001FD9B2 /* craftEssence_587.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_587.json; sourceTree = "<group>"; };
+		6EDA4FFD24B209D5001FD9B2 /* craftEssence_588.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_588.json; sourceTree = "<group>"; };
+		6EDA4FFF24B20A52001FD9B2 /* craftEssence_589.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_589.json; sourceTree = "<group>"; };
+		6EDA500124B20AAF001FD9B2 /* craftEssence_642.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_642.json; sourceTree = "<group>"; };
+		6EDA500324B20B0B001FD9B2 /* craftEssence_641.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_641.json; sourceTree = "<group>"; };
+		6EDA500524B20B6F001FD9B2 /* craftEssence_647.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_647.json; sourceTree = "<group>"; };
+		6EDA500724B20BB4001FD9B2 /* craftEssence_648.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_648.json; sourceTree = "<group>"; };
+		6EDA500924B20C0A001FD9B2 /* craftEssence_649.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_649.json; sourceTree = "<group>"; };
+		6EDA500B24B20C7D001FD9B2 /* craftEssence_650.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_650.json; sourceTree = "<group>"; };
+		6EDA500D24B20D56001FD9B2 /* craftEssence_656.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_656.json; sourceTree = "<group>"; };
+		6EDA500F24B20E05001FD9B2 /* craftEssence_657.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_657.json; sourceTree = "<group>"; };
+		6EDA501124B20E8D001FD9B2 /* craftEssence_658.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_658.json; sourceTree = "<group>"; };
+		6EDA501324B20F4D001FD9B2 /* craftEssence_651.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_651.json; sourceTree = "<group>"; };
+		6EDA501524B20FCB001FD9B2 /* craftEssence_669.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_669.json; sourceTree = "<group>"; };
+		6EDA501724B21057001FD9B2 /* craftEssence_675.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_675.json; sourceTree = "<group>"; };
+		6EDA501924B210E5001FD9B2 /* craftEssence_676.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_676.json; sourceTree = "<group>"; };
+		6EDA501B24B21195001FD9B2 /* craftEssence_677.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_677.json; sourceTree = "<group>"; };
+		6EDA501D24B212B5001FD9B2 /* craftEssence_678.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_678.json; sourceTree = "<group>"; };
+		6EDA501F24B21385001FD9B2 /* craftEssence_679.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_679.json; sourceTree = "<group>"; };
+		6EDA502124B2140A001FD9B2 /* craftEssence_686.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_686.json; sourceTree = "<group>"; };
+		6EDA502324B2149D001FD9B2 /* craftEssence_687.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_687.json; sourceTree = "<group>"; };
+		6EDA502524B21528001FD9B2 /* craftEssence_688.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_688.json; sourceTree = "<group>"; };
+		6EDA502724B21591001FD9B2 /* craftEssence_692.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_692.json; sourceTree = "<group>"; };
+		6EDA502924B216BC001FD9B2 /* craftEssence_693.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_693.json; sourceTree = "<group>"; };
+		6EDA502B24B217D7001FD9B2 /* craftEssence_694.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_694.json; sourceTree = "<group>"; };
+		6EDA502D24B2189F001FD9B2 /* craftEssence_695.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_695.json; sourceTree = "<group>"; };
+		6EDA502F24B21963001FD9B2 /* craftEssence_700.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_700.json; sourceTree = "<group>"; };
+		6EDA503124B219F9001FD9B2 /* craftEssence_701.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_701.json; sourceTree = "<group>"; };
+		6EDA503324B21AB6001FD9B2 /* craftEssence_709.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_709.json; sourceTree = "<group>"; };
+		6EDA503524B21B5C001FD9B2 /* craftEssence_717.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_717.json; sourceTree = "<group>"; };
+		6EDA503724B21C2D001FD9B2 /* craftEssence_762.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_762.json; sourceTree = "<group>"; };
+		6EDA503924B21CC3001FD9B2 /* craftEssence_787.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_787.json; sourceTree = "<group>"; };
+		6EDA503B24B21D91001FD9B2 /* craftEssence_788.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_788.json; sourceTree = "<group>"; };
+		6EDA503D24B21E0F001FD9B2 /* craftEssence_789.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_789.json; sourceTree = "<group>"; };
+		6EDA503F24B21E99001FD9B2 /* craftEssence_790.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_790.json; sourceTree = "<group>"; };
+		6EDA504124B21EEF001FD9B2 /* craftEssence_791.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_791.json; sourceTree = "<group>"; };
+		6EDA504324B21F54001FD9B2 /* craftEssence_798.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = craftEssence_798.json; sourceTree = "<group>"; };
 		6EE266A7249E59A0000B4277 /* ServantAbilityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantAbilityView.swift; sourceTree = "<group>"; };
 		6EEC277E249A36D3008809E7 /* RoundedListDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedListDetailView.swift; sourceTree = "<group>"; };
 		6EEC2782249A5A75008809E7 /* RoundedShadowButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedShadowButton.swift; sourceTree = "<group>"; };
@@ -2131,6 +2533,7 @@
 				6E1509A024AB28800051A7B1 /* ClassSkillCardView.swift */,
 				6E8FED9C24AB81AD00AFB747 /* ClassSkillCardDeckView.swift */,
 				6EBE940224ADFB800047BFD3 /* NoblePhantasmView.swift */,
+				6E2557F124AF419C002BA7E9 /* ActiveSkillCardView.swift */,
 			);
 			path = MasterTab;
 			sourceTree = "<group>";
@@ -2589,7 +2992,14 @@
 			children = (
 				6E4C9D94248B8F4C00B96630 /* craftEssence_80.json */,
 				6E4C9D9D248B9DC600B96630 /* craftEssence_178.json */,
+				6E2557F324AF45BA002BA7E9 /* craftEssence_191.json */,
+				6E2557F524AF46B4002BA7E9 /* craftEssence_195.json */,
+				6E2557FF24AF4A2E002BA7E9 /* craftEssence_201.json */,
+				6E2557F924AF4826002BA7E9 /* craftEssence_218.json */,
+				6E2557FB24AF48BE002BA7E9 /* craftEssence_219.json */,
+				6E2557F724AF4796002BA7E9 /* craftEssence_221.json */,
 				6E4C9D9F248BA1CB00B96630 /* craftEssence_242.json */,
+				6E2557FD24AF4979002BA7E9 /* craftEssence_286.json */,
 				6E4C9DA1248BAC2300B96630 /* craftEssence_330.json */,
 				6E4C9DA3248BAD0700B96630 /* craftEssence_861.json */,
 				6E4C9DA5248BADDE00B96630 /* craftEssence_910.json */,
@@ -2599,6 +3009,199 @@
 				6E4C9DAD248BB00F00B96630 /* craftEssence_1121.json */,
 				6E4C9DAF248BB08D00B96630 /* craftEssence_1149.json */,
 				6E1AC1FD248C83D6004C006A /* craftEssence_1214.json */,
+				6E25580124AF4A93002BA7E9 /* craftEssence_304.json */,
+				6E25580324AF4B2D002BA7E9 /* craftEssence_202.json */,
+				6E25580524AF4BA3002BA7E9 /* craftEssence_196.json */,
+				6E25580724AF4BFB002BA7E9 /* craftEssence_216.json */,
+				6E25580924AF4C65002BA7E9 /* craftEssence_269.json */,
+				6E25580B24AF4CC6002BA7E9 /* craftEssence_233.json */,
+				6E25580D24AF4D3F002BA7E9 /* craftEssence_323.json */,
+				6E25580F24AF4DAF002BA7E9 /* craftEssence_210.json */,
+				6E25581124AF4E01002BA7E9 /* craftEssence_252.json */,
+				6E25581324AF4E81002BA7E9 /* craftEssence_203.json */,
+				6E25581524AF4FC4002BA7E9 /* craftEssence_288.json */,
+				6E25581724AF50CE002BA7E9 /* craftEssence_322.json */,
+				6EDA4EDB24B04358001FD9B2 /* craftEssence_274.json */,
+				6EDA4EDD24B04540001FD9B2 /* craftEssence_287.json */,
+				6EDA4EE124B06C79001FD9B2 /* craftEssence_273.json */,
+				6EDA4EDF24B06B6F001FD9B2 /* craftEssence_254.json */,
+				6EDA4EE324B06D95001FD9B2 /* craftEssence_238.json */,
+				6EDA4EE524B06E19001FD9B2 /* craftEssence_208.json */,
+				6EDA4EE724B06E98001FD9B2 /* craftEssence_270.json */,
+				6EDA4EE924B06F43001FD9B2 /* craftEssence_255.json */,
+				6EDA4EEB24B06FD1001FD9B2 /* craftEssence_204.json */,
+				6EDA4EED24B07065001FD9B2 /* craftEssence_205.json */,
+				6EDA4EEF24B070D7001FD9B2 /* craftEssence_253.json */,
+				6EDA4EF124B07153001FD9B2 /* craftEssence_321.json */,
+				6EDA4EF324B071E2001FD9B2 /* craftEssence_209.json */,
+				6EDA4EF524B072B7001FD9B2 /* craftEssence_290.json */,
+				6EDA4EF724B0734F001FD9B2 /* craftEssence_305.json */,
+				6EDA4EF924B073CB001FD9B2 /* craftEssence_275.json */,
+				6EDA4EFB24B074A8001FD9B2 /* craftEssence_192.json */,
+				6EDA4EFD24B0751D001FD9B2 /* craftEssence_198.json */,
+				6EDA4EFF24B0758B001FD9B2 /* craftEssence_239.json */,
+				6EDA4F0124B075FC001FD9B2 /* craftEssence_256.json */,
+				6EDA4F0324B07670001FD9B2 /* craftEssence_220.json */,
+				6EDA4F0524B076D8001FD9B2 /* craftEssence_271.json */,
+				6EDA4F0724B0777A001FD9B2 /* craftEssence_307.json */,
+				6EDA4F0924B077ED001FD9B2 /* craftEssence_289.json */,
+				6EDA4F0B24B07852001FD9B2 /* craftEssence_200.json */,
+				6EDA4F0D24B078C6001FD9B2 /* craftEssence_206.json */,
+				6EDA4F0F24B0793D001FD9B2 /* craftEssence_197.json */,
+				6EDA4F1124B0799F001FD9B2 /* craftEssence_232.json */,
+				6EDA4F1324B07A02001FD9B2 /* craftEssence_272.json */,
+				6EDA4F1524B07A8B001FD9B2 /* craftEssence_225.json */,
+				6EDA4F1724B07B04001FD9B2 /* craftEssence_217.json */,
+				6EDA4F1924B07B75001FD9B2 /* craftEssence_193.json */,
+				6EDA4F1B24B07BED001FD9B2 /* craftEssence_257.json */,
+				6EDA4F1D24B07C5A001FD9B2 /* craftEssence_308.json */,
+				6EDA4F1F24B07E51001FD9B2 /* craftEssence_223.json */,
+				6EDA4F2124B07ED9001FD9B2 /* craftEssence_199.json */,
+				6EDA4F2324B07F8C001FD9B2 /* craftEssence_224.json */,
+				6EDA4F2524B0800A001FD9B2 /* craftEssence_207.json */,
+				6EDA4F2724B08085001FD9B2 /* craftEssence_194.json */,
+				6EDA4F2924B080F6001FD9B2 /* craftEssence_230.json */,
+				6EDA4F2B24B08178001FD9B2 /* craftEssence_234.json */,
+				6EDA4F2D24B08384001FD9B2 /* craftEssence_248.json */,
+				6EDA4F2F24B08404001FD9B2 /* craftEssence_222.json */,
+				6EDA4F3124B08571001FD9B2 /* craftEssence_324.json */,
+				6EDA4F3324B0866B001FD9B2 /* craftEssence_231.json */,
+				6EDA4F3524B0973E001FD9B2 /* craftEssence_250.json */,
+				6EDA4F3724B097A6001FD9B2 /* craftEssence_318.json */,
+				6EDA4F3924B09847001FD9B2 /* craftEssence_249.json */,
+				6EDA4F3B24B098B2001FD9B2 /* craftEssence_235.json */,
+				6EDA4F3D24B09931001FD9B2 /* craftEssence_251.json */,
+				6EDA4F3F24B09A25001FD9B2 /* craftEssence_341.json */,
+				6EDA4F4124B09B5B001FD9B2 /* craftEssence_306.json */,
+				6EDA4F4324B09C8E001FD9B2 /* craftEssence_236.json */,
+				6EDA4F4524B09D3D001FD9B2 /* craftEssence_268.json */,
+				6EDA4F4724B0A10C001FD9B2 /* craftEssence_267.json */,
+				6EDA4F4924B0A26B001FD9B2 /* craftEssence_266.json */,
+				6EDA4F4B24B0A300001FD9B2 /* craftEssence_281.json */,
+				6EDA4F4D24B0A376001FD9B2 /* craftEssence_285.json */,
+				6EDA4F4F24B0A3EC001FD9B2 /* craftEssence_342.json */,
+				6EDA4F5124B0A45A001FD9B2 /* craftEssence_343.json */,
+				6EDA4F5324B0A4E6001FD9B2 /* craftEssence_237.json */,
+				6EDA4F5524B0A549001FD9B2 /* craftEssence_284.json */,
+				6EDA4F5724B0A5A8001FD9B2 /* craftEssence_282.json */,
+				6EDA4F5924B0A615001FD9B2 /* craftEssence_283.json */,
+				6EDA4F5B24B0A684001FD9B2 /* craftEssence_299.json */,
+				6EDA4F5D24B0A707001FD9B2 /* craftEssence_303.json */,
+				6EDA4F5F24B0A777001FD9B2 /* craftEssence_300.json */,
+				6EDA4F6124B15E4D001FD9B2 /* craftEssence_302.json */,
+				6EDA4F6324B15ECD001FD9B2 /* craftEssence_301.json */,
+				6EDA4F6524B15F4C001FD9B2 /* craftEssence_315.json */,
+				6EDA4F6724B15FC2001FD9B2 /* craftEssence_319.json */,
+				6EDA4F6924B1603C001FD9B2 /* craftEssence_316.json */,
+				6EDA4F6B24B160B0001FD9B2 /* craftEssence_320.json */,
+				6EDA4F6D24B161F5001FD9B2 /* craftEssence_355.json */,
+				6EDA4F6F24B16288001FD9B2 /* craftEssence_317.json */,
+				6EDA4F7124B16336001FD9B2 /* craftEssence_334.json */,
+				6EDA4F7324B163F9001FD9B2 /* craftEssence_335.json */,
+				6EDA4F7524B1646B001FD9B2 /* craftEssence_336.json */,
+				6EDA4F7724B16514001FD9B2 /* craftEssence_338.json */,
+				6EDA4F7924B16585001FD9B2 /* craftEssence_337.json */,
+				6EDA4F7B24B16842001FD9B2 /* craftEssence_340.json */,
+				6EDA4F7D24B169C6001FD9B2 /* craftEssence_339.json */,
+				6EDA4F7F24B1B801001FD9B2 /* craftEssence_356.json */,
+				6EDA4F8124B1B8AB001FD9B2 /* craftEssence_357.json */,
+				6EDA4F8324B1B939001FD9B2 /* craftEssence_350.json */,
+				6EDA4F8524B1B9AD001FD9B2 /* craftEssence_359.json */,
+				6EDA4F8724B1BA3B001FD9B2 /* craftEssence_351.json */,
+				6EDA4F8924B1BAE7001FD9B2 /* craftEssence_353.json */,
+				6EDA4F8B24B1BC5B001FD9B2 /* craftEssence_358.json */,
+				6EDA4F8D24B1BCCE001FD9B2 /* craftEssence_354.json */,
+				6EDA4F8F24B1C1A3001FD9B2 /* craftEssence_367.json */,
+				6EDA4F9124B1C243001FD9B2 /* craftEssence_352.json */,
+				6EDA4F9324B1C2B6001FD9B2 /* craftEssence_368.json */,
+				6EDA4F9524B1C328001FD9B2 /* craftEssence_371.json */,
+				6EDA4F9724B1C3C9001FD9B2 /* craftEssence_370.json */,
+				6EDA4F9924B1C443001FD9B2 /* craftEssence_375.json */,
+				6EDA4F9B24B1C4C7001FD9B2 /* craftEssence_369.json */,
+				6EDA4F9D24B1C543001FD9B2 /* craftEssence_377.json */,
+				6EDA4F9F24B1C5C1001FD9B2 /* craftEssence_374.json */,
+				6EDA4FA124B1C61B001FD9B2 /* craftEssence_380.json */,
+				6EDA4FA324B1C6B3001FD9B2 /* craftEssence_373.json */,
+				6EDA4FA524B1C71F001FD9B2 /* craftEssence_372.json */,
+				6EDA4FA724B1C798001FD9B2 /* craftEssence_386.json */,
+				6EDA4FA924B1C804001FD9B2 /* craftEssence_376.json */,
+				6EDA4FAB24B1C85D001FD9B2 /* craftEssence_385.json */,
+				6EDA4FAD24B1C8BE001FD9B2 /* craftEssence_378.json */,
+				6EDA4FAF24B1C925001FD9B2 /* craftEssence_379.json */,
+				6EDA4FB124B1C986001FD9B2 /* craftEssence_391.json */,
+				6EDA4FB324B1C9F0001FD9B2 /* craftEssence_381.json */,
+				6EDA4FB524B1CA5A001FD9B2 /* craftEssence_382.json */,
+				6EDA4FB724B1CAB9001FD9B2 /* craftEssence_383.json */,
+				6EDA4FB924B1CB1B001FD9B2 /* craftEssence_395.json */,
+				6EDA4FBB24B1D780001FD9B2 /* craftEssence_384.json */,
+				6EDA4FBD24B1D8C7001FD9B2 /* craftEssence_394.json */,
+				6EDA4FBF24B1D99E001FD9B2 /* craftEssence_392.json */,
+				6EDA4FC124B1DAC2001FD9B2 /* craftEssence_396.json */,
+				6EDA4FC324B1DBF9001FD9B2 /* craftEssence_398.json */,
+				6EDA4FC524B1DC60001FD9B2 /* craftEssence_393.json */,
+				6EDA4FC724B1DD37001FD9B2 /* craftEssence_397.json */,
+				6EDA4FC924B1DDEA001FD9B2 /* craftEssence_406.json */,
+				6EDA4FCB24B1DEEC001FD9B2 /* craftEssence_403.json */,
+				6EDA4FCD24B1DFCA001FD9B2 /* craftEssence_404.json */,
+				6EDA4FCF24B1E0A1001FD9B2 /* craftEssence_405.json */,
+				6EDA4FD124B1E5FA001FD9B2 /* craftEssence_407.json */,
+				6EDA4FD324B1E68C001FD9B2 /* craftEssence_409.json */,
+				6EDA4FD524B1E7A9001FD9B2 /* craftEssence_408.json */,
+				6EDA4FD724B1E86B001FD9B2 /* craftEssence_410.json */,
+				6EDA4FD924B1E9AC001FD9B2 /* craftEssence_411.json */,
+				6EDA4FDB24B1EA93001FD9B2 /* craftEssence_416.json */,
+				6EDA4FDD24B1ED36001FD9B2 /* craftEssence_417.json */,
+				6EDA4FDF24B1EE84001FD9B2 /* craftEssence_429.json */,
+				6EDA4FE124B1EFE1001FD9B2 /* craftEssence_546.json */,
+				6EDA4FE324B1F119001FD9B2 /* craftEssence_547.json */,
+				6EDA4FE524B1F288001FD9B2 /* craftEssence_548.json */,
+				6EDA4FE724B1F329001FD9B2 /* craftEssence_549.json */,
+				6EDA4FE924B1F429001FD9B2 /* craftEssence_559.json */,
+				6EDA4FEB24B1F4A3001FD9B2 /* craftEssence_567.json */,
+				6EDA4FED24B1F50D001FD9B2 /* craftEssence_568.json */,
+				6EDA4FEF24B1F58D001FD9B2 /* craftEssence_575.json */,
+				6EDA4FF124B1F631001FD9B2 /* craftEssence_576.json */,
+				6EDA4FF324B1F709001FD9B2 /* craftEssence_578.json */,
+				6EDA4FF524B1F7DC001FD9B2 /* craftEssence_577.json */,
+				6EDA4FF724B1F854001FD9B2 /* craftEssence_579.json */,
+				6EDA4FF924B1F905001FD9B2 /* craftEssence_586.json */,
+				6EDA4FFB24B1F988001FD9B2 /* craftEssence_587.json */,
+				6EDA4FFD24B209D5001FD9B2 /* craftEssence_588.json */,
+				6EDA4FFF24B20A52001FD9B2 /* craftEssence_589.json */,
+				6EDA500124B20AAF001FD9B2 /* craftEssence_642.json */,
+				6EDA500324B20B0B001FD9B2 /* craftEssence_641.json */,
+				6EDA500524B20B6F001FD9B2 /* craftEssence_647.json */,
+				6EDA500724B20BB4001FD9B2 /* craftEssence_648.json */,
+				6EDA500924B20C0A001FD9B2 /* craftEssence_649.json */,
+				6EDA500B24B20C7D001FD9B2 /* craftEssence_650.json */,
+				6EDA500D24B20D56001FD9B2 /* craftEssence_656.json */,
+				6EDA500F24B20E05001FD9B2 /* craftEssence_657.json */,
+				6EDA501124B20E8D001FD9B2 /* craftEssence_658.json */,
+				6EDA501324B20F4D001FD9B2 /* craftEssence_651.json */,
+				6EDA501524B20FCB001FD9B2 /* craftEssence_669.json */,
+				6EDA501724B21057001FD9B2 /* craftEssence_675.json */,
+				6EDA501924B210E5001FD9B2 /* craftEssence_676.json */,
+				6EDA501B24B21195001FD9B2 /* craftEssence_677.json */,
+				6EDA501D24B212B5001FD9B2 /* craftEssence_678.json */,
+				6EDA501F24B21385001FD9B2 /* craftEssence_679.json */,
+				6EDA502124B2140A001FD9B2 /* craftEssence_686.json */,
+				6EDA502324B2149D001FD9B2 /* craftEssence_687.json */,
+				6EDA502524B21528001FD9B2 /* craftEssence_688.json */,
+				6EDA502724B21591001FD9B2 /* craftEssence_692.json */,
+				6EDA502924B216BC001FD9B2 /* craftEssence_693.json */,
+				6EDA502B24B217D7001FD9B2 /* craftEssence_694.json */,
+				6EDA502D24B2189F001FD9B2 /* craftEssence_695.json */,
+				6EDA502F24B21963001FD9B2 /* craftEssence_700.json */,
+				6EDA503124B219F9001FD9B2 /* craftEssence_701.json */,
+				6EDA503324B21AB6001FD9B2 /* craftEssence_709.json */,
+				6EDA503524B21B5C001FD9B2 /* craftEssence_717.json */,
+				6EDA503724B21C2D001FD9B2 /* craftEssence_762.json */,
+				6EDA503924B21CC3001FD9B2 /* craftEssence_787.json */,
+				6EDA503B24B21D91001FD9B2 /* craftEssence_788.json */,
+				6EDA503D24B21E0F001FD9B2 /* craftEssence_789.json */,
+				6EDA503F24B21E99001FD9B2 /* craftEssence_790.json */,
+				6EDA504124B21EEF001FD9B2 /* craftEssence_791.json */,
+				6EDA504324B21F54001FD9B2 /* craftEssence_798.json */,
 			);
 			path = CraftEssences;
 			sourceTree = "<group>";
@@ -3294,10 +3897,12 @@
 				6E1AC2CE248C90B0004C006A /* command_code_5.json in Resources */,
 				6E7D10AE24A22F42002A3F0F /* servant-basicInfo-183.json in Resources */,
 				6E441B2E24A4AC1300C87F57 /* servant-story-75.json in Resources */,
+				6EDA4F6C24B160B0001FD9B2 /* craftEssence_320.json in Resources */,
 				6E7EB4D324A7994800D6AE52 /* servant-skillAndPhantasm-274.json in Resources */,
 				6E441B2C24A4AC1300C87F57 /* servant-story-243.json in Resources */,
 				6E7D10D924A22F42002A3F0F /* servant-basicInfo-114.json in Resources */,
 				6E441BA624A4AC1300C87F57 /* servant-story-272.json in Resources */,
+				6EDA4F7224B16336001FD9B2 /* craftEssence_334.json in Resources */,
 				6E7D10B024A22F42002A3F0F /* servant-basicInfo-245.json in Resources */,
 				6E7EB53C24A7994800D6AE52 /* servant-skillAndPhantasm-57.json in Resources */,
 				6E7D10A824A22F42002A3F0F /* servant-basicInfo-244.json in Resources */,
@@ -3310,17 +3915,21 @@
 				6E7EB53624A7994800D6AE52 /* servant-skillAndPhantasm-128.json in Resources */,
 				6E7D117C24A22F42002A3F0F /* servant-basicInfo-14.json in Resources */,
 				6E7EB5C324A7994800D6AE52 /* servant-skillAndPhantasm-19.json in Resources */,
+				6EDA4EE824B06E98001FD9B2 /* craftEssence_270.json in Resources */,
 				6E7D10F324A22F42002A3F0F /* servant-basicInfo-30.json in Resources */,
 				6E7EB56324A7994800D6AE52 /* servant-skillAndPhantasm-157.json in Resources */,
 				6E441BB624A4AC1300C87F57 /* servant-story-193.json in Resources */,
+				6EDA4FD624B1E7A9001FD9B2 /* craftEssence_408.json in Resources */,
 				6E441BFB24A4AC1300C87F57 /* servant-story-235.json in Resources */,
 				6E7D10B924A22F42002A3F0F /* servant-basicInfo-182.json in Resources */,
 				6E441B4D24A4AC1300C87F57 /* servant-story-98.json in Resources */,
 				6E7D10F024A22F42002A3F0F /* servant-basicInfo-203.json in Resources */,
+				6E25581824AF50CE002BA7E9 /* craftEssence_322.json in Resources */,
 				6E7EB54A24A7994800D6AE52 /* servant-skillAndPhantasm-228.json in Resources */,
 				6E7EB59324A7994800D6AE52 /* servant-skillAndPhantasm-244.json in Resources */,
 				6E441B8124A4AC1300C87F57 /* servant-story-181.json in Resources */,
 				6E7EB57E24A7994800D6AE52 /* servant-skillAndPhantasm-113.json in Resources */,
+				6EDA4F9224B1C243001FD9B2 /* craftEssence_352.json in Resources */,
 				6E7EB4FE24A7994800D6AE52 /* servant-skillAndPhantasm-53.json in Resources */,
 				6E7D10E424A22F42002A3F0F /* servant-basicInfo-5.json in Resources */,
 				6E441B3124A4AC1300C87F57 /* servant-story-85.json in Resources */,
@@ -3329,6 +3938,7 @@
 				6E7D10D624A22F42002A3F0F /* servant-basicInfo-125.json in Resources */,
 				6E441AF724A4AC1300C87F57 /* servant-story-141.json in Resources */,
 				6E7D109E24A22F42002A3F0F /* servant-basicInfo-67.json in Resources */,
+				6EDA4F7024B16288001FD9B2 /* craftEssence_317.json in Resources */,
 				6E7EB5B724A7994800D6AE52 /* servant-skillAndPhantasm-115.json in Resources */,
 				6E441B0824A4AC1300C87F57 /* servant-story-200.json in Resources */,
 				6E441B6124A4AC1300C87F57 /* servant-story-71.json in Resources */,
@@ -3338,16 +3948,23 @@
 				6E441B9C24A4AC1300C87F57 /* servant-story-199.json in Resources */,
 				6E1AC2E8248C90B0004C006A /* command_code_50.json in Resources */,
 				6E7D116624A22F42002A3F0F /* servant-basicInfo-211.json in Resources */,
+				6EDA500624B20B6F001FD9B2 /* craftEssence_647.json in Resources */,
 				6E7D111824A22F42002A3F0F /* servant-basicInfo-173.json in Resources */,
 				6E7D118824A22F42002A3F0F /* servant-basicInfo-77.json in Resources */,
+				6EDA4F1624B07A8B001FD9B2 /* craftEssence_225.json in Resources */,
 				6E7EB51B24A7994800D6AE52 /* servant-skillAndPhantasm-252.json in Resources */,
 				6E441B4624A4AC1300C87F57 /* servant-story-167.json in Resources */,
 				6E7D10C324A22F42002A3F0F /* servant-basicInfo-79.json in Resources */,
 				6E441B4F24A4AC1300C87F57 /* servant-story-113.json in Resources */,
+				6EDA501A24B210E5001FD9B2 /* craftEssence_676.json in Resources */,
+				6EDA500424B20B0B001FD9B2 /* craftEssence_641.json in Resources */,
 				6E7D111024A22F42002A3F0F /* servant-basicInfo-186.json in Resources */,
 				6E7EB4C424A7994800D6AE52 /* servant-skillAndPhantasm-61.json in Resources */,
+				6EDA500C24B20C7D001FD9B2 /* craftEssence_650.json in Resources */,
+				6EDA4F4224B09B5B001FD9B2 /* craftEssence_306.json in Resources */,
 				6E441B5E24A4AC1300C87F57 /* servant-story-40.json in Resources */,
 				6E7D118F24A22F42002A3F0F /* servant-basicInfo-38.json in Resources */,
+				6EDA4F8424B1B939001FD9B2 /* craftEssence_350.json in Resources */,
 				6E441B6C24A4AC1300C87F57 /* servant-story-166.json in Resources */,
 				6E7EB57724A7994800D6AE52 /* servant-skillAndPhantasm-136.json in Resources */,
 				6E441B4524A4AC1300C87F57 /* servant-story-68.json in Resources */,
@@ -3359,23 +3976,32 @@
 				6E441B3F24A4AC1300C87F57 /* servant-story-39.json in Resources */,
 				6E441B3A24A4AC1300C87F57 /* servant-story-33.json in Resources */,
 				6E1AC2EB248C90B0004C006A /* command_code_26.json in Resources */,
+				6EDA4F6424B15ECD001FD9B2 /* craftEssence_301.json in Resources */,
 				6E1AC2C3248C90B0004C006A /* command_code_8.json in Resources */,
 				6E7EB4E324A7994800D6AE52 /* servant-skillAndPhantasm-134.json in Resources */,
 				6E7D116924A22F42002A3F0F /* servant-basicInfo-269.json in Resources */,
 				6E441B5B24A4AC1300C87F57 /* servant-story-23.json in Resources */,
 				6E7D10B624A22F42002A3F0F /* servant-basicInfo-129.json in Resources */,
+				6EDA4F9024B1C1A3001FD9B2 /* craftEssence_367.json in Resources */,
+				6EDA4F6024B0A777001FD9B2 /* craftEssence_300.json in Resources */,
 				6E7EB4BC24A7994800D6AE52 /* servant-skillAndPhantasm-278.json in Resources */,
+				6EDA4FF824B1F854001FD9B2 /* craftEssence_579.json in Resources */,
 				6E441AEB24A4AC1300C87F57 /* servant-story-226.json in Resources */,
 				6E1AC2E5248C90B0004C006A /* command_code_48.json in Resources */,
+				6EDA4FE624B1F288001FD9B2 /* craftEssence_548.json in Resources */,
+				6EDA4FB624B1CA5A001FD9B2 /* craftEssence_382.json in Resources */,
 				6E7EB54B24A7994800D6AE52 /* servant-skillAndPhantasm-87.json in Resources */,
 				6E7EB4D824A7994800D6AE52 /* servant-skillAndPhantasm-46.json in Resources */,
 				6E7D10DB24A22F42002A3F0F /* servant-basicInfo-214.json in Resources */,
 				6E441B9D24A4AC1300C87F57 /* servant-story-170.json in Resources */,
+				6EDA4F0C24B07852001FD9B2 /* craftEssence_200.json in Resources */,
 				6E7D117424A22F42002A3F0F /* servant-basicInfo-128.json in Resources */,
 				6E441B2824A4AC1300C87F57 /* servant-story-138.json in Resources */,
 				6E2FA594248A064000822AA0 /* LaunchScreen.storyboard in Resources */,
 				6E7EB57D24A7994800D6AE52 /* servant-skillAndPhantasm-280.json in Resources */,
+				6EDA4EE424B06D95001FD9B2 /* craftEssence_238.json in Resources */,
 				6E441AF624A4AC1300C87F57 /* servant-story-64.json in Resources */,
+				6E25581224AF4E01002BA7E9 /* craftEssence_252.json in Resources */,
 				6E7D117724A22F42002A3F0F /* servant-basicInfo-273.json in Resources */,
 				6E7D109A24A22F42002A3F0F /* servant-basicInfo-56.json in Resources */,
 				6E1AC2BA248C90B0004C006A /* command_code_2.json in Resources */,
@@ -3390,9 +4016,11 @@
 				6E7EB4B524A7994800D6AE52 /* servant-skillAndPhantasm-32.json in Resources */,
 				6E7D110924A22F42002A3F0F /* servant-basicInfo-93.json in Resources */,
 				6E7EB50B24A7994800D6AE52 /* servant-skillAndPhantasm-40.json in Resources */,
+				6EDA4F8A24B1BAE7001FD9B2 /* craftEssence_353.json in Resources */,
 				6E1AC2C1248C90B0004C006A /* command_code_1.json in Resources */,
 				6E7EB53024A7994800D6AE52 /* servant-skillAndPhantasm-33.json in Resources */,
 				6E7D114224A22F42002A3F0F /* servant-basicInfo-33.json in Resources */,
+				6EDA4FF624B1F7DC001FD9B2 /* craftEssence_577.json in Resources */,
 				6E1AC2D1248C90B0004C006A /* command_code_56.json in Resources */,
 				6E7D109824A22F42002A3F0F /* servant-basicInfo-231.json in Resources */,
 				6E7EB5BF24A7994800D6AE52 /* servant-skillAndPhantasm-256.json in Resources */,
@@ -3415,18 +4043,23 @@
 				6E1AC2E4248C90B0004C006A /* command_code_3.json in Resources */,
 				6E7D117024A22F42002A3F0F /* servant-basicInfo-120.json in Resources */,
 				6E441B8D24A4AC1300C87F57 /* servant-story-103.json in Resources */,
+				6EDA4FA024B1C5C1001FD9B2 /* craftEssence_374.json in Resources */,
 				6E7EB4E824A7994800D6AE52 /* servant-skillAndPhantasm-249.json in Resources */,
 				6E7EB55A24A7994800D6AE52 /* servant-skillAndPhantasm-207.json in Resources */,
 				6E7EB59024A7994800D6AE52 /* servant-skillAndPhantasm-245.json in Resources */,
 				6E7D115A24A22F42002A3F0F /* servant-basicInfo-281.json in Resources */,
 				6E7D111324A22F42002A3F0F /* servant-basicInfo-204.json in Resources */,
+				6EDA4FE424B1F119001FD9B2 /* craftEssence_547.json in Resources */,
 				6E7EB57824A7994800D6AE52 /* servant-skillAndPhantasm-5.json in Resources */,
+				6EDA4F0624B076D8001FD9B2 /* craftEssence_271.json in Resources */,
 				6E7D110D24A22F42002A3F0F /* servant-basicInfo-175.json in Resources */,
 				6E7D10C024A22F42002A3F0F /* servant-basicInfo-227.json in Resources */,
 				6E7EB50E24A7994800D6AE52 /* servant-skillAndPhantasm-135.json in Resources */,
 				6E7D113F24A22F42002A3F0F /* servant-basicInfo-74.json in Resources */,
 				6E7D10F224A22F42002A3F0F /* servant-basicInfo-249.json in Resources */,
+				6EDA4F8024B1B801001FD9B2 /* craftEssence_356.json in Resources */,
 				6E7D10E224A22F42002A3F0F /* servant-basicInfo-234.json in Resources */,
+				6EDA4FAA24B1C804001FD9B2 /* craftEssence_376.json in Resources */,
 				6E441B6524A4AC1300C87F57 /* servant-story-99.json in Resources */,
 				6E7D113424A22F42002A3F0F /* servant-basicInfo-257.json in Resources */,
 				6E7EB57F24A7994800D6AE52 /* servant-skillAndPhantasm-226.json in Resources */,
@@ -3446,11 +4079,15 @@
 				6E7D111124A22F42002A3F0F /* servant-basicInfo-88.json in Resources */,
 				6E7D118A24A22F42002A3F0F /* servant-basicInfo-243.json in Resources */,
 				6E1AC319248CC774004C006A /* mystic_code_8.json in Resources */,
+				6EDA4FB824B1CAB9001FD9B2 /* craftEssence_383.json in Resources */,
 				6E441B1924A4AC1300C87F57 /* servant-story-242.json in Resources */,
 				6E441B4E24A4AC1300C87F57 /* servant-story-160.json in Resources */,
 				6E7D116424A22F42002A3F0F /* servant-basicInfo-55.json in Resources */,
+				6EDA4FE224B1EFE1001FD9B2 /* craftEssence_546.json in Resources */,
 				6E7EB5B324A7994800D6AE52 /* servant-skillAndPhantasm-283.json in Resources */,
 				6E441AE824A4AC1300C87F57 /* servant-story-131.json in Resources */,
+				6EDA4F0A24B077ED001FD9B2 /* craftEssence_289.json in Resources */,
+				6EDA4EE624B06E19001FD9B2 /* craftEssence_208.json in Resources */,
 				6E1AC2D6248C90B0004C006A /* command_code_51.json in Resources */,
 				6E7D117D24A22F42002A3F0F /* servant-basicInfo-109.json in Resources */,
 				6E441AFB24A4AC1300C87F57 /* servant-story-258.json in Resources */,
@@ -3461,6 +4098,7 @@
 				6E441B2424A4AC1300C87F57 /* servant-story-92.json in Resources */,
 				6E7EB52824A7994800D6AE52 /* servant-skillAndPhantasm-49.json in Resources */,
 				6E441BE424A4AC1300C87F57 /* servant-story-48.json in Resources */,
+				6EDA4F8C24B1BC5B001FD9B2 /* craftEssence_358.json in Resources */,
 				6E7EB54924A7994800D6AE52 /* servant-skillAndPhantasm-219.json in Resources */,
 				6E7EB52224A7994800D6AE52 /* servant-skillAndPhantasm-96.json in Resources */,
 				6E7D10EE24A22F42002A3F0F /* servant-basicInfo-178.json in Resources */,
@@ -3469,6 +4107,7 @@
 				6E441B5624A4AC1300C87F57 /* servant-story-224.json in Resources */,
 				6E7D10A024A22F42002A3F0F /* servant-basicInfo-255.json in Resources */,
 				6E7EB50424A7994800D6AE52 /* servant-skillAndPhantasm-98.json in Resources */,
+				6EDA4FBA24B1CB1B001FD9B2 /* craftEssence_395.json in Resources */,
 				6E7D115F24A22F42002A3F0F /* servant-basicInfo-85.json in Resources */,
 				6E7D10B224A22F42002A3F0F /* servant-basicInfo-235.json in Resources */,
 				6E7EB55B24A7994800D6AE52 /* servant-skillAndPhantasm-184.json in Resources */,
@@ -3476,6 +4115,7 @@
 				6E7EB58724A7994800D6AE52 /* servant-skillAndPhantasm-241.json in Resources */,
 				6E7D116124A22F42002A3F0F /* servant-basicInfo-196.json in Resources */,
 				6E7D10A724A22F42002A3F0F /* servant-basicInfo-194.json in Resources */,
+				6EDA4FF024B1F58D001FD9B2 /* craftEssence_575.json in Resources */,
 				6E441B5224A4AC1300C87F57 /* servant-story-221.json in Resources */,
 				6E441B7824A4AC1300C87F57 /* servant-story-283.json in Resources */,
 				6E7EB5B524A7994800D6AE52 /* servant-skillAndPhantasm-118.json in Resources */,
@@ -3495,18 +4135,25 @@
 				6E441B7024A4AC1300C87F57 /* servant-story-256.json in Resources */,
 				6E441AFD24A4AC1300C87F57 /* servant-story-161.json in Resources */,
 				6E7D116B24A22F42002A3F0F /* servant-basicInfo-205.json in Resources */,
+				6EDA4EF624B072B7001FD9B2 /* craftEssence_290.json in Resources */,
 				6E441BB924A4AC1300C87F57 /* servant-story-19.json in Resources */,
+				6EDA4EDC24B04358001FD9B2 /* craftEssence_274.json in Resources */,
+				6EDA4EE224B06C79001FD9B2 /* craftEssence_273.json in Resources */,
 				6E7D110724A22F42002A3F0F /* servant-basicInfo-41.json in Resources */,
 				6E441AEA24A4AC1300C87F57 /* servant-story-179.json in Resources */,
 				6E7D10F124A22F42002A3F0F /* servant-basicInfo-185.json in Resources */,
 				6E7D110E24A22F42002A3F0F /* servant-basicInfo-63.json in Resources */,
+				6EDA4F5824B0A5A8001FD9B2 /* craftEssence_282.json in Resources */,
 				6E1AC2D9248C90B0004C006A /* command_code_41.json in Resources */,
 				6E7EB55424A7994800D6AE52 /* servant-skillAndPhantasm-47.json in Resources */,
 				6E7EB59724A7994800D6AE52 /* servant-skillAndPhantasm-102.json in Resources */,
 				6E7EB4CD24A7994800D6AE52 /* servant-skillAndPhantasm-94.json in Resources */,
+				6EDA4FB424B1C9F0001FD9B2 /* craftEssence_381.json in Resources */,
 				6E7EB59524A7994800D6AE52 /* servant-skillAndPhantasm-140.json in Resources */,
 				6E7EB59C24A7994800D6AE52 /* servant-skillAndPhantasm-73.json in Resources */,
 				6E7D11A524A22F42002A3F0F /* servant-basicInfo-174.json in Resources */,
+				6EDA504024B21E99001FD9B2 /* craftEssence_790.json in Resources */,
+				6EDA4FD024B1E0A1001FD9B2 /* craftEssence_405.json in Resources */,
 				6E7EB56624A7994800D6AE52 /* servant-skillAndPhantasm-16.json in Resources */,
 				6E7EB57124A7994800D6AE52 /* servant-skillAndPhantasm-127.json in Resources */,
 				6E7EB54824A7994800D6AE52 /* servant-skillAndPhantasm-218.json in Resources */,
@@ -3517,9 +4164,12 @@
 				6E7D10B524A22F42002A3F0F /* servant-basicInfo-216.json in Resources */,
 				6E7D10CD24A22F42002A3F0F /* servant-basicInfo-70.json in Resources */,
 				6E7EB53E24A7994800D6AE52 /* servant-skillAndPhantasm-269.json in Resources */,
+				6EDA503C24B21D91001FD9B2 /* craftEssence_788.json in Resources */,
 				6E441BE924A4AC1300C87F57 /* servant-story-150.json in Resources */,
+				6EDA4FFA24B1F905001FD9B2 /* craftEssence_586.json in Resources */,
 				6E7D109B24A22F42002A3F0F /* servant-basicInfo-140.json in Resources */,
 				6E7EB4F424A7994800D6AE52 /* servant-skillAndPhantasm-54.json in Resources */,
+				6EDA503624B21B5C001FD9B2 /* craftEssence_717.json in Resources */,
 				6E7D10C524A22F42002A3F0F /* servant-basicInfo-100.json in Resources */,
 				6E441B0A24A4AC1300C87F57 /* servant-story-63.json in Resources */,
 				6E7EB5AE24A7994800D6AE52 /* servant-skillAndPhantasm-15.json in Resources */,
@@ -3533,6 +4183,7 @@
 				6E7EB50624A7994800D6AE52 /* servant-skillAndPhantasm-233.json in Resources */,
 				6E441B8824A4AC1300C87F57 /* servant-story-72.json in Resources */,
 				6E7EB55324A7994800D6AE52 /* servant-skillAndPhantasm-196.json in Resources */,
+				6EDA4EFE24B0751D001FD9B2 /* craftEssence_198.json in Resources */,
 				6E7EB53B24A7994800D6AE52 /* servant-skillAndPhantasm-175.json in Resources */,
 				6E441B7F24A4AC1300C87F57 /* servant-story-3.json in Resources */,
 				6E7EB51D24A7994800D6AE52 /* servant-skillAndPhantasm-232.json in Resources */,
@@ -3544,30 +4195,38 @@
 				6E7EB5BD24A7994800D6AE52 /* servant-skillAndPhantasm-198.json in Resources */,
 				6E7D11A024A22F42002A3F0F /* servant-basicInfo-107.json in Resources */,
 				6E7D111F24A22F42002A3F0F /* servant-basicInfo-26.json in Resources */,
+				6EDA4F9424B1C2B6001FD9B2 /* craftEssence_368.json in Resources */,
 				6E7D115424A22F42002A3F0F /* servant-basicInfo-193.json in Resources */,
 				6E7D116F24A22F42002A3F0F /* servant-basicInfo-17.json in Resources */,
+				6EDA503024B21963001FD9B2 /* craftEssence_700.json in Resources */,
 				6E7D10B824A22F42002A3F0F /* servant-basicInfo-105.json in Resources */,
 				6E7EB5A524A7994800D6AE52 /* servant-skillAndPhantasm-125.json in Resources */,
 				6E1AC2D4248C90B0004C006A /* command_code_47.json in Resources */,
 				6E7EB5C024A7994800D6AE52 /* servant-skillAndPhantasm-138.json in Resources */,
+				6E2557F424AF45BA002BA7E9 /* craftEssence_191.json in Resources */,
 				6E7EB52A24A7994800D6AE52 /* servant-skillAndPhantasm-2.json in Resources */,
 				6E441B8924A4AC1300C87F57 /* servant-story-250.json in Resources */,
+				6EDA4F2E24B08384001FD9B2 /* craftEssence_248.json in Resources */,
 				6E7EB57024A7994800D6AE52 /* servant-skillAndPhantasm-172.json in Resources */,
 				6E441B0924A4AC1300C87F57 /* servant-story-66.json in Resources */,
 				6E7D116724A22F42002A3F0F /* servant-basicInfo-101.json in Resources */,
 				6E7D10BE24A22F42002A3F0F /* servant-basicInfo-94.json in Resources */,
+				6EDA4FF424B1F709001FD9B2 /* craftEssence_578.json in Resources */,
 				6E7EB50824A7994800D6AE52 /* servant-skillAndPhantasm-270.json in Resources */,
 				6E7D10CA24A22F42002A3F0F /* servant-basicInfo-139.json in Resources */,
 				6E7EB4BE24A7994800D6AE52 /* servant-skillAndPhantasm-107.json in Resources */,
 				6E1AC2C5248C90B0004C006A /* command_code_19.json in Resources */,
 				6E441BA224A4AC1300C87F57 /* servant-story-54.json in Resources */,
 				6E441BC924A4AC1300C87F57 /* servant-story-137.json in Resources */,
+				6EDA4F4424B09C8E001FD9B2 /* craftEssence_236.json in Resources */,
 				6E7EB51A24A7994800D6AE52 /* servant-skillAndPhantasm-221.json in Resources */,
 				6E1AC2DE248C90B0004C006A /* command_code_30.json in Resources */,
 				6E441B1824A4AC1300C87F57 /* servant-story-27.json in Resources */,
 				6E7EB50724A7994800D6AE52 /* servant-skillAndPhantasm-10.json in Resources */,
+				6EDA4F6824B15FC2001FD9B2 /* craftEssence_319.json in Resources */,
 				6E441BDB24A4AC1300C87F57 /* servant-story-248.json in Resources */,
 				6E7EB56124A7994800D6AE52 /* servant-skillAndPhantasm-14.json in Resources */,
+				6EDA501E24B212B5001FD9B2 /* craftEssence_678.json in Resources */,
 				6E7EB5B824A7994800D6AE52 /* servant-skillAndPhantasm-78.json in Resources */,
 				6E7D10D224A22F42002A3F0F /* servant-basicInfo-261.json in Resources */,
 				6E7EB4DD24A7994800D6AE52 /* servant-skillAndPhantasm-52.json in Resources */,
@@ -3575,9 +4234,12 @@
 				6E7D10D124A22F42002A3F0F /* servant-basicInfo-155.json in Resources */,
 				6E4C9D95248B8F4C00B96630 /* craftEssence_80.json in Resources */,
 				6E4C9DAC248BAF8400B96630 /* craftEssence_1080.json in Resources */,
+				6EDA4F0424B07670001FD9B2 /* craftEssence_220.json in Resources */,
 				6E7D10A424A22F42002A3F0F /* servant-basicInfo-195.json in Resources */,
+				6EDA4FE024B1EE84001FD9B2 /* craftEssence_429.json in Resources */,
 				6E7EB4B824A7994800D6AE52 /* servant-skillAndPhantasm-248.json in Resources */,
 				6E7D10E324A22F42002A3F0F /* servant-basicInfo-283.json in Resources */,
+				6EDA4F1424B07A02001FD9B2 /* craftEssence_272.json in Resources */,
 				6E7EB58E24A7994800D6AE52 /* servant-skillAndPhantasm-211.json in Resources */,
 				6E441BE024A4AC1300C87F57 /* servant-story-263.json in Resources */,
 				6E7D119224A22F42002A3F0F /* servant-basicInfo-135.json in Resources */,
@@ -3586,6 +4248,8 @@
 				6E7EB56B24A7994800D6AE52 /* servant-skillAndPhantasm-77.json in Resources */,
 				6E7D114924A22F42002A3F0F /* servant-basicInfo-192.json in Resources */,
 				6E1AC324248CC774004C006A /* mystic_code_15.json in Resources */,
+				6EDA4FEC24B1F4A3001FD9B2 /* craftEssence_567.json in Resources */,
+				6EDA4F9C24B1C4C7001FD9B2 /* craftEssence_369.json in Resources */,
 				6E7EB50C24A7994800D6AE52 /* servant-skillAndPhantasm-124.json in Resources */,
 				6E7D115224A22F42002A3F0F /* servant-basicInfo-246.json in Resources */,
 				6E441B6724A4AC1300C87F57 /* servant-story-30.json in Resources */,
@@ -3596,9 +4260,12 @@
 				6E7D113324A22F42002A3F0F /* servant-basicInfo-91.json in Resources */,
 				6E441BC224A4AC1300C87F57 /* servant-story-269.json in Resources */,
 				6E7EB59824A7994800D6AE52 /* servant-skillAndPhantasm-279.json in Resources */,
+				6E25580E24AF4D3F002BA7E9 /* craftEssence_323.json in Resources */,
+				6EDA502824B21591001FD9B2 /* craftEssence_692.json in Resources */,
 				6E7EB4EC24A7994800D6AE52 /* servant-skillAndPhantasm-150.json in Resources */,
 				6E7D113524A22F42002A3F0F /* servant-basicInfo-80.json in Resources */,
 				6E441BAD24A4AC1300C87F57 /* servant-story-1.json in Resources */,
+				6EDA4EDE24B04540001FD9B2 /* craftEssence_287.json in Resources */,
 				6E441B1224A4AC1300C87F57 /* servant-story-41.json in Resources */,
 				6E441B5824A4AC1300C87F57 /* servant-story-217.json in Resources */,
 				6E1AC2F9248C95BF004C006A /* command_code_64.json in Resources */,
@@ -3617,9 +4284,12 @@
 				6E7D112D24A22F42002A3F0F /* servant-basicInfo-122.json in Resources */,
 				6E7D10EA24A22F42002A3F0F /* servant-basicInfo-172.json in Resources */,
 				6E441B6E24A4AC1300C87F57 /* servant-story-76.json in Resources */,
+				6EDA4F1E24B07C5A001FD9B2 /* craftEssence_308.json in Resources */,
 				6E441B9924A4AC1300C87F57 /* servant-story-74.json in Resources */,
 				6E441B5724A4AC1300C87F57 /* servant-story-225.json in Resources */,
+				6EDA4EF224B07153001FD9B2 /* craftEssence_321.json in Resources */,
 				6E441BF724A4AC1300C87F57 /* servant-story-47.json in Resources */,
+				6EDA501424B20F4D001FD9B2 /* craftEssence_651.json in Resources */,
 				6E7D118B24A22F42002A3F0F /* servant-basicInfo-233.json in Resources */,
 				6E7D10D724A22F42002A3F0F /* servant-basicInfo-189.json in Resources */,
 				6E441BD324A4AC1300C87F57 /* servant-story-245.json in Resources */,
@@ -3627,19 +4297,24 @@
 				6E7EB51924A7994800D6AE52 /* servant-skillAndPhantasm-71.json in Resources */,
 				6E7EB4DA24A7994800D6AE52 /* servant-skillAndPhantasm-97.json in Resources */,
 				6E7EB4F824A7994800D6AE52 /* servant-skillAndPhantasm-24.json in Resources */,
+				6E2557F624AF46B4002BA7E9 /* craftEssence_195.json in Resources */,
 				6E441B3924A4AC1300C87F57 /* servant-story-227.json in Resources */,
 				6E7D11A924A22F42002A3F0F /* servant-basicInfo-25.json in Resources */,
 				6E441BD024A4AC1300C87F57 /* servant-story-25.json in Resources */,
+				6EDA4EFC24B074A8001FD9B2 /* craftEssence_192.json in Resources */,
 				6E441B1124A4AC1300C87F57 /* servant-story-232.json in Resources */,
 				6E7EB4CF24A7994800D6AE52 /* servant-skillAndPhantasm-70.json in Resources */,
 				6E441B2D24A4AC1300C87F57 /* servant-story-271.json in Resources */,
 				6E441BB824A4AC1300C87F57 /* servant-story-109.json in Resources */,
 				6E7EB51124A7994800D6AE52 /* servant-skillAndPhantasm-178.json in Resources */,
+				6EDA4F4C24B0A300001FD9B2 /* craftEssence_281.json in Resources */,
+				6EDA4F4824B0A10C001FD9B2 /* craftEssence_267.json in Resources */,
 				6E441AF824A4AC1300C87F57 /* servant-story-44.json in Resources */,
 				6E1AC2BF248C90B0004C006A /* command_code_24.json in Resources */,
 				6E7EB55624A7994800D6AE52 /* servant-skillAndPhantasm-4.json in Resources */,
 				6E441B1324A4AC1300C87F57 /* servant-story-188.json in Resources */,
 				6E441B3824A4AC1300C87F57 /* servant-story-197.json in Resources */,
+				6EDA4F3C24B098B2001FD9B2 /* craftEssence_235.json in Resources */,
 				6E7D117824A22F42002A3F0F /* servant-basicInfo-137.json in Resources */,
 				6E7D10C824A22F42002A3F0F /* servant-basicInfo-106.json in Resources */,
 				6E7D116224A22F42002A3F0F /* servant-basicInfo-236.json in Resources */,
@@ -3647,20 +4322,27 @@
 				6E7EB4BD24A7994800D6AE52 /* servant-skillAndPhantasm-129.json in Resources */,
 				6E441BDD24A4AC1300C87F57 /* servant-story-183.json in Resources */,
 				6E7EB4D524A7994800D6AE52 /* servant-skillAndPhantasm-273.json in Resources */,
+				6EDA4EEA24B06F43001FD9B2 /* craftEssence_255.json in Resources */,
+				6EDA4F2C24B08178001FD9B2 /* craftEssence_234.json in Resources */,
 				6E7D10C424A22F42002A3F0F /* servant-basicInfo-44.json in Resources */,
 				6E7D114124A22F42002A3F0F /* servant-basicInfo-96.json in Resources */,
+				6EDA4F1824B07B04001FD9B2 /* craftEssence_217.json in Resources */,
 				6E441B4724A4AC1300C87F57 /* servant-story-214.json in Resources */,
 				6E7D11A324A22F42002A3F0F /* servant-basicInfo-274.json in Resources */,
 				6E7EB55524A7994800D6AE52 /* servant-skillAndPhantasm-197.json in Resources */,
 				6E1AC2CA248C90B0004C006A /* command_code_29.json in Resources */,
+				6EDA4F5624B0A549001FD9B2 /* craftEssence_284.json in Resources */,
 				6E441B0524A4AC1300C87F57 /* servant-story-42.json in Resources */,
 				6E441B1F24A4AC1300C87F57 /* servant-story-32.json in Resources */,
 				6E7EB4FA24A7994800D6AE52 /* servant-skillAndPhantasm-171.json in Resources */,
+				6E25580224AF4A93002BA7E9 /* craftEssence_304.json in Resources */,
 				6E441BD224A4AC1300C87F57 /* servant-story-264.json in Resources */,
 				6E7EB51E24A7994800D6AE52 /* servant-skillAndPhantasm-101.json in Resources */,
 				6E7EB53F24A7994800D6AE52 /* servant-skillAndPhantasm-91.json in Resources */,
+				6E25580C24AF4CC6002BA7E9 /* craftEssence_233.json in Resources */,
 				6E7EB55824A7994800D6AE52 /* servant-skillAndPhantasm-106.json in Resources */,
 				6E441B8A24A4AC1300C87F57 /* servant-story-165.json in Resources */,
+				6EDA4FEE24B1F50D001FD9B2 /* craftEssence_568.json in Resources */,
 				6E7D10DA24A22F42002A3F0F /* servant-basicInfo-177.json in Resources */,
 				6E441B4424A4AC1300C87F57 /* servant-story-34.json in Resources */,
 				6E7D10B724A22F42002A3F0F /* servant-basicInfo-6.json in Resources */,
@@ -3670,6 +4352,7 @@
 				6E441BA324A4AC1300C87F57 /* servant-story-9.json in Resources */,
 				6E7D115C24A22F42002A3F0F /* servant-basicInfo-130.json in Resources */,
 				6E7EB4F724A7994800D6AE52 /* servant-skillAndPhantasm-202.json in Resources */,
+				6EDA4F7A24B16585001FD9B2 /* craftEssence_337.json in Resources */,
 				6E7EB4F924A7994800D6AE52 /* servant-skillAndPhantasm-45.json in Resources */,
 				6E7D116524A22F42002A3F0F /* servant-basicInfo-145.json in Resources */,
 				6E7D115324A22F42002A3F0F /* servant-basicInfo-68.json in Resources */,
@@ -3679,18 +4362,24 @@
 				6E441BEB24A4AC1300C87F57 /* servant-story-153.json in Resources */,
 				6E7EB56824A7994800D6AE52 /* servant-skillAndPhantasm-23.json in Resources */,
 				6E7EB51824A7994800D6AE52 /* servant-skillAndPhantasm-86.json in Resources */,
+				6EDA4F0E24B078C6001FD9B2 /* craftEssence_206.json in Resources */,
 				6E441B9F24A4AC1300C87F57 /* servant-story-36.json in Resources */,
 				6E441BFC24A4AC1300C87F57 /* servant-story-162.json in Resources */,
 				6E7D10C224A22F42002A3F0F /* servant-basicInfo-221.json in Resources */,
+				6E25580624AF4BA3002BA7E9 /* craftEssence_196.json in Resources */,
 				6E1AC317248CC774004C006A /* mystic_code_4.json in Resources */,
 				6E7D118224A22F42002A3F0F /* servant-basicInfo-253.json in Resources */,
 				6E7EB4DF24A7994800D6AE52 /* servant-skillAndPhantasm-191.json in Resources */,
 				6E7EB4C824A7994800D6AE52 /* servant-skillAndPhantasm-158.json in Resources */,
 				6E7EB5AD24A7994800D6AE52 /* servant-skillAndPhantasm-37.json in Resources */,
+				6EDA4F2824B08085001FD9B2 /* craftEssence_194.json in Resources */,
 				6E441B8C24A4AC1300C87F57 /* servant-story-106.json in Resources */,
 				6E7EB59F24A7994800D6AE52 /* servant-skillAndPhantasm-214.json in Resources */,
+				6EDA4EFA24B073CB001FD9B2 /* craftEssence_275.json in Resources */,
 				6E441B8424A4AC1300C87F57 /* servant-story-192.json in Resources */,
+				6EDA502C24B217D7001FD9B2 /* craftEssence_694.json in Resources */,
 				6E1AC2E6248C90B0004C006A /* command_code_14.json in Resources */,
+				6EDA4F7624B1646B001FD9B2 /* craftEssence_336.json in Resources */,
 				6E7D113024A22F42002A3F0F /* servant-basicInfo-218.json in Resources */,
 				6E441B4224A4AC1300C87F57 /* servant-story-148.json in Resources */,
 				6E7D10AA24A22F42002A3F0F /* servant-basicInfo-226.json in Resources */,
@@ -3708,9 +4397,13 @@
 				6E1AC2C4248C90B0004C006A /* command_code_32.json in Resources */,
 				6E441AEC24A4AC1300C87F57 /* servant-story-13.json in Resources */,
 				6E7EB53724A7994800D6AE52 /* servant-skillAndPhantasm-34.json in Resources */,
+				6EDA4FA624B1C71F001FD9B2 /* craftEssence_372.json in Resources */,
 				6E441BE524A4AC1300C87F57 /* servant-story-189.json in Resources */,
+				6EDA4F7824B16514001FD9B2 /* craftEssence_338.json in Resources */,
+				6EDA4F6E24B161F5001FD9B2 /* craftEssence_355.json in Resources */,
 				6E7D10E024A22F42002A3F0F /* servant-basicInfo-60.json in Resources */,
 				6E7EB4E924A7994800D6AE52 /* servant-skillAndPhantasm-230.json in Resources */,
+				6EDA4F4A24B0A26B001FD9B2 /* craftEssence_266.json in Resources */,
 				6E7D113124A22F42002A3F0F /* servant-basicInfo-180.json in Resources */,
 				6E7D111724A22F42002A3F0F /* servant-basicInfo-110.json in Resources */,
 				6E7D112024A22F42002A3F0F /* servant-basicInfo-66.json in Resources */,
@@ -3721,52 +4414,75 @@
 				6E441B8224A4AC1300C87F57 /* servant-story-202.json in Resources */,
 				6E441BDE24A4AC1300C87F57 /* servant-story-5.json in Resources */,
 				6E7EB57924A7994800D6AE52 /* servant-skillAndPhantasm-239.json in Resources */,
+				6EDA4F3824B097A6001FD9B2 /* craftEssence_318.json in Resources */,
 				6E441B6D24A4AC1300C87F57 /* servant-story-56.json in Resources */,
 				6E441AF924A4AC1300C87F57 /* servant-story-247.json in Resources */,
 				6E7D111924A22F42002A3F0F /* servant-basicInfo-136.json in Resources */,
 				6E441AEF24A4AC1300C87F57 /* servant-story-101.json in Resources */,
 				6E7D110C24A22F42002A3F0F /* servant-basicInfo-215.json in Resources */,
+				6EDA500824B20BB4001FD9B2 /* craftEssence_648.json in Resources */,
+				6EDA502224B2140A001FD9B2 /* craftEssence_686.json in Resources */,
+				6EDA4FD824B1E86B001FD9B2 /* craftEssence_410.json in Resources */,
+				6EDA4F2A24B080F6001FD9B2 /* craftEssence_230.json in Resources */,
+				6EDA4F5224B0A45A001FD9B2 /* craftEssence_343.json in Resources */,
+				6EDA4FDE24B1ED36001FD9B2 /* craftEssence_417.json in Resources */,
 				6E441B0124A4AC1300C87F57 /* servant-story-55.json in Resources */,
 				6E7D10D524A22F42002A3F0F /* servant-basicInfo-21.json in Resources */,
 				6E7D10E624A22F42002A3F0F /* servant-basicInfo-157.json in Resources */,
 				6E7EB5C224A7994800D6AE52 /* servant-skillAndPhantasm-13.json in Resources */,
+				6EDA4EF424B071E2001FD9B2 /* craftEssence_209.json in Resources */,
+				6E2557FA24AF4826002BA7E9 /* craftEssence_218.json in Resources */,
+				6EDA4F6624B15F4C001FD9B2 /* craftEssence_315.json in Resources */,
 				6E7EB50A24A7994800D6AE52 /* servant-skillAndPhantasm-195.json in Resources */,
+				6EDA4FCA24B1DDEA001FD9B2 /* craftEssence_406.json in Resources */,
+				6EDA501824B21057001FD9B2 /* craftEssence_675.json in Resources */,
 				6E7EB4DE24A7994800D6AE52 /* servant-skillAndPhantasm-174.json in Resources */,
 				6E1AC31B248CC774004C006A /* mystic_code_5.json in Resources */,
 				6E7D119024A22F42002A3F0F /* servant-basicInfo-250.json in Resources */,
+				6EDA4F3624B0973E001FD9B2 /* craftEssence_250.json in Resources */,
 				6E441BF024A4AC1300C87F57 /* servant-story-208.json in Resources */,
+				6EDA502024B21385001FD9B2 /* craftEssence_679.json in Resources */,
 				6E441BD424A4AC1300C87F57 /* servant-story-91.json in Resources */,
 				6E7D112F24A22F42002A3F0F /* servant-basicInfo-47.json in Resources */,
 				6E1AC318248CC774004C006A /* mystic_code_2.json in Resources */,
+				6EDA4F1224B0799F001FD9B2 /* craftEssence_232.json in Resources */,
 				6E7EB57224A7994800D6AE52 /* servant-skillAndPhantasm-231.json in Resources */,
 				6E7EB56A24A7994800D6AE52 /* servant-skillAndPhantasm-122.json in Resources */,
 				6E441B3424A4AC1300C87F57 /* servant-story-204.json in Resources */,
 				6E4C9DA0248BA1CB00B96630 /* craftEssence_242.json in Resources */,
 				6E7D110B24A22F42002A3F0F /* servant-basicInfo-82.json in Resources */,
 				6E7EB4D924A7994800D6AE52 /* servant-skillAndPhantasm-119.json in Resources */,
+				6EDA4FF224B1F631001FD9B2 /* craftEssence_576.json in Resources */,
+				6EDA4F3A24B09847001FD9B2 /* craftEssence_249.json in Resources */,
 				6E7EB4B724A7994800D6AE52 /* servant-skillAndPhantasm-247.json in Resources */,
 				6E7D10E924A22F42002A3F0F /* servant-basicInfo-126.json in Resources */,
 				6E441B7724A4AC1300C87F57 /* servant-story-146.json in Resources */,
 				6E7EB54524A7994800D6AE52 /* servant-skillAndPhantasm-243.json in Resources */,
 				6E7EB51224A7994800D6AE52 /* servant-skillAndPhantasm-161.json in Resources */,
+				6EDA4FC024B1D99E001FD9B2 /* craftEssence_392.json in Resources */,
 				6E7D10E824A22F42002A3F0F /* servant-basicInfo-277.json in Resources */,
 				6E1AC2DA248C90B0004C006A /* command_code_43.json in Resources */,
 				6E7D10F724A22F42002A3F0F /* servant-basicInfo-95.json in Resources */,
 				6E7EB4F324A7994800D6AE52 /* servant-skillAndPhantasm-56.json in Resources */,
 				6E7EB4D224A7994800D6AE52 /* servant-skillAndPhantasm-85.json in Resources */,
+				6EDA4FC424B1DBF9001FD9B2 /* craftEssence_398.json in Resources */,
 				6E441B2124A4AC1300C87F57 /* servant-story-173.json in Resources */,
 				6E441BC124A4AC1300C87F57 /* servant-story-135.json in Resources */,
+				6EDA4FC824B1DD37001FD9B2 /* craftEssence_397.json in Resources */,
 				6E7EB59B24A7994800D6AE52 /* servant-skillAndPhantasm-58.json in Resources */,
 				6E1AC31F248CC774004C006A /* mystic_code_11.json in Resources */,
 				6E441B5C24A4AC1300C87F57 /* servant-story-52.json in Resources */,
+				6EDA4F3224B08571001FD9B2 /* craftEssence_324.json in Resources */,
 				6E7D113A24A22F42002A3F0F /* servant-basicInfo-58.json in Resources */,
 				6E7EB4C924A7994800D6AE52 /* servant-skillAndPhantasm-142.json in Resources */,
+				6EDA4F8E24B1BCCE001FD9B2 /* craftEssence_354.json in Resources */,
 				6E7D113624A22F42002A3F0F /* servant-basicInfo-264.json in Resources */,
 				6E7D110524A22F42002A3F0F /* servant-basicInfo-112.json in Resources */,
 				6E7EB57424A7994800D6AE52 /* servant-skillAndPhantasm-42.json in Resources */,
 				6E7D117F24A22F42002A3F0F /* servant-basicInfo-163.json in Resources */,
 				6E7EB52524A7994800D6AE52 /* servant-skillAndPhantasm-255.json in Resources */,
 				6E441B2924A4AC1300C87F57 /* servant-story-184.json in Resources */,
+				6EDA500024B20A52001FD9B2 /* craftEssence_589.json in Resources */,
 				6E441B0D24A4AC1300C87F57 /* servant-story-218.json in Resources */,
 				6E7D10C624A22F42002A3F0F /* servant-basicInfo-169.json in Resources */,
 				6E7D10F524A22F42002A3F0F /* servant-basicInfo-238.json in Resources */,
@@ -3775,6 +4491,7 @@
 				6E441BF924A4AC1300C87F57 /* servant-story-157.json in Resources */,
 				6E7EB4D024A7994800D6AE52 /* servant-skillAndPhantasm-121.json in Resources */,
 				6E1AC1FE248C83D6004C006A /* craftEssence_1214.json in Resources */,
+				6EDA4F3024B08404001FD9B2 /* craftEssence_222.json in Resources */,
 				6E441BC824A4AC1300C87F57 /* servant-story-102.json in Resources */,
 				6E7EB50524A7994800D6AE52 /* servant-skillAndPhantasm-170.json in Resources */,
 				6E7D10E124A22F42002A3F0F /* servant-basicInfo-81.json in Resources */,
@@ -3794,15 +4511,21 @@
 				6E7EB5A024A7994800D6AE52 /* servant-skillAndPhantasm-74.json in Resources */,
 				6E7EB4FF24A7994800D6AE52 /* servant-skillAndPhantasm-225.json in Resources */,
 				6E7EB50024A7994800D6AE52 /* servant-skillAndPhantasm-186.json in Resources */,
+				6EDA4EF824B0734F001FD9B2 /* craftEssence_305.json in Resources */,
 				6E7D112B24A22F42002A3F0F /* servant-basicInfo-161.json in Resources */,
+				6EDA4FAC24B1C85D001FD9B2 /* craftEssence_385.json in Resources */,
 				6E441B1C24A4AC1300C87F57 /* servant-story-203.json in Resources */,
 				6E7EB52F24A7994800D6AE52 /* servant-skillAndPhantasm-38.json in Resources */,
 				6E7D115924A22F42002A3F0F /* servant-basicInfo-188.json in Resources */,
+				6EDA4F0824B0777A001FD9B2 /* craftEssence_307.json in Resources */,
 				6E7D118124A22F42002A3F0F /* servant-basicInfo-52.json in Resources */,
 				6E441BCD24A4AC1300C87F57 /* servant-story-186.json in Resources */,
 				6E441B3324A4AC1300C87F57 /* servant-story-178.json in Resources */,
+				6EDA502624B21528001FD9B2 /* craftEssence_688.json in Resources */,
 				6E7EB4C524A7994800D6AE52 /* servant-skillAndPhantasm-208.json in Resources */,
 				6E7EB5A124A7994800D6AE52 /* servant-skillAndPhantasm-21.json in Resources */,
+				6EDA4FE824B1F329001FD9B2 /* craftEssence_549.json in Resources */,
+				6EDA4FBE24B1D8C7001FD9B2 /* craftEssence_394.json in Resources */,
 				6E4C9DB0248BB08D00B96630 /* craftEssence_1149.json in Resources */,
 				6E7D112224A22F42002A3F0F /* servant-basicInfo-73.json in Resources */,
 				6E7D112A24A22F42002A3F0F /* servant-basicInfo-65.json in Resources */,
@@ -3812,10 +4535,13 @@
 				6E441B8F24A4AC1300C87F57 /* servant-story-59.json in Resources */,
 				6E1AC320248CC774004C006A /* mystic_code_1.json in Resources */,
 				6E1AC2F0248C90B0004C006A /* command_code_36.json in Resources */,
+				6EDA501024B20E05001FD9B2 /* craftEssence_657.json in Resources */,
 				6E441BA124A4AC1300C87F57 /* servant-story-196.json in Resources */,
 				6E441B3524A4AC1300C87F57 /* servant-story-61.json in Resources */,
 				6E4C9DA6248BADDE00B96630 /* craftEssence_910.json in Resources */,
 				6E7EB54124A7994800D6AE52 /* servant-skillAndPhantasm-112.json in Resources */,
+				6EDA4F6224B15E4D001FD9B2 /* craftEssence_302.json in Resources */,
+				6EDA502A24B216BC001FD9B2 /* craftEssence_693.json in Resources */,
 				6E7EB4ED24A7994800D6AE52 /* servant-skillAndPhantasm-35.json in Resources */,
 				6E441AFC24A4AC1300C87F57 /* servant-story-276.json in Resources */,
 				6E441BB324A4AC1300C87F57 /* servant-story-93.json in Resources */,
@@ -3826,16 +4552,21 @@
 				6E7D11A124A22F42002A3F0F /* servant-basicInfo-19.json in Resources */,
 				6E7D10D024A22F42002A3F0F /* servant-basicInfo-89.json in Resources */,
 				6E7EB5BC24A7994800D6AE52 /* servant-skillAndPhantasm-90.json in Resources */,
+				6EDA504424B21F54001FD9B2 /* craftEssence_798.json in Resources */,
 				6E441BE224A4AC1300C87F57 /* servant-story-26.json in Resources */,
 				6E7D10A524A22F42002A3F0F /* servant-basicInfo-179.json in Resources */,
+				6EDA4FD224B1E5FA001FD9B2 /* craftEssence_407.json in Resources */,
 				6E441B9624A4AC1300C87F57 /* servant-story-65.json in Resources */,
 				6E7EB4B924A7994800D6AE52 /* servant-skillAndPhantasm-159.json in Resources */,
+				6EDA501C24B21195001FD9B2 /* craftEssence_677.json in Resources */,
 				6E441B3024A4AC1300C87F57 /* servant-story-128.json in Resources */,
 				6E7EB57324A7994800D6AE52 /* servant-skillAndPhantasm-281.json in Resources */,
 				6E441B9124A4AC1300C87F57 /* servant-story-244.json in Resources */,
+				6E2557F824AF4796002BA7E9 /* craftEssence_221.json in Resources */,
 				6E1AC31A248CC774004C006A /* mystic_code_10.json in Resources */,
 				6E7D11A624A22F42002A3F0F /* servant-basicInfo-266.json in Resources */,
 				6E7D114A24A22F42002A3F0F /* servant-basicInfo-13.json in Resources */,
+				6EDA504224B21EEF001FD9B2 /* craftEssence_791.json in Resources */,
 				6E441B2724A4AC1300C87F57 /* servant-story-17.json in Resources */,
 				6E7D112624A22F42002A3F0F /* servant-basicInfo-170.json in Resources */,
 				6E441B3E24A4AC1300C87F57 /* servant-story-43.json in Resources */,
@@ -3850,6 +4581,7 @@
 				6E7D116024A22F42002A3F0F /* servant-basicInfo-219.json in Resources */,
 				6E441B7324A4AC1300C87F57 /* servant-story-180.json in Resources */,
 				6E441BB124A4AC1300C87F57 /* servant-story-174.json in Resources */,
+				6EDA4FFE24B209D5001FD9B2 /* craftEssence_588.json in Resources */,
 				6E7EB4F624A7994800D6AE52 /* servant-skillAndPhantasm-55.json in Resources */,
 				6E1AC2D8248C90B0004C006A /* command_code_46.json in Resources */,
 				6E7D119E24A22F42002A3F0F /* servant-basicInfo-256.json in Resources */,
@@ -3872,20 +4604,28 @@
 				6E7D10F824A22F42002A3F0F /* servant-basicInfo-15.json in Resources */,
 				6E441BCE24A4AC1300C87F57 /* servant-story-20.json in Resources */,
 				6E7EB4C724A7994800D6AE52 /* servant-skillAndPhantasm-133.json in Resources */,
+				6EDA4FC624B1DC60001FD9B2 /* craftEssence_393.json in Resources */,
 				6E7EB51424A7994800D6AE52 /* servant-skillAndPhantasm-116.json in Resources */,
+				6E25580424AF4B2D002BA7E9 /* craftEssence_202.json in Resources */,
+				6EDA4FA824B1C798001FD9B2 /* craftEssence_386.json in Resources */,
 				6E7D117324A22F42002A3F0F /* servant-basicInfo-260.json in Resources */,
+				6EDA4F7C24B16842001FD9B2 /* craftEssence_340.json in Resources */,
 				6E7D10EC24A22F42002A3F0F /* servant-basicInfo-164.json in Resources */,
 				6E441B6624A4AC1300C87F57 /* servant-story-261.json in Resources */,
 				6E441B2324A4AC1300C87F57 /* servant-story-124.json in Resources */,
 				6E1AC2F3248C932D004C006A /* command_code_61.json in Resources */,
 				6E441B6824A4AC1300C87F57 /* servant-story-96.json in Resources */,
+				6EDA4F1024B0793D001FD9B2 /* craftEssence_197.json in Resources */,
 				6E7D114F24A22F42002A3F0F /* servant-basicInfo-98.json in Resources */,
+				6EDA4F9A24B1C443001FD9B2 /* craftEssence_375.json in Resources */,
 				6E441B7D24A4AC1300C87F57 /* servant-story-260.json in Resources */,
+				6EDA4FB024B1C925001FD9B2 /* craftEssence_379.json in Resources */,
 				6E7D110124A22F42002A3F0F /* servant-basicInfo-248.json in Resources */,
 				6E441BA424A4AC1300C87F57 /* servant-story-123.json in Resources */,
 				6E7EB4E724A7994800D6AE52 /* servant-skillAndPhantasm-36.json in Resources */,
 				6E441BC324A4AC1300C87F57 /* servant-story-94.json in Resources */,
 				6E7EB4E524A7994800D6AE52 /* servant-skillAndPhantasm-190.json in Resources */,
+				6EDA500E24B20D56001FD9B2 /* craftEssence_656.json in Resources */,
 				6E7D10AD24A22F42002A3F0F /* servant-basicInfo-124.json in Resources */,
 				6E441BAE24A4AC1300C87F57 /* servant-story-219.json in Resources */,
 				6E7EB50D24A7994800D6AE52 /* servant-skillAndPhantasm-72.json in Resources */,
@@ -3904,7 +4644,9 @@
 				6E7EB58324A7994800D6AE52 /* servant-skillAndPhantasm-147.json in Resources */,
 				6E441B7224A4AC1300C87F57 /* servant-story-253.json in Resources */,
 				6E7D10DE24A22F42002A3F0F /* servant-basicInfo-37.json in Resources */,
+				6EDA4F5A24B0A615001FD9B2 /* craftEssence_283.json in Resources */,
 				6E7EB4E124A7994800D6AE52 /* servant-skillAndPhantasm-253.json in Resources */,
+				6EDA4FD424B1E68C001FD9B2 /* craftEssence_409.json in Resources */,
 				6E7EB58A24A7994800D6AE52 /* servant-skillAndPhantasm-263.json in Resources */,
 				6E7EB5A324A7994800D6AE52 /* servant-skillAndPhantasm-193.json in Resources */,
 				6E7EB5A224A7994800D6AE52 /* servant-skillAndPhantasm-1.json in Resources */,
@@ -3918,6 +4660,8 @@
 				6E441BB524A4AC1300C87F57 /* servant-story-252.json in Resources */,
 				6E1AC2EF248C90B0004C006A /* command_code_33.json in Resources */,
 				6E7D10A624A22F42002A3F0F /* servant-basicInfo-57.json in Resources */,
+				6EDA4FCE24B1DFCA001FD9B2 /* craftEssence_404.json in Resources */,
+				6EDA4FC224B1DAC2001FD9B2 /* craftEssence_396.json in Resources */,
 				6E4C9DAE248BB00F00B96630 /* craftEssence_1121.json in Resources */,
 				6E7D10BC24A22F42002A3F0F /* servant-basicInfo-54.json in Resources */,
 				6E441B0F24A4AC1300C87F57 /* servant-story-79.json in Resources */,
@@ -3943,6 +4687,7 @@
 				6E7D110A24A22F42002A3F0F /* servant-basicInfo-53.json in Resources */,
 				6E441B9324A4AC1300C87F57 /* servant-story-206.json in Resources */,
 				6E441B9E24A4AC1300C87F57 /* servant-story-57.json in Resources */,
+				6EDA4F8824B1BA3B001FD9B2 /* craftEssence_351.json in Resources */,
 				6E441BF324A4AC1300C87F57 /* servant-story-267.json in Resources */,
 				6E7EB4FD24A7994800D6AE52 /* servant-skillAndPhantasm-164.json in Resources */,
 				6E441B4024A4AC1300C87F57 /* servant-story-134.json in Resources */,
@@ -3962,19 +4707,29 @@
 				6E7D10DF24A22F42002A3F0F /* servant-basicInfo-159.json in Resources */,
 				6E441B7B24A4AC1300C87F57 /* servant-story-198.json in Resources */,
 				6E441B0B24A4AC1300C87F57 /* servant-story-132.json in Resources */,
+				6EDA501624B20FCB001FD9B2 /* craftEssence_669.json in Resources */,
+				6EDA4F4024B09A25001FD9B2 /* craftEssence_341.json in Resources */,
 				6E7D118324A22F42002A3F0F /* servant-basicInfo-50.json in Resources */,
+				6EDA4F3E24B09931001FD9B2 /* craftEssence_251.json in Resources */,
 				6E7D115824A22F42002A3F0F /* servant-basicInfo-263.json in Resources */,
+				6EDA501224B20E8D001FD9B2 /* craftEssence_658.json in Resources */,
+				6E25580824AF4BFB002BA7E9 /* craftEssence_216.json in Resources */,
 				6E7D114524A22F42002A3F0F /* servant-basicInfo-84.json in Resources */,
 				6E441BE324A4AC1300C87F57 /* servant-story-112.json in Resources */,
 				6E1AC2F5248C9523004C006A /* command_code_62.json in Resources */,
+				6EDA503224B219F9001FD9B2 /* craftEssence_701.json in Resources */,
+				6EDA4F5024B0A3EC001FD9B2 /* craftEssence_342.json in Resources */,
 				6E441B4824A4AC1300C87F57 /* servant-story-230.json in Resources */,
 				6E7D109724A22F42002A3F0F /* servant-basicInfo-171.json in Resources */,
+				6EDA4F7E24B169C6001FD9B2 /* craftEssence_339.json in Resources */,
+				6EDA4EEE24B07065001FD9B2 /* craftEssence_205.json in Resources */,
 				6E7D112E24A22F42002A3F0F /* servant-basicInfo-259.json in Resources */,
 				6E441B9224A4AC1300C87F57 /* servant-story-14.json in Resources */,
 				6E441BDA24A4AC1300C87F57 /* servant-story-239.json in Resources */,
 				6E7EB5C924A7994800D6AE52 /* servant-skillAndPhantasm-120.json in Resources */,
 				6E7D118624A22F42002A3F0F /* servant-basicInfo-59.json in Resources */,
 				6E7EB5C524A7994800D6AE52 /* servant-skillAndPhantasm-130.json in Resources */,
+				6EDA4F2624B0800A001FD9B2 /* craftEssence_207.json in Resources */,
 				6E441BEC24A4AC1300C87F57 /* servant-story-84.json in Resources */,
 				6E441BD124A4AC1300C87F57 /* servant-story-222.json in Resources */,
 				6E441B7124A4AC1300C87F57 /* servant-story-122.json in Resources */,
@@ -3985,6 +4740,7 @@
 				6E7EB4FB24A7994800D6AE52 /* servant-skillAndPhantasm-145.json in Resources */,
 				6E7D115724A22F42002A3F0F /* servant-basicInfo-133.json in Resources */,
 				6E7D117B24A22F42002A3F0F /* servant-basicInfo-165.json in Resources */,
+				6EDA503A24B21CC3001FD9B2 /* craftEssence_787.json in Resources */,
 				6E7EB5BB24A7994800D6AE52 /* servant-skillAndPhantasm-12.json in Resources */,
 				6E7EB59A24A7994800D6AE52 /* servant-skillAndPhantasm-213.json in Resources */,
 				6E441BFA24A4AC1300C87F57 /* servant-story-105.json in Resources */,
@@ -4000,12 +4756,14 @@
 				6E1AC2DD248C90B0004C006A /* command_code_52.json in Resources */,
 				6E2FA591248A064000822AA0 /* Preview Assets.xcassets in Resources */,
 				6E7EB55124A7994800D6AE52 /* servant-skillAndPhantasm-111.json in Resources */,
+				6EDA503424B21AB6001FD9B2 /* craftEssence_709.json in Resources */,
 				6E7EB56224A7994800D6AE52 /* servant-skillAndPhantasm-29.json in Resources */,
 				6E441B2A24A4AC1300C87F57 /* servant-story-191.json in Resources */,
 				6E441B4A24A4AC1300C87F57 /* servant-story-51.json in Resources */,
 				6E441AF224A4AC1300C87F57 /* servant-story-73.json in Resources */,
 				6E7EB56E24A7994800D6AE52 /* servant-skillAndPhantasm-199.json in Resources */,
 				6E441B5324A4AC1300C87F57 /* servant-story-110.json in Resources */,
+				6EDA4F2224B07ED9001FD9B2 /* craftEssence_199.json in Resources */,
 				6E2FA58E248A064000822AA0 /* Assets.xcassets in Resources */,
 				6E441B6424A4AC1300C87F57 /* servant-story-121.json in Resources */,
 				6E7EB59E24A7994800D6AE52 /* servant-skillAndPhantasm-276.json in Resources */,
@@ -4013,6 +4771,8 @@
 				6E7EB52B24A7994800D6AE52 /* servant-skillAndPhantasm-167.json in Resources */,
 				6E7D119824A22F42002A3F0F /* servant-basicInfo-76.json in Resources */,
 				6E441B3724A4AC1300C87F57 /* servant-story-171.json in Resources */,
+				6E2557FE24AF4979002BA7E9 /* craftEssence_286.json in Resources */,
+				6EDA4F8624B1B9AD001FD9B2 /* craftEssence_359.json in Resources */,
 				6E441B0324A4AC1300C87F57 /* servant-story-216.json in Resources */,
 				6E441AFE24A4AC1300C87F57 /* servant-story-275.json in Resources */,
 				6E7D109924A22F42002A3F0F /* servant-basicInfo-239.json in Resources */,
@@ -4021,9 +4781,11 @@
 				6E7EB5A624A7994800D6AE52 /* servant-skillAndPhantasm-81.json in Resources */,
 				6E441B0024A4AC1300C87F57 /* servant-story-62.json in Resources */,
 				6E7EB4BB24A7994800D6AE52 /* servant-skillAndPhantasm-205.json in Resources */,
+				6E25580A24AF4C65002BA7E9 /* craftEssence_269.json in Resources */,
 				6E7EB57624A7994800D6AE52 /* servant-skillAndPhantasm-203.json in Resources */,
 				6E441B3B24A4AC1300C87F57 /* servant-story-4.json in Resources */,
 				6E7D10DD24A22F42002A3F0F /* servant-basicInfo-108.json in Resources */,
+				6EDA4EEC24B06FD1001FD9B2 /* craftEssence_204.json in Resources */,
 				6E4C9DAA248BAF0C00B96630 /* craftEssence_1012.json in Resources */,
 				6E7EB5AB24A7994800D6AE52 /* servant-skillAndPhantasm-154.json in Resources */,
 				6E7D114324A22F42002A3F0F /* servant-basicInfo-127.json in Resources */,
@@ -4032,24 +4794,35 @@
 				6E7EB55D24A7994800D6AE52 /* servant-skillAndPhantasm-27.json in Resources */,
 				6E7EB51724A7994800D6AE52 /* servant-skillAndPhantasm-220.json in Resources */,
 				6E7EB58B24A7994800D6AE52 /* servant-skillAndPhantasm-265.json in Resources */,
+				6EDA502E24B2189F001FD9B2 /* craftEssence_695.json in Resources */,
+				6E25581424AF4E81002BA7E9 /* craftEssence_203.json in Resources */,
+				6EDA4F0024B0758B001FD9B2 /* craftEssence_239.json in Resources */,
+				6EDA4F1C24B07BED001FD9B2 /* craftEssence_257.json in Resources */,
 				6E7EB5AC24A7994800D6AE52 /* servant-skillAndPhantasm-9.json in Resources */,
 				6E7D116C24A22F42002A3F0F /* servant-basicInfo-282.json in Resources */,
 				6E7D10F924A22F42002A3F0F /* servant-basicInfo-64.json in Resources */,
 				6E7EB52724A7994800D6AE52 /* servant-skillAndPhantasm-268.json in Resources */,
 				6E1AC2BC248C90B0004C006A /* command_code_12.json in Resources */,
+				6EDA4F9E24B1C543001FD9B2 /* craftEssence_377.json in Resources */,
 				6E7D10F424A22F42002A3F0F /* servant-basicInfo-2.json in Resources */,
 				6E7D10B124A22F42002A3F0F /* servant-basicInfo-86.json in Resources */,
+				6EDA4EF024B070D7001FD9B2 /* craftEssence_253.json in Resources */,
 				6E7EB51324A7994800D6AE52 /* servant-skillAndPhantasm-141.json in Resources */,
 				6E7D119524A22F42002A3F0F /* servant-basicInfo-187.json in Resources */,
 				6E441B2224A4AC1300C87F57 /* servant-story-234.json in Resources */,
 				6E7D115B24A22F42002A3F0F /* servant-basicInfo-69.json in Resources */,
 				6E441BCF24A4AC1300C87F57 /* servant-story-130.json in Resources */,
+				6EDA503824B21C2D001FD9B2 /* craftEssence_762.json in Resources */,
 				6E441BA824A4AC1300C87F57 /* servant-story-129.json in Resources */,
+				6EDA4FAE24B1C8BE001FD9B2 /* craftEssence_378.json in Resources */,
 				6E441B4C24A4AC1300C87F57 /* servant-story-90.json in Resources */,
+				6EDA4F8224B1B8AB001FD9B2 /* craftEssence_357.json in Resources */,
+				6E25580024AF4A2E002BA7E9 /* craftEssence_201.json in Resources */,
 				6E441B0C24A4AC1300C87F57 /* servant-story-78.json in Resources */,
 				6E441BD624A4AC1300C87F57 /* servant-story-249.json in Resources */,
 				6E441AF324A4AC1300C87F57 /* servant-story-127.json in Resources */,
 				6E7EB5B224A7994800D6AE52 /* servant-skillAndPhantasm-257.json in Resources */,
+				6EDA4F1A24B07B75001FD9B2 /* craftEssence_193.json in Resources */,
 				6E7EB5C824A7994800D6AE52 /* servant-skillAndPhantasm-143.json in Resources */,
 				6E441BDC24A4AC1300C87F57 /* servant-story-177.json in Resources */,
 				6E7EB4F124A7994800D6AE52 /* servant-skillAndPhantasm-222.json in Resources */,
@@ -4061,29 +4834,41 @@
 				6E441B9724A4AC1300C87F57 /* servant-story-50.json in Resources */,
 				6E7D113E24A22F42002A3F0F /* servant-basicInfo-220.json in Resources */,
 				6E7D110824A22F42002A3F0F /* servant-basicInfo-113.json in Resources */,
+				6EDA4F0224B075FC001FD9B2 /* craftEssence_256.json in Resources */,
 				6E441BCC24A4AC1300C87F57 /* servant-story-67.json in Resources */,
 				6E441B5424A4AC1300C87F57 /* servant-story-80.json in Resources */,
 				6E7EB58624A7994800D6AE52 /* servant-skillAndPhantasm-51.json in Resources */,
+				6EDA4F3424B0866B001FD9B2 /* craftEssence_231.json in Resources */,
+				6EDA4FCC24B1DEEC001FD9B2 /* craftEssence_403.json in Resources */,
 				6E441BD724A4AC1300C87F57 /* servant-story-86.json in Resources */,
 				6E7EB54324A7994800D6AE52 /* servant-skillAndPhantasm-65.json in Resources */,
 				6E7D10D324A22F42002A3F0F /* servant-basicInfo-118.json in Resources */,
 				6E7D112824A22F42002A3F0F /* servant-basicInfo-1.json in Resources */,
 				6E441B7E24A4AC1300C87F57 /* servant-story-265.json in Resources */,
 				6E7D10FE24A22F42002A3F0F /* servant-basicInfo-213.json in Resources */,
+				6EDA503E24B21E0F001FD9B2 /* craftEssence_789.json in Resources */,
+				6EDA502424B2149D001FD9B2 /* craftEssence_687.json in Resources */,
+				6EDA500A24B20C0A001FD9B2 /* craftEssence_649.json in Resources */,
 				6E7EB58224A7994800D6AE52 /* servant-skillAndPhantasm-117.json in Resources */,
 				6E7D117624A22F42002A3F0F /* servant-basicInfo-267.json in Resources */,
+				6EDA4FFC24B1F988001FD9B2 /* craftEssence_587.json in Resources */,
 				6E7D10FD24A22F42002A3F0F /* servant-basicInfo-197.json in Resources */,
+				6EDA4F7424B163F9001FD9B2 /* craftEssence_335.json in Resources */,
 				6E7D117224A22F42002A3F0F /* servant-basicInfo-222.json in Resources */,
 				6E7D117A24A22F42002A3F0F /* servant-basicInfo-228.json in Resources */,
 				6E7D113B24A22F42002A3F0F /* servant-basicInfo-87.json in Resources */,
 				6E1AC2EC248C90B0004C006A /* command_code_31.json in Resources */,
 				6E441B6224A4AC1300C87F57 /* servant-story-154.json in Resources */,
+				6EDA4EE024B06B6F001FD9B2 /* craftEssence_254.json in Resources */,
+				6EDA500224B20AAF001FD9B2 /* craftEssence_642.json in Resources */,
+				6EDA4FB224B1C986001FD9B2 /* craftEssence_391.json in Resources */,
 				6E7EB5BE24A7994800D6AE52 /* servant-skillAndPhantasm-137.json in Resources */,
 				6E7EB4EB24A7994800D6AE52 /* servant-skillAndPhantasm-238.json in Resources */,
 				6E7EB54024A7994800D6AE52 /* servant-skillAndPhantasm-260.json in Resources */,
 				6E7EB5B424A7994800D6AE52 /* servant-skillAndPhantasm-189.json in Resources */,
 				6E7EB55F24A7994800D6AE52 /* servant-skillAndPhantasm-20.json in Resources */,
 				6E7D117524A22F42002A3F0F /* servant-basicInfo-123.json in Resources */,
+				6EDA4FDA24B1E9AC001FD9B2 /* craftEssence_411.json in Resources */,
 				6E7D10DC24A22F42002A3F0F /* servant-basicInfo-102.json in Resources */,
 				6E1AC2C9248C90B0004C006A /* command_code_6.json in Resources */,
 				6E7EB5A924A7994800D6AE52 /* servant-skillAndPhantasm-67.json in Resources */,
@@ -4098,6 +4883,7 @@
 				6E441AE924A4AC1300C87F57 /* servant-story-144.json in Resources */,
 				6E7EB57C24A7994800D6AE52 /* servant-skillAndPhantasm-63.json in Resources */,
 				6E7EB5C124A7994800D6AE52 /* servant-skillAndPhantasm-166.json in Resources */,
+				6EDA4F9824B1C3CA001FD9B2 /* craftEssence_370.json in Resources */,
 				6E441BD824A4AC1300C87F57 /* servant-story-194.json in Resources */,
 				6E441B4124A4AC1300C87F57 /* servant-story-12.json in Resources */,
 				6E7D116324A22F42002A3F0F /* servant-basicInfo-92.json in Resources */,
@@ -4110,6 +4896,7 @@
 				6E7EB4BA24A7994800D6AE52 /* servant-skillAndPhantasm-50.json in Resources */,
 				6E7D118424A22F42002A3F0F /* servant-basicInfo-176.json in Resources */,
 				6E7EB4C224A7994800D6AE52 /* servant-skillAndPhantasm-227.json in Resources */,
+				6E25581024AF4DAF002BA7E9 /* craftEssence_210.json in Resources */,
 				6E7EB53D24A7994800D6AE52 /* servant-skillAndPhantasm-75.json in Resources */,
 				6E441B3C24A4AC1300C87F57 /* servant-story-254.json in Resources */,
 				6E7D112124A22F42002A3F0F /* servant-basicInfo-141.json in Resources */,
@@ -4121,12 +4908,15 @@
 				6E7EB5A724A7994800D6AE52 /* servant-skillAndPhantasm-210.json in Resources */,
 				6E1AC2C6248C90B0004C006A /* command_code_17.json in Resources */,
 				6E7EB52C24A7994800D6AE52 /* servant-skillAndPhantasm-204.json in Resources */,
+				6EDA4F5E24B0A707001FD9B2 /* craftEssence_303.json in Resources */,
+				6EDA4FA224B1C61B001FD9B2 /* craftEssence_380.json in Resources */,
 				6E441B5124A4AC1300C87F57 /* servant-story-126.json in Resources */,
 				6E7EB51024A7994800D6AE52 /* servant-skillAndPhantasm-105.json in Resources */,
 				6E7D10CC24A22F42002A3F0F /* servant-basicInfo-275.json in Resources */,
 				6E7D113C24A22F42002A3F0F /* servant-basicInfo-131.json in Resources */,
 				6E7D10AB24A22F42002A3F0F /* servant-basicInfo-138.json in Resources */,
 				6E7D113724A22F42002A3F0F /* servant-basicInfo-148.json in Resources */,
+				6EDA4FA424B1C6B3001FD9B2 /* craftEssence_373.json in Resources */,
 				6E441B1B24A4AC1300C87F57 /* servant-story-145.json in Resources */,
 				6E7EB4E224A7994800D6AE52 /* servant-skillAndPhantasm-123.json in Resources */,
 				6E7D118524A22F42002A3F0F /* servant-basicInfo-12.json in Resources */,
@@ -4146,6 +4936,7 @@
 				6E7D116E24A22F42002A3F0F /* servant-basicInfo-254.json in Resources */,
 				6E7EB4C024A7994800D6AE52 /* servant-skillAndPhantasm-114.json in Resources */,
 				6E7D114D24A22F42002A3F0F /* servant-basicInfo-39.json in Resources */,
+				6EDA4F5424B0A4E6001FD9B2 /* craftEssence_237.json in Resources */,
 				6E7EB5B124A7994800D6AE52 /* servant-skillAndPhantasm-80.json in Resources */,
 				6E441AF124A4AC1300C87F57 /* servant-story-158.json in Resources */,
 				6E7D10FB24A22F42002A3F0F /* servant-basicInfo-29.json in Resources */,
@@ -4154,8 +4945,10 @@
 				6E7D119B24A22F42002A3F0F /* servant-basicInfo-207.json in Resources */,
 				6E7EB56F24A7994800D6AE52 /* servant-skillAndPhantasm-139.json in Resources */,
 				6E7EB53224A7994800D6AE52 /* servant-skillAndPhantasm-108.json in Resources */,
+				6EDA4F4624B09D3D001FD9B2 /* craftEssence_268.json in Resources */,
 				6E7D10CE24A22F42002A3F0F /* servant-basicInfo-3.json in Resources */,
 				6E7D112C24A22F42002A3F0F /* servant-basicInfo-251.json in Resources */,
+				6EDA4FDC24B1EA93001FD9B2 /* craftEssence_416.json in Resources */,
 				6E7D112724A22F42002A3F0F /* servant-basicInfo-156.json in Resources */,
 				6E441AF024A4AC1300C87F57 /* servant-story-2.json in Resources */,
 				6E1AC2ED248C90B0004C006A /* command_code_13.json in Resources */,
@@ -4167,19 +4960,24 @@
 				6E441B8024A4AC1300C87F57 /* servant-story-107.json in Resources */,
 				6E441B9424A4AC1300C87F57 /* servant-story-282.json in Resources */,
 				6E7D115524A22F42002A3F0F /* servant-basicInfo-22.json in Resources */,
+				6EDA4F2424B07F8C001FD9B2 /* craftEssence_224.json in Resources */,
 				6E7EB57524A7994800D6AE52 /* servant-skillAndPhantasm-201.json in Resources */,
 				6E7EB52324A7994800D6AE52 /* servant-skillAndPhantasm-275.json in Resources */,
+				6EDA4FEA24B1F429001FD9B2 /* craftEssence_559.json in Resources */,
 				6E441B8724A4AC1300C87F57 /* servant-story-210.json in Resources */,
 				6E4C9DA2248BAC2300B96630 /* craftEssence_330.json in Resources */,
 				6E7D10BF24A22F42002A3F0F /* servant-basicInfo-75.json in Resources */,
 				6E7EB5B624A7994800D6AE52 /* servant-skillAndPhantasm-217.json in Resources */,
 				6E7EB56724A7994800D6AE52 /* servant-skillAndPhantasm-22.json in Resources */,
+				6EDA4F5C24B0A684001FD9B2 /* craftEssence_299.json in Resources */,
 				6E7D110624A22F42002A3F0F /* servant-basicInfo-146.json in Resources */,
+				6E25581624AF4FC4002BA7E9 /* craftEssence_288.json in Resources */,
 				6E1AC2E7248C90B0004C006A /* command_code_37.json in Resources */,
 				6E441B7424A4AC1300C87F57 /* servant-story-11.json in Resources */,
 				6E7D117124A22F42002A3F0F /* servant-basicInfo-158.json in Resources */,
 				6E441B5024A4AC1300C87F57 /* servant-story-195.json in Resources */,
 				6E7D119724A22F42002A3F0F /* servant-basicInfo-99.json in Resources */,
+				6EDA4F2024B07E51001FD9B2 /* craftEssence_223.json in Resources */,
 				6E1AC2BE248C90B0004C006A /* command_code_38.json in Resources */,
 				6E441BAA24A4AC1300C87F57 /* servant-story-7.json in Resources */,
 				6E7D111A24A22F42002A3F0F /* servant-basicInfo-225.json in Resources */,
@@ -4187,16 +4985,20 @@
 				6E441BF424A4AC1300C87F57 /* servant-story-95.json in Resources */,
 				6E7EB4CC24A7994800D6AE52 /* servant-skillAndPhantasm-183.json in Resources */,
 				6E7EB54C24A7994800D6AE52 /* servant-skillAndPhantasm-258.json in Resources */,
+				6E2557FC24AF48BE002BA7E9 /* craftEssence_219.json in Resources */,
 				6E7EB57B24A7994800D6AE52 /* servant-skillAndPhantasm-148.json in Resources */,
 				6E441BA924A4AC1300C87F57 /* servant-story-28.json in Resources */,
+				6EDA4F9624B1C328001FD9B2 /* craftEssence_371.json in Resources */,
 				6E1AC2C7248C90B0004C006A /* command_code_9.json in Resources */,
 				6E441B0624A4AC1300C87F57 /* servant-story-266.json in Resources */,
+				6EDA4F6A24B1603C001FD9B2 /* craftEssence_316.json in Resources */,
 				6E441B6324A4AC1300C87F57 /* servant-story-16.json in Resources */,
 				6E1AC2E1248C90B0004C006A /* command_code_7.json in Resources */,
 				6E441B8B24A4AC1300C87F57 /* servant-story-175.json in Resources */,
 				6E441BC724A4AC1300C87F57 /* servant-story-53.json in Resources */,
 				6E7EB53124A7994800D6AE52 /* servant-skillAndPhantasm-109.json in Resources */,
 				6E7D114024A22F42002A3F0F /* servant-basicInfo-166.json in Resources */,
+				6EDA4F4E24B0A376001FD9B2 /* craftEssence_285.json in Resources */,
 				6E441B6B24A4AC1300C87F57 /* servant-story-251.json in Resources */,
 				6E7D117924A22F42002A3F0F /* servant-basicInfo-167.json in Resources */,
 				6E441B4324A4AC1300C87F57 /* servant-story-255.json in Resources */,
@@ -4213,6 +5015,7 @@
 				6E7D10C724A22F42002A3F0F /* servant-basicInfo-279.json in Resources */,
 				6E7EB4EF24A7994800D6AE52 /* servant-skillAndPhantasm-216.json in Resources */,
 				6E7EB4C324A7994800D6AE52 /* servant-skillAndPhantasm-169.json in Resources */,
+				6EDA4FBC24B1D780001FD9B2 /* craftEssence_384.json in Resources */,
 				6E7EB5BA24A7994800D6AE52 /* servant-skillAndPhantasm-200.json in Resources */,
 				6E441B3D24A4AC1300C87F57 /* servant-story-21.json in Resources */,
 				6E7D110324A22F42002A3F0F /* servant-basicInfo-10.json in Resources */,
@@ -4260,6 +5063,7 @@
 				6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */,
 				6E53FE7A24A4778F001960A1 /* SectionContentView.swift in Sources */,
 				6E8FED9924AB750700AFB747 /* AppConstants.swift in Sources */,
+				6E2557F224AF419C002BA7E9 /* ActiveSkillCardView.swift in Sources */,
 				6E0D7399249CB1DE000DE0DB /* PageControl.swift in Sources */,
 				6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */,
 				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,

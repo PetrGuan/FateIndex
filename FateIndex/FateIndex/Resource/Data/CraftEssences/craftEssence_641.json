@@ -1,0 +1,14 @@
+{
+    "id": "641",
+    "name": "开拓地",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "保罗·班扬(Berserker)装备，且自身在场时，己方全体的Buster指令卡性能提升15%",
+    "effectImg": "红放",
+    "lore": "曾被称为新天地的地方\n遭到了这么称呼之人的蹂躏，\n现在已然失去。\n此处，只剩下了一个国家。",
+    "bondServantID": "174"
+}
+

@@ -1,0 +1,13 @@
+{
+    "id": "197",
+    "name": "雪之城",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当赫拉克勒斯(Berserker)装备时，付与自身毅力状态(3次·回复HP500)",
+    "effectImg": "毅力",
+    "lore": "——短暂的寄生之地。\n\n一位脆弱而高傲的少女，\n曾在此地的冬日记忆",
+    "bondServantID": "47"
+}

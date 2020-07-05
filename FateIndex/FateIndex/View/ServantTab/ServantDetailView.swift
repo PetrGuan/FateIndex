@@ -39,6 +39,10 @@ struct ServantDetailView: View {
                 else if selectedSegment == 2 {
                     SectionContentView(story: servantStory())
                 }
+                else if selectedSegment == 3 {
+                    // CraftEssenceDetailView(craftEssence: craftEssence))
+                    ContentView()
+                }
                 else {
                     ContentView()
                 }

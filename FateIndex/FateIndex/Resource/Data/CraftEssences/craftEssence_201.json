@@ -1,0 +1,13 @@
+{
+    "id": "201",
+    "name": "永劫孤独",
+    "illustrator": "TAWAWAMINORU",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当阿蒂拉(Saber)装备，且自身在场时，己方全体的攻击力提升15%",
+    "effectImg": "加攻",
+    "lore": "被囚禁在黑暗牢狱中的永劫孤独。\n她完全无法认识到这点。\n只有模糊的预感，在从者阿蒂拉心中骚动不已。",
+    "bondServantID": "8"
+}

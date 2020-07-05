@@ -42,4 +42,6 @@ struct ServantBasicInfo: Codable {
     let castVoice: String
     /// 入手方式
     let access: String
+    /// 羁绊礼装 id
+    let craftEssenceId: String
 }

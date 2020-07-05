@@ -7,36 +7,42 @@
             "skillName": "喧闹派对",
             "avatar": "绿放",
             "countDown": "15 → 14 → 13",
-            "lvEffects":  [ {
-                "effectDesc": "(500%概率)己方全体Quick指令卡性能提升(1回合)",
-                "effects": [
-                    "20%",
-                    "21%",
-                    "22%",
-                    "23%",
-                    "24%",
-                    "25%",
-                    "26%",
-                    "27%",
-                    "28%",
-                    "30%"
-                ]
-            } ],
+            "lvEffects": [
+                {
+                    "effectDesc": "(500%概率)己方全体Quick指令卡性能提升(1回合)",
+                    "effects": [
+                        "20%",
+                        "21%",
+                        "22%",
+                        "23%",
+                        "24%",
+                        "25%",
+                        "26%",
+                        "27%",
+                        "28%",
+                        "30%"
+                    ]
+                }
+            ],
             "stableEffects": []
         },
         {
             "skillName": "必杀三叉戟",
             "avatar": "无敌贯通",
             "countDown": "12 → 11 → 10",
-            "lvEffects":  [],
-            "stableEffects": ["(500%概率)付与己方单体无敌贯通状态(1回合)"]
+            "lvEffects": [],
+            "stableEffects": [
+                "(500%概率)付与己方单体无敌贯通状态(1回合)"
+            ]
         },
         {
             "skillName": "海滨小屋之沐浴",
             "avatar": "回血",
             "countDown": "12 → 11 → 10",
-            "lvEffects":  [],
-            "stableEffects": ["增加NP10%"]
+            "lvEffects": [],
+            "stableEffects": [
+                "增加NP10%"
+            ]
         }
     ],
     "access": [

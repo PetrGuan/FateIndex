@@ -1,0 +1,13 @@
+{
+    "id": "198",
+    "name": "为林之圣",
+    "illustrator": "未知画师",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "只有当库·丘林(Caster)装备时，自身的宝具威力提升30%＆攻击时概率[1]回复自身HP500",
+    "effectImg": "宝具威力提升",
+    "lore": "传承如是说。\n圣在万物之中，圣在森林之中，圣在橡树之中。",
+    "bondServantID": "38"
+}
