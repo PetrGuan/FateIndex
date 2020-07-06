@@ -14,16 +14,6 @@ struct CraftEssenceDetailView: View {
     var body: some View {
         ScrollView(.vertical) {
             VStack {
-                if craftEssence.bondServantID != "" {
-                    HStack {
-                        Image(systemName: "info.circle")
-
-                        Text("这张概念礼装是从者宇津见艾莉瑟的羁绊礼装。")
-                    }
-                    .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
-                }
-
                 VStack(alignment: .leading) {
                     Spacer()
                     Text("")
@@ -86,7 +76,6 @@ struct CraftEssenceDetailView: View {
                         .lineSpacing(6)
                         .lineLimit(nil)
                         .fixedSize(horizontal: false, vertical: true)
-                        //.frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
                         .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
 
                     Divider()

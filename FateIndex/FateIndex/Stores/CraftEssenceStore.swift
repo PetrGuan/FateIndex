@@ -25,4 +25,36 @@ final class CraftEssenceStore {
         
         return craftEssences
     }
+
+    private let queue = DispatchQueue(label: "CraftEssenceStore", qos: .userInitiated, attributes: .concurrent)
+
+    var craftEssenceDict = [String: CraftEssences]()
+
+    func fetchAllCraftEssences() {
+        let basicInfos = ServantStore.shared.allBasicInfos()
+        var craftEssenceIds = [String]()
+        for (_, element) in basicInfos {
+            if element.id != "1" {
+                craftEssenceIds.append(element.craftEssenceId)
+            }
+        }
+
+        queue.async {
+            let tmp = self.allCraftEssences(craftEssenceIds: craftEssenceIds)
+
+            DispatchQueue.main.async {
+                self.craftEssenceDict = tmp
+            }
+        }
+    }
+
+    func allCraftEssences(craftEssenceIds: [String]) -> [String: CraftEssences] {
+        var craftEssences = [String: CraftEssences]()
+
+        for craftEssenceId in craftEssenceIds {
+            craftEssences["\(craftEssenceId)"] = load("craftEssence_\(craftEssenceId)", withExtension: "json")
+        }
+
+        return craftEssences
+    }
 }

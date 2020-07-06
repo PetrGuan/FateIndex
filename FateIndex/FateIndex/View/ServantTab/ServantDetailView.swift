@@ -40,8 +40,7 @@ struct ServantDetailView: View {
                     SectionContentView(story: servantStory())
                 }
                 else if selectedSegment == 3 {
-                    // CraftEssenceDetailView(craftEssence: craftEssence))
-                    ContentView()
+                    CraftEssenceDetailView(craftEssence: self.getCraftEssence())
                 }
                 else {
                     ContentView()
@@ -80,6 +79,11 @@ struct ServantDetailView: View {
 
     private func servantClassSkills() -> [ClassSkill] {
         return ServantSkillStore.shared.servantSkills[servantId]?.classSkills ?? []
+    }
+
+    private func getCraftEssence() -> CraftEssences {
+        let basicInfo = ServantStore.shared.basicInfo(servantId: servantId)
+        return CraftEssenceStore.shared.craftEssenceDict[basicInfo.craftEssenceId] ?? CraftEssenceStore.shared.craftEssences[0]
     }
 }
 

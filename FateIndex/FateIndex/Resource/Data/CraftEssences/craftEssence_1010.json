@@ -1,0 +1,14 @@
+{
+    "id": "1010",
+    "name": "星之天秤",
+    "illustrator": "SAKUMA MITSURO",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "阿斯特赖亚(Ruler)装备，且自身在场时，己方全体的Arts指令卡性能提升10%＆暴击威力提升15%",
+    "effectImg": "蓝放",
+    "lore": "善之轻。罪之重。\n恶之重。罚之轻。\n\n她的天秤，\n总是能公正地裁定这些。\n\n哪怕对象是神，\n她的公正也没有质疑的余地。\n\n所以。\n当她放下这杆天秤之时，\n便是给予公正片刻休憩之时。\n\n并非不在公正，而是稍作休息。\n这一定，只是为了一位御主吧。",
+    "bondServantID": "242"
+}
+

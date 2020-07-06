@@ -1,0 +1,14 @@
+{
+    "id": "1145",
+    "name": "紫玉之笛",
+    "illustrator": "SAKUMA MITSURO",
+    "rarity": 4,
+    "cost": 9,
+    "minAndMaxHP": "100",
+    "minAndMaxATK": "100",
+    "effect": "杨贵妃(Foreigner)装备时，自身的宝具威力提升30%＆攻击时付与敌方单体延烧状态(灼伤的效果量提升20%的状态)(3回合)",
+    "effectImg": "灼伤",
+    "lore": "紫玉制成的优美的龙笛。\n与琵琶同为杨贵妃喜欢使用的乐器之一。\n据说是月之仙女“嫦娥”赠与杨贵妃的。\n\n「若是两人一起吹这一支笛子……\n这种游戏也会变成愉快的旋律呢。」",
+    "bondServantID": "275"
+}
+
