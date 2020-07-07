@@ -21,7 +21,7 @@ struct DavinciStoreCraftEssenceListView: View {
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(alignment: .top) {
                     ForEach(self.craftEssences, id: \.id) { craftEssence in
-                        NavigationLink(destination: CraftEssenceDetailView(craftEssence: craftEssence)) {
+                        NavigationLink(destination: CraftEssenceDetailView(craftEssence: craftEssence, topText: "").navigationBarTitle(craftEssence.name)) {
                             DavinciStoreCraftEssenceView(craftEssence: craftEssence)
                         }
                         .buttonStyle(PlainButtonStyle())

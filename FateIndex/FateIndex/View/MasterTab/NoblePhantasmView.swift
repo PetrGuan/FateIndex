@@ -90,6 +90,7 @@ struct NoblePhantasmView: View {
             Spacer()
         }
         .background(Color(hex: colorScheme == .dark ? 0x292C2C : 0xFFFFFF))
+        .padding(EdgeInsets(top: 10, leading: 0, bottom: 0, trailing: 0))
     }
 
     private func titleColor() -> Color {

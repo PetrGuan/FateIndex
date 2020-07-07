@@ -11,6 +11,8 @@ import SwiftUI
 struct SectionContentView: View {
     let story: ServantStory
 
+    @Environment(\.colorScheme) var colorScheme
+
     var body: some View {
         VStack {
             Group {
@@ -111,6 +113,7 @@ struct SectionContentView: View {
                 }
             }
         }
+        .background(Color(hex: colorScheme == .dark ? 0x292C2C : 0xFFFFFF))
     }
 }
 

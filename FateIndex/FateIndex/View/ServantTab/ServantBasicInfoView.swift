@@ -11,11 +11,11 @@ import SwiftUI
 struct ServantBasicInfoView: View {
     
     let servantBasicInfo: ServantBasicInfo
+
+    @Environment(\.colorScheme) var colorScheme
     
     var body: some View {
         VStack {
-            Divider()
-            
             if !(servantBasicInfo.cost == "0" || servantBasicInfo.id == "107") {
                 Image(servantCostImage())
             }
@@ -23,14 +23,11 @@ struct ServantBasicInfoView: View {
             Image(servantClassImage())
                 .resizable()
                 .frame(width: 55, height: 55)
-            Divider()
             
             PageView(imagePageView())
                 .frame(width: min(UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height), height: min(UIScreen.main.bounds.size.width, UIScreen.main.bounds.size.height) * 724 / 512) // 512 724
             
             Group {
-                Divider()
-                
                 HStack {
                     Spacer()
                     
@@ -45,11 +42,8 @@ struct ServantBasicInfoView: View {
                     Spacer()
                 }
                 
-                Divider()
-                
                 HStack {
                     Spacer()
-                    
                     VStack {
                         Text("画师")
                             .font(.headline)
@@ -57,9 +51,12 @@ struct ServantBasicInfoView: View {
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.illustrator)
                     }
-                    
                     Spacer()
-                    
+                }
+
+                HStack {
+                    Spacer()
+
                     VStack {
                         Text("声优")
                             .font(.headline)
@@ -67,11 +64,9 @@ struct ServantBasicInfoView: View {
                             .padding(EdgeInsets(top: 8, leading: 8, bottom: 8, trailing: 8))
                         Text(servantBasicInfo.castVoice)
                     }
-                    
+
                     Spacer()
                 }
-                
-                Divider()
                 
                 HStack {
                     Spacer()
@@ -97,8 +92,6 @@ struct ServantBasicInfoView: View {
                     Spacer()
                 }
                 
-                Divider()
-                
                 HStack {
                     Spacer()
                     
@@ -112,8 +105,6 @@ struct ServantBasicInfoView: View {
                     
                     Spacer()
                 }
-                
-                Divider()
                 
                 HStack {
                     Spacer()
@@ -131,8 +122,6 @@ struct ServantBasicInfoView: View {
             }
             
             Group {
-                Divider()
-                
                 HStack {
                     Image(mapCardImage(card: servantBasicInfo.cards[0]))
                         .resizable()
@@ -160,8 +149,6 @@ struct ServantBasicInfoView: View {
                         .frame(width: 65, height: 65)
                 }
                 
-                Divider()
-                
                 HStack {
                     Spacer()
                     
@@ -175,9 +162,7 @@ struct ServantBasicInfoView: View {
                     
                     Spacer()
                 }
-                
-                Divider()
-                
+
                 HStack {
                     Spacer()
                     
@@ -191,9 +176,7 @@ struct ServantBasicInfoView: View {
                     
                     Spacer()
                 }
-                
-                Divider()
-                
+
                 HStack {
                     Spacer()
                     
@@ -208,7 +191,10 @@ struct ServantBasicInfoView: View {
                     Spacer()
                 }
             }
+            .padding(EdgeInsets(top: 0, leading: 0, bottom: 10, trailing: 0))
         }
+        .background(Color(hex: colorScheme == .dark ? 0x292C2C : 0xFFFFFF))
+        .padding()
     }
     
     private func imagePageView() -> [Image] {

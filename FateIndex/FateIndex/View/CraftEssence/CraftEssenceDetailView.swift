@@ -10,92 +10,67 @@ import SwiftUI
 
 struct CraftEssenceDetailView: View {
     var craftEssence: CraftEssences
+    let topText: String
+
+    @Environment(\.colorScheme) var colorScheme
 
     var body: some View {
         ScrollView(.vertical) {
+
+            Text(topText)
+                .font(.title)
+                .foregroundColor(Color(hex: colorScheme == .dark ? 0x5AFAFE : 0xA3DDAA))
+                .padding(EdgeInsets(top: 10, leading: 0, bottom: 0, trailing: 0))
+
+            Image("craftEssence_\(craftEssence.id)")
+                .resizable()
+                .frame(width: 300, height: 512)
+                .padding()
+
+            Divider()
+
             VStack {
-                VStack(alignment: .leading) {
-                    Spacer()
-                    Text("")
-                        .foregroundColor(Color.white)
-                        .padding(12)
-                }
-                .frame(minWidth: 150, maxWidth: 150, minHeight: 256,  maxHeight: 256, alignment: .topLeading)
-                .background(
-                    ZStack(alignment: .topLeading) {
-                        Image("craftEssence_\(craftEssence.id)")
-                            .resizable()
-                            .aspectRatio(contentMode: .fill)
-                            .frame(width: 150, height: 256)
-                })
-                    .padding(0)
-                    .cornerRadius(12)
+                Text("画师  \(craftEssence.illustrator)")
+                    .padding()
+
+                Text(craftEssence.rarityStars())
+                    .padding()
+
+                Text("初始/满级HP  \(craftEssence.minAndMaxHP)")
+                    .padding()
+
+                Text("初始/满级ATK  \(craftEssence.minAndMaxATK)")
+                    .padding()
+            }
+
+            Divider()
+
+            Image(craftEssence.effectImg)
+                .resizable()
+                .clipped()
+                .cornerRadius(6)
+                .frame(width: 55, height: 55)
+
+            VStack {
+                Text(craftEssence.effect)
+                    .lineSpacing(6)
+                    .padding(EdgeInsets(top: 0, leading: 10, bottom: 0, trailing: 10))
 
                 Divider()
 
-                VStack {
-                    Spacer()
-                    Text("画师 \(craftEssence.illustrator)")
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                    Spacer()
-                    Text(craftEssence.rarityStars())
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                    Spacer()
-                    Text("初始/满级HP    \(craftEssence.minAndMaxHP)")
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                    Spacer()
-                    Text("初始/满级ATK    \(craftEssence.minAndMaxATK)")
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                    Spacer()
-                }
-                .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
-                Divider()
-
-                Image(craftEssence.effectImg)
-                    .resizable()
-                    .clipped()
-                    .cornerRadius(6)
-                    .frame(width: 55, height: 55)
-
-
-                VStack {
-                    Text(craftEssence.effect)
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .padding(EdgeInsets(top: 16, leading: 16, bottom: 16, trailing: 16))
-
-                    Divider()
-
-                    Text(craftEssence.lore)
-                        .multilineTextAlignment(.leading)
-                        .lineSpacing(6)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .frame(minWidth: 350, idealWidth: 350, maxWidth: 350)
-                }
-
+                Text(craftEssence.lore)
+                    .multilineTextAlignment(.leading)
+                    .lineSpacing(6)
+                    .padding(EdgeInsets(top: 0, leading: 10, bottom: 10, trailing: 10))
             }
         }
-        .navigationBarTitle(craftEssence.name)
+        .background(Color(hex: colorScheme == .dark ? 0x292C2C : 0xFFFFFF))
+        .padding()
     }
 }
 
 struct CraftEssenceDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        CraftEssenceDetailView(craftEssence: CraftEssenceStore.shared.craftEssences[0])
+        CraftEssenceDetailView(craftEssence: CraftEssenceStore.shared.craftEssences[0], topText: "")
     }
 }

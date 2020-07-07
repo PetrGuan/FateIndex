@@ -38,9 +38,10 @@ struct ServantDetailView: View {
                 }
                 else if selectedSegment == 2 {
                     SectionContentView(story: servantStory())
+                    .padding()
                 }
                 else if selectedSegment == 3 {
-                    CraftEssenceDetailView(craftEssence: self.getCraftEssence())
+                    CraftEssenceDetailView(craftEssence: self.getCraftEssence(), topText: self.getCraftEssence().name)
                 }
                 else {
                     ContentView()

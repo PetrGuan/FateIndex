@@ -14,7 +14,9 @@ struct AllFightCharacterListView: View {
             Section(header: Text("性别")) {
                 CustomRedText(title: "男性")
                 CustomRedText(title: "女性")
-                CustomRedText(title: "其他")
+                NavigationLink(destination: FilteredServantListView(title: "其他性别", servantIds: ServantStore.shared.otherGenderList)) {
+                    CustomRedText(title: "其他")
+                }
             }
 
             Section(header: Text("属性")) {
@@ -39,11 +41,18 @@ struct AllFightCharacterListView: View {
 
             Section(header: Text("其他特性")) {
                 Group {
-                    CustomRedText(title: "龙")
+                    NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.dragonList)) {
+                        CustomRedText(title: "龙")
+                    }
+
                     CustomRedText(title: "骑乘")
                     CustomRedText(title: "神性")
                     CustomRedText(title: "猛兽")
-                    CustomRedText(title: "魔性")
+
+                    NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.demonList)) {
+                        CustomRedText(title: "魔性")
+                    }
+
                     CustomRedText(title: "王")
                     CustomRedText(title: "天地(拟似除外)")
                 }
@@ -51,7 +60,11 @@ struct AllFightCharacterListView: View {
                 Group {
                     CustomRedText(title: "罗马")
                     CustomRedText(title: "亚瑟")
-                    CustomRedText(title: "阿尔托莉雅脸")
+
+                    NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.altriaFaceList)) {
+                        CustomRedText(title: "阿尔托莉雅脸")
+                    }
+
                     CustomRedText(title: "EA不特攻")
                     CustomRedText(title: "所爱之人")
                 }

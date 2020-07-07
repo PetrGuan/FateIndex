@@ -17,7 +17,7 @@ struct FightCharacterFilterListView: View {
                 
                 Spacer()
 
-                NavigationLink(destination: AllFightCharacterListView()) {
+                NavigationLink(destination: AllFightCharacterListView().navigationBarTitle("特性筛选")) {
                     Text("查看全部")
                     .foregroundColor(Color(hex: 0xfe365e))
                 }
