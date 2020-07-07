@@ -14,20 +14,38 @@ struct ServantsView: View {
     var body: some View {
         NavigationView {
             VStack {
-                ScrollView(.vertical) {
+                if searchText.isEmpty {
+                    ScrollView(.vertical) {
+                        SearchBar(text: $searchText, placeholder: "搜索从者")
+                        Divider()
+                        TopNServantsListView()
+                        Divider()
+                        ServantClassListView()
+                        Divider()
+                        GivenServantListView()
+                        FightCharacterFilterListView()
+                        RecentAddServantListView()
+                    }
+                }
+                else {
                     SearchBar(text: $searchText, placeholder: "搜索从者")
-                    Divider()
-                    TopNServantsListView()
-                    Divider()
-                    ServantClassListView()
-                    Divider()
-                    GivenServantListView()
-                    FightCharacterFilterListView()
-                    RecentAddServantListView()
+                    FilteredServantListView(title: "显示结果", servantIds: filterServantId())
                 }
             }
             .navigationBarTitle("从者")
         }
+    }
+
+    private func filterServantId() -> [String] {
+        let allBasicInfos = ServantStore.shared.basicInfos
+        var ids = [String]()
+        for (id, info) in allBasicInfos {
+            if info.name.contains(self.searchText) {
+                ids.append(id)
+            }
+        }
+
+        return ids
     }
 }
 
