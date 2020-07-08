@@ -37,6 +37,10 @@ class ServantStoreTests: XCTestCase {
             // Put the code you want to measure the time of here.
             let allServantSkills = ServantSkillStore.shared.allServantSkills()
             XCTAssertFalse(allServantSkills.isEmpty)
+
+            for (_, element) in allServantSkills {
+                XCTAssertTrue(element.skills.count == 3)
+            }
         }
     }
 }

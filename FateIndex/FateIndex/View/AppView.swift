@@ -18,7 +18,7 @@ struct AppView: View {
             ContentView()
                 .tab(title: "材料", image: "cube.box.fill")
             
-            ContentView()
+            SettingsView()
                 .tab(title: "设置", image: "gear")
         }
         .onAppear(perform: {

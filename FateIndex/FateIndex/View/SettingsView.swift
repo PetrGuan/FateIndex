@@ -6,11 +6,44 @@
 //  Copyright © 2020 FoxHound-Peter-Guan. All rights reserved.
 //
 
+import StoreKit
 import SwiftUI
 
 struct SettingsView: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            List {
+                Button(action: {
+                    if let url = URL(string: "https://fgo.wiki/w/%E6%96%B0%E4%BA%BA%E5%85%A5%E9%97%A8") {
+                      UIApplication.shared.open(url)
+                    }
+                }) {
+                    Text("新手入门")
+                }
+
+                HStack {
+                    Text("版本号")
+                    Spacer()
+                    Text("1.0")
+                }
+
+                Button(action: {
+                    SKStoreReviewController.requestReview()
+                }) {
+                    Text("App Store 点评")
+                }
+
+                Button(action: {
+                    let email = "fateIndex@outlook.com"
+                    if let url = URL(string: "mailto:\(email)") {
+                      UIApplication.shared.open(url)
+                    }
+                }) {
+                    Text("问题反馈")
+                }
+            }
+            .navigationBarTitle("设置")
+        }
     }
 }
 

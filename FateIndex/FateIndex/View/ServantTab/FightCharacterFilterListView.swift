@@ -27,21 +27,21 @@ struct FightCharacterFilterListView: View {
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.altriaFaceList)) {
+            NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.filter(keyword: "阿尔托莉雅脸"))) {
                 Text("阿尔托莉雅脸")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.dragonList)) {
+            NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.filter(keyword: "龙"))) {
                 Text("龙")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.demonList)) {
+            NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.filter(keyword: "魔性"))) {
                 Text("魔性")
                     .foregroundColor(Color(hex: 0xfe365e))
             }

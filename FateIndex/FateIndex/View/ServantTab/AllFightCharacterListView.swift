@@ -41,39 +41,65 @@ struct AllFightCharacterListView: View {
 
             Section(header: Text("其他特性")) {
                 Group {
-                    NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.dragonList)) {
+                    NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.filter(keyword: "龙"))) {
                         CustomRedText(title: "龙")
                     }
 
-                    CustomRedText(title: "骑乘")
-                    CustomRedText(title: "神性")
-                    CustomRedText(title: "猛兽")
+                    NavigationLink(destination: FilteredServantListView(title: "骑乘", servantIds: ServantStore.shared.filter(keyword: "骑乘"))) {
+                        CustomRedText(title: "骑乘")
+                    }
 
-                    NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.demonList)) {
+                    NavigationLink(destination: FilteredServantListView(title: "神性", servantIds: ServantStore.shared.filter(keyword: "神性"))) {
+                        CustomRedText(title: "神性")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "猛兽", servantIds: ServantStore.shared.filter(keyword: "猛兽"))) {
+                        CustomRedText(title: "猛兽")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.filter(keyword: "魔性"))) {
                         CustomRedText(title: "魔性")
                     }
 
-                    CustomRedText(title: "王")
-                    CustomRedText(title: "天地(拟似除外)")
+                    NavigationLink(destination: FilteredServantListView(title: "王", servantIds: ServantStore.shared.filter(keyword: "王"))) {
+                        CustomRedText(title: "王")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "天地(拟似除外)", servantIds: ServantStore.shared.filter(keyword: "天/地从者"))) {
+                        CustomRedText(title: "天地(拟似除外)")
+                    }
                 }
 
                 Group {
-                    CustomRedText(title: "罗马")
-                    CustomRedText(title: "亚瑟")
+                    NavigationLink(destination: FilteredServantListView(title: "罗马", servantIds: ServantStore.shared.filter(keyword: "罗马"))) {
+                        CustomRedText(title: "罗马")
+                    }
 
-                    NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.altriaFaceList)) {
+                    NavigationLink(destination: FilteredServantListView(title: "亚瑟", servantIds: ServantStore.shared.filter(keyword: "亚瑟"))) {
+                        CustomRedText(title: "亚瑟")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds:  ServantStore.shared.filter(keyword: "阿尔托莉雅脸"))) {
                         CustomRedText(title: "阿尔托莉雅脸")
                     }
 
-                    CustomRedText(title: "EA不特攻")
-                    CustomRedText(title: "所爱之人")
+                    NavigationLink(destination: FilteredServantListView(title: "所爱之人", servantIds: ServantStore.shared.filter(keyword: "所爱之人"))) {
+                        CustomRedText(title: "所爱之人")
+                    }
                 }
 
                 Group {
-                    CustomRedText(title: "希腊神话男性")
-                    CustomRedText(title: "人类的威胁")
-                    CustomRedText(title: "阿尔戈号相关")
-                    CustomRedText(title: "无特殊特性")
+                    NavigationLink(destination: FilteredServantListView(title: "希腊神话男性", servantIds: ServantStore.shared.filter(keyword: "希腊神话系男性"))) {
+                        CustomRedText(title: "希腊神话男性")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "人类的威胁", servantIds: ServantStore.shared.filter(keyword: "人类威胁"))) {
+                        CustomRedText(title: "人类的威胁")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "阿尔戈号相关", servantIds: ServantStore.shared.filter(keyword: "阿尔戈"))) {
+                        CustomRedText(title: "阿尔戈号相关")
+                    }
                 }
             }
         }

@@ -32,7 +32,7 @@ struct ServantDetailView: View {
                 else if selectedSegment == 1 {
                     VStack {
                         NoblePhantasmView(servantNoblePhantasm: noblePhantasm())
-
+                        ActiveSkillDetailView(skills: servantActiveSkills(), selected: servantActiveSkills()[0])
                         ClassSkillCardDeckView(classSkills: servantClassSkills())
                     }
                 }
@@ -80,6 +80,10 @@ struct ServantDetailView: View {
 
     private func servantClassSkills() -> [ClassSkill] {
         return ServantSkillStore.shared.servantSkills[servantId]?.classSkills ?? []
+    }
+
+    private func servantActiveSkills() -> [ServantSkillModel] {
+        return ServantSkillStore.shared.servantSkills[servantId]?.skills ?? []
     }
 
     private func getCraftEssence() -> CraftEssences {

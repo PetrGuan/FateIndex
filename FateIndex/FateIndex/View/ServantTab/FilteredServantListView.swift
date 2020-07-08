@@ -31,6 +31,6 @@ struct FilteredServantListView: View {
 
 struct FilteredServantListView_Previews: PreviewProvider {
     static var previews: some View {
-        FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.altriaFaceList)
+        FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ["1"])
     }
 }

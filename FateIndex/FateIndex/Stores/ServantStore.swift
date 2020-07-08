@@ -120,17 +120,29 @@ final class ServantStore {
         return stories
     }
 
+    func filter(keyword: String) -> [String] {
+        var ids = [Int]()
+        let basicInfos = ServantStore.shared.basicInfos
+        for (id, basicInfo) in basicInfos {
+            for tokusei in basicInfo.tokusei {
+                if tokusei.contains(keyword) {
+                    if let id = Int(id) {
+                        ids.append(id)
+                        break
+                    }
+                }
+            }
+        }
+
+        return ids.sorted().reversed().map { String($0) }
+    }
+
+    func filter() {
+
+    }
+
     /// 活动赠送从者 id
     let givenList = ["283", "271", "264", "252", "243", "233", "225", "219", "211", "208", "197", "191", "190", "182", "174", "166", "162", "141", "138", "137", "133", "115", "111", "92", "73", "69", "61", "4"]
-
-    /// 阿尔托莉雅脸
-    let altriaFaceList = ["267", "265", "245", "243", "222", "219", "216", "209", "179", "175", "155", "141", "132", "129", "119", "106", "90", "86", "78", "76", "73", "68", "59", "5", "4", "3", "2"]
-
-    /// 龙
-    let dragonList = ["282", "266", "265", "225", "222", "213", "208", "179", "160", "155", "138", "134", "132", "129", "119", "112", "86", "78", "76", "73", "61", "56", "18", "6", "4", "3", "2"]
-
-    /// 魔性
-    let demonList = ["282", "266", "230", "225", "217", "184", "116", "112"]
 
     /// 其他性别
     let otherGenderList = ["280", "279", "278", "270", "250", "229", "143", "94", "10"]
