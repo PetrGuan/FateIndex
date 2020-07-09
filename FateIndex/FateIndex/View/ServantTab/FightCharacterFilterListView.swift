@@ -27,22 +27,22 @@ struct FightCharacterFilterListView: View {
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "阿尔托莉雅脸", servantIds: ServantStore.shared.filter(keyword: "阿尔托莉雅脸"))) {
-                Text("阿尔托莉雅脸")
+            NavigationLink(destination: FilteredServantListView(title: "猛兽", servantIds: ["231", "205", "202", "158", "148", "58"])) {
+                Text("猛兽")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "龙", servantIds: ServantStore.shared.filter(keyword: "龙"))) {
-                Text("龙")
+            NavigationLink(destination: FilteredServantListView(title: "人类的威胁", servantIds: ["275", "264", "198", "195", "191", "190"])) {
+                Text("人类的威胁")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
             
             Divider()
             
-            NavigationLink(destination: FilteredServantListView(title: "魔性", servantIds: ServantStore.shared.filter(keyword: "魔性"))) {
-                Text("魔性")
+            NavigationLink(destination: FilteredServantListView(title: "魔兽", servantIds: ["231", "158", "147", "128", "62", "58", "53"])) {
+                Text("魔兽")
                     .foregroundColor(Color(hex: 0xfe365e))
             }
             

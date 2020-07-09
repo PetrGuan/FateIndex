@@ -1,0 +1,85 @@
+{
+    "name": "凶骨",
+    "avatar": "凶骨",
+    "description": "【技能强化＆灵基再临素材】被诅咒所缠绕的不祥之骨",
+    "briefPlaces": [
+        "冬木-X-C",
+        "冬木-X-G"
+    ],
+    "apEfficiency": [
+        {
+            "place": "未确认坐标Ｘ－Ｃ",
+            "ap": "4",
+            "averageDrop": "0.180",
+            "averageAp": "22.2"
+        },
+        {
+            "place": "未确认坐标Ｘ－Ｄ",
+            "ap": "5",
+            "averageDrop": "0.210",
+            "averageAp": "23.8"
+        },
+        {
+            "place": "未确认坐标Ｘ－Ｇ",
+            "ap": "15",
+            "averageDrop": "0.630",
+            "averageAp": "23.8"
+        },
+        {
+            "place": "沙尘暴的沙漠",
+            "ap": "19",
+            "averageDrop": "0.630",
+            "averageAp": "30.2"
+        },
+        {
+            "place": "未确认坐标Ｘ－Ｅ",
+            "ap": "5",
+            "averageDrop": "0.160",
+            "averageAp": "31.3"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "未确认坐标Ｘ－Ｇ",
+            "ap": "15",
+            "averageDrop": "0.630",
+            "averageAp": "23.8"
+        },
+        {
+            "place": "沙尘暴的沙漠",
+            "ap": "19",
+            "averageDrop": "0.630",
+            "averageAp": "30.2"
+        },
+        {
+            "place": "日耳曼尼亚",
+            "ap": "15",
+            "averageDrop": "0.450",
+            "averageAp": "33.3"
+        },
+        {
+            "place": "战役之地",
+            "ap": "21",
+            "averageDrop": "0.398",
+            "averageAp": "52.7"
+        },
+        {
+            "place": "暗礁海域",
+            "ap": "17",
+            "averageDrop": "0.360",
+            "averageAp": "47.2"
+        },
+        {
+            "place": "克勒肯维尔",
+            "ap": "18",
+            "averageDrop": "0.360",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "海德公园",
+            "ap": "20",
+            "averageDrop": "0.360",
+            "averageAp": "55.6"
+        }
+    ]
+}

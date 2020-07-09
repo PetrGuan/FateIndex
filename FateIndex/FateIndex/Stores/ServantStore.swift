@@ -137,15 +137,26 @@ final class ServantStore {
         return ids.sorted().reversed().map { String($0) }
     }
 
-    func filter() {
+    func filterAttribute(keyword: String) -> [String] {
+        var ids = [Int]()
+        let basicInfos = ServantStore.shared.basicInfos
+        for (id, basicInfo) in basicInfos {
+            let all = basicInfo.attribute.split(separator: "·")
+            for individual in all {
+                if String(individual).contains(keyword) {
+                    if let id = Int(id) {
+                        ids.append(id)
+                        break
+                    }
+                }
+            }
+        }
 
+        return ids.sorted().reversed().map { String($0) }
     }
 
     /// 活动赠送从者 id
     let givenList = ["283", "271", "264", "252", "243", "233", "225", "219", "211", "208", "197", "191", "190", "182", "174", "166", "162", "141", "138", "137", "133", "115", "111", "92", "73", "69", "61", "4"]
-
-    /// 其他性别
-    let otherGenderList = ["280", "279", "278", "270", "250", "229", "143", "94", "10"]
 
     //**********************************************************************
 

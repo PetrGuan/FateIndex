@@ -1,0 +1,74 @@
+{
+    "name": "龙之牙",
+    "avatar": "龙之牙",
+    "description": "【技能强化＆灵基再临素材】龙种之牙。龙牙兵就是用这种牙制作而成的。",
+    "briefPlaces": [
+        "合众为一-德明",
+        "俄刻阿诺斯-翼龙之岛",
+        "巴比伦尼亚-埃里都"
+    ],
+    "apEfficiency": [
+        {
+            "place": "德明",
+            "ap": "17",
+            "averageDrop": "0.600",
+            "averageAp": "28.3"
+        },
+        {
+            "place": "翼龙之岛",
+            "ap": "14",
+            "averageDrop": "0.480",
+            "averageAp": "29.2"
+        },
+        {
+            "place": "埃里都",
+            "ap": "21",
+            "averageDrop": "0.622",
+            "averageAp": "33.8"
+        },
+        {
+            "place": "地图上标记的岛",
+            "ap": "13",
+            "averageDrop": "0.360",
+            "averageAp": "36.1"
+        },
+        {
+            "place": "山脚密林",
+            "ap": "21",
+            "averageDrop": "0.493",
+            "averageAp": "42.6"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "埃里都",
+            "ap": "21",
+            "averageDrop": "0.622",
+            "averageAp": "33.8"
+        },
+        {
+            "place": "德明",
+            "ap": "17",
+            "averageDrop": "0.600",
+            "averageAp": "28.3"
+        },
+        {
+            "place": "山脚密林",
+            "ap": "21",
+            "averageDrop": "0.493",
+            "averageAp": "42.6"
+        },
+        {
+            "place": "翼龙之岛",
+            "ap": "14",
+            "averageDrop": "0.480",
+            "averageAp": "29.2"
+        },
+        {
+            "place": "周四 骑之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.472",
+            "averageAp": "84.7"
+        }
+    ]
+}

@@ -11,31 +11,31 @@ import SwiftUI
 struct AllFightCharacterListView: View {
     var body: some View {
         List {
-            Section(header: Text("性别")) {
-                CustomRedText(title: "男性")
-                CustomRedText(title: "女性")
-                NavigationLink(destination: FilteredServantListView(title: "其他性别", servantIds: ServantStore.shared.otherGenderList)) {
-                    CustomRedText(title: "其他")
-                }
-            }
-
             Section(header: Text("属性")) {
                 Group {
-                    CustomRedText(title: "秩序")
-                    CustomRedText(title: "中立")
-                    CustomRedText(title: "混沌")
-                    CustomRedText(title: "善")
-                    CustomRedText(title: "中庸")
-                    CustomRedText(title: "恶")
-                    CustomRedText(title: "其他")
-                }
+                    NavigationLink(destination: FilteredServantListView(title: "秩序", servantIds: ServantStore.shared.filterAttribute(keyword: "秩序"))) {
+                        CustomRedText(title: "秩序")
+                    }
 
-                Group {
-                    CustomRedText(title: "天")
-                    CustomRedText(title: "地")
-                    CustomRedText(title: "人")
-                    CustomRedText(title: "星")
-                    CustomRedText(title: "兽")
+                    NavigationLink(destination: FilteredServantListView(title: "中立", servantIds: ServantStore.shared.filterAttribute(keyword: "中立"))) {
+                        CustomRedText(title: "中立")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "混沌", servantIds: ServantStore.shared.filterAttribute(keyword: "混沌"))) {
+                        CustomRedText(title: "混沌")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "善", servantIds: ServantStore.shared.filterAttribute(keyword: "善"))) {
+                        CustomRedText(title: "善")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "中庸", servantIds: ServantStore.shared.filterAttribute(keyword: "中庸"))) {
+                        CustomRedText(title: "中庸")
+                    }
+
+                    NavigationLink(destination: FilteredServantListView(title: "恶", servantIds: ServantStore.shared.filterAttribute(keyword: "恶"))) {
+                        CustomRedText(title: "恶")
+                    }
                 }
             }
 

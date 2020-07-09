@@ -1,0 +1,86 @@
+{
+    "name": "虚影之尘",
+    "avatar": "虚影之尘",
+    "description": "【技能强化＆灵基再临素材】空虚之影消失时四散的尘埃",
+    "briefPlaces": [
+        "合众为一-夏洛特",
+        "卡美洛-西之村遗迹",
+        "七丘之城-马西利亚"
+    ],
+    "apEfficiency": [
+        {
+            "place": "夏洛特",
+            "ap": "20",
+            "averageDrop": "0.640",
+            "averageAp": "31.3"
+        },
+        {
+            "place": "西之村遗迹",
+            "ap": "20",
+            "averageDrop": "0.458",
+            "averageAp": "43.7"
+        },
+        {
+            "place": "里弗顿",
+            "ap": "17",
+            "averageDrop": "0.320",
+            "averageAp": "53.1"
+        },
+        {
+            "place": "马西利亚",
+            "ap": "9",
+            "averageDrop": "0.160",
+            "averageAp": "56.3"
+        },
+        {
+            "place": "群岛（寂静的入海口）",
+            "ap": "15",
+            "averageDrop": "0.240",
+            "averageAp": "62.5"
+        },
+        {
+            "place": "伊苏",
+            "ap": "21",
+            "averageDrop": "0.332",
+            "averageAp": "63.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "夏洛特",
+            "ap": "20",
+            "averageDrop": "0.640",
+            "averageAp": "31.3"
+        },
+        {
+            "place": "西之村遗迹",
+            "ap": "20",
+            "averageDrop": "0.458",
+            "averageAp": "43.7"
+        },
+        {
+            "place": "伊苏",
+            "ap": "21",
+            "averageDrop": "0.332",
+            "averageAp": "63.2"
+        },
+        {
+            "place": "景阳原",
+            "ap": "21",
+            "averageDrop": "0.321",
+            "averageAp": "65.3"
+        },
+        {
+            "place": "里弗顿",
+            "ap": "17",
+            "averageDrop": "0.320",
+            "averageAp": "53.1"
+        },
+        {
+            "place": "大祭坛",
+            "ap": "21",
+            "averageDrop": "0.319",
+            "averageAp": "65.7"
+        }
+    ]
+}

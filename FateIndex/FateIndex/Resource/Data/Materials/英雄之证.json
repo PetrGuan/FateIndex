@@ -1,0 +1,85 @@
+{
+    "name": "英雄之证",
+    "avatar": "英雄之证",
+    "description": "【技能强化＆灵基再临素材】被认定为英雄的证明。为众多人所拥有，但因没有自觉而被遗忘。",
+    "briefPlaces": [
+        "俄刻阿诺斯-海盗船",
+        "奥尔良-马赛"
+    ],
+    "apEfficiency": [
+        {
+            "place": "海盗船",
+            "ap": "12",
+            "averageDrop": "0.570",
+            "averageAp": "21.1"
+        },
+        {
+            "place": "马赛",
+            "ap": "7",
+            "averageDrop": "0.300",
+            "averageAp": "23.3"
+        },
+        {
+            "place": "海盗岛",
+            "ap": "13",
+            "averageDrop": "0.540",
+            "averageAp": "24.1"
+        },
+        {
+            "place": "亚壁街道",
+            "ap": "9",
+            "averageDrop": "0.360",
+            "averageAp": "25.0"
+        },
+        {
+            "place": "达拉斯",
+            "ap": "17",
+            "averageDrop": "0.660",
+            "averageAp": "25.8"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "达拉斯",
+            "ap": "17",
+            "averageDrop": "0.660",
+            "averageAp": "25.8"
+        },
+        {
+            "place": "蒙哥马利",
+            "ap": "18",
+            "averageDrop": "0.630",
+            "averageAp": "28.6"
+        },
+        {
+            "place": "海盗船",
+            "ap": "12",
+            "averageDrop": "0.570",
+            "averageAp": "21.1"
+        },
+        {
+            "place": "海盗岛",
+            "ap": "13",
+            "averageDrop": "0.540",
+            "averageAp": "24.1"
+        },
+        {
+            "place": "拉伯克",
+            "ap": "18",
+            "averageDrop": "0.540",
+            "averageAp": "33.3"
+        },
+        {
+            "place": "亚历山德里亚",
+            "ap": "18",
+            "averageDrop": "0.540",
+            "averageAp": "33.3"
+        },
+        {
+            "place": "卡尼",
+            "ap": "18",
+            "averageDrop": "0.540",
+            "averageAp": "33.3"
+        }
+    ]
+}

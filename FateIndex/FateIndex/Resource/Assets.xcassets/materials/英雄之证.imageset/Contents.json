@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "英雄之证.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
