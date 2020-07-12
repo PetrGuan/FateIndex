@@ -1,0 +1,75 @@
+{
+    "name": "世界树之种",
+    "avatar": "世界树之种",
+    "description": "代表整个世界的巨大树木之种",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "巴比伦尼亚-废都巴比伦",
+        "塞勒姆-寂静之森",
+        "塞勒姆-隐匿处"
+    ],
+    "apEfficiency": [
+        {
+            "place": "废都巴比伦",
+            "ap": "20",
+            "averageDrop": "0.498",
+            "averageAp": "40.2"
+        },
+        {
+            "place": "寂静之森",
+            "ap": "20",
+            "averageDrop": "0.501",
+            "averageAp": "39.9"
+        },
+        {
+            "place": "隐匿处",
+            "ap": "21",
+            "averageDrop": "0.449",
+            "averageAp": "46.7"
+        },
+        {
+            "place": "农田",
+            "ap": "20",
+            "averageDrop": "0.397",
+            "averageAp": "50.3"
+        },
+        {
+            "place": "河边城市",
+            "ap": "20",
+            "averageDrop": "0.396",
+            "averageAp": "50.6"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "废都巴比伦",
+            "ap": "20",
+            "averageDrop": "0.498",
+            "averageAp": "40.2"
+        },
+        {
+            "place": "寂静之森",
+            "ap": "20",
+            "averageDrop": "0.501",
+            "averageAp": "39.9"
+        },
+        {
+            "place": "隐匿处",
+            "ap": "21",
+            "averageDrop": "0.449",
+            "averageAp": "46.7"
+        },
+        {
+            "place": "农田",
+            "ap": "20",
+            "averageDrop": "0.397",
+            "averageAp": "50.3"
+        },
+        {
+            "place": "河边城市",
+            "ap": "20",
+            "averageDrop": "0.396",
+            "averageAp": "50.6"
+        }
+    ]
+}

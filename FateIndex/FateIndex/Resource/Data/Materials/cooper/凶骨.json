@@ -1,7 +1,8 @@
 {
     "name": "凶骨",
     "avatar": "凶骨",
-    "description": "【技能强化＆灵基再临素材】被诅咒所缠绕的不祥之骨",
+    "description": "被诅咒所缠绕的不祥之骨",
+    "rarity": "铜素材",
     "briefPlaces": [
         "冬木-X-C",
         "冬木-X-G"

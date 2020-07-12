@@ -1,0 +1,85 @@
+{
+    "name": "永远结冰",
+    "avatar": "永远结冰",
+    "description": "在常温下也不会融化的冰。看上去隐约有点像花，但对无法理解美为何物之人来说，这不过是普通的冰而已。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "阿纳斯塔西娅-雅嘎·莫斯科"
+    ],
+    "apEfficiency": [
+        {
+            "place": "雅嘎·莫斯科",
+            "ap": "21",
+            "averageDrop": "0.455",
+            "averageAp": "46.1"
+        },
+        {
+            "place": "遭毁灭的村庄",
+            "ap": "21",
+            "averageDrop": "0.256",
+            "averageAp": "81.9"
+        },
+        {
+            "place": "雅嘎·梁赞",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "雅嘎·杰缅斯克",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "大树根部",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.1"
+        },
+        {
+            "place": "雅嘎·图拉",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "雅嘎·莫斯科",
+            "ap": "21",
+            "averageDrop": "0.455",
+            "averageAp": "46.1"
+        },
+        {
+            "place": "遭毁灭的村庄",
+            "ap": "21",
+            "averageDrop": "0.256",
+            "averageAp": "81.9"
+        },
+        {
+            "place": "雅嘎·梁赞",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "雅嘎·杰缅斯克",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "大树根部",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.1"
+        },
+        {
+            "place": "雅嘎·图拉",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.2"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "九十九镜",
+    "avatar": "九十九镜",
+    "description": "在漫长的岁月中，被人们代代相传，最终寄宿了神灵或是魑魅魍魉等奇妙而不可思议存在的镜子。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "下总国-后山（战战兢兢）"
+    ],
+    "apEfficiency": [
+        {
+            "place": "后山（战战兢兢）",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.4"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "后山（战战兢兢）",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.4"
+        }
+    ]
+}

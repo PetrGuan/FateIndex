@@ -1,0 +1,73 @@
+{
+    "name": "极光之钢",
+    "avatar": "极光之钢",
+    "description": "散发着犹如极光般摇荡光芒的神圣之钢。传说北欧神话中的瓦尔基里们身穿用这种钢打造的铠甲在天际驰骋。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "诸神黄昏-雪与冰之城"
+    ],
+    "apEfficiency": [
+        {
+            "place": "雪与冰之城",
+            "ap": "21",
+            "averageDrop": "0.390",
+            "averageAp": "53.9"
+        },
+        {
+            "place": "第67村落",
+            "ap": "21",
+            "averageDrop": "0.255",
+            "averageAp": "82.2"
+        },
+        {
+            "place": "第23村落",
+            "ap": "21",
+            "averageDrop": "0.250",
+            "averageAp": "84.0"
+        },
+        {
+            "place": "炎之馆",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.0"
+        },
+        {
+            "place": "被遗忘的神殿",
+            "ap": "21",
+            "averageDrop": "0.240",
+            "averageAp": "87.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "雪与冰之城",
+            "ap": "21",
+            "averageDrop": "0.390",
+            "averageAp": "53.9"
+        },
+        {
+            "place": "第67村落",
+            "ap": "21",
+            "averageDrop": "0.255",
+            "averageAp": "82.2"
+        },
+        {
+            "place": "第23村落",
+            "ap": "21",
+            "averageDrop": "0.250",
+            "averageAp": "84.0"
+        },
+        {
+            "place": "炎之馆",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.0"
+        },
+        {
+            "place": "被遗忘的神殿",
+            "ap": "21",
+            "averageDrop": "0.240",
+            "averageAp": "87.5"
+        }
+    ]
+}

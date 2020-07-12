@@ -1,0 +1,74 @@
+{
+    "name": "无间齿轮",
+    "avatar": "无间齿轮",
+    "description": "永动机之梦。一旦开始运行就会永不停止的齿轮。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "新宿-枪身塔",
+        "合众为一-芝加哥"
+    ],
+    "apEfficiency": [
+        {
+            "place": "枪身塔",
+            "ap": "21",
+            "averageDrop": "0.460",
+            "averageAp": "45.7"
+        },
+        {
+            "place": "芝加哥",
+            "ap": "21",
+            "averageDrop": "0.400",
+            "averageAp": "52.5"
+        },
+        {
+            "place": "歌舞伎町",
+            "ap": "21",
+            "averageDrop": "0.313",
+            "averageAp": "67.1"
+        },
+        {
+            "place": "播种地",
+            "ap": "20",
+            "averageDrop": "0.300",
+            "averageAp": "66.6"
+        },
+        {
+            "place": "石泉峡",
+            "ap": "21",
+            "averageDrop": "0.301",
+            "averageAp": "69.7"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "枪身塔",
+            "ap": "21",
+            "averageDrop": "0.460",
+            "averageAp": "45.7"
+        },
+        {
+            "place": "芝加哥",
+            "ap": "21",
+            "averageDrop": "0.400",
+            "averageAp": "52.5"
+        },
+        {
+            "place": "歌舞伎町",
+            "ap": "21",
+            "averageDrop": "0.313",
+            "averageAp": "67.1"
+        },
+        {
+            "place": "石泉峡",
+            "ap": "21",
+            "averageDrop": "0.301",
+            "averageAp": "69.7"
+        },
+        {
+            "place": "播种地",
+            "ap": "20",
+            "averageDrop": "0.300",
+            "averageAp": "66.6"
+        }
+    ]
+}

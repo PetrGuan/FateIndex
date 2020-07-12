@@ -1,0 +1,73 @@
+{
+    "name": "宵泣之铁桩",
+    "avatar": "宵泣之铁桩",
+    "description": "用于固定死去的肉体而钉穿躯体的铁桩。能够吸取血液，所以不会生锈，更会因此而增添艳泽。甚至能够刺穿潜于暗夜的非此世之物。",
+    "rarity": "铜素材",
+    "briefPlaces": [
+        "塞勒姆-加罗丘陵"
+    ],
+    "apEfficiency": [
+        {
+            "place": "加罗丘陵",
+            "ap": "21",
+            "averageDrop": "0.672",
+            "averageAp": "31.3"
+        },
+        {
+            "place": "卡特家",
+            "ap": "20",
+            "averageDrop": "0.400",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "郊外的宅邸",
+            "ap": "21",
+            "averageDrop": "0.407",
+            "averageAp": "51.6"
+        },
+        {
+            "place": "空房",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "牧草地",
+            "ap": "21",
+            "averageDrop": "0.395",
+            "averageAp": "53.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "加罗丘陵",
+            "ap": "21",
+            "averageDrop": "0.672",
+            "averageAp": "31.3"
+        },
+        {
+            "place": "郊外的宅邸",
+            "ap": "21",
+            "averageDrop": "0.407",
+            "averageAp": "51.6"
+        },
+        {
+            "place": "空房",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "卡特家",
+            "ap": "20",
+            "averageDrop": "0.400",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "牧草地",
+            "ap": "21",
+            "averageDrop": "0.395",
+            "averageAp": "53.2"
+        }
+    ]
+}

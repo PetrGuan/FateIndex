@@ -1,0 +1,62 @@
+{
+    "name": "煌星的碎片",
+    "avatar": "煌星的碎片",
+    "description": "形状仿佛是夜空中闪烁的星星直接落下地面一般的不可思议的矿石。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "奥林匹斯-机神回廊",
+        "亚特兰蒂斯-涅墨西斯岛"
+    ],
+    "apEfficiency": [
+        {
+            "place": "机神回廊",
+            "ap": "21",
+            "averageDrop": "0.128",
+            "averageAp": "164.2"
+        },
+        {
+            "place": "空中庭园",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "170.0"
+        },
+        {
+            "place": "涅墨西斯岛",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "174.6"
+        },
+        {
+            "place": "航行点",
+            "ap": "21",
+            "averageDrop": "0.115",
+            "averageAp": "181.8"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "机神回廊",
+            "ap": "21",
+            "averageDrop": "0.128",
+            "averageAp": "164.2"
+        },
+        {
+            "place": "空中庭园",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "170.0"
+        },
+        {
+            "place": "涅墨西斯岛",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "174.6"
+        },
+        {
+            "place": "航行点",
+            "ap": "21",
+            "averageDrop": "0.115",
+            "averageAp": "181.8"
+        }
+    ]
+}

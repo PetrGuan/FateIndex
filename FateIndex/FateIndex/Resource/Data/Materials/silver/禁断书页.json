@@ -1,0 +1,80 @@
+{
+    "name": "禁断书页",
+    "avatar": "禁断书页",
+    "description": "无人可阅读的书页。多半都会被夹在书的开头或是结尾。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "新宿-新宿二丁目",
+        "伦敦-海德公园"
+    ],
+    "apEfficiency": [
+        {
+            "place": "新宿二丁目",
+            "ap": "21",
+            "averageDrop": "0.303",
+            "averageAp": "69.3"
+        },
+        {
+            "place": "海德公园",
+            "ap": "20",
+            "averageDrop": "0.255",
+            "averageAp": "78.4"
+        },
+        {
+            "place": "周五 术之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.212",
+            "averageAp": "189.1"
+        },
+        {
+            "place": "周五 术之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.158",
+            "averageAp": "190.5"
+        },
+        {
+            "place": "周五 术之修炼场 初级",
+            "ap": "10",
+            "averageDrop": "0.050",
+            "averageAp": "200.0"
+        },
+        {
+            "place": "周五 术之修炼场 中级",
+            "ap": "20",
+            "averageDrop": "0.100",
+            "averageAp": "200.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "新宿二丁目",
+            "ap": "21",
+            "averageDrop": "0.303",
+            "averageAp": "69.3"
+        },
+        {
+            "place": "海德公园",
+            "ap": "20",
+            "averageDrop": "0.255",
+            "averageAp": "78.4"
+        },
+        {
+            "place": "周五 术之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.212",
+            "averageAp": "189.1"
+        },
+        {
+            "place": "周五 术之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.158",
+            "averageAp": "190.5"
+        },
+        {
+            "place": "周五 术之修炼场 中级",
+            "ap": "20",
+            "averageDrop": "0.100",
+            "averageAp": "200.0"
+        }
+    ]
+}

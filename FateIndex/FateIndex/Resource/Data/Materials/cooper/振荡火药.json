@@ -1,0 +1,73 @@
+{
+    "name": "振荡火药",
+    "avatar": "振荡火药",
+    "description": "通过注入魔力来引火的特殊火药。由于只需些微魔力就能产生爆发性的火力，因此被使用于猎杀魔兽用枪的弹药。",
+    "rarity": "铜素材",
+    "briefPlaces": [
+        "阿纳斯塔西娅-雅嘎·斯摩棱斯克"
+    ],
+    "apEfficiency": [
+        {
+            "place": "雅嘎·斯摩棱斯克",
+            "ap": "20",
+            "averageDrop": "0.655",
+            "averageAp": "30.5"
+        },
+        {
+            "place": "反叛军的堡垒",
+            "ap": "21",
+            "averageDrop": "0.420",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "雅嘎·瑟乔夫卡",
+            "ap": "21",
+            "averageDrop": "0.413",
+            "averageAp": "50.8"
+        },
+        {
+            "place": "烧光的村庄",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.1"
+        },
+        {
+            "place": "雅嘎·维亚济马",
+            "ap": "21",
+            "averageDrop": "0.398",
+            "averageAp": "52.6"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "雅嘎·斯摩棱斯克",
+            "ap": "20",
+            "averageDrop": "0.655",
+            "averageAp": "30.5"
+        },
+        {
+            "place": "反叛军的堡垒",
+            "ap": "21",
+            "averageDrop": "0.420",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "雅嘎·瑟乔夫卡",
+            "ap": "21",
+            "averageDrop": "0.413",
+            "averageAp": "50.8"
+        },
+        {
+            "place": "烧光的村庄",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.1"
+        },
+        {
+            "place": "雅嘎·维亚济马",
+            "ap": "21",
+            "averageDrop": "0.398",
+            "averageAp": "52.6"
+        }
+    ]
+}

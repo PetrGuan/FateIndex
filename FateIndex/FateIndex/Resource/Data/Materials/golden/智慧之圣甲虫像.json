@@ -1,0 +1,50 @@
+{
+    "name": "智慧之圣甲虫像",
+    "avatar": "智慧之圣甲虫像",
+    "description": "象征了再生与复活的圣甲虫的饰物。仅有能够解开不世难题的真正聪慧者才可与之相配。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "卡美洛-大神殿",
+        "卡美洛-沙尘暴的沙漠"
+    ],
+    "apEfficiency": [
+        {
+            "place": "得摩斯岛",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "175.4"
+        },
+        {
+            "place": "大神殿",
+            "ap": "22",
+            "averageDrop": "0.120",
+            "averageAp": "183.3"
+        },
+        {
+            "place": "沙尘暴的沙漠",
+            "ap": "19",
+            "averageDrop": "0.080",
+            "averageAp": "237.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "得摩斯岛",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "175.4"
+        },
+        {
+            "place": "大神殿",
+            "ap": "22",
+            "averageDrop": "0.120",
+            "averageAp": "183.3"
+        },
+        {
+            "place": "沙尘暴的沙漠",
+            "ap": "19",
+            "averageDrop": "0.080",
+            "averageAp": "237.5"
+        }
+    ]
+}

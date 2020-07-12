@@ -1091,6 +1091,52 @@
 		6EBB84CC24A0CCB200D4CD1B /* ServantStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */; };
 		6EBB84CE24A0CF6D00D4CD1B /* ServantStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */; };
 		6EBB84D024A0D24D00D4CD1B /* ServantBasicInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */; };
+		6EBD3CAF24B8579000089B92 /* 愚者之锁.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CAE24B8579000089B92 /* 愚者之锁.json */; };
+		6EBD3CB124B8589E00089B92 /* 万死的毒针.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CB024B8589E00089B92 /* 万死的毒针.json */; };
+		6EBD3CB324B859DE00089B92 /* 魔术髓液.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CB224B859DE00089B92 /* 魔术髓液.json */; };
+		6EBD3CB524B85ABC00089B92 /* 宵泣之铁桩.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CB424B85ABC00089B92 /* 宵泣之铁桩.json */; };
+		6EBD3CB724B85B4F00089B92 /* 振荡火药.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CB624B85B4F00089B92 /* 振荡火药.json */; };
+		6EBD3CBB24B85C1200089B92 /* 世界树之种.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CBA24B85C1200089B92 /* 世界树之种.json */; };
+		6EBD3CBD24B85CBF00089B92 /* 鬼魂提灯.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CBC24B85CBF00089B92 /* 鬼魂提灯.json */; };
+		6EBD3CBF24B85FA800089B92 /* 八连双晶.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CBE24B85FA800089B92 /* 八连双晶.json */; };
+		6EBD3CC124B8617100089B92 /* MaterialView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBD3CC024B8617100089B92 /* MaterialView.swift */; };
+		6EBD3CC324B8632800089B92 /* 蛇之宝玉.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CC224B8632800089B92 /* 蛇之宝玉.json */; };
+		6EBD3CC524B8642600089B92 /* 凤凰羽毛.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CC424B8642600089B92 /* 凤凰羽毛.json */; };
+		6EBD3CC724B864BA00089B92 /* MaterialStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBD3CC624B864BA00089B92 /* MaterialStore.swift */; };
+		6EBD3CC924B86EE500089B92 /* MaterialStoreTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBD3CC824B86EE500089B92 /* MaterialStoreTests.swift */; };
+		6EBD3CCC24B87D7A00089B92 /* 悠久果实.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CCB24B87D7A00089B92 /* 悠久果实.json */; };
+		6EBD3CCE24B87F4E00089B92 /* 无间齿轮.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CCD24B87F4E00089B92 /* 无间齿轮.json */; };
+		6EBD3CD024B87FE700089B92 /* 禁断书页.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CCF24B87FE700089B92 /* 禁断书页.json */; };
+		6EBD3CD224B8810B00089B92 /* 人工生命体幼体.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CD124B8810B00089B92 /* 人工生命体幼体.json */; };
+		6EBD3CD424B881F400089B92 /* 陨蹄铁.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CD324B881F400089B92 /* 陨蹄铁.json */; };
+		6EBD3CD624B8830A00089B92 /* 大骑士勋章.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CD524B8830A00089B92 /* 大骑士勋章.json */; };
+		6EBD3CD824B945DD00089B92 /* 追忆的贝壳.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CD724B945DD00089B92 /* 追忆的贝壳.json */; };
+		6EBD3CDA24B9468E00089B92 /* 枯淡勾玉.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CD924B9468E00089B92 /* 枯淡勾玉.json */; };
+		6EBD3CDC24B9475B00089B92 /* 永远结冰.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CDB24B9475B00089B92 /* 永远结冰.json */; };
+		6EBD3CDE24BB2D5500089B92 /* 巨人的戒指.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CDD24BB2D5500089B92 /* 巨人的戒指.json */; };
+		6EBD3CE024BB2DEB00089B92 /* 极光之钢.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CDF24BB2DEB00089B92 /* 极光之钢.json */; };
+		6EBD3CE224BB2E7F00089B92 /* 闲古铃.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CE124BB2E7F00089B92 /* 闲古铃.json */; };
+		6EBD3CE424BB2EEA00089B92 /* 祸罪之箭头.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CE324BB2EEA00089B92 /* 祸罪之箭头.json */; };
+		6EBD3CE624BB2F5F00089B92 /* 光银之冠.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CE524BB2F5F00089B92 /* 光银之冠.json */; };
+		6EBD3CE824BB2FDE00089B92 /* 神脉灵子.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CE724BB2FDE00089B92 /* 神脉灵子.json */; };
+		6EBD3CEA24BB305700089B92 /* 混沌之爪.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CE924BB305700089B92 /* 混沌之爪.json */; };
+		6EBD3CEC24BB30EC00089B92 /* 蛮神心脏.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CEB24BB30EC00089B92 /* 蛮神心脏.json */; };
+		6EBD3CEE24BB316700089B92 /* 龙之逆鳞.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CED24BB316700089B92 /* 龙之逆鳞.json */; };
+		6EBD3CF024BB31D300089B92 /* 精灵根.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CEF24BB31D300089B92 /* 精灵根.json */; };
+		6EBD3CF224BB326900089B92 /* 战马的幼角.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CF124BB326900089B92 /* 战马的幼角.json */; };
+		6EBD3CF424BB330200089B92 /* 血之泪石.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CF324BB330200089B92 /* 血之泪石.json */; };
+		6EBD3CF624BB338400089B92 /* 黑兽脂.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CF524BB338400089B92 /* 黑兽脂.json */; };
+		6EBD3CF824BB341E00089B92 /* 封魔之灯.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CF724BB341E00089B92 /* 封魔之灯.json */; };
+		6EBD3CFA24BB349500089B92 /* 智慧之圣甲虫像.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CF924BB349500089B92 /* 智慧之圣甲虫像.json */; };
+		6EBD3CFC24BB439500089B92 /* 起源的胎毛.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CFB24BB439500089B92 /* 起源的胎毛.json */; };
+		6EBD3CFE24BB443E00089B92 /* 咒兽胆石.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CFD24BB443E00089B92 /* 咒兽胆石.json */; };
+		6EBD3D0024BB448C00089B92 /* 奇奇神酒.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3CFF24BB448C00089B92 /* 奇奇神酒.json */; };
+		6EBD3D0224BB452600089B92 /* 晓光炉心.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0124BB452600089B92 /* 晓光炉心.json */; };
+		6EBD3D0424BB459D00089B92 /* 九十九镜.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0324BB459D00089B92 /* 九十九镜.json */; };
+		6EBD3D0624BB45E100089B92 /* 真理之卵.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0524BB45E100089B92 /* 真理之卵.json */; };
+		6EBD3D0824BB463500089B92 /* 煌星的碎片.json in Resources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0724BB463500089B92 /* 煌星的碎片.json */; };
+		6EBD3D0A24BB4B6900089B92 /* MaterialListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0924BB4B6900089B92 /* MaterialListView.swift */; };
+		6EBD3D0C24BB4E9B00089B92 /* MaterialDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBD3D0B24BB4E9B00089B92 /* MaterialDetailView.swift */; };
 		6EBE940324ADFB800047BFD3 /* NoblePhantasmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBE940224ADFB800047BFD3 /* NoblePhantasmView.swift */; };
 		6EBE940524AE04A30047BFD3 /* FiveColumnSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EBE940424AE04A30047BFD3 /* FiveColumnSheetView.swift */; };
 		6ED0723F248A22EC00C2C7D9 /* TopNServantsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */; };
@@ -2388,6 +2434,52 @@
 		6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStore.swift; sourceTree = "<group>"; };
 		6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantStoreTests.swift; sourceTree = "<group>"; };
 		6EBB84CF24A0D24D00D4CD1B /* ServantBasicInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServantBasicInfoView.swift; sourceTree = "<group>"; };
+		6EBD3CAE24B8579000089B92 /* 愚者之锁.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "愚者之锁.json"; sourceTree = "<group>"; };
+		6EBD3CB024B8589E00089B92 /* 万死的毒针.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "万死的毒针.json"; sourceTree = "<group>"; };
+		6EBD3CB224B859DE00089B92 /* 魔术髓液.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "魔术髓液.json"; sourceTree = "<group>"; };
+		6EBD3CB424B85ABC00089B92 /* 宵泣之铁桩.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "宵泣之铁桩.json"; sourceTree = "<group>"; };
+		6EBD3CB624B85B4F00089B92 /* 振荡火药.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "振荡火药.json"; sourceTree = "<group>"; };
+		6EBD3CBA24B85C1200089B92 /* 世界树之种.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "世界树之种.json"; sourceTree = "<group>"; };
+		6EBD3CBC24B85CBF00089B92 /* 鬼魂提灯.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "鬼魂提灯.json"; sourceTree = "<group>"; };
+		6EBD3CBE24B85FA800089B92 /* 八连双晶.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "八连双晶.json"; sourceTree = "<group>"; };
+		6EBD3CC024B8617100089B92 /* MaterialView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialView.swift; sourceTree = "<group>"; };
+		6EBD3CC224B8632800089B92 /* 蛇之宝玉.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "蛇之宝玉.json"; sourceTree = "<group>"; };
+		6EBD3CC424B8642600089B92 /* 凤凰羽毛.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "凤凰羽毛.json"; sourceTree = "<group>"; };
+		6EBD3CC624B864BA00089B92 /* MaterialStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialStore.swift; sourceTree = "<group>"; };
+		6EBD3CC824B86EE500089B92 /* MaterialStoreTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialStoreTests.swift; sourceTree = "<group>"; };
+		6EBD3CCB24B87D7A00089B92 /* 悠久果实.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "悠久果实.json"; sourceTree = "<group>"; };
+		6EBD3CCD24B87F4E00089B92 /* 无间齿轮.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "无间齿轮.json"; sourceTree = "<group>"; };
+		6EBD3CCF24B87FE700089B92 /* 禁断书页.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "禁断书页.json"; sourceTree = "<group>"; };
+		6EBD3CD124B8810B00089B92 /* 人工生命体幼体.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "人工生命体幼体.json"; sourceTree = "<group>"; };
+		6EBD3CD324B881F400089B92 /* 陨蹄铁.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "陨蹄铁.json"; sourceTree = "<group>"; };
+		6EBD3CD524B8830A00089B92 /* 大骑士勋章.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "大骑士勋章.json"; sourceTree = "<group>"; };
+		6EBD3CD724B945DD00089B92 /* 追忆的贝壳.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "追忆的贝壳.json"; sourceTree = "<group>"; };
+		6EBD3CD924B9468E00089B92 /* 枯淡勾玉.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "枯淡勾玉.json"; sourceTree = "<group>"; };
+		6EBD3CDB24B9475B00089B92 /* 永远结冰.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "永远结冰.json"; sourceTree = "<group>"; };
+		6EBD3CDD24BB2D5500089B92 /* 巨人的戒指.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "巨人的戒指.json"; sourceTree = "<group>"; };
+		6EBD3CDF24BB2DEB00089B92 /* 极光之钢.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "极光之钢.json"; sourceTree = "<group>"; };
+		6EBD3CE124BB2E7F00089B92 /* 闲古铃.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "闲古铃.json"; sourceTree = "<group>"; };
+		6EBD3CE324BB2EEA00089B92 /* 祸罪之箭头.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "祸罪之箭头.json"; sourceTree = "<group>"; };
+		6EBD3CE524BB2F5F00089B92 /* 光银之冠.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "光银之冠.json"; sourceTree = "<group>"; };
+		6EBD3CE724BB2FDE00089B92 /* 神脉灵子.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "神脉灵子.json"; sourceTree = "<group>"; };
+		6EBD3CE924BB305700089B92 /* 混沌之爪.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "混沌之爪.json"; sourceTree = "<group>"; };
+		6EBD3CEB24BB30EC00089B92 /* 蛮神心脏.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "蛮神心脏.json"; sourceTree = "<group>"; };
+		6EBD3CED24BB316700089B92 /* 龙之逆鳞.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "龙之逆鳞.json"; sourceTree = "<group>"; };
+		6EBD3CEF24BB31D300089B92 /* 精灵根.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "精灵根.json"; sourceTree = "<group>"; };
+		6EBD3CF124BB326900089B92 /* 战马的幼角.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "战马的幼角.json"; sourceTree = "<group>"; };
+		6EBD3CF324BB330200089B92 /* 血之泪石.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "血之泪石.json"; sourceTree = "<group>"; };
+		6EBD3CF524BB338400089B92 /* 黑兽脂.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "黑兽脂.json"; sourceTree = "<group>"; };
+		6EBD3CF724BB341E00089B92 /* 封魔之灯.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "封魔之灯.json"; sourceTree = "<group>"; };
+		6EBD3CF924BB349500089B92 /* 智慧之圣甲虫像.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "智慧之圣甲虫像.json"; sourceTree = "<group>"; };
+		6EBD3CFB24BB439500089B92 /* 起源的胎毛.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "起源的胎毛.json"; sourceTree = "<group>"; };
+		6EBD3CFD24BB443E00089B92 /* 咒兽胆石.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "咒兽胆石.json"; sourceTree = "<group>"; };
+		6EBD3CFF24BB448C00089B92 /* 奇奇神酒.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "奇奇神酒.json"; sourceTree = "<group>"; };
+		6EBD3D0124BB452600089B92 /* 晓光炉心.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "晓光炉心.json"; sourceTree = "<group>"; };
+		6EBD3D0324BB459D00089B92 /* 九十九镜.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "九十九镜.json"; sourceTree = "<group>"; };
+		6EBD3D0524BB45E100089B92 /* 真理之卵.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "真理之卵.json"; sourceTree = "<group>"; };
+		6EBD3D0724BB463500089B92 /* 煌星的碎片.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "煌星的碎片.json"; sourceTree = "<group>"; };
+		6EBD3D0924BB4B6900089B92 /* MaterialListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialListView.swift; sourceTree = "<group>"; };
+		6EBD3D0B24BB4E9B00089B92 /* MaterialDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialDetailView.swift; sourceTree = "<group>"; };
 		6EBE940224ADFB800047BFD3 /* NoblePhantasmView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoblePhantasmView.swift; sourceTree = "<group>"; };
 		6EBE940424AE04A30047BFD3 /* FiveColumnSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FiveColumnSheetView.swift; sourceTree = "<group>"; };
 		6ED0723E248A22EC00C2C7D9 /* TopNServantsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNServantsListView.swift; sourceTree = "<group>"; };
@@ -2805,6 +2897,7 @@
 				6E1AC2FC248C96F2004C006A /* CommandCodeStoreTests.swift */,
 				6E1AC329248CCA1B004C006A /* MysticCodeStoreTests.swift */,
 				6EBB84CD24A0CF6D00D4CD1B /* ServantStoreTests.swift */,
+				6EBD3CC824B86EE500089B92 /* MaterialStoreTests.swift */,
 			);
 			path = FateIndexTests;
 			sourceTree = "<group>";
@@ -3459,6 +3552,7 @@
 				6E1AC327248CC995004C006A /* MysticCodeStore.swift */,
 				6E7EB5CA24A79A1100D6AE52 /* ServantSkillStore.swift */,
 				6EBB84CB24A0CCB200D4CD1B /* ServantStore.swift */,
+				6EBD3CC624B864BA00089B92 /* MaterialStore.swift */,
 			);
 			path = Stores;
 			sourceTree = "<group>";
@@ -3468,6 +3562,9 @@
 			children = (
 				6E4F21B224B757F5004A5191 /* MaterialCardView.swift */,
 				6E4F21B424B75B9B004A5191 /* MaterialCardListView.swift */,
+				6EBD3CC024B8617100089B92 /* MaterialView.swift */,
+				6EBD3D0924BB4B6900089B92 /* MaterialListView.swift */,
+				6EBD3D0B24BB4E9B00089B92 /* MaterialDetailView.swift */,
 			);
 			path = Material;
 			sourceTree = "<group>";
@@ -3475,10 +3572,9 @@
 		6E4F21B624B76409004A5191 /* Materials */ = {
 			isa = PBXGroup;
 			children = (
-				6E4F21B724B76444004A5191 /* 英雄之证.json */,
-				6E4F21B924B76720004A5191 /* 凶骨.json */,
-				6E4F21BD24B76956004A5191 /* 龙之牙.json */,
-				6E4F21BF24B76AB3004A5191 /* 虚影之尘.json */,
+				6EBD3CCA24B87D3100089B92 /* golden */,
+				6EBD3CB924B85BF300089B92 /* silver */,
+				6EBD3CB824B85BEC00089B92 /* cooper */,
 			);
 			path = Materials;
 			sourceTree = "<group>";
@@ -4062,6 +4158,72 @@
 			path = BasicInfo;
 			sourceTree = "<group>";
 		};
+		6EBD3CB824B85BEC00089B92 /* cooper */ = {
+			isa = PBXGroup;
+			children = (
+				6E4F21B724B76444004A5191 /* 英雄之证.json */,
+				6E4F21B924B76720004A5191 /* 凶骨.json */,
+				6E4F21BD24B76956004A5191 /* 龙之牙.json */,
+				6E4F21BF24B76AB3004A5191 /* 虚影之尘.json */,
+				6EBD3CAE24B8579000089B92 /* 愚者之锁.json */,
+				6EBD3CB024B8589E00089B92 /* 万死的毒针.json */,
+				6EBD3CB224B859DE00089B92 /* 魔术髓液.json */,
+				6EBD3CB424B85ABC00089B92 /* 宵泣之铁桩.json */,
+				6EBD3CB624B85B4F00089B92 /* 振荡火药.json */,
+			);
+			path = cooper;
+			sourceTree = "<group>";
+		};
+		6EBD3CB924B85BF300089B92 /* silver */ = {
+			isa = PBXGroup;
+			children = (
+				6EBD3CBA24B85C1200089B92 /* 世界树之种.json */,
+				6EBD3CBC24B85CBF00089B92 /* 鬼魂提灯.json */,
+				6EBD3CBE24B85FA800089B92 /* 八连双晶.json */,
+				6EBD3CC224B8632800089B92 /* 蛇之宝玉.json */,
+				6EBD3CC424B8642600089B92 /* 凤凰羽毛.json */,
+				6EBD3CCD24B87F4E00089B92 /* 无间齿轮.json */,
+				6EBD3CCF24B87FE700089B92 /* 禁断书页.json */,
+				6EBD3CD124B8810B00089B92 /* 人工生命体幼体.json */,
+				6EBD3CD324B881F400089B92 /* 陨蹄铁.json */,
+				6EBD3CD524B8830A00089B92 /* 大骑士勋章.json */,
+				6EBD3CD724B945DD00089B92 /* 追忆的贝壳.json */,
+				6EBD3CD924B9468E00089B92 /* 枯淡勾玉.json */,
+				6EBD3CDB24B9475B00089B92 /* 永远结冰.json */,
+				6EBD3CDD24BB2D5500089B92 /* 巨人的戒指.json */,
+				6EBD3CDF24BB2DEB00089B92 /* 极光之钢.json */,
+				6EBD3CE124BB2E7F00089B92 /* 闲古铃.json */,
+				6EBD3CE324BB2EEA00089B92 /* 祸罪之箭头.json */,
+				6EBD3CE524BB2F5F00089B92 /* 光银之冠.json */,
+				6EBD3CE724BB2FDE00089B92 /* 神脉灵子.json */,
+			);
+			path = silver;
+			sourceTree = "<group>";
+		};
+		6EBD3CCA24B87D3100089B92 /* golden */ = {
+			isa = PBXGroup;
+			children = (
+				6EBD3CCB24B87D7A00089B92 /* 悠久果实.json */,
+				6EBD3CE924BB305700089B92 /* 混沌之爪.json */,
+				6EBD3CEB24BB30EC00089B92 /* 蛮神心脏.json */,
+				6EBD3CED24BB316700089B92 /* 龙之逆鳞.json */,
+				6EBD3CEF24BB31D300089B92 /* 精灵根.json */,
+				6EBD3CF124BB326900089B92 /* 战马的幼角.json */,
+				6EBD3CF324BB330200089B92 /* 血之泪石.json */,
+				6EBD3CF524BB338400089B92 /* 黑兽脂.json */,
+				6EBD3CF724BB341E00089B92 /* 封魔之灯.json */,
+				6EBD3CF924BB349500089B92 /* 智慧之圣甲虫像.json */,
+				6EBD3CFB24BB439500089B92 /* 起源的胎毛.json */,
+				6EBD3CFD24BB443E00089B92 /* 咒兽胆石.json */,
+				6EBD3CFF24BB448C00089B92 /* 奇奇神酒.json */,
+				6EBD3D0124BB452600089B92 /* 晓光炉心.json */,
+				6EBD3D0324BB459D00089B92 /* 九十九镜.json */,
+				6EBD3D0524BB45E100089B92 /* 真理之卵.json */,
+				6EBD3D0724BB463500089B92 /* 煌星的碎片.json */,
+			);
+			path = golden;
+			sourceTree = "<group>";
+		};
 		6EEC277D249A36B1008809E7 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
@@ -4217,6 +4379,7 @@
 				6E441B9C24A4AC1300C87F57 /* servant-story-199.json in Resources */,
 				6E1AC2E8248C90B0004C006A /* command_code_50.json in Resources */,
 				6E7D116624A22F42002A3F0F /* servant-basicInfo-211.json in Resources */,
+				6EBD3D0424BB459D00089B92 /* 九十九镜.json in Resources */,
 				6EDA500624B20B6F001FD9B2 /* craftEssence_647.json in Resources */,
 				6E7D111824A22F42002A3F0F /* servant-basicInfo-173.json in Resources */,
 				6E7D118824A22F42002A3F0F /* servant-basicInfo-77.json in Resources */,
@@ -4256,6 +4419,7 @@
 				6EDA4F6024B0A777001FD9B2 /* craftEssence_300.json in Resources */,
 				6E7EB4BC24A7994800D6AE52 /* servant-skillAndPhantasm-278.json in Resources */,
 				6EDA4FF824B1F854001FD9B2 /* craftEssence_579.json in Resources */,
+				6EBD3D0624BB45E100089B92 /* 真理之卵.json in Resources */,
 				6E4F21BE24B76956004A5191 /* 龙之牙.json in Resources */,
 				6E441AEB24A4AC1300C87F57 /* servant-story-226.json in Resources */,
 				6E1AC2E5248C90B0004C006A /* command_code_48.json in Resources */,
@@ -4264,6 +4428,7 @@
 				6E7EB54B24A7994800D6AE52 /* servant-skillAndPhantasm-87.json in Resources */,
 				6E7EB4D824A7994800D6AE52 /* servant-skillAndPhantasm-46.json in Resources */,
 				6E7D10DB24A22F42002A3F0F /* servant-basicInfo-214.json in Resources */,
+				6EBD3CEA24BB305700089B92 /* 混沌之爪.json in Resources */,
 				6E441B9D24A4AC1300C87F57 /* servant-story-170.json in Resources */,
 				6EDA4F0C24B07852001FD9B2 /* craftEssence_200.json in Resources */,
 				6E7D117424A22F42002A3F0F /* servant-basicInfo-128.json in Resources */,
@@ -4284,6 +4449,7 @@
 				6E7D11A724A22F42002A3F0F /* servant-basicInfo-199.json in Resources */,
 				6E1AC2CC248C90B0004C006A /* command_code_16.json in Resources */,
 				6E7EB5AA24A7994800D6AE52 /* servant-skillAndPhantasm-92.json in Resources */,
+				6EBD3CD224B8810B00089B92 /* 人工生命体幼体.json in Resources */,
 				6E7EB4B524A7994800D6AE52 /* servant-skillAndPhantasm-32.json in Resources */,
 				6E7D110924A22F42002A3F0F /* servant-basicInfo-93.json in Resources */,
 				6E7EB50B24A7994800D6AE52 /* servant-skillAndPhantasm-40.json in Resources */,
@@ -4311,6 +4477,7 @@
 				6E7EB53824A7994800D6AE52 /* servant-skillAndPhantasm-17.json in Resources */,
 				6E7EB56D24A7994800D6AE52 /* servant-skillAndPhantasm-43.json in Resources */,
 				6E441B5D24A4AC1300C87F57 /* servant-story-231.json in Resources */,
+				6EBD3CE024BB2DEB00089B92 /* 极光之钢.json in Resources */,
 				6E7D111B24A22F42002A3F0F /* servant-basicInfo-206.json in Resources */,
 				6E1AC2E4248C90B0004C006A /* command_code_3.json in Resources */,
 				6E7D117024A22F42002A3F0F /* servant-basicInfo-120.json in Resources */,
@@ -4342,12 +4509,14 @@
 				6E4C9DA8248BAE6E00B96630 /* craftEssence_988.json in Resources */,
 				6E441BBF24A4AC1300C87F57 /* servant-story-257.json in Resources */,
 				6E441B2F24A4AC1300C87F57 /* servant-story-237.json in Resources */,
+				6EBD3CF424BB330200089B92 /* 血之泪石.json in Resources */,
 				6E7EB51C24A7994800D6AE52 /* servant-skillAndPhantasm-6.json in Resources */,
 				6E1AC2D2248C90B0004C006A /* command_code_45.json in Resources */,
 				6E441AED24A4AC1300C87F57 /* servant-story-81.json in Resources */,
 				6E441B5F24A4AC1300C87F57 /* servant-story-69.json in Resources */,
 				6E7D10FA24A22F42002A3F0F /* servant-basicInfo-134.json in Resources */,
 				6E441B5A24A4AC1300C87F57 /* servant-story-156.json in Resources */,
+				6EBD3D0224BB452600089B92 /* 晓光炉心.json in Resources */,
 				6E7D111124A22F42002A3F0F /* servant-basicInfo-88.json in Resources */,
 				6E7D118A24A22F42002A3F0F /* servant-basicInfo-243.json in Resources */,
 				6E1AC319248CC774004C006A /* mystic_code_8.json in Resources */,
@@ -4384,6 +4553,7 @@
 				6E7D10A024A22F42002A3F0F /* servant-basicInfo-255.json in Resources */,
 				6E7EB50424A7994800D6AE52 /* servant-skillAndPhantasm-98.json in Resources */,
 				6EDA4FBA24B1CB1B001FD9B2 /* craftEssence_395.json in Resources */,
+				6EBD3CD424B881F400089B92 /* 陨蹄铁.json in Resources */,
 				6E7D115F24A22F42002A3F0F /* servant-basicInfo-85.json in Resources */,
 				6E7D10B224A22F42002A3F0F /* servant-basicInfo-235.json in Resources */,
 				6E7EB55B24A7994800D6AE52 /* servant-skillAndPhantasm-184.json in Resources */,
@@ -4443,6 +4613,8 @@
 				6E7EB53E24A7994800D6AE52 /* servant-skillAndPhantasm-269.json in Resources */,
 				6EDA503C24B21D91001FD9B2 /* craftEssence_788.json in Resources */,
 				6E441BE924A4AC1300C87F57 /* servant-story-150.json in Resources */,
+				6EBD3CD624B8830A00089B92 /* 大骑士勋章.json in Resources */,
+				6EBD3CDE24BB2D5500089B92 /* 巨人的戒指.json in Resources */,
 				6EDA4FFA24B1F905001FD9B2 /* craftEssence_586.json in Resources */,
 				6E7D109B24A22F42002A3F0F /* servant-basicInfo-140.json in Resources */,
 				6E7EB4F424A7994800D6AE52 /* servant-skillAndPhantasm-54.json in Resources */,
@@ -4452,6 +4624,7 @@
 				6E7EB5AE24A7994800D6AE52 /* servant-skillAndPhantasm-15.json in Resources */,
 				6E7EB56024A7994800D6AE52 /* servant-skillAndPhantasm-41.json in Resources */,
 				6E441BC624A4AC1300C87F57 /* servant-story-82.json in Resources */,
+				6EBD3CBB24B85C1200089B92 /* 世界树之种.json in Resources */,
 				6E441B2B24A4AC1300C87F57 /* servant-story-6.json in Resources */,
 				6E441B1E24A4AC1300C87F57 /* servant-story-205.json in Resources */,
 				6E1AC2F7248C956D004C006A /* command_code_63.json in Resources */,
@@ -4470,11 +4643,13 @@
 				6E7EB51D24A7994800D6AE52 /* servant-skillAndPhantasm-232.json in Resources */,
 				6E7D10E524A22F42002A3F0F /* servant-basicInfo-117.json in Resources */,
 				6E4C9DA4248BAD0700B96630 /* craftEssence_861.json in Resources */,
+				6EBD3CFA24BB349500089B92 /* 智慧之圣甲虫像.json in Resources */,
 				6E7D119424A22F42002A3F0F /* servant-basicInfo-45.json in Resources */,
 				6E7D114724A22F42002A3F0F /* servant-basicInfo-46.json in Resources */,
 				6E7D114C24A22F42002A3F0F /* servant-basicInfo-162.json in Resources */,
 				6E7EB5BD24A7994800D6AE52 /* servant-skillAndPhantasm-198.json in Resources */,
 				6E7D11A024A22F42002A3F0F /* servant-basicInfo-107.json in Resources */,
+				6EBD3CEE24BB316700089B92 /* 龙之逆鳞.json in Resources */,
 				6E7D111F24A22F42002A3F0F /* servant-basicInfo-26.json in Resources */,
 				6EDA4F9424B1C2B6001FD9B2 /* craftEssence_368.json in Resources */,
 				6E7D115424A22F42002A3F0F /* servant-basicInfo-193.json in Resources */,
@@ -4488,10 +4663,13 @@
 				6E2557F424AF45BA002BA7E9 /* craftEssence_191.json in Resources */,
 				6E7EB52A24A7994800D6AE52 /* servant-skillAndPhantasm-2.json in Resources */,
 				6E44F61B24B327ED00A4E1B8 /* craftEssence_889.json in Resources */,
+				6EBD3CCC24B87D7A00089B92 /* 悠久果实.json in Resources */,
 				6E441B8924A4AC1300C87F57 /* servant-story-250.json in Resources */,
 				6EDA4F2E24B08384001FD9B2 /* craftEssence_248.json in Resources */,
 				6E7EB57024A7994800D6AE52 /* servant-skillAndPhantasm-172.json in Resources */,
+				6EBD3CCE24B87F4E00089B92 /* 无间齿轮.json in Resources */,
 				6E44F60524B2A22400A4E1B8 /* craftEssence_800.json in Resources */,
+				6EBD3CF824BB341E00089B92 /* 封魔之灯.json in Resources */,
 				6E441B0924A4AC1300C87F57 /* servant-story-66.json in Resources */,
 				6E7D116724A22F42002A3F0F /* servant-basicInfo-101.json in Resources */,
 				6E7D10BE24A22F42002A3F0F /* servant-basicInfo-94.json in Resources */,
@@ -4525,6 +4703,7 @@
 				6E7D10E324A22F42002A3F0F /* servant-basicInfo-283.json in Resources */,
 				6EDA4F1424B07A02001FD9B2 /* craftEssence_272.json in Resources */,
 				6E7EB58E24A7994800D6AE52 /* servant-skillAndPhantasm-211.json in Resources */,
+				6EBD3CF224BB326900089B92 /* 战马的幼角.json in Resources */,
 				6E441BE024A4AC1300C87F57 /* servant-story-263.json in Resources */,
 				6E7D119224A22F42002A3F0F /* servant-basicInfo-135.json in Resources */,
 				6E7EB4D724A7994800D6AE52 /* servant-skillAndPhantasm-236.json in Resources */,
@@ -4609,6 +4788,7 @@
 				6E7D117824A22F42002A3F0F /* servant-basicInfo-137.json in Resources */,
 				6E7D10C824A22F42002A3F0F /* servant-basicInfo-106.json in Resources */,
 				6E7D116224A22F42002A3F0F /* servant-basicInfo-236.json in Resources */,
+				6EBD3CB324B859DE00089B92 /* 魔术髓液.json in Resources */,
 				6E7D10AF24A22F42002A3F0F /* servant-basicInfo-200.json in Resources */,
 				6E7EB4BD24A7994800D6AE52 /* servant-skillAndPhantasm-129.json in Resources */,
 				6E441BDD24A4AC1300C87F57 /* servant-story-183.json in Resources */,
@@ -4694,6 +4874,7 @@
 				6E441B4B24A4AC1300C87F57 /* servant-story-278.json in Resources */,
 				6E1AC2C4248C90B0004C006A /* command_code_32.json in Resources */,
 				6E441AEC24A4AC1300C87F57 /* servant-story-13.json in Resources */,
+				6EBD3CC324B8632800089B92 /* 蛇之宝玉.json in Resources */,
 				6E7EB53724A7994800D6AE52 /* servant-skillAndPhantasm-34.json in Resources */,
 				6EDA4FA624B1C71F001FD9B2 /* craftEssence_372.json in Resources */,
 				6E441BE524A4AC1300C87F57 /* servant-story-189.json in Resources */,
@@ -4734,6 +4915,7 @@
 				6EDA4F6624B15F4C001FD9B2 /* craftEssence_315.json in Resources */,
 				6E7EB50A24A7994800D6AE52 /* servant-skillAndPhantasm-195.json in Resources */,
 				6EDA4FCA24B1DDEA001FD9B2 /* craftEssence_406.json in Resources */,
+				6EBD3CBD24B85CBF00089B92 /* 鬼魂提灯.json in Resources */,
 				6EDA501824B21057001FD9B2 /* craftEssence_675.json in Resources */,
 				6E44F65324B3438000A4E1B8 /* craftEssence_1023.json in Resources */,
 				6E7EB4DE24A7994800D6AE52 /* servant-skillAndPhantasm-174.json in Resources */,
@@ -4741,6 +4923,7 @@
 				6E44F68324B35E0600A4E1B8 /* craftEssence_1133.json in Resources */,
 				6E7D119024A22F42002A3F0F /* servant-basicInfo-250.json in Resources */,
 				6EDA4F3624B0973E001FD9B2 /* craftEssence_250.json in Resources */,
+				6EBD3CB524B85ABC00089B92 /* 宵泣之铁桩.json in Resources */,
 				6E441BF024A4AC1300C87F57 /* servant-story-208.json in Resources */,
 				6EDA502024B21385001FD9B2 /* craftEssence_679.json in Resources */,
 				6E441BD424A4AC1300C87F57 /* servant-story-91.json in Resources */,
@@ -4763,6 +4946,7 @@
 				6E44F60724B2A27E00A4E1B8 /* craftEssence_809.json in Resources */,
 				6E7EB51224A7994800D6AE52 /* servant-skillAndPhantasm-161.json in Resources */,
 				6EDA4FC024B1D99E001FD9B2 /* craftEssence_392.json in Resources */,
+				6EBD3CF624BB338400089B92 /* 黑兽脂.json in Resources */,
 				6E7D10E824A22F42002A3F0F /* servant-basicInfo-277.json in Resources */,
 				6E1AC2DA248C90B0004C006A /* command_code_43.json in Resources */,
 				6E7D10F724A22F42002A3F0F /* servant-basicInfo-95.json in Resources */,
@@ -4801,6 +4985,7 @@
 				6E7EB50524A7994800D6AE52 /* servant-skillAndPhantasm-170.json in Resources */,
 				6E7D10E124A22F42002A3F0F /* servant-basicInfo-81.json in Resources */,
 				6E7D119F24A22F42002A3F0F /* servant-basicInfo-278.json in Resources */,
+				6EBD3CEC24BB30EC00089B92 /* 蛮神心脏.json in Resources */,
 				6E7EB5C624A7994800D6AE52 /* servant-skillAndPhantasm-48.json in Resources */,
 				6E7D10CF24A22F42002A3F0F /* servant-basicInfo-181.json in Resources */,
 				6E44F69524B3616C00A4E1B8 /* craftEssence_1219.json in Resources */,
@@ -4840,6 +5025,7 @@
 				6E7D112224A22F42002A3F0F /* servant-basicInfo-73.json in Resources */,
 				6E7D112A24A22F42002A3F0F /* servant-basicInfo-65.json in Resources */,
 				6E7EB4CB24A7994800D6AE52 /* servant-skillAndPhantasm-31.json in Resources */,
+				6EBD3CFC24BB439500089B92 /* 起源的胎毛.json in Resources */,
 				6E7EB4B624A7994800D6AE52 /* servant-skillAndPhantasm-234.json in Resources */,
 				6E7D116D24A22F42002A3F0F /* servant-basicInfo-191.json in Resources */,
 				6E441B8F24A4AC1300C87F57 /* servant-story-59.json in Resources */,
@@ -4890,6 +5076,7 @@
 				6E44F69324B360FA00A4E1B8 /* craftEssence_1213.json in Resources */,
 				6E441BA024A4AC1300C87F57 /* servant-story-46.json in Resources */,
 				6E7EB58524A7994800D6AE52 /* servant-skillAndPhantasm-194.json in Resources */,
+				6EBD3CDC24B9475B00089B92 /* 永远结冰.json in Resources */,
 				6E441BF224A4AC1300C87F57 /* servant-story-37.json in Resources */,
 				6E441BF824A4AC1300C87F57 /* servant-story-140.json in Resources */,
 				6E7EB52624A7994800D6AE52 /* servant-skillAndPhantasm-173.json in Resources */,
@@ -4925,6 +5112,7 @@
 				6E25580424AF4B2D002BA7E9 /* craftEssence_202.json in Resources */,
 				6EDA4FA824B1C798001FD9B2 /* craftEssence_386.json in Resources */,
 				6E7D117324A22F42002A3F0F /* servant-basicInfo-260.json in Resources */,
+				6EBD3CDA24B9468E00089B92 /* 枯淡勾玉.json in Resources */,
 				6EDA4F7C24B16842001FD9B2 /* craftEssence_340.json in Resources */,
 				6E7D10EC24A22F42002A3F0F /* servant-basicInfo-164.json in Resources */,
 				6E441B6624A4AC1300C87F57 /* servant-story-261.json in Resources */,
@@ -4932,6 +5120,7 @@
 				6E1AC2F3248C932D004C006A /* command_code_61.json in Resources */,
 				6E441B6824A4AC1300C87F57 /* servant-story-96.json in Resources */,
 				6EDA4F1024B0793D001FD9B2 /* craftEssence_197.json in Resources */,
+				6EBD3CD024B87FE700089B92 /* 禁断书页.json in Resources */,
 				6E7D114F24A22F42002A3F0F /* servant-basicInfo-98.json in Resources */,
 				6EDA4F9A24B1C443001FD9B2 /* craftEssence_375.json in Resources */,
 				6E441B7D24A4AC1300C87F57 /* servant-story-260.json in Resources */,
@@ -4952,6 +5141,7 @@
 				6E44F64524B33ECC00A4E1B8 /* craftEssence_1009.json in Resources */,
 				6E441BC024A4AC1300C87F57 /* servant-story-31.json in Resources */,
 				6E7EB53A24A7994800D6AE52 /* servant-skillAndPhantasm-84.json in Resources */,
+				6EBD3CAF24B8579000089B92 /* 愚者之锁.json in Resources */,
 				6E7EB54724A7994800D6AE52 /* servant-skillAndPhantasm-146.json in Resources */,
 				6E441BBB24A4AC1300C87F57 /* servant-story-58.json in Resources */,
 				6E7D10F624A22F42002A3F0F /* servant-basicInfo-104.json in Resources */,
@@ -4967,6 +5157,7 @@
 				6E7EB58A24A7994800D6AE52 /* servant-skillAndPhantasm-263.json in Resources */,
 				6E7EB5A324A7994800D6AE52 /* servant-skillAndPhantasm-193.json in Resources */,
 				6E7EB5A224A7994800D6AE52 /* servant-skillAndPhantasm-1.json in Resources */,
+				6EBD3CF024BB31D300089B92 /* 精灵根.json in Resources */,
 				6E441BED24A4AC1300C87F57 /* servant-story-187.json in Resources */,
 				6E7EB54224A7994800D6AE52 /* servant-skillAndPhantasm-99.json in Resources */,
 				6E441BA724A4AC1300C87F57 /* servant-story-22.json in Resources */,
@@ -5016,6 +5207,7 @@
 				6E441BCB24A4AC1300C87F57 /* servant-story-159.json in Resources */,
 				6E441B2524A4AC1300C87F57 /* servant-story-38.json in Resources */,
 				6E1AC2D5248C90B0004C006A /* command_code_28.json in Resources */,
+				6EBD3CD824B945DD00089B92 /* 追忆的贝壳.json in Resources */,
 				6E7EB54F24A7994800D6AE52 /* servant-skillAndPhantasm-160.json in Resources */,
 				6E441B9024A4AC1300C87F57 /* servant-story-182.json in Resources */,
 				6E7D10B324A22F42002A3F0F /* servant-basicInfo-115.json in Resources */,
@@ -5025,6 +5217,7 @@
 				6E1AC2E0248C90B0004C006A /* command_code_57.json in Resources */,
 				6E7EB54D24A7994800D6AE52 /* servant-skillAndPhantasm-246.json in Resources */,
 				6E7D118724A22F42002A3F0F /* servant-basicInfo-184.json in Resources */,
+				6EBD3CB724B85B4F00089B92 /* 振荡火药.json in Resources */,
 				6E1AC2CF248C90B0004C006A /* command_code_58.json in Resources */,
 				6E7D10DF24A22F42002A3F0F /* servant-basicInfo-159.json in Resources */,
 				6E441B7B24A4AC1300C87F57 /* servant-story-198.json in Resources */,
@@ -5058,6 +5251,7 @@
 				6E441BD124A4AC1300C87F57 /* servant-story-222.json in Resources */,
 				6E441B7124A4AC1300C87F57 /* servant-story-122.json in Resources */,
 				6E7EB4D124A7994800D6AE52 /* servant-skillAndPhantasm-188.json in Resources */,
+				6EBD3CE624BB2F5F00089B92 /* 光银之冠.json in Resources */,
 				6E7EB5B924A7994800D6AE52 /* servant-skillAndPhantasm-93.json in Resources */,
 				6E7D119124A22F42002A3F0F /* servant-basicInfo-43.json in Resources */,
 				6E1AC2DC248C90B0004C006A /* command_code_44.json in Resources */,
@@ -5130,11 +5324,13 @@
 				6E7EB5AC24A7994800D6AE52 /* servant-skillAndPhantasm-9.json in Resources */,
 				6E7D116C24A22F42002A3F0F /* servant-basicInfo-282.json in Resources */,
 				6E7D10F924A22F42002A3F0F /* servant-basicInfo-64.json in Resources */,
+				6EBD3CE424BB2EEA00089B92 /* 祸罪之箭头.json in Resources */,
 				6E7EB52724A7994800D6AE52 /* servant-skillAndPhantasm-268.json in Resources */,
 				6E1AC2BC248C90B0004C006A /* command_code_12.json in Resources */,
 				6EDA4F9E24B1C543001FD9B2 /* craftEssence_377.json in Resources */,
 				6E7D10F424A22F42002A3F0F /* servant-basicInfo-2.json in Resources */,
 				6E7D10B124A22F42002A3F0F /* servant-basicInfo-86.json in Resources */,
+				6EBD3D0824BB463500089B92 /* 煌星的碎片.json in Resources */,
 				6EDA4EF024B070D7001FD9B2 /* craftEssence_253.json in Resources */,
 				6E7EB51324A7994800D6AE52 /* servant-skillAndPhantasm-141.json in Resources */,
 				6E44F64324B33DEF00A4E1B8 /* craftEssence_1003.json in Resources */,
@@ -5182,6 +5378,7 @@
 				6E44F60924B2A2D700A4E1B8 /* craftEssence_810.json in Resources */,
 				6EDA503E24B21E0F001FD9B2 /* craftEssence_789.json in Resources */,
 				6EDA502424B2149D001FD9B2 /* craftEssence_687.json in Resources */,
+				6EBD3CFE24BB443E00089B92 /* 咒兽胆石.json in Resources */,
 				6EDA500A24B20C0A001FD9B2 /* craftEssence_649.json in Resources */,
 				6E7EB58224A7994800D6AE52 /* servant-skillAndPhantasm-117.json in Resources */,
 				6E7D117624A22F42002A3F0F /* servant-basicInfo-267.json in Resources */,
@@ -5201,6 +5398,7 @@
 				6E7EB4EB24A7994800D6AE52 /* servant-skillAndPhantasm-238.json in Resources */,
 				6E7EB54024A7994800D6AE52 /* servant-skillAndPhantasm-260.json in Resources */,
 				6E7EB5B424A7994800D6AE52 /* servant-skillAndPhantasm-189.json in Resources */,
+				6EBD3CBF24B85FA800089B92 /* 八连双晶.json in Resources */,
 				6E7EB55F24A7994800D6AE52 /* servant-skillAndPhantasm-20.json in Resources */,
 				6E7D117524A22F42002A3F0F /* servant-basicInfo-123.json in Resources */,
 				6EDA4FDA24B1E9AC001FD9B2 /* craftEssence_411.json in Resources */,
@@ -5219,6 +5417,7 @@
 				6E7EB57C24A7994800D6AE52 /* servant-skillAndPhantasm-63.json in Resources */,
 				6E7EB5C124A7994800D6AE52 /* servant-skillAndPhantasm-166.json in Resources */,
 				6EDA4F9824B1C3CA001FD9B2 /* craftEssence_370.json in Resources */,
+				6EBD3CE824BB2FDE00089B92 /* 神脉灵子.json in Resources */,
 				6E441BD824A4AC1300C87F57 /* servant-story-194.json in Resources */,
 				6E441B4124A4AC1300C87F57 /* servant-story-12.json in Resources */,
 				6E7D116324A22F42002A3F0F /* servant-basicInfo-92.json in Resources */,
@@ -5265,9 +5464,11 @@
 				6E7EB4BF24A7994800D6AE52 /* servant-skillAndPhantasm-181.json in Resources */,
 				6E7EB4E024A7994800D6AE52 /* servant-skillAndPhantasm-155.json in Resources */,
 				6E441B8324A4AC1300C87F57 /* servant-story-279.json in Resources */,
+				6EBD3CE224BB2E7F00089B92 /* 闲古铃.json in Resources */,
 				6E441B2024A4AC1300C87F57 /* servant-story-236.json in Resources */,
 				6E7D119C24A22F42002A3F0F /* servant-basicInfo-51.json in Resources */,
 				6E7EB59D24A7994800D6AE52 /* servant-skillAndPhantasm-206.json in Resources */,
+				6EBD3CC524B8642600089B92 /* 凤凰羽毛.json in Resources */,
 				6E7EB52124A7994800D6AE52 /* servant-skillAndPhantasm-271.json in Resources */,
 				6E1AC2D3248C90B0004C006A /* command_code_60.json in Resources */,
 				6E1AC2E3248C90B0004C006A /* command_code_53.json in Resources */,
@@ -5278,6 +5479,7 @@
 				6E7EB5B124A7994800D6AE52 /* servant-skillAndPhantasm-80.json in Resources */,
 				6E441AF124A4AC1300C87F57 /* servant-story-158.json in Resources */,
 				6E7D10FB24A22F42002A3F0F /* servant-basicInfo-29.json in Resources */,
+				6EBD3D0024BB448C00089B92 /* 奇奇神酒.json in Resources */,
 				6E7EB5C424A7994800D6AE52 /* servant-skillAndPhantasm-209.json in Resources */,
 				6E1AC2EA248C90B0004C006A /* command_code_54.json in Resources */,
 				6E7D119B24A22F42002A3F0F /* servant-basicInfo-207.json in Resources */,
@@ -5304,6 +5506,7 @@
 				6E7EB57524A7994800D6AE52 /* servant-skillAndPhantasm-201.json in Resources */,
 				6E7EB52324A7994800D6AE52 /* servant-skillAndPhantasm-275.json in Resources */,
 				6EDA4FEA24B1F429001FD9B2 /* craftEssence_559.json in Resources */,
+				6EBD3CB124B8589E00089B92 /* 万死的毒针.json in Resources */,
 				6E441B8724A4AC1300C87F57 /* servant-story-210.json in Resources */,
 				6E4C9DA2248BAC2300B96630 /* craftEssence_330.json in Resources */,
 				6E7D10BF24A22F42002A3F0F /* servant-basicInfo-75.json in Resources */,
@@ -5403,6 +5606,7 @@
 				6E1509A124AB28800051A7B1 /* ClassSkillCardView.swift in Sources */,
 				6E1AC300248C98D4004C006A /* CommandCodeListView.swift in Sources */,
 				6E0D7395249CAF52000DE0DB /* PageViewController.swift in Sources */,
+				6EBD3CC724B864BA00089B92 /* MaterialStore.swift in Sources */,
 				6E1AC326248CC799004C006A /* MysticCode.swift in Sources */,
 				6E4C9D8C248B874000B96630 /* DavinciStoreCraftEssenceListView.swift in Sources */,
 				6E1AC33B248D3B22004C006A /* RecentAddServantListView.swift in Sources */,
@@ -5412,9 +5616,11 @@
 				6E0D7397249CAF95000DE0DB /* PageView.swift in Sources */,
 				6E7EA31A248FD1A4006C0321 /* MysticCodeDetailView.swift in Sources */,
 				6E4F21B524B75B9B004A5191 /* MaterialCardListView.swift in Sources */,
+				6EBD3D0A24BB4B6900089B92 /* MaterialListView.swift in Sources */,
 				6EBB84CA24A0CC4800D4CD1B /* ServantBasicInfo.swift in Sources */,
 				6E828AAB24B5F91B00C40146 /* ActiveSkillDetailView.swift in Sources */,
 				6EE266A8249E59A0000B4277 /* ServantAbilityView.swift in Sources */,
+				6EBD3D0C24BB4E9B00089B92 /* MaterialDetailView.swift in Sources */,
 				6E1AC2FB248C9634004C006A /* CommandCodeStore.swift in Sources */,
 				6E2FA5B3248A0AA000822AA0 /* UIColor+Extension.swift in Sources */,
 				6E7EB39C24A4F15000D6AE52 /* CustomRedText.swift in Sources */,
@@ -5429,6 +5635,7 @@
 				6E4C9D91248B8BC000B96630 /* CraftEssences.swift in Sources */,
 				6E79A28D24964E82002FE7B7 /* CommandCodeDetailView.swift in Sources */,
 				6E4F21B324B757F5004A5191 /* MaterialCardView.swift in Sources */,
+				6EBD3CC124B8617100089B92 /* MaterialView.swift in Sources */,
 				6E2FA588248A063F00822AA0 /* AppDelegate.swift in Sources */,
 				6E2FA58A248A063F00822AA0 /* SceneDelegate.swift in Sources */,
 				6E69D183249271EF009A7F00 /* SeeAllCommandCodeListView.swift in Sources */,
@@ -5458,6 +5665,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6EBD3CC924B86EE500089B92 /* MaterialStoreTests.swift in Sources */,
 				6EBB84CE24A0CF6D00D4CD1B /* ServantStoreTests.swift in Sources */,
 				6E2FA59F248A064100822AA0 /* FateIndexTests.swift in Sources */,
 				6E1AC32A248CCA1B004C006A /* MysticCodeStoreTests.swift in Sources */,

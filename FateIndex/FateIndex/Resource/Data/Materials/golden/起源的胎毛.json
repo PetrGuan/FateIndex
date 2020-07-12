@@ -1,0 +1,75 @@
+{
+    "name": "起源的胎毛",
+    "avatar": "起源的胎毛",
+    "description": "犹如熊熊燃烧之火焰的野兽毛发。由于其神圣庄严，被作为除魔护身符，备受人们重用。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "巴比伦尼亚-鲜血神殿",
+        "诸神黄昏-通往尽头之路",
+        "诸神黄昏-第67村落"
+    ],
+    "apEfficiency": [
+        {
+            "place": "鲜血神殿",
+            "ap": "21",
+            "averageDrop": "0.181",
+            "averageAp": "115.7"
+        },
+        {
+            "place": "通往尽头之路",
+            "ap": "21",
+            "averageDrop": "0.179",
+            "averageAp": "117.5"
+        },
+        {
+            "place": "第67村落",
+            "ap": "21",
+            "averageDrop": "0.180",
+            "averageAp": "116.7"
+        },
+        {
+            "place": "黑色杉木林",
+            "ap": "20",
+            "averageDrop": "0.134",
+            "averageAp": "149.5"
+        },
+        {
+            "place": "登陆点",
+            "ap": "20",
+            "averageDrop": "0.121",
+            "averageAp": "165.4"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "鲜血神殿",
+            "ap": "21",
+            "averageDrop": "0.181",
+            "averageAp": "115.7"
+        },
+        {
+            "place": "通往尽头之路",
+            "ap": "21",
+            "averageDrop": "0.179",
+            "averageAp": "117.5"
+        },
+        {
+            "place": "第67村落",
+            "ap": "21",
+            "averageDrop": "0.180",
+            "averageAp": "116.7"
+        },
+        {
+            "place": "黑色杉木林",
+            "ap": "20",
+            "averageDrop": "0.134",
+            "averageAp": "149.5"
+        },
+        {
+            "place": "北壁",
+            "ap": "21",
+            "averageDrop": "0.125",
+            "averageAp": "167.5"
+        }
+    ]
+}

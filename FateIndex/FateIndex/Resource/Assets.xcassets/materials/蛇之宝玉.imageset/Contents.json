@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "蛇之宝玉.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

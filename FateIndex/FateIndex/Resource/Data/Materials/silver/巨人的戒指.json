@@ -1,0 +1,85 @@
+{
+    "name": "巨人的戒指",
+    "avatar": "巨人的戒指",
+    "description": "恐怕人类无法佩戴的巨大戒指。被传说、幻想与神秘妆点的这造型令人不禁缅怀远古时代的荣耀。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "诸神黄昏-巨人的花园"
+    ],
+    "apEfficiency": [
+        {
+            "place": "巨人的花园",
+            "ap": "20",
+            "averageDrop": "0.408",
+            "averageAp": "49.0"
+        },
+        {
+            "place": "邻村",
+            "ap": "20",
+            "averageDrop": "0.255",
+            "averageAp": "78.4"
+        },
+        {
+            "place": "薄冰之丘",
+            "ap": "20",
+            "averageDrop": "0.254",
+            "averageAp": "78.7"
+        },
+        {
+            "place": "炎之馆",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.6"
+        },
+        {
+            "place": "英雄的地窖",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.7"
+        },
+        {
+            "place": "雅嘎·图拉",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "巨人的花园",
+            "ap": "20",
+            "averageDrop": "0.408",
+            "averageAp": "49.0"
+        },
+        {
+            "place": "炎之馆",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.6"
+        },
+        {
+            "place": "邻村",
+            "ap": "20",
+            "averageDrop": "0.255",
+            "averageAp": "78.4"
+        },
+        {
+            "place": "薄冰之丘",
+            "ap": "20",
+            "averageDrop": "0.254",
+            "averageAp": "78.7"
+        },
+        {
+            "place": "英雄的地窖",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.7"
+        },
+        {
+            "place": "雅嘎·图拉",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.2"
+        }
+    ]
+}

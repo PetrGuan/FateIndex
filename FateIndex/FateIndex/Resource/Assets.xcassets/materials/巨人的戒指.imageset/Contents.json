@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "巨人的戒指.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "name": "闲古铃",
+    "avatar": "闲古铃",
+    "description": "施加了仙术，会发出不可听见声音的铃铛。其音色不仅具有镇静效果，还有操控马匹或是性情温和的动物的效果。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "SIN-八门洞"
+    ],
+    "apEfficiency": [
+        {
+            "place": "八门洞",
+            "ap": "21",
+            "averageDrop": "0.393",
+            "averageAp": "53.3"
+        },
+        {
+            "place": "收容所",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "82.9"
+        },
+        {
+            "place": "大坪峪",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "82.9"
+        },
+        {
+            "place": "咸阳",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.7"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "八门洞",
+            "ap": "21",
+            "averageDrop": "0.393",
+            "averageAp": "53.3"
+        },
+        {
+            "place": "收容所",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "82.9"
+        },
+        {
+            "place": "大坪峪",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "82.9"
+        },
+        {
+            "place": "咸阳",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.7"
+        }
+    ]
+}

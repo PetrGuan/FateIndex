@@ -1,0 +1,80 @@
+{
+    "name": "蛇之宝玉",
+    "avatar": "蛇之宝玉",
+    "description": "仿佛被蛇眼瞪视的宝玉",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "雅戈泰-大地裂隙",
+        "巴比伦尼亚-湿地"
+    ],
+    "apEfficiency": [
+        {
+            "place": "大地裂隙",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "机神回廊",
+            "ap": "21",
+            "averageDrop": "0.273",
+            "averageAp": "76.8"
+        },
+        {
+            "place": "滑翔点",
+            "ap": "21",
+            "averageDrop": "0.263",
+            "averageAp": "79.8"
+        },
+        {
+            "place": "湿地",
+            "ap": "21",
+            "averageDrop": "0.250",
+            "averageAp": "83.9"
+        },
+        {
+            "place": "祭坛街",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.1"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "大地裂隙",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "机神回廊",
+            "ap": "21",
+            "averageDrop": "0.273",
+            "averageAp": "76.8"
+        },
+        {
+            "place": "滑翔点",
+            "ap": "21",
+            "averageDrop": "0.263",
+            "averageAp": "79.8"
+        },
+        {
+            "place": "湿地",
+            "ap": "21",
+            "averageDrop": "0.250",
+            "averageAp": "83.9"
+        },
+        {
+            "place": "周五 术之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.249",
+            "averageAp": "160.9"
+        },
+        {
+            "place": "祭坛街",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.1"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "name": "龙之逆鳞",
+    "avatar": "龙之逆鳞",
+    "description": "逆向生长于龙种下颚的鳞片",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "巴比伦尼亚-尼普尔"
+    ],
+    "apEfficiency": [
+        {
+            "place": "尼普尔",
+            "ap": "21",
+            "averageDrop": "0.121",
+            "averageAp": "172.9"
+        },
+        {
+            "place": "周四 骑之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.080",
+            "averageAp": "500.0"
+        },
+        {
+            "place": "周四 骑之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.030",
+            "averageAp": "1000.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "尼普尔",
+            "ap": "21",
+            "averageDrop": "0.121",
+            "averageAp": "172.9"
+        },
+        {
+            "place": "周四 骑之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.080",
+            "averageAp": "500.0"
+        },
+        {
+            "place": "周四 骑之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.030",
+            "averageAp": "1000.0"
+        }
+    ]
+}

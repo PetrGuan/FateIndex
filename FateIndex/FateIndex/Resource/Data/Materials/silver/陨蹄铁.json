@@ -1,0 +1,73 @@
+{
+    "name": "陨蹄铁",
+    "avatar": "陨蹄铁",
+    "description": "用陨铁制成的强韧蹄铁。虽然构成原子相同，但由于不是地球上的产物，因此拥有特殊的作用。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "卡美洛-无之大地"
+    ],
+    "apEfficiency": [
+        {
+            "place": "无之大地",
+            "ap": "22",
+            "averageDrop": "0.450",
+            "averageAp": "48.9"
+        },
+        {
+            "place": "火山臼之岛",
+            "ap": "17",
+            "averageDrop": "0.120",
+            "averageAp": "141.7"
+        },
+        {
+            "place": "周一 弓之修炼场 中级",
+            "ap": "20",
+            "averageDrop": "0.103",
+            "averageAp": "193.5"
+        },
+        {
+            "place": "周四 骑之修炼场 中级",
+            "ap": "20",
+            "averageDrop": "0.103",
+            "averageAp": "193.5"
+        },
+        {
+            "place": "周一 弓之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.150",
+            "averageAp": "200.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "无之大地",
+            "ap": "22",
+            "averageDrop": "0.450",
+            "averageAp": "48.9"
+        },
+        {
+            "place": "周一 弓之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.195",
+            "averageAp": "205.1"
+        },
+        {
+            "place": "周四 骑之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.188",
+            "averageAp": "213.3"
+        },
+        {
+            "place": "周一 弓之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.150",
+            "averageAp": "200.2"
+        },
+        {
+            "place": "周四 骑之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.145",
+            "averageAp": "206.9"
+        }
+    ]
+}

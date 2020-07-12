@@ -1,0 +1,75 @@
+{
+    "name": "黑兽脂",
+    "avatar": "黑兽脂",
+    "description": "从吞食灵魂的怪兽体表所采集的黏糊糊的油脂。经过反复数次的蒸馏精制，成为优质的魔术资源。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "雅戈泰-北部断崖",
+        "巴比伦尼亚-北之高台",
+        "由伽·刹多罗-隐遁窟"
+    ],
+    "apEfficiency": [
+        {
+            "place": "北部断崖",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "102.0"
+        },
+        {
+            "place": "隐遁窟",
+            "ap": "21",
+            "averageDrop": "0.196",
+            "averageAp": "106.7"
+        },
+        {
+            "place": "北之高台",
+            "ap": "20",
+            "averageDrop": "0.174",
+            "averageAp": "114.6"
+        },
+        {
+            "place": "拉伯克",
+            "ap": "18",
+            "averageDrop": "0.120",
+            "averageAp": "150.0"
+        },
+        {
+            "place": "周六 杀之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.123",
+            "averageAp": "325.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "北部断崖",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "102.0"
+        },
+        {
+            "place": "隐遁窟",
+            "ap": "21",
+            "averageDrop": "0.196",
+            "averageAp": "106.7"
+        },
+        {
+            "place": "北之高台",
+            "ap": "20",
+            "averageDrop": "0.174",
+            "averageAp": "114.6"
+        },
+        {
+            "place": "周六 杀之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.123",
+            "averageAp": "325.2"
+        },
+        {
+            "place": "拉伯克",
+            "ap": "18",
+            "averageDrop": "0.120",
+            "averageAp": "150.0"
+        }
+    ]
+}

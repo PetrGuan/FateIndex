@@ -1,0 +1,73 @@
+{
+    "name": "祸罪之箭头",
+    "avatar": "祸罪之箭头",
+    "description": "啜饮了大量鲜血、大量罪孽、大量污秽，会招来灾祸的附有诅咒的箭头。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "由伽·刹多罗-神之空岩遗迹"
+    ],
+    "apEfficiency": [
+        {
+            "place": "神之空岩遗迹",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.1"
+        },
+        {
+            "place": "起始点",
+            "ap": "20",
+            "averageDrop": "0.327",
+            "averageAp": "60.9"
+        },
+        {
+            "place": "隐遁窟",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.7"
+        },
+        {
+            "place": "迪瓦尔",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.6"
+        },
+        {
+            "place": "西之断层",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.4"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "神之空岩遗迹",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.1"
+        },
+        {
+            "place": "起始点",
+            "ap": "20",
+            "averageDrop": "0.327",
+            "averageAp": "60.9"
+        },
+        {
+            "place": "隐遁窟",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.7"
+        },
+        {
+            "place": "迪瓦尔",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.6"
+        },
+        {
+            "place": "西之断层",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.4"
+        }
+    ]
+}

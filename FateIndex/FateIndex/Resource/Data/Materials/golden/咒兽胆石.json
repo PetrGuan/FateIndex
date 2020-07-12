@@ -1,0 +1,38 @@
+{
+    "name": "咒兽胆石",
+    "avatar": "咒兽胆石",
+    "description": "被诅咒的野兽体内的诅咒酿成的石头。不停释放永不消散的强烈诅咒。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "巴比伦尼亚-艾比夫山",
+        "下总国-荒川之原"
+    ],
+    "apEfficiency": [
+        {
+            "place": "荒川之原",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.3"
+        },
+        {
+            "place": "艾比夫山",
+            "ap": "21",
+            "averageDrop": "0.118",
+            "averageAp": "178.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "荒川之原",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.3"
+        },
+        {
+            "place": "艾比夫山",
+            "ap": "21",
+            "averageDrop": "0.118",
+            "averageAp": "178.2"
+        }
+    ]
+}

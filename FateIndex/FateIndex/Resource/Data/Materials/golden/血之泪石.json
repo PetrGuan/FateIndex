@@ -1,0 +1,62 @@
+{
+    "name": "血之泪石",
+    "avatar": "血之泪石",
+    "description": "有着巨大眼球的怪物在断气的瞬间，所流下的眼泪的结晶体。其中蕴含着强烈的诅咒。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "新宿-新宿二丁目",
+        "合众为一-亚历山德里亚"
+    ],
+    "apEfficiency": [
+        {
+            "place": "新宿二丁目",
+            "ap": "21",
+            "averageDrop": "0.182",
+            "averageAp": "115.6"
+        },
+        {
+            "place": "亚历山德里亚",
+            "ap": "18",
+            "averageDrop": "0.120",
+            "averageAp": "150.0"
+        },
+        {
+            "place": "周一 弓之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.120",
+            "averageAp": "333.3"
+        },
+        {
+            "place": "周一 弓之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.060",
+            "averageAp": "500.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "新宿二丁目",
+            "ap": "21",
+            "averageDrop": "0.182",
+            "averageAp": "115.6"
+        },
+        {
+            "place": "亚历山德里亚",
+            "ap": "18",
+            "averageDrop": "0.120",
+            "averageAp": "150.0"
+        },
+        {
+            "place": "周一 弓之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.120",
+            "averageAp": "333.3"
+        },
+        {
+            "place": "周一 弓之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.060",
+            "averageAp": "500.0"
+        }
+    ]
+}

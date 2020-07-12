@@ -1,0 +1,62 @@
+{
+    "name": "封魔之灯",
+    "avatar": "封魔之灯",
+    "description": "妖艳的神灯，根据传说，其中封印着拥有强大魔力的精灵。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "塞勒姆-拘留所",
+        "卡美洛-隐秘之村"
+    ],
+    "apEfficiency": [
+        {
+            "place": "拘留所",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.5"
+        },
+        {
+            "place": "东之花园",
+            "ap": "21",
+            "averageDrop": "0.191",
+            "averageAp": "110.2"
+        },
+        {
+            "place": "隐秘之村",
+            "ap": "21",
+            "averageDrop": "0.160",
+            "averageAp": "131.3"
+        },
+        {
+            "place": "黎明的沙丘",
+            "ap": "19",
+            "averageDrop": "0.120",
+            "averageAp": "158.3"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "拘留所",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.5"
+        },
+        {
+            "place": "东之花园",
+            "ap": "21",
+            "averageDrop": "0.191",
+            "averageAp": "110.2"
+        },
+        {
+            "place": "隐秘之村",
+            "ap": "21",
+            "averageDrop": "0.160",
+            "averageAp": "131.3"
+        },
+        {
+            "place": "黎明的沙丘",
+            "ap": "19",
+            "averageDrop": "0.120",
+            "averageAp": "158.3"
+        }
+    ]
+}

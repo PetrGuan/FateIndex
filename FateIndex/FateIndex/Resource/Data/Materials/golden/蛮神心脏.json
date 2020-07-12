@@ -1,0 +1,62 @@
+{
+    "name": "蛮神心脏",
+    "avatar": "蛮神心脏",
+    "description": "野蛮的亚神心脏。虽名为亚神，但神依然是神。随着其跳动会释放出大量诅咒。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "塞勒姆-卡特家",
+        "新宿-新宿御苑"
+    ],
+    "apEfficiency": [
+        {
+            "place": "卡特家",
+            "ap": "20",
+            "averageDrop": "0.123",
+            "averageAp": "162.7"
+        },
+        {
+            "place": "新宿御苑",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "175.1"
+        },
+        {
+            "place": "周五 术之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.060",
+            "averageAp": "666.7"
+        },
+        {
+            "place": "周五 术之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.040",
+            "averageAp": "750.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "卡特家",
+            "ap": "20",
+            "averageDrop": "0.123",
+            "averageAp": "162.7"
+        },
+        {
+            "place": "新宿御苑",
+            "ap": "21",
+            "averageDrop": "0.120",
+            "averageAp": "175.1"
+        },
+        {
+            "place": "周五 术之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.060",
+            "averageAp": "666.7"
+        },
+        {
+            "place": "周五 术之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.040",
+            "averageAp": "750.0"
+        }
+    ]
+}

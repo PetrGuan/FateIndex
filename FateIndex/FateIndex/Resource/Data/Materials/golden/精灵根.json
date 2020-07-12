@@ -1,0 +1,75 @@
+{
+    "name": "精灵根",
+    "avatar": "精灵根",
+    "description": "寄宿着土之精灵的根。据说如果将之植于石像中，石像会立刻仿佛获得生命般行动起来。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "卡美洛-圣都市街",
+        "诸神黄昏-被遗忘的神殿",
+        "新宿-塔顶楼"
+    ],
+    "apEfficiency": [
+        {
+            "place": "圣都市街",
+            "ap": "20",
+            "averageDrop": "0.120",
+            "averageAp": "166.7"
+        },
+        {
+            "place": "塔顶楼",
+            "ap": "21",
+            "averageDrop": "0.118",
+            "averageAp": "178.6"
+        },
+        {
+            "place": "被遗忘的神殿",
+            "ap": "21",
+            "averageDrop": "0.114",
+            "averageAp": "184.0"
+        },
+        {
+            "place": "阿斯特赖亚岛",
+            "ap": "21",
+            "averageDrop": "0.100",
+            "averageAp": "207.9"
+        },
+        {
+            "place": "华盛顿",
+            "ap": "20",
+            "averageDrop": "0.080",
+            "averageAp": "250.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "圣都市街",
+            "ap": "20",
+            "averageDrop": "0.120",
+            "averageAp": "166.7"
+        },
+        {
+            "place": "塔顶楼",
+            "ap": "21",
+            "averageDrop": "0.118",
+            "averageAp": "178.6"
+        },
+        {
+            "place": "被遗忘的神殿",
+            "ap": "21",
+            "averageDrop": "0.114",
+            "averageAp": "184.0"
+        },
+        {
+            "place": "阿斯特赖亚岛",
+            "ap": "21",
+            "averageDrop": "0.100",
+            "averageAp": "207.9"
+        },
+        {
+            "place": "周日 剑之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.088",
+            "averageAp": "457.1"
+        }
+    ]
+}

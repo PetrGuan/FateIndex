@@ -1,0 +1,85 @@
+{
+    "name": "神脉灵子",
+    "avatar": "神脉灵子",
+    "description": "流经由众神之手所造出的灵脉而附带神性的特别的灵子。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "奥林匹斯-地下机构带·外围部"
+    ],
+    "apEfficiency": [
+        {
+            "place": "地下机构带·外围部",
+            "ap": "21",
+            "averageDrop": "0.390",
+            "averageAp": "53.9"
+        },
+        {
+            "place": "空中庭园",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.1"
+        },
+        {
+            "place": "星间都市南部",
+            "ap": "21",
+            "averageDrop": "0.251",
+            "averageAp": "83.6"
+        },
+        {
+            "place": "破神同盟基地",
+            "ap": "21",
+            "averageDrop": "0.241",
+            "averageAp": "87.1"
+        },
+        {
+            "place": "大祭坛",
+            "ap": "21",
+            "averageDrop": "0.191",
+            "averageAp": "109.8"
+        },
+        {
+            "place": "大工房",
+            "ap": "21",
+            "averageDrop": "0.188",
+            "averageAp": "111.3"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "地下机构带·外围部",
+            "ap": "21",
+            "averageDrop": "0.390",
+            "averageAp": "53.9"
+        },
+        {
+            "place": "空中庭园",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "85.1"
+        },
+        {
+            "place": "星间都市南部",
+            "ap": "21",
+            "averageDrop": "0.251",
+            "averageAp": "83.6"
+        },
+        {
+            "place": "破神同盟基地",
+            "ap": "21",
+            "averageDrop": "0.241",
+            "averageAp": "87.1"
+        },
+        {
+            "place": "大祭坛",
+            "ap": "21",
+            "averageDrop": "0.191",
+            "averageAp": "109.8"
+        },
+        {
+            "place": "大工房",
+            "ap": "21",
+            "averageDrop": "0.188",
+            "averageAp": "111.3"
+        }
+    ]
+}

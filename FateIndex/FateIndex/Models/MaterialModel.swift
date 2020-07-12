@@ -8,16 +8,17 @@
 
 import Foundation
 
-struct MaterialModel: Codable {
+struct MaterialModel: Codable, Hashable {
     let name: String
     let avatar: String
     let description: String
+    let rarity: String
     let briefPlaces: [String]
     let apEfficiency: [MaterialEfficiencyModel]
     let dropEfficiency: [MaterialEfficiencyModel]
 }
 
-struct MaterialEfficiencyModel: Codable {
+struct MaterialEfficiencyModel: Codable, Hashable {
     let place: String
     let ap: String
     let averageDrop: String

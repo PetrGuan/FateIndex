@@ -1,0 +1,74 @@
+{
+    "name": "战马的幼角",
+    "avatar": "战马的幼角",
+    "description": "若隐若现般生长于二角兽的头毛之中的娇小头角。传说当巨角折断之时，这幼角会迅速成长为新的头角。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "雅戈泰-野营地",
+        "阿纳斯塔西娅-反叛军的堡垒"
+    ],
+    "apEfficiency": [
+        {
+            "place": "野营地",
+            "ap": "20",
+            "averageDrop": "0.218",
+            "averageAp": "91.9"
+        },
+        {
+            "place": "起始点",
+            "ap": "20",
+            "averageDrop": "0.216",
+            "averageAp": "92.7"
+        },
+        {
+            "place": "锚点",
+            "ap": "20",
+            "averageDrop": "0.204",
+            "averageAp": "97.6"
+        },
+        {
+            "place": "反叛军的堡垒",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.5"
+        },
+        {
+            "place": "雅嘎·杰缅斯克",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "野营地",
+            "ap": "20",
+            "averageDrop": "0.218",
+            "averageAp": "91.9"
+        },
+        {
+            "place": "起始点",
+            "ap": "20",
+            "averageDrop": "0.216",
+            "averageAp": "92.7"
+        },
+        {
+            "place": "锚点",
+            "ap": "20",
+            "averageDrop": "0.204",
+            "averageAp": "97.6"
+        },
+        {
+            "place": "反叛军的堡垒",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.5"
+        },
+        {
+            "place": "雅嘎·杰缅斯克",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.5"
+        }
+    ]
+}

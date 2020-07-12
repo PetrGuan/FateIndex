@@ -1,0 +1,74 @@
+{
+    "name": "鬼魂提灯",
+    "avatar": "鬼魂提灯",
+    "description": "以灵魂为油燃烧的提灯",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "巴比伦尼亚-库撒",
+        "卡美洛-晚钟庙"
+    ],
+    "apEfficiency": [
+        {
+            "place": "库撒",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "晚钟庙",
+            "ap": "19",
+            "averageDrop": "0.310",
+            "averageAp": "61.3"
+        },
+        {
+            "place": "暴风雨海域",
+            "ap": "15",
+            "averageDrop": "0.225",
+            "averageAp": "66.7"
+        },
+        {
+            "place": "农田",
+            "ap": "20",
+            "averageDrop": "0.257",
+            "averageAp": "77.8"
+        },
+        {
+            "place": "后山（战战兢兢）",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.6"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "库撒",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "晚钟庙",
+            "ap": "19",
+            "averageDrop": "0.310",
+            "averageAp": "61.3"
+        },
+        {
+            "place": "农田",
+            "ap": "20",
+            "averageDrop": "0.257",
+            "averageAp": "77.8"
+        },
+        {
+            "place": "后山（战战兢兢）",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.6"
+        },
+        {
+            "place": "草庵",
+            "ap": "21",
+            "averageDrop": "0.251",
+            "averageAp": "83.6"
+        }
+    ]
+}

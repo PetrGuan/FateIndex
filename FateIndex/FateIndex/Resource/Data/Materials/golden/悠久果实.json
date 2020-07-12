@@ -1,0 +1,61 @@
+{
+    "name": "悠久果实",
+    "avatar": "悠久果实",
+    "description": "吃下这果实的人的肉体将会停止一切变化成为等同于不老不死的存在但这意味着成为众神永远的仆人。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "奥林匹斯-星间都市西部"
+    ],
+    "apEfficiency": [
+        {
+            "place": "星间都市西部",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.8"
+        },
+        {
+            "place": "星间都市南部",
+            "ap": "21",
+            "averageDrop": "0.200",
+            "averageAp": "104.8"
+        },
+        {
+            "place": "星间都市东部",
+            "ap": "21",
+            "averageDrop": "0.192",
+            "averageAp": "109.5"
+        },
+        {
+            "place": "祭坛街",
+            "ap": "21",
+            "averageDrop": "0.190",
+            "averageAp": "110.8"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "星间都市西部",
+            "ap": "21",
+            "averageDrop": "0.204",
+            "averageAp": "102.8"
+        },
+        {
+            "place": "星间都市南部",
+            "ap": "21",
+            "averageDrop": "0.200",
+            "averageAp": "104.8"
+        },
+        {
+            "place": "星间都市东部",
+            "ap": "21",
+            "averageDrop": "0.192",
+            "averageAp": "109.5"
+        },
+        {
+            "place": "祭坛街",
+            "ap": "21",
+            "averageDrop": "0.190",
+            "averageAp": "110.8"
+        }
+    ]
+}

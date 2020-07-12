@@ -1,0 +1,74 @@
+{
+    "name": "凤凰羽毛",
+    "avatar": "凤凰羽毛",
+    "description": "东洋灵鸟的羽毛",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "塞勒姆-公众集会堂",
+        "雅戈泰-地底大河"
+    ],
+    "apEfficiency": [
+        {
+            "place": "公众集会堂",
+            "ap": "21",
+            "averageDrop": "0.353",
+            "averageAp": "59.5"
+        },
+        {
+            "place": "地底大河",
+            "ap": "21",
+            "averageDrop": "0.303",
+            "averageAp": "69.3"
+        },
+        {
+            "place": "河边城市",
+            "ap": "20",
+            "averageDrop": "0.203",
+            "averageAp": "98.6"
+        },
+        {
+            "place": "空房",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.3"
+        },
+        {
+            "place": "码头",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.4"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "公众集会堂",
+            "ap": "21",
+            "averageDrop": "0.353",
+            "averageAp": "59.5"
+        },
+        {
+            "place": "地底大河",
+            "ap": "21",
+            "averageDrop": "0.303",
+            "averageAp": "69.3"
+        },
+        {
+            "place": "空房",
+            "ap": "21",
+            "averageDrop": "0.203",
+            "averageAp": "103.3"
+        },
+        {
+            "place": "河边城市",
+            "ap": "20",
+            "averageDrop": "0.203",
+            "averageAp": "98.6"
+        },
+        {
+            "place": "码头",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.4"
+        }
+    ]
+}

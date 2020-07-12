@@ -1,0 +1,50 @@
+{
+    "name": "大骑士勋章",
+    "avatar": "大骑士勋章",
+    "description": "用于表彰廉洁的骑士们的忠义与功勋的勋章。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "卡美洛-王城",
+        "卡美洛-圣都正门"
+    ],
+    "apEfficiency": [
+        {
+            "place": "王城",
+            "ap": "21",
+            "averageDrop": "0.350",
+            "averageAp": "60.0"
+        },
+        {
+            "place": "圣都正门",
+            "ap": "20",
+            "averageDrop": "0.300",
+            "averageAp": "66.7"
+        },
+        {
+            "place": "圆桌要塞",
+            "ap": "19",
+            "averageDrop": "0.187",
+            "averageAp": "101.6"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "王城",
+            "ap": "21",
+            "averageDrop": "0.350",
+            "averageAp": "60.0"
+        },
+        {
+            "place": "圣都正门",
+            "ap": "20",
+            "averageDrop": "0.300",
+            "averageAp": "66.7"
+        },
+        {
+            "place": "圆桌要塞",
+            "ap": "19",
+            "averageDrop": "0.187",
+            "averageAp": "101.6"
+        }
+    ]
+}

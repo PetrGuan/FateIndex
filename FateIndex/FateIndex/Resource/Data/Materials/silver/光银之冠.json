@@ -1,0 +1,73 @@
+{
+    "name": "光银之冠",
+    "avatar": "光银之冠",
+    "description": "如月光一般盛满光辉的头冠。被赐予献身于众神之人。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "亚特兰蒂斯-塔那托斯岛"
+    ],
+    "apEfficiency": [
+        {
+            "place": "塔那托斯岛",
+            "ap": "21",
+            "averageDrop": "0.395",
+            "averageAp": "53.2"
+        },
+        {
+            "place": "得摩斯岛",
+            "ap": "21",
+            "averageDrop": "0.266",
+            "averageAp": "79.1"
+        },
+        {
+            "place": "涅墨西斯岛",
+            "ap": "21",
+            "averageDrop": "0.255",
+            "averageAp": "82.5"
+        },
+        {
+            "place": "赫斯提亚岛",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.7"
+        },
+        {
+            "place": "厄里斯岛",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.8"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "塔那托斯岛",
+            "ap": "21",
+            "averageDrop": "0.395",
+            "averageAp": "53.2"
+        },
+        {
+            "place": "得摩斯岛",
+            "ap": "21",
+            "averageDrop": "0.266",
+            "averageAp": "79.1"
+        },
+        {
+            "place": "涅墨西斯岛",
+            "ap": "21",
+            "averageDrop": "0.255",
+            "averageAp": "82.5"
+        },
+        {
+            "place": "赫斯提亚岛",
+            "ap": "21",
+            "averageDrop": "0.254",
+            "averageAp": "82.7"
+        },
+        {
+            "place": "厄里斯岛",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.8"
+        }
+    ]
+}

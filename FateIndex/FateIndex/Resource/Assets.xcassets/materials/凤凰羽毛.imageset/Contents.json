@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "凤凰羽毛.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

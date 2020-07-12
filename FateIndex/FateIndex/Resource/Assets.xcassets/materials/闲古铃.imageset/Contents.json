@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "闲古铃.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

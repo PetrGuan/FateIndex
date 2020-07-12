@@ -1,0 +1,74 @@
+{
+    "name": "八连双晶",
+    "avatar": "八连双晶",
+    "description": "在魔偶体内生成的多结晶体",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "雅戈泰-桃源乡",
+        "卡美洛-圣都市街"
+    ],
+    "apEfficiency": [
+        {
+            "place": "桃源乡",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "圣都市街",
+            "ap": "20",
+            "averageDrop": "0.270",
+            "averageAp": "74.1"
+        },
+        {
+            "place": "星间都市东部",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "83.1"
+        },
+        {
+            "place": "英雄的地窖",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "84.9"
+        },
+        {
+            "place": "后山（无名灵峰）",
+            "ap": "21",
+            "averageDrop": "0.243",
+            "averageAp": "86.3"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "桃源乡",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "圣都市街",
+            "ap": "20",
+            "averageDrop": "0.270",
+            "averageAp": "74.1"
+        },
+        {
+            "place": "星间都市东部",
+            "ap": "21",
+            "averageDrop": "0.253",
+            "averageAp": "83.1"
+        },
+        {
+            "place": "英雄的地窖",
+            "ap": "21",
+            "averageDrop": "0.247",
+            "averageAp": "84.9"
+        },
+        {
+            "place": "后山（无名灵峰）",
+            "ap": "21",
+            "averageDrop": "0.243",
+            "averageAp": "86.3"
+        }
+    ]
+}

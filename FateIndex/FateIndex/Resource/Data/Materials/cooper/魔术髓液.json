@@ -1,0 +1,74 @@
+{
+    "name": "魔术髓液",
+    "avatar": "魔术髓液",
+    "description": "能将普通的人类打造成魔术师的灵药。只要将其注射入脊髓，就能在短时间内形成拟似魔术回路。",
+    "rarity": "铜素材",
+    "briefPlaces": [
+        "新宿-新宿站",
+        "新宿-国道20号"
+    ],
+    "apEfficiency": [
+        {
+            "place": "新宿站",
+            "ap": "21",
+            "averageDrop": "0.655",
+            "averageAp": "32.0"
+        },
+        {
+            "place": "代代木二丁目",
+            "ap": "20",
+            "averageDrop": "0.401",
+            "averageAp": "49.8"
+        },
+        {
+            "place": "国道20号",
+            "ap": "20",
+            "averageDrop": "0.400",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "新宿四丁目",
+            "ap": "21",
+            "averageDrop": "0.407",
+            "averageAp": "51.7"
+        },
+        {
+            "place": "新宿御苑",
+            "ap": "21",
+            "averageDrop": "0.302",
+            "averageAp": "69.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "新宿站",
+            "ap": "21",
+            "averageDrop": "0.655",
+            "averageAp": "32.0"
+        },
+        {
+            "place": "新宿四丁目",
+            "ap": "21",
+            "averageDrop": "0.407",
+            "averageAp": "51.7"
+        },
+        {
+            "place": "代代木二丁目",
+            "ap": "20",
+            "averageDrop": "0.401",
+            "averageAp": "49.8"
+        },
+        {
+            "place": "国道20号",
+            "ap": "20",
+            "averageDrop": "0.400",
+            "averageAp": "50.0"
+        },
+        {
+            "place": "新宿御苑",
+            "ap": "21",
+            "averageDrop": "0.302",
+            "averageAp": "69.5"
+        }
+    ]
+}

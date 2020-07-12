@@ -1,0 +1,75 @@
+{
+    "name": "混沌之爪",
+    "avatar": "混沌之爪",
+    "description": "被这利爪伤到的存在会成为混沌的俘虏",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "合众为一-得梅因",
+        "雅戈泰-地底平原",
+        "阿纳斯塔西娅-雅嘎·梁赞"
+    ],
+    "apEfficiency": [
+        {
+            "place": "得梅因",
+            "ap": "18",
+            "averageDrop": "0.200",
+            "averageAp": "90.0"
+        },
+        {
+            "place": "地底平原",
+            "ap": "20",
+            "averageDrop": "0.203",
+            "averageAp": "98.3"
+        },
+        {
+            "place": "滑翔点",
+            "ap": "21",
+            "averageDrop": "0.211",
+            "averageAp": "99.4"
+        },
+        {
+            "place": "雅嘎·梁赞",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "101.8"
+        },
+        {
+            "place": "西之断层",
+            "ap": "21",
+            "averageDrop": "0.196",
+            "averageAp": "106.7"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "滑翔点",
+            "ap": "21",
+            "averageDrop": "0.211",
+            "averageAp": "99.4"
+        },
+        {
+            "place": "雅嘎·梁赞",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "101.8"
+        },
+        {
+            "place": "地底平原",
+            "ap": "20",
+            "averageDrop": "0.203",
+            "averageAp": "98.3"
+        },
+        {
+            "place": "得梅因",
+            "ap": "18",
+            "averageDrop": "0.200",
+            "averageAp": "90.0"
+        },
+        {
+            "place": "西之断层",
+            "ap": "21",
+            "averageDrop": "0.196",
+            "averageAp": "106.7"
+        }
+    ]
+}

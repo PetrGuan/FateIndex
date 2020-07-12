@@ -1,0 +1,74 @@
+{
+    "name": "晓光炉心",
+    "avatar": "晓光炉心",
+    "description": "犹如破晓时分的太阳般炫目的动力炉，使用了建立于仙道之上的技术，隐藏着众多现代科学与近代魔术无法究明之谜。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "SIN-收容所",
+        "SIN-石泉峡"
+    ],
+    "apEfficiency": [
+        {
+            "place": "收容所",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "103.9"
+        },
+        {
+            "place": "星间都市西部",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.4"
+        },
+        {
+            "place": "破神同盟基地",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "102.0"
+        },
+        {
+            "place": "石泉峡",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.3"
+        },
+        {
+            "place": "忒提斯岛",
+            "ap": "21",
+            "averageDrop": "0.179",
+            "averageAp": "117.1"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "收容所",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "103.9"
+        },
+        {
+            "place": "星间都市西部",
+            "ap": "21",
+            "averageDrop": "0.201",
+            "averageAp": "104.4"
+        },
+        {
+            "place": "破神同盟基地",
+            "ap": "21",
+            "averageDrop": "0.206",
+            "averageAp": "102.0"
+        },
+        {
+            "place": "石泉峡",
+            "ap": "21",
+            "averageDrop": "0.198",
+            "averageAp": "105.3"
+        },
+        {
+            "place": "忒提斯岛",
+            "ap": "21",
+            "averageDrop": "0.179",
+            "averageAp": "117.1"
+        }
+    ]
+}

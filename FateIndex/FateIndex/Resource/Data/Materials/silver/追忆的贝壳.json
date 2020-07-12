@@ -1,0 +1,80 @@
+{
+    "name": "追忆的贝壳",
+    "avatar": "追忆的贝壳",
+    "description": "历经了悠久岁月的贝壳。只要将耳朵贴紧壳口，就能听到来自遥远太古的清扬潮声。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "巴比伦尼亚-观测所",
+        "俄刻阿诺斯-群岛（隐藏之岛）"
+    ],
+    "apEfficiency": [
+        {
+            "place": "观测所",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "群岛（隐藏之岛）",
+            "ap": "16",
+            "averageDrop": "0.240",
+            "averageAp": "66.7"
+        },
+        {
+            "place": "风穴冰窟",
+            "ap": "20",
+            "averageDrop": "0.249",
+            "averageAp": "80.2"
+        },
+        {
+            "place": "航行点",
+            "ap": "21",
+            "averageDrop": "0.256",
+            "averageAp": "82.1"
+        },
+        {
+            "place": "烧光的村庄",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "遭毁灭的村庄",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "观测所",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.2"
+        },
+        {
+            "place": "航行点",
+            "ap": "21",
+            "averageDrop": "0.256",
+            "averageAp": "82.1"
+        },
+        {
+            "place": "风穴冰窟",
+            "ap": "20",
+            "averageDrop": "0.249",
+            "averageAp": "80.2"
+        },
+        {
+            "place": "烧光的村庄",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        },
+        {
+            "place": "遭毁灭的村庄",
+            "ap": "21",
+            "averageDrop": "0.249",
+            "averageAp": "84.2"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "name": "真理之卵",
+    "avatar": "真理之卵",
+    "description": "内部蕴含着真理的神圣之卵。其外壳无比坚硬，无人可以击碎。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "由伽·刹多罗-迪瓦尔",
+        "由伽·刹多罗-无穷之地"
+    ],
+    "apEfficiency": [
+        {
+            "place": "迪瓦尔",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.4"
+        },
+        {
+            "place": "无穷之地",
+            "ap": "21",
+            "averageDrop": "0.104",
+            "averageAp": "202.8"
+        },
+        {
+            "place": "北之灵峰",
+            "ap": "21",
+            "averageDrop": "0.098",
+            "averageAp": "214.9"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "迪瓦尔",
+            "ap": "21",
+            "averageDrop": "0.123",
+            "averageAp": "171.4"
+        },
+        {
+            "place": "无穷之地",
+            "ap": "21",
+            "averageDrop": "0.104",
+            "averageAp": "202.8"
+        },
+        {
+            "place": "北之灵峰",
+            "ap": "21",
+            "averageDrop": "0.098",
+            "averageAp": "214.9"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "name": "愚者之锁",
+    "avatar": "愚者之锁",
+    "description": "为了将已被召往天际的缥缈灵魂，强行系留于现世而打造的锁链。",
+    "rarity": "铜素材",
+    "briefPlaces": [
+        "卡美洛-死之荒野",
+        "塞勒姆-码头",
+        "卡美洛-大神殿"
+    ],
+    "apEfficiency": [
+        {
+            "place": "死之荒野",
+            "ap": "19",
+            "averageDrop": "0.660",
+            "averageAp": "28.8"
+        },
+        {
+            "place": "郊外的宅邸",
+            "ap": "21",
+            "averageDrop": "0.408",
+            "averageAp": "51.5"
+        },
+        {
+            "place": "大神殿",
+            "ap": "22",
+            "averageDrop": "0.420",
+            "averageAp": "52.4"
+        },
+        {
+            "place": "码头",
+            "ap": "21",
+            "averageDrop": "0.398",
+            "averageAp": "52.6"
+        },
+        {
+            "place": "北部断崖",
+            "ap": "21",
+            "averageDrop": "0.397",
+            "averageAp": "52.8"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "死之荒野",
+            "ap": "19",
+            "averageDrop": "0.660",
+            "averageAp": "28.8"
+        },
+        {
+            "place": "郊外的宅邸",
+            "ap": "21",
+            "averageDrop": "0.408",
+            "averageAp": "51.5"
+        },
+        {
+            "place": "大神殿",
+            "ap": "22",
+            "averageDrop": "0.420",
+            "averageAp": "52.4"
+        },
+        {
+            "place": "码头",
+            "ap": "21",
+            "averageDrop": "0.398",
+            "averageAp": "52.6"
+        },
+        {
+            "place": "北部断崖",
+            "ap": "21",
+            "averageDrop": "0.397",
+            "averageAp": "52.8"
+        }
+    ]
+}

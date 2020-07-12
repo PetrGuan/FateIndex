@@ -1,0 +1,80 @@
+{
+    "name": "人工生命体幼体",
+    "avatar": "人工生命体幼体",
+    "description": "还未被写入魂魄的人工生命体幼体",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "塞勒姆-维特利家",
+        "伦敦-萨瑟克"
+    ],
+    "apEfficiency": [
+        {
+            "place": "维特利家",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.3"
+        },
+        {
+            "place": "萨瑟克",
+            "ap": "19",
+            "averageDrop": "0.300",
+            "averageAp": "63.3"
+        },
+        {
+            "place": "伦敦城",
+            "ap": "15",
+            "averageDrop": "0.120",
+            "averageAp": "125.0"
+        },
+        {
+            "place": "威斯敏斯特",
+            "ap": "16",
+            "averageDrop": "0.120",
+            "averageAp": "133.3"
+        },
+        {
+            "place": "周二 枪之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.213",
+            "averageAp": "187.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "维特利家",
+            "ap": "21",
+            "averageDrop": "0.402",
+            "averageAp": "52.3"
+        },
+        {
+            "place": "萨瑟克",
+            "ap": "19",
+            "averageDrop": "0.300",
+            "averageAp": "63.3"
+        },
+        {
+            "place": "周二 枪之修炼场 超级",
+            "ap": "40",
+            "averageDrop": "0.213",
+            "averageAp": "187.5"
+        },
+        {
+            "place": "周二 枪之修炼场 上级",
+            "ap": "30",
+            "averageDrop": "0.144",
+            "averageAp": "208.2"
+        },
+        {
+            "place": "伦敦城",
+            "ap": "15",
+            "averageDrop": "0.120",
+            "averageAp": "125.0"
+        },
+        {
+            "place": "威斯敏斯特",
+            "ap": "16",
+            "averageDrop": "0.120",
+            "averageAp": "133.3"
+        }
+    ]
+}

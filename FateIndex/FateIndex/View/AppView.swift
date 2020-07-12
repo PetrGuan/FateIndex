@@ -15,7 +15,7 @@ struct AppView: View {
             
             MasterView().tab(title: "御主", image: "person.crop.circle.fill")
             
-            ContentView()
+            MaterialView()
                 .tab(title: "材料", image: "cube.box.fill")
             
             SettingsView()
@@ -25,6 +25,7 @@ struct AppView: View {
             ServantStore.shared.fetchAllBasicInfo()
             ServantSkillStore.shared.fetchAllServantSkills()
             CraftEssenceStore.shared.fetchAllCraftEssences()
+            MaterialStore.shared.fetchAll()
         })
     }
 }

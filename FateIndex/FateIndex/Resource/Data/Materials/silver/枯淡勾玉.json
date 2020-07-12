@@ -1,0 +1,73 @@
+{
+    "name": "枯淡勾玉",
+    "avatar": "枯淡勾玉",
+    "description": "蕴含着浅淡朦胧生气的勾玉。人说勾玉造型酷似月亮的外形、酷似胎儿的模样、也酷似灵魂的形态，但其用途依然充满着谜团。",
+    "rarity": "银素材",
+    "briefPlaces": [
+        "下总国-城下町"
+    ],
+    "apEfficiency": [
+        {
+            "place": "城下町",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "土气城",
+            "ap": "21",
+            "averageDrop": "0.263",
+            "averageAp": "79.9"
+        },
+        {
+            "place": "村落",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.8"
+        },
+        {
+            "place": "草庵",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.2"
+        },
+        {
+            "place": "战役之地",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.4"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "城下町",
+            "ap": "21",
+            "averageDrop": "0.403",
+            "averageAp": "52.0"
+        },
+        {
+            "place": "土气城",
+            "ap": "21",
+            "averageDrop": "0.263",
+            "averageAp": "79.9"
+        },
+        {
+            "place": "村落",
+            "ap": "21",
+            "averageDrop": "0.257",
+            "averageAp": "81.8"
+        },
+        {
+            "place": "草庵",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.2"
+        },
+        {
+            "place": "战役之地",
+            "ap": "21",
+            "averageDrop": "0.252",
+            "averageAp": "83.4"
+        }
+    ]
+}

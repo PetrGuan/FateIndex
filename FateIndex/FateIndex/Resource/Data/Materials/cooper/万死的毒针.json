@@ -1,0 +1,74 @@
+{
+    "name": "万死的毒针",
+    "avatar": "万死的毒针",
+    "description": "据说如若遭到这针上之毒的侵害，是不会立刻死去的，而是会反复体验各种死亡，直至灵魂都腐朽消逝。",
+    "rarity": "铜素材",
+    "briefPlaces": [
+        "巴比伦尼亚-芦苇原",
+        "巴比伦尼亚-高原"
+    ],
+    "apEfficiency": [
+        {
+            "place": "芦苇原",
+            "ap": "21",
+            "averageDrop": "0.625",
+            "averageAp": "33.6"
+        },
+        {
+            "place": "高原",
+            "ap": "20",
+            "averageDrop": "0.489",
+            "averageAp": "40.9"
+        },
+        {
+            "place": "锚点",
+            "ap": "20",
+            "averageDrop": "0.421",
+            "averageAp": "47.5"
+        },
+        {
+            "place": "邻村",
+            "ap": "20",
+            "averageDrop": "0.403",
+            "averageAp": "49.5"
+        },
+        {
+            "place": "风穴冰窟",
+            "ap": "20",
+            "averageDrop": "0.403",
+            "averageAp": "49.5"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "芦苇原",
+            "ap": "21",
+            "averageDrop": "0.625",
+            "averageAp": "33.6"
+        },
+        {
+            "place": "高原",
+            "ap": "20",
+            "averageDrop": "0.489",
+            "averageAp": "40.9"
+        },
+        {
+            "place": "锚点",
+            "ap": "20",
+            "averageDrop": "0.421",
+            "averageAp": "47.5"
+        },
+        {
+            "place": "北壁",
+            "ap": "21",
+            "averageDrop": "0.414",
+            "averageAp": "50.7"
+        },
+        {
+            "place": "雅嘎·维亚济马",
+            "ap": "21",
+            "averageDrop": "0.407",
+            "averageAp": "51.6"
+        }
+    ]
+}

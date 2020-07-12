@@ -1,0 +1,85 @@
+{
+    "name": "奇奇神酒",
+    "avatar": "奇奇神酒",
+    "description": "为了敬献给伟大的神，耗费了漫长时光酿造而成的贵重的酒能令非人的怪物以及魔兽为之陶醉。",
+    "rarity": "金素材",
+    "briefPlaces": [
+        "雅戈泰-龙宫城"
+    ],
+    "apEfficiency": [
+        {
+            "place": "龙宫城",
+            "ap": "21",
+            "averageDrop": "0.122",
+            "averageAp": "172.7"
+        },
+        {
+            "place": "赫斯提亚岛",
+            "ap": "21",
+            "averageDrop": "0.115",
+            "averageAp": "182.4"
+        },
+        {
+            "place": "冰冷窟",
+            "ap": "20",
+            "averageDrop": "0.102",
+            "averageAp": "196.8"
+        },
+        {
+            "place": "大溪谷之堡垒",
+            "ap": "21",
+            "averageDrop": "0.102",
+            "averageAp": "206.4"
+        },
+        {
+            "place": "大工房",
+            "ap": "21",
+            "averageDrop": "0.100",
+            "averageAp": "209.0"
+        },
+        {
+            "place": "土气城",
+            "ap": "21",
+            "averageDrop": "0.095",
+            "averageAp": "222.0"
+        }
+    ],
+    "dropEfficiency": [
+        {
+            "place": "龙宫城",
+            "ap": "21",
+            "averageDrop": "0.122",
+            "averageAp": "172.7"
+        },
+        {
+            "place": "赫斯提亚岛",
+            "ap": "21",
+            "averageDrop": "0.115",
+            "averageAp": "182.4"
+        },
+        {
+            "place": "冰冷窟",
+            "ap": "20",
+            "averageDrop": "0.102",
+            "averageAp": "196.8"
+        },
+        {
+            "place": "大溪谷之堡垒",
+            "ap": "21",
+            "averageDrop": "0.102",
+            "averageAp": "206.4"
+        },
+        {
+            "place": "大工房",
+            "ap": "21",
+            "averageDrop": "0.100",
+            "averageAp": "209.0"
+        },
+        {
+            "place": "土气城",
+            "ap": "21",
+            "averageDrop": "0.095",
+            "averageAp": "222.0"
+        }
+    ]
+}
